@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me khanjamilahmed202@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Don't know anything yet
 
 <!---
 Viverun/Viverun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
