@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viverun 
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Javascipt and Python
+- 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me amswars5559@gmail.com
 - 😄 Pronouns: He/Him
