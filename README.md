@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me amswars5559@gmail.com
+- 📫 How to reach me khanjamilahmed202@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Don't know anything yet
 
