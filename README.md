@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me khanjamilahmed202@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: Him/That Guy 
 
 <!---
 Viverun/Viverun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
