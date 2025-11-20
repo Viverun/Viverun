@@ -6,5 +6,5 @@
 - 🌱 Currently learning into backend architectures  
 - 💞️ Always open to collaborate on innovative projects 
 - 📫 Reach me at khanjamilahmed202@gmail.com  
-- 😄 Pronouns: He/Him(That Guy)  
+- 😄 Pronouns: He/Him
 
