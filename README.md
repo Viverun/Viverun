@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Viverun  
-- 🐍 Python Backend Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 🖥️ Computer Engineering x Intelligent Systems
-- 🔭 Astronomy & Scientific Computing
-- 📐 Passion for Mathematics
-- 🌐 Specializing in Django & Django REST Framework  
-- ☁️ Exploring cloud platforms (Especially GCP)  
-- 🌱 Currently learning into backend architectures  
-- 💞️ Always open to collaborate on innovative projects 
-- 📫 Reach me at khanjamilahmed202@gmail.com  
+👋 Hi, I’m @Viverun
+🐍 Python Backend Developer
+🤖 AI & Machine Learning Enthusiast
+🖥️ Computer Engineering × Intelligent Systems
+🔭 Astronomy & Scientific Computing
+📐 Passionate about applying Mathematics within Engineering & AI
+🌐 Specializing in Django & Django REST Framework
+☁️ Exploring cloud technologies, especially GCP
+🌱 Currently learning advanced backend architectures
+💞️ Open to collaborating on innovative and technical projects
+📫 Reach me at khanjamilahmed202@gmail.com
+=
