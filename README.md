@@ -8,4 +8,4 @@
 - ☁️ Exploring cloud technologies, especially GCP  
 - 🌱 Currently learning advanced backend architectures  
 - 💞️ Open to collaborating on innovative and technical projects  
-- 📫 Reach me at: khanjamilahmed202@gmail.com
+- 📫 Reach me at: amswars5559@gmail.com
