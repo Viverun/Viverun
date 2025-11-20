@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Viverun  
-- 🐍 Passionate about Python-powered backends  
+- 🐍 Python Backend Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🖥️ Computer Engineering x Intelligent Systems
+- 🔭 Astronomy & Scientific Computing
+- 📐 Passion for Mathematics
 - 🌐 Specializing in Django & Django REST Framework  
 - ☁️ Exploring cloud platforms (Especially GCP)  
-- 🤖 Diving into AI World
 - 🌱 Currently learning into backend architectures  
 - 💞️ Always open to collaborate on innovative projects 
 - 📫 Reach me at khanjamilahmed202@gmail.com  
-- 😄 Pronouns: He/Him
-
