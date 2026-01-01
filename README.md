@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Viverun  
 - 🐍 Python Backend Developer  
 - 🤖 AI & Machine Learning Enthusiast  
-- 🖥️ Computer Engineering × Intelligent Systems  
-- 🔭 Astronomy & Scientific Computing  
+- 🖥️ Computer Engineering × Building Open source alternative  
+- 🔭 Astronomy & Scientific Computing Intelligent Systems
 - 📐 Passionate about applying Mathematics within Engineering & AI  
 - 🌐 Specializing in Django & Django REST Framework  
 - ☁️ Exploring cloud technologies, especially GCP  
