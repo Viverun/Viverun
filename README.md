@@ -5,7 +5,6 @@
 - 🔭 Astronomy & Scientific Computing Intelligent Systems
 - 📐 Passionate about applying Mathematics within Engineering & AI  
 - 🌐 Specializing in Django & Django REST Framework  
-- ☁️ Exploring cloud technologies, especially GCP  
-- 🌱 Currently learning advanced backend architectures  
+- ☁️ Exploring cloud technologies, especially GCP   
 - 💞️ Open to collaborating on innovative and technical projects  
 - 📫 Reach me at: amswars5559@gmail.com
