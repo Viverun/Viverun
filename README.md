@@ -7,4 +7,4 @@
 - 🌐 Specializing in Django & Django REST Framework  
 - ☁️ Exploring cloud technologies, especially GCP   
 - 💞️ Open to collaborating on innovative and technical projects  
-- 📫 Reach me at: amswars5559@gmail.com
+- 📫 Reach me at: khanjamilahmed202@gmail.com
