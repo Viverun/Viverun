@@ -13,30 +13,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ github.token }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
+      - name: Install deps
         run: pip install matplotlib numpy requests
 
-      - name: Generate radar SVG
+      - name: Generate radar
         run: python generate_radar.py
 
-      - name: Commit & push SVG
+      - name: Commit & push
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add activity-radar.svg
           git commit -m "Update activity radar" || exit 0
 
-          # THIS IS THE FIX
-          git push origin main --force-with-lease
+          # 🔥 THIS LINE IS THE KEY
+          git push origin HEAD:main --force
