@@ -13,11 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
@@ -38,4 +36,4 @@ jobs:
 
           git add activity-radar.svg
           git commit -m "Update activity radar" || echo "No changes"
-          git push origin main
+          git push
