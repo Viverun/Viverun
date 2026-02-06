@@ -42,10 +42,3 @@ jobs:
           git add activity-radar.svg
           git commit -m "Update activity radar" || echo "No changes to commit"
           git push origin main --force
-
-
-      # 🔥 NOW rebase safely
-      - name: Rebase and push
-        run: |
-          git pull --rebase origin main
-          git push origin main
