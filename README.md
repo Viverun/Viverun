@@ -32,7 +32,7 @@
 
 ## 🔭 Stellar Coordinates
 
-<img align="right" width="300" src="https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014132/BHW_Supermassive_Binary_Black_Hole_Simulation.gif" alt="Black Hole Simulation"/>
+<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Black Hole Simulation"/>
 
 ```python
 class CosmicEntity:
