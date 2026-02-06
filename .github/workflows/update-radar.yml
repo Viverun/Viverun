@@ -25,7 +25,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install matplotlib numpy requests
+        run: pip install matplotlib numpy requests PyGithub
 
       - name: Generate SVG
         run: python generate_radar.py
