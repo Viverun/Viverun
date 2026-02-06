@@ -2,7 +2,7 @@ name: Update Contribution Radar
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,8 +15,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -28,12 +26,6 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install matplotlib numpy requests
 
-      # ✅ MUST come BEFORE generating files
-      - name: Sync with main
-        run: |
-          git pull --rebase origin main
-
-      # ✅ Now safe to modify repo
       - name: Generate radar SVG
         env:
           GITHUB_TOKEN: ${{ github.token }}
@@ -46,5 +38,4 @@ jobs:
 
           git add activity-radar.svg
           git commit -m "Update activity radar" || echo "No changes"
-
           git push origin main
