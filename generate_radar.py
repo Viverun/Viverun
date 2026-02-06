@@ -1,57 +1,49 @@
 import os
 import requests
-import matplotlib.pyplot as plt
 import numpy as np
-from datetime import datetime, timedelta
+import matplotlib.pyplot as plt
+from datetime import datetime, timedelta, timezone
 
 # ================= CONFIG =================
-USERNAME = "Viverun"   # your GitHub username
-DAYS = 90              # contribution window
+USERNAME = "Viverun"          # your GitHub username
+DAYS = 365                    # activity window
+OUT_FILE = "activity-radar.svg"
 
 BG = "#0d1117"
 GRID = "#30363d"
 TEXT = "#c9d1d9"
 ACCENT = "#2ea043"
 
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-if not GITHUB_TOKEN:
+TOKEN = os.getenv("GITHUB_TOKEN")
+if not TOKEN:
     raise RuntimeError("GITHUB_TOKEN not set")
 
-# ================= GRAPHQL QUERY =================
-since = (datetime.utcnow() - timedelta(days=DAYS)).isoformat() + "Z"
+# ================= GRAPHQL =================
+since = (datetime.now(timezone.utc) - timedelta(days=DAYS)).isoformat()
 
 query = """
-query($user: String!, $since: DateTime!) {
-  user(login: $user) {
+query($login: String!, $since: DateTime!) {
+  user(login: $login) {
+
     contributionsCollection(from: $since) {
       totalCommitContributions
       totalIssueContributions
       totalPullRequestContributions
       totalPullRequestReviewContributions
     }
+
   }
 }
 """
 
-response = requests.post(
+resp = requests.post(
     "https://api.github.com/graphql",
-    headers={
-        "Authorization": f"Bearer {GITHUB_TOKEN}",
-        "Content-Type": "application/json",
-    },
-    json={
-        "query": query,
-        "variables": {
-            "user": USERNAME,
-            "since": since
-        }
-    }
+    headers={"Authorization": f"Bearer {TOKEN}"},
+    json={"query": query, "variables": {"login": USERNAME, "since": since}},
 )
 
-data = response.json()
-
-if "errors" in data:
-    raise RuntimeError(data["errors"])
+resp.raise_for_status()
+data = resp.json()
 
 c = data["data"]["user"]["contributionsCollection"]
 
@@ -62,34 +54,33 @@ raw = {
     "Issues": c["totalIssueContributions"],
 }
 
-# prevent empty chart
-total = sum(raw.values()) or 1
-labels = list(raw.keys())
-values = [round(v / total * 100, 1) for v in raw.values()]
+print("Raw activity:", raw)
 
-# ================= RADAR CHART =================
+# ================= NORMALIZE (RADAR CORRECT WAY) =================
+max_value = max(raw.values()) or 1
+values = [v / max_value * 100 for v in raw.values()]
+
+labels = list(raw.keys())
+
 angles = np.linspace(0, 2 * np.pi, len(labels), endpoint=False)
 angles = np.concatenate([angles, angles[:1]])
 values = values + values[:1]
 
+# ================= PLOT =================
 fig, ax = plt.subplots(figsize=(6, 6), subplot_kw=dict(polar=True))
 fig.patch.set_facecolor(BG)
 ax.set_facecolor(BG)
 
 ax.plot(angles, values, color=ACCENT, linewidth=2)
-ax.fill(angles, values, color=ACCENT, alpha=0.25)
+ax.fill(angles, values, color=ACCENT, alpha=0.4)
 
 ax.set_thetagrids(angles[:-1] * 180 / np.pi, labels, color=TEXT, fontsize=11)
-ax.tick_params(pad=12)
 ax.set_yticklabels([])
 ax.spines["polar"].set_color(GRID)
+ax.grid(color=GRID, linewidth=0.8)
 
-ax.set_title(
-    f"Contribution Breakdown (Last {DAYS} Days)",
-    color=TEXT,
-    pad=20,
-    fontsize=13
-)
-
-plt.savefig("activity-radar.svg", format="svg", facecolor=BG)
+plt.title("Contribution Breakdown", color=TEXT, pad=20)
+plt.savefig(OUT_FILE, format="svg", facecolor=BG)
 plt.close()
+
+print(f"Saved {OUT_FILE}")
