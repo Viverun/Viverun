@@ -1,0 +1,32 @@
+name: Radar V2 (Force Fresh)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps (explicit)
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install PyGithub matplotlib numpy requests
+          python - << 'EOF'
+          import github
+          print("PyGithub OK:", github.__version__)
+          EOF
+
+      - name: Run generator
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python generate_radar.py
