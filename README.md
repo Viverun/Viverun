@@ -32,7 +32,7 @@
 
 ## 🔭 Stellar Coordinates
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Viverun/Viverun/main/assets/blackhole.png" alt="Black Hole"/>
+<img align="right" width="300" src="https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014132/BHW_Supermassive_Binary_Black_Hole_Simulation.gif" alt="Black Hole Simulation"/>
 
 ```python
 class CosmicEntity:
