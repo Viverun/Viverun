@@ -138,7 +138,14 @@ print(entity.transmit_message())
 
 <!-- Orbital Period (Streak) -->
 <a href="https://github.com/Viverun">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viverun&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=555555"/>
+  <img src="https://streak-stats.demolab.com?user=Viverun&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=555555"/>
+</a>
+
+<br/><br/>
+
+<!-- Star Chart (Activity Graph) -->
+<a href="https://github.com/Viverun">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Viverun&bg_color=0D1117&color=8B5CF6&line=A78BFA&point=FFFFFF&area=true&hide_border=true&custom_title=⭐%20Star%20Chart%20-%20Contribution%20Nebula"/>
 </a>
 
 </div>
