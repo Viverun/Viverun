@@ -161,7 +161,7 @@ print(entity.transmit_message())
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Viverun&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-trophies.vercel.app/?username=Viverun&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
