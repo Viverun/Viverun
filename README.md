@@ -1,17 +1,27 @@
-### Hi, I'm Viverun 👋
+## 🌌 Hi, I'm Viverun
 
-I'm a **Python Backend Developer** passionate about AI, scientific computing, and building open source alternatives.
+```
+         *  .  *
+    .  *  �  *  .
+  *    .     .    *
+    Exploring the intersection of
+       Code & the Cosmos
+```
+
+I'm a **Python Backend Developer** who finds inspiration in the stars.
+
+Building intelligent systems · Applying mathematics to solve real problems · Open source enthusiast
 
 ---
 
-**Currently working with:** Python · Django · FastAPI · GCP
+🔭 **Fascinated by:** Astronomy · Scientific Computing · AI/ML
 
-**Interests:** AI/ML · Astronomy · Applied Mathematics
+🛠️ **Working with:** Python · Django · FastAPI · GCP
 
----
-
-<img src="activity-radar.svg" alt="Contribution Breakdown" width="380" />
+🌱 **Currently:** Building open source alternatives
 
 ---
+
+*"The cosmos is within us. We are made of star-stuff."* — Carl Sagan
 
 📫 **[khanjamilahmed202@gmail.com](mailto:khanjamilahmed202@gmail.com)**
