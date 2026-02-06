@@ -1,0 +1,37 @@
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .star { fill: white; animation: twinkle 3s infinite ease-in-out; }
+    .star-delayed { animation-delay: 1.5s; }
+    .planet { animation: float 6s infinite ease-in-out; }
+    .text { fill: #A78BFA; font-family: monospace; font-size: 14px; text-anchor: middle; }
+    @keyframes twinkle { 0%, 100% { opacity: 0.3; } 50% { opacity: 1; } }
+    @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-5px); } }
+  </style>
+  <rect width="100%" height="100%" fill="transparent"/>
+  
+  <!-- Stars -->
+  <circle cx="50" cy="50" r="1.5" class="star"/>
+  <circle cx="450" cy="40" r="1.5" class="star star-delayed"/>
+  <circle cx="100" cy="250" r="1.5" class="star"/>
+  <circle cx="400" cy="260" r="1.5" class="star star-delayed"/>
+  <circle cx="250" cy="20" r="2" class="star"/>
+  <circle cx="20" cy="150" r="1" class="star star-delayed"/>
+  <circle cx="480" cy="140" r="1" class="star"/>
+  
+  <text x="50%" y="40%" class="text" font-size="24">🌌</text>
+  <text x="50%" y="55%" class="text" font-weight="bold" font-size="18" fill="#E0CCFA">GALAXY</text>
+  
+  <text x="20%" y="30%" class="text" font-size="20" class="planet">🛸</text>
+  <text x="80%" y="30%" class="text" font-size="20" class="planet">🪐</text>
+  
+  <text x="30%" y="70%" class="text" font-size="16">🌑</text>
+  <text x="70%" y="70%" class="text" font-size="16">🌍</text>
+  
+  <text x="50%" y="85%" class="text">⭐</text>
+  
+  <!-- Decorative ASCII-style dots -->
+  <circle cx="200" cy="100" r="1" fill="#6B7280"/>
+  <circle cx="300" cy="100" r="1" fill="#6B7280"/>
+  <circle cx="150" cy="180" r="1" fill="#6B7280"/>
+  <circle cx="350" cy="180" r="1" fill="#6B7280"/>
+</svg>
