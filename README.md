@@ -10,12 +10,6 @@
 - 📫 Reach me at: khanjamilahmed202@gmail.com
 
 
-## 📊 Contribution Breakdown
-
-
-
-
-
 
 
 
