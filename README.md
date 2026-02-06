@@ -14,5 +14,8 @@
 
 
 
+
+
+
 <img src="activity-radar.svg" alt="GitHub Activity Radar" width="420">
 
