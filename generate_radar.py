@@ -3,10 +3,11 @@ import requests
 import numpy as np
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta, timezone
+import math
 
 # ================= CONFIG =================
-USERNAME = "Viverun"          # your GitHub username
-DAYS = 365                    # activity window
+USERNAME = "Viverun"
+DAYS = 365
 OUT_FILE = "activity-radar.svg"
 
 BG = "#0d1117"
@@ -24,14 +25,12 @@ since = (datetime.now(timezone.utc) - timedelta(days=DAYS)).isoformat()
 query = """
 query($login: String!, $since: DateTime!) {
   user(login: $login) {
-
     contributionsCollection(from: $since) {
       totalCommitContributions
       totalIssueContributions
       totalPullRequestContributions
       totalPullRequestReviewContributions
     }
-
   }
 }
 """
@@ -41,24 +40,25 @@ resp = requests.post(
     headers={"Authorization": f"Bearer {TOKEN}"},
     json={"query": query, "variables": {"login": USERNAME, "since": since}},
 )
-
 resp.raise_for_status()
-data = resp.json()
 
-c = data["data"]["user"]["contributionsCollection"]
+c = resp.json()["data"]["user"]["contributionsCollection"]
 
 raw = {
     "Commits": c["totalCommitContributions"],
-    "Code Review": c["totalPullRequestReviewContributions"],
     "Pull Requests": c["totalPullRequestContributions"],
     "Issues": c["totalIssueContributions"],
+    "Code Review": c["totalPullRequestReviewContributions"],
 }
 
 print("Raw activity:", raw)
 
-# ================= NORMALIZE (RADAR CORRECT WAY) =================
-max_value = max(raw.values()) or 1
-values = [v / max_value * 100 for v in raw.values()]
+# ================= SMART NORMALIZATION =================
+def log_norm(v):
+    return math.log10(v + 1)
+
+max_log = max(log_norm(v) for v in raw.values()) or 1
+values = [log_norm(v) / max_log * 100 for v in raw.values()]
 
 labels = list(raw.keys())
 
@@ -72,14 +72,14 @@ fig.patch.set_facecolor(BG)
 ax.set_facecolor(BG)
 
 ax.plot(angles, values, color=ACCENT, linewidth=2)
-ax.fill(angles, values, color=ACCENT, alpha=0.4)
+ax.fill(angles, values, color=ACCENT, alpha=0.35)
 
 ax.set_thetagrids(angles[:-1] * 180 / np.pi, labels, color=TEXT, fontsize=11)
 ax.set_yticklabels([])
 ax.spines["polar"].set_color(GRID)
 ax.grid(color=GRID, linewidth=0.8)
 
-plt.title("Contribution Breakdown", color=TEXT, pad=20)
+plt.title("Contribution Breakdown (Last 12 Months)", color=TEXT, pad=20)
 plt.savefig(OUT_FILE, format="svg", facecolor=BG)
 plt.close()
 
