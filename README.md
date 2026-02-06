@@ -1,29 +1,21 @@
 <div align="center">
 
-<!-- Cosmic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b3a,100:2d1b4e&height=180&section=header&text=Viverun&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=「%20Exploring%20the%20Infinite%20Through%20Code%20」&descAlignY=55&descSize=16&descColor=A78BFA"/>
+<!-- Elegant Text Header -->
+# ✨ Viverun ✨
 
-<!-- Cosmic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9C%A8+Voyaging+Through+the+Digital+Cosmos+%E2%9C%A8;%F0%9F%9A%80+Python+%C2%B7+Backend+%C2%B7+Scientific+Computing+%F0%9F%9B%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Exploring+the+Infinite+Through+Code;Python+Backend+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Cosmos ASCII Art -->
-```
-                        .  ✦  .                        
-            *       .  🌌       .       *            
-       .        🛸      GALAXY       🪐        .       
-           *    .    ✦  .  ✦  .    ✦    *           
-        .     ✦    .    🌑    .    ✦     .        
-   ✦       .    *    ✦    *    ✦    .       ✦   
-        .    🪐    .    ✦    .    🌍    .        
-           ✦    .    *    .    *    .    ✦           
-       .        *    .  ⭐  .    *        .       
-            *       .       .       *            
-                        .  ✦  .                        
-```
+<!-- Cosmos Visual (Image - No Copy Button) -->
+<img src="https://raw.githubusercontent.com/Viverun/Viverun/main/assets/cosmos.svg" alt="Cosmos" width="500"/>
+
+<br/>
+
+<!-- Dynamic Daily Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We+are+a+way+for+the+cosmos+to+know+itself&author=Carl+Sagan" alt="Quote"/>
 
 <br/>
 
