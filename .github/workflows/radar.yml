@@ -2,7 +2,7 @@ name: Update Contribution Radar
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # daily
   workflow_dispatch:
 
 permissions:
@@ -28,17 +28,21 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install matplotlib numpy requests
 
+      # ✅ MUST come BEFORE generating files
+      - name: Sync with main
+        run: |
+          git pull --rebase origin main
+
+      # ✅ Now safe to modify repo
       - name: Generate radar SVG
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: python generate_radar.py
 
-      - name: Commit and push (rebase-safe)
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git pull --rebase origin main
 
           git add activity-radar.svg
           git commit -m "Update activity radar" || echo "No changes"
