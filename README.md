@@ -10,7 +10,7 @@
 <br/>
 
 <!-- Cosmos Visual (Image - No Copy Button) -->
-<img src="assets/cosmos.svg" alt="Cosmos" width="500"/>
+<img src="https://raw.githubusercontent.com/Viverun/Viverun/main/assets/cosmos.svg?sanitize=true" alt="Cosmos" width="500"/>
 
 <br/>
 
