@@ -8,3 +8,8 @@
 - ☁️ Exploring cloud technologies, especially GCP   
 - 💞️ Open to collaborating on innovative and technical projects  
 - 📫 Reach me at: khanjamilahmed202@gmail.com
+
+
+## 📊 Contribution Breakdown
+
+<img src="./activity-radar.svg" alt="GitHub Activity Radar" width="420"/>
