@@ -1,16 +1,12 @@
 name: Update Contribution Radar
 
-permissions:
-  contents: write
-
-concurrency:
-  group: activity-radar
-  cancel-in-progress: true
-
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -21,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: true
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -29,21 +25,18 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install matplotlib numpy PyGithub
+        run: pip install matplotlib numpy requests
 
       - name: Generate radar SVG
         run: python generate_radar.py
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: Commit and push SVG
+      - name: Commit & push SVG
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git pull --rebase origin main
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
 
           git add activity-radar.svg
-          git commit -m "Update activity radar" || echo "No changes to commit"
+          git commit -m "Update activity radar" || exit 0
 
-          git push --force-with-lease origin main
+          # THIS IS THE FIX
+          git push origin main --force-with-lease
