@@ -11,7 +11,7 @@ TEXT = "#c9d1d9"
 ACCENT = "#2ea043"
 
 # ===== AUTH =====
-token = os.getenv("GH_TOKEN")
+token = os.getenv("GITHUB_TOKEN")
 g = Github(token)
 user = g.get_user(USERNAME)
 
