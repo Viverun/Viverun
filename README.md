@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Nebula Header with Golden VIVERUN -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,24&height=200&section=header&text=🌌%20VIVERUN&fontSize=50&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=「%20Exploring%20the%20Infinite%20Through%20Code%20」&descAlignY=58&descSize=16&descColor=fff"/>
+<!-- Nebula Header with White VIVERUN -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,24&height=200&section=header&text=🌌%20VIVERUN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=「%20Exploring%20the%20Infinite%20Through%20Code%20」&descAlignY=58&descSize=16&descColor=A78BFA"/>
 
 <!-- Cosmic Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -10,23 +10,23 @@
 
 <br/>
 
-<!-- Black Hole Event Horizon -->
+<!-- Cosmic Event Horizon -->
 ```
-                              ·    ✦    ·
-                    ✦    ·         ·         ·    ✦
-              ·         ·    ███████████    ·         ·
-         ✦         ██▓▓▓░░░░░░░░░░░▓▓▓██         ✦
-              ██▓░░░░░░           ░░░░░░▓██
-    ✦      █▓░░░░░    ┌─────────────┐    ░░░░░▓█      ✦
-         █▓░░░░       │  E V E N T  │       ░░░░▓█
-   🛸   █▓░░░    🌑   │  HORIZON    │   🌑    ░░░▓█
-         █▓░░░░       │  ══════════ │       ░░░░▓█
-    ✦      █▓░░░░░    └─────────────┘    ░░░░░▓█      ✦
-              ██▓░░░░░░           ░░░░░░▓██
-         ✦         ██▓▓▓░░░░░░░░░░░▓▓▓██         ✦
-              ·         ·    ███████████    ·         ·   🪐
-                    ✦    ·         ·         ·    ✦
-                              ·    ⭐   ·
+                         ✦    .    ✦
+              .    ✦         🛸         ✦    .
+                    *    .    *    .    *
+         ✦    .  ________/¯¯¯¯¯¯¯¯\________  .    ✦
+              __/                        \__
+    ✦      _/   .    ✦    🌑    ✦    .   \_      ✦
+         _/    ┌─────────────────────┐    \_
+        |     │   E V E N T   H O R I Z O N   │     |
+         \_    └─────────────────────┘    _/
+    ✦      \_   .    ✦    🌑    ✦    .   _/      ✦
+              \__                        __/
+         ✦    .  \________/¯¯¯¯¯¯¯¯\________/  .    ✦
+                    *    .    *    .    *
+              .    ✦         🪐         ✦    .
+                         ⭐    .    ⭐
 ```
 
 <br/>
