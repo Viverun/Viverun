@@ -46,19 +46,20 @@ c = resp.json()["data"]["user"]["contributionsCollection"]
 
 raw = {
     "Commits": c["totalCommitContributions"],
+    "Code Review": c["totalPullRequestReviewContributions"],
     "Pull Requests": c["totalPullRequestContributions"],
     "Issues": c["totalIssueContributions"],
-    "Code Review": c["totalPullRequestReviewContributions"],
 }
 
 print("Raw activity:", raw)
 
-# ================= SMART NORMALIZATION =================
-def log_norm(v):
-    return math.log10(v + 1)
+# ================= LOG NORMALIZATION (KEY FIX) =================
+max_value = max(raw.values()) or 1
 
-max_log = max(log_norm(v) for v in raw.values()) or 1
-values = [log_norm(v) / max_log * 100 for v in raw.values()]
+values = [
+    math.log(v + 1) / math.log(max_value + 1) * 100
+    for v in raw.values()
+]
 
 labels = list(raw.keys())
 
@@ -72,14 +73,14 @@ fig.patch.set_facecolor(BG)
 ax.set_facecolor(BG)
 
 ax.plot(angles, values, color=ACCENT, linewidth=2)
-ax.fill(angles, values, color=ACCENT, alpha=0.35)
+ax.fill(angles, values, color=ACCENT, alpha=0.4)
 
 ax.set_thetagrids(angles[:-1] * 180 / np.pi, labels, color=TEXT, fontsize=11)
 ax.set_yticklabels([])
 ax.spines["polar"].set_color(GRID)
 ax.grid(color=GRID, linewidth=0.8)
 
-plt.title("Contribution Breakdown (Last 12 Months)", color=TEXT, pad=20)
+plt.title("Contribution Breakdown", color=TEXT, pad=20)
 plt.savefig(OUT_FILE, format="svg", facecolor=BG)
 plt.close()
 
