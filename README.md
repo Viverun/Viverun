@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Nebula Header with White VIVERUN -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,24&height=200&section=header&text=🌌%20VIVERUN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=「%20Exploring%20the%20Infinite%20Through%20Code%20」&descAlignY=58&descSize=16&descColor=A78BFA"/>
+<!-- Black Hole Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:1a0033,100:000000&height=200&section=header&text=Viverun&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=「%20Exploring%20the%20Infinite%20Through%20Code%20」&descAlignY=70&descSize=14&descColor=A78BFA"/>
 
 <!-- Cosmic Typing Animation -->
 <a href="https://git.io/typing-svg">
