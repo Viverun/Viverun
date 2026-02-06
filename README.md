@@ -10,16 +10,8 @@
 
 <br/>
 
-<!-- Cosmic Starfield -->
-```
-       ✦     .        ·    ✦    ·        .     ✦
-   .      ✦    ·    🛸    ·    ✦    .    ✦      .
-        ·    .    ✦    .    ·    .    ✦    ·
-   ✦    .        ·        🌑        ·        .    ✦
-        ·    ✦    .    ·    .    ✦    ·    .
-   .      ✦    ·    🪐    ·    ✦    .    ✦      .
-       ✦     .        ·    ⭐   ·        .     ✦
-```
+<!-- Animated Black Hole -->
+<img src="https://i.imgur.com/4ASafy0.gif" width="300" alt="Black Hole Animation"/>
 
 <br/>
 
