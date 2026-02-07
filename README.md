@@ -12,7 +12,7 @@
 <br/>
 
 <!-- Dynamic Daily Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We+are+a+way+for+the+cosmos+to+know+itself&author=Carl+Sagan" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
 
 <br/>
 
