@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Art%20is%20I%20science%20is%20we.&author=Claude%20Bernard&v=1770498950" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Today%20the%20function%20of%20the%20artist%20is%20to%20bring%20imagination%20to%20science%20and%20science%20to%20imagination%2C%20where%20they%20meet%2C%20in%20the%20myth.&author=Cyril%20Connolly&v=1770502494" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
