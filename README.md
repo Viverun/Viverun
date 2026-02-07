@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Morality%20comes%20with%20the%20sad%20wisdom%20of%20age%2C%20when%20the%20sense%20of%20curiosity%20has%20withered.&author=Graham%20Greene&v=1770462818" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20organized%20common%20sense%20where%20many%20a%20beautiful%20theory%20was%20killed%20by%20an%20ugly%20fact.&author=Thomas%20Huxley&v=1770467038" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
