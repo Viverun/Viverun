@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Today%20the%20function%20of%20the%20artist%20is%20to%20bring%20imagination%20to%20science%20and%20science%20to%20imagination%2C%20where%20they%20meet%2C%20in%20the%20myth.&author=Cyril%20Connolly&v=1770502494" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20cannot%2C%20in%20human%20experience%2C%20rush%20into%20the%20light.%20You%20have%20to%20go%20through%20the%20twilight%20into%20the%20broadening%20day%20before%20the%20noon%20comes%20and%20the%20full%20sun%20is%20upon%20the%20landscape.&author=Woodrow%20Wilson&v=1770506320" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
