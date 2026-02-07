@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=English%20is%20necessary%20as%20at%20present%20original%20works%20of%20science%20are%20in%20English.%20I%20believe%20that%20in%20two%20decades%20times%20original%20works%20of%20science%20will%20start%20coming%20out%20in%20our%20languages.%20Then%20we%20can%20move%20over%20like%20the%20Japanese.&author=Abdul%20Kalam&v=1770480984" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20is%20a%20single%20light%20of%20science%2C%20and%20to%20brighten%20it%20anywhere%20is%20to%20brighten%20it%20everywhere.&author=Isaac%20Asimov&v=1770484660" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
