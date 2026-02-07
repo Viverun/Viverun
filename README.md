@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20central%20task%20of%20science%20is%20to%20arrive%2C%20stage%20by%20stage%2C%20at%20a%20clearer%20comprehension%20of%20nature%2C%20but%20this%20does%20not%20at%20all%20mean%2C%20as%20it%20is%20sometimes%20claimed%20to%20mean%2C%20a%20search%20for%20mastery%20over%20nature.&author=Lewis%20Thomas&v=1770473793" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Inspiration%20in%20Science%20may%20have%20to%20do%20with%20ideas%2C%20but%20not%20in%20Art.%20In%20art%20it%20is%20in%20the%20senses%20that%20are%20instinctively%20responsive%20to%20the%20medium%20of%20expression.&author=Arthur%20Erickson&v=1770477303" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
