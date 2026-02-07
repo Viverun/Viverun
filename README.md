@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That%20attitude%20does%20not%20exist%20so%20much%20today%2C%20but%20in%20those%20days%20there%20was%20a%20very%20sharp%20distinction%20between%20basic%20physics%20and%20applied%20physics.%20Columbia%20did%20not%20deal%20with%20applied%20physics.&author=Gordon%20Gould&v=1770488388" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20knowledge%20and%20understanding%20of%20the%20world%20which%20science%20gives%20us%20and%20the%20magnificent%20opportunity%20which%20it%20extends%20to%20us%20to%20control%20and%20use%20the%20world%20for%20the%20extension%20of%20our%20pleasure%20in%20it%20has%20never%20been%20greater%20than%20it%20now%20is.&author=Polykarp%20Kusch&v=1770491779" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
