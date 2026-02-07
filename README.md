@@ -12,7 +12,9 @@
 <br/>
 
 <!-- Dynamic Daily Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quotesUrl=https://raw.githubusercontent.com/Viverun/Viverun/main/quotes.json&v=1" alt="Quote"/>
+<!-- START_QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
+<!-- END_QUOTE -->
 
 <br/>
 
