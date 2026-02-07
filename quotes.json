@@ -1,50 +1,3202 @@
 [
-    {
-        "quote": "We are a way for the cosmos to know itself.",
-        "author": "Carl Sagan"
-    },
-    {
-        "quote": "The universe is under no obligation to make sense to you.",
-        "author": "Neil deGrasse Tyson"
-    },
-    {
-        "quote": "Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist.",
-        "author": "Stephen Hawking"
-    },
-    {
-        "quote": "Somewhere, something incredible is waiting to be known.",
-        "author": "Carl Sagan"
-    },
-    {
-        "quote": "The important thing is not to stop questioning. Curiosity has its own reason for existence.",
-        "author": "Albert Einstein"
-    },
-    {
-        "quote": "Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is.",
-        "author": "Douglas Adams"
-    },
-    {
-        "quote": "The only way of discovering the limits of the possible is to venture a little way past them into the impossible.",
-        "author": "Arthur C. Clarke"
-    },
-    {
-        "quote": "To confine our attention to terrestrial matters would be to limit the human spirit.",
-        "author": "Stephen Hawking"
-    },
-    {
-        "quote": "We are stardust brought to life, then empowered by the universe to figure itself out.",
-        "author": "Neil deGrasse Tyson"
-    },
-    {
-        "quote": "Matter tells space how to curve. Space tells matter how to move.",
-        "author": "John Archibald Wheeler"
-    },
-    {
-        "quote": "I would say the universe has a purpose. It's not there just somehow by chance.",
-        "author": "Roger Penrose"
-    },
-    {
-        "quote": "The history of astronomy is a history of receding horizons.",
-        "author": "Edwin Hubble"
-    }
+  {
+    "quote": "We have not given science too big a place in our education, but we have made a perilous mistake in giving it too great a preponderance in method in every other branch of study.",
+    "author": "Woodrow Wilson"
+  },
+  {
+    "quote": "Though many have tried, no one has ever yet explained away the decisive fact that science, which can do so much, cannot decide what it ought to do.",
+    "author": "Joseph Wood Krutch"
+  },
+  {
+    "quote": "The worst state of affairs is when science begins to concern itself with art.",
+    "author": "Paul Klee"
+  },
+  {
+    "quote": "When you're a houseguest and you leave, it's nice to straighten something up or send your hosts a useful gift. And when you leave the planet, it's nice to have made a positive contribution.",
+    "author": "Alexander Payne"
+  },
+  {
+    "quote": "It is wrong to think that the task of physics is to find out how Nature is. Physics concerns what we say about Nature.",
+    "author": "Niels Bohr"
+  },
+  {
+    "quote": "Yeah, I get to fight in 'Eclipse.' My trainer is teaching me MMA right now. So. Cool.",
+    "author": "Ashley Greene"
+  },
+  {
+    "quote": "Further, the dignity of the science itself seems to require that every possible means be explored for the solution of a problem so elegant and so celebrated.",
+    "author": "Carl Friedrich Gauss"
+  },
+  {
+    "quote": "In all chaos there is a cosmos, in all disorder a secret order.",
+    "author": "Carl Jung"
+  },
+  {
+    "quote": "Science may have found a cure for most evils but it has found no remedy for the worst of them all - the apathy of human beings.",
+    "author": "Helen Keller"
+  },
+  {
+    "quote": "There was no 'before' the beginning of our universe, because once upon a time there was no time.",
+    "author": "John D. Barrow"
+  },
+  {
+    "quote": "Science fiction films are not about science. They are about disaster, which is one of the oldest subjects of art.",
+    "author": "Susan Sontag"
+  },
+  {
+    "quote": "I was growing up listening to Queen. Freddie Mercury threw those incredible melodies into his songs.",
+    "author": "Gary Cherone"
+  },
+  {
+    "quote": "Science is wonderfully equipped to answer the question 'How?' but it gets terribly confused when you ask the question 'Why?'",
+    "author": "Erwin Chargaff"
+  },
+  {
+    "quote": "My knowledge of science came from being with Carl, not from formal academic training. Carl gave me a thrilling tutorial in science and math that lasted the 20 years we were together.",
+    "author": "Ann Druyan"
+  },
+  {
+    "quote": "Breathless, we flung us on a windy hill, Laughed in the sun, and kissed the lovely grass.",
+    "author": "Rupert Brooke"
+  },
+  {
+    "quote": "It's sort of a mental attitude about critical thinking and curiosity. It's about mindset of looking at the world in a playful and curious and creative way.",
+    "author": "Adam Savage"
+  },
+  {
+    "quote": "Science and art, or by the same token, poetry and prose differ from one another like a journey and an excursion. The purpose of the journey is its goal, the purpose of an excursion is the process.",
+    "author": "Franz Grillparzer"
+  },
+  {
+    "quote": "There is only one thing for us to do, and that is to do our level best right where we are every day of our lives To use our best judgment, and then to trust the rest to that Power which holds the forces of the universe in his hands.",
+    "author": "Orison Swett Marden"
+  },
+  {
+    "quote": "Curiosity will conquer fear even more than bravery will.",
+    "author": "James Stephens"
+  },
+  {
+    "quote": "Instead, in the absence of respect for human rights, science and its offspring technology have been used in this century as brutal instruments for oppression.",
+    "author": "John Charles Polanyi"
+  },
+  {
+    "quote": "Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next 10.",
+    "author": "Neil Armstrong"
+  },
+  {
+    "quote": "Because our entire universe is made up of consciousness, we never really experience the universe directly we just experience our consciousness of the universe, our perception of it, so right, our only universe is perception.",
+    "author": "Alan Moore"
+  },
+  {
+    "quote": "I've lost my faith in science.",
+    "author": "Bette Davis"
+  },
+  {
+    "quote": "Now the main areas of higher education that still enjoy considerable financial support from government are subjects like engineering and science and the research ringfence which is the basic minimum to protect Britain's scientific competitiveness.",
+    "author": "Vince Cable"
+  },
+  {
+    "quote": "'Healing,' Papa would tell me, 'is not a science, but the intuitive art of wooing nature.'",
+    "author": "W. H. Auden"
+  },
+  {
+    "quote": "He who binds to himself a joy Does the winged life destroy But he who kisses the joy as it flies Lives in eternity's sun rise.",
+    "author": "William Blake"
+  },
+  {
+    "quote": "Science fiction is an amazing literature: plot elements that you would think would be completely worn out by now keep changing into surprising new forms.",
+    "author": "Connie Willis"
+  },
+  {
+    "quote": "Art is the tree of life. Science is the tree of death.",
+    "author": "William Blake"
+  },
+  {
+    "quote": "The Athanasian Creed is to me light and intelligible reading in comparison with much that now passes for science.",
+    "author": "Samuel Butler"
+  },
+  {
+    "quote": "Yet higher religion, which is only a search for a larger life, is essentially experience and recognized the necessity of experience as its foundation long before science learnt to do so.",
+    "author": "Muhammad Iqbal"
+  },
+  {
+    "quote": "He who would do good to another must do it in Minute Particulars: general Good is the plea of the scoundrel, hypocrite, and flatterer, for Art and Science cannot exist but in minutely organized Particulars.",
+    "author": "William Blake"
+  },
+  {
+    "quote": "Economists treat economics as if it is a pure science divorced from the facts of life. The result of this false accountancy is a willful confusion under cover of which industry wreaks its havoc scot-free and ignores the environmental cost.",
+    "author": "Vivienne Westwood"
+  },
+  {
+    "quote": "If it doesn't feel like a job and I'm learning something and getting that rush that I get, I don't care if it's behind a camera, on a TV set, or on the moon.",
+    "author": "Benjamin Walker"
+  },
+  {
+    "quote": "Most of the fundamental ideas of science are essentially simple, and may, as a rule, be expressed in a language comprehensible to everyone.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Somewhere, something incredible is waiting to be known.",
+    "author": "Carl Sagan"
+  },
+  {
+    "quote": "The media need superheroes in science just as in every sphere of life, but there is really a continuous range of abilities with no clear dividing line.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "quote": "The enchanting charms of this sublime science reveal only to those who have the courage to go deeply into it.",
+    "author": "Carl Friedrich Gauss"
+  },
+  {
+    "quote": "I think laughter may be a form of courage. As humans we sometimes stand tall and look into the sun and laugh, and I think we are never more brave than when we do that.",
+    "author": "Linda Ellerbee"
+  },
+  {
+    "quote": "Biology is now bigger than physics, as measured by the size of budgets, by the size of the workforce, or by the output of major discoveries and biology is likely to remain the biggest part of science through the twenty-first century.",
+    "author": "Freeman Dyson"
+  },
+  {
+    "quote": "When I'm not writing, I read loads of fiction, but I've been writing quite constantly lately so I've been reading a lot of nonfiction - philosophy, religion, science, history, social or cultural studies.",
+    "author": "Irvine Welsh"
+  },
+  {
+    "quote": "I'm from the Madeleine L'Engle school. The more she delves into science, the more she knows there's a creator who's behind these amazing laws, these amazing events. The symmetry of nature, the structure and order of it.",
+    "author": "Tom Shadyac"
+  },
+  {
+    "quote": "When a dog barks at the moon, then it is religion but when he barks at strangers, it is patriotism!",
+    "author": "David Starr Jordan"
+  },
+  {
+    "quote": "We'll go back to the moon by not learning anything new.",
+    "author": "Burt Rutan"
+  },
+  {
+    "quote": "It is a power stronger than will. Could a stone escape from the laws of gravity? Impossible. Impossible, for evil to form an alliance with good.",
+    "author": "Isidore Ducasse Lautreamont"
+  },
+  {
+    "quote": "I wanted to make sure that the man who found the genie would not take terrible advantage of her, so he needed to be a person of integrity and honor - which is why I made the male lead an astronaut. The rest, as they say, is history.",
+    "author": "Sidney Sheldon"
+  },
+  {
+    "quote": "The science of today is the technology of tomorrow.",
+    "author": "Edward Teller"
+  },
+  {
+    "quote": "Death comes to all, but great achievements build a monument which shall endure until the sun grows cold.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "quote": "Unless we keep this planet healthy, everything else is for naught.",
+    "author": "Victoria Principal"
+  },
+  {
+    "quote": "If you wish to succeed in life, make perseverance your bosom friend, experience your wise counselor, caution your elder brother, and hope your guardian genius.",
+    "author": "Joseph Addison"
+  },
+  {
+    "quote": "Some day science may have the existence of mankind in power, and the human race can commit suicide by blowing up the world.",
+    "author": "Henry Adams"
+  },
+  {
+    "quote": "Science has explained nothing the more we know the more fantastic the world becomes and the profounder the surrounding darkness.",
+    "author": "Aldous Huxley"
+  },
+  {
+    "quote": "Well, Freddie Mercury is a really huge rock star in my head. I've always thought he was just so tough and such an amazing entertainer, really a contradiction in many ways as well. So he was incredible.",
+    "author": "Karen O"
+  },
+  {
+    "quote": "Early-twentieth-century abstraction is art's version of Einstein's Theory of Relativity. It's the idea that changed everything everywhere: quickly, decisively, for good.",
+    "author": "Jerry Saltz"
+  },
+  {
+    "quote": "I am often amazed at how much more capability and enthusiasm for science there is among elementary school youngsters than among college students.",
+    "author": "Carl Sagan"
+  },
+  {
+    "quote": "This world, after all our science and sciences, is still a miracle wonderful, inscrutable, magical and more, to whosoever will think of it.",
+    "author": "Thomas Carlyle"
+  },
+  {
+    "quote": "The goal of life is to make your heartbeat match the beat of the universe, to match your nature with Nature.",
+    "author": "Joseph Campbell"
+  },
+  {
+    "quote": "And just when we were at the end of our design process there was the news that the Italian government and the U.S. government had signed an agreement to fly the first Italian astronaut on that flight.",
+    "author": "Umberto Guidoni"
+  },
+  {
+    "quote": "Most medical physicists work in the physics of radiation oncology making sure that the desired dose is given to the cancer and the dose to normal tissues are minimized.",
+    "author": "John Cameron"
+  },
+  {
+    "quote": "The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Friendship is the shadow of the evening, which increases with the setting sun of life.",
+    "author": "Jean de La Fontaine"
+  },
+  {
+    "quote": "The body is like a car: the older you become the more care you have to take care of it - and you don't leave a Ferrari out in the sun.",
+    "author": "Joan Collins"
+  },
+  {
+    "quote": "Indeed science alone may perhaps be sterile when pursued without an understanding of the world in which scientific knowledge is created and in which the fruits of science are used.",
+    "author": "Polykarp Kusch"
+  },
+  {
+    "quote": "In science, all facts, no matter how trivial or banal, enjoy democratic equality.",
+    "author": "Mary McCarthy"
+  },
+  {
+    "quote": "Nature engenders the science of painting.",
+    "author": "Robert Delaunay"
+  },
+  {
+    "quote": "I did not come to NASA to make history.",
+    "author": "Sally Ride"
+  },
+  {
+    "quote": "Whether things turn out for the better depends on what we do. We ought not spend our time masterminding the future, but recognize our marching orders: to do the best we can for history and the planet.",
+    "author": "Huston Smith"
+  },
+  {
+    "quote": "My brother and Lauren are very close with me and they are in Sun Valley, so sometimes I need to go there and feel their presence. And there are times I need to see my bro' alone.",
+    "author": "Picabo Street"
+  },
+  {
+    "quote": "I wrote somewhere during the Cold War that I sometimes wish the Iron Curtain were much taller than it is, so that you could see whether the development of science with no communication was parallel on the two sides. In this case it certainly wasn't.",
+    "author": "Thomas Gold"
+  },
+  {
+    "quote": "In science, 'fact' can only mean 'confirmed to such a degree that it would be perverse to withhold provisional assent.' I suppose that apples might start to rise tomorrow, but the possibility does not merit equal time in physics classrooms.",
+    "author": "Stephen Jay Gould"
+  },
+  {
+    "quote": "My wife is the most awesome person in the universe. She's made this experience much less miserable for me, with her compassion, patience and understanding.",
+    "author": "Wil Wheaton"
+  },
+  {
+    "quote": "Facts matter. Science matters. Reason matters. Mitt Romney has shown an inability to respect any of the three. President Barack Obama not only respects them, he relies on them. He is an overwhelming and unquestioned choice to continue as president.",
+    "author": "Eliot Spitzer"
+  },
+  {
+    "quote": "In known history, nobody has had such capacity for altering the universe than the people of the United States of America. And nobody has gone about it in such an aggressive way.",
+    "author": "Alan Watts"
+  },
+  {
+    "quote": "Fifty percent of our country that we own, have all legal jurisdiction, have all rights to do whatever we want, lies beneath the sea and we have better maps of Mars than that 50 percent.",
+    "author": "Robert Ballard"
+  },
+  {
+    "quote": "I warn you against believing that advertising is a science.",
+    "author": "William Bernbach"
+  },
+  {
+    "quote": "When you're looking that far out, you're giving people their place in the universe, it touches people. Science is often visual, so it doesn't need translation. It's like poetry, it touches you.",
+    "author": "Story Musgrave"
+  },
+  {
+    "quote": "The fundamental concept in social science is Power, in the same sense in which Energy is the fundamental concept in physics.",
+    "author": "Bertrand Russell"
+  },
+  {
+    "quote": "Science has made us gods even before we are worthy of being men.",
+    "author": "Jean Rostand"
+  },
+  {
+    "quote": "To correct a natural indifference I was placed half-way between misery and the sun. Misery kept me from believing that all was well under the sun, and the sun taught me that history wasn't everything.",
+    "author": "Albert Camus"
+  },
+  {
+    "quote": "I have seen firsthand that agricultural science has enormous potential to increase the yields of small farmers and lift them out of hunger and poverty.",
+    "author": "Bill Gates"
+  },
+  {
+    "quote": "For science must breathe the oxygen of freedom.",
+    "author": "John Charles Polanyi"
+  },
+  {
+    "quote": "The No Child Left Behind Program was an incentive to the schools to get their kids up to snuff on math and science and reading.",
+    "author": "Sandra Day O'Connor"
+  },
+  {
+    "quote": "For it is the duty of an astronomer to compose the history of the celestial motions through careful and expert study.",
+    "author": "Nicolaus Copernicus"
+  },
+  {
+    "quote": "When push comes to shove, it ain't the science that's going to lift you up-it's the belief, the spiritual side of life, that's going to lift you up, no matter what religion you are.",
+    "author": "Kirstie Alley"
+  },
+  {
+    "quote": "If I want to understand the laws of physics I have to first believe what I read about physics. I have to have faith in what I read.",
+    "author": "Ray Comfort"
+  },
+  {
+    "quote": "Society lives by faith, and develops by science.",
+    "author": "Henri Frederic Amiel"
+  },
+  {
+    "quote": "Science fiction, to me, has not only things that wouldn't happen, but other planets.",
+    "author": "Margaret Atwood"
+  },
+  {
+    "quote": "The facts of science are real enough, and so are the techniques that scientists use, and so are the technologies based on them. But the belief system that governs conventional scientific thinking is an act of faith.",
+    "author": "Rupert Sheldrake"
+  },
+  {
+    "quote": "History is the science of things which are not repeated.",
+    "author": "Paul Valery"
+  },
+  {
+    "quote": "I was the Chair of the first department of medical physics in a medical school in the U.S.",
+    "author": "John Cameron"
+  },
+  {
+    "quote": "To me, there is something superbly symbolic in the fact that an astronaut, sent up as assistant to a series of computers, found that he worked more accurately and more intelligently than they. Inside the capsule, man is still in charge.",
+    "author": "Adlai Stevenson"
+  },
+  {
+    "quote": "I graduated from the University of Delaware with a double major in history and political science.",
+    "author": "Joe Biden"
+  },
+  {
+    "quote": "We want to answer this classical question, who am I? So I think that most of our works are for art, or whatever we do, including science or religion, tried to answer that question.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "quote": "Science does not know its debt to imagination.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "quote": "The clearest way into the Universe is through a forest wilderness.",
+    "author": "John Muir"
+  },
+  {
+    "quote": "There is a fifth dimension, beyond that which is known to man. It is a dimension as vast as space and as timeless as infinity. It is the middle ground between light and shadow, between science and superstition.",
+    "author": "Rod Serling"
+  },
+  {
+    "quote": "Knowledge of the sciences is so much smoke apart from the heavenly science of Christ.",
+    "author": "John Calvin"
+  },
+  {
+    "quote": "Science is a differential equation. Religion is a boundary condition.",
+    "author": "Alan Turing"
+  },
+  {
+    "quote": "I've seen Bruno Mars before, he's amazing.",
+    "author": "Alessandra Ambrosio"
+  },
+  {
+    "quote": "In science, we must be interested in things, not in persons.",
+    "author": "Marie Curie"
+  },
+  {
+    "quote": "I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living, it's a way of looking at life through the wrong end of a telescope. Which is what I do, and that enables you to laugh at life's realities.",
+    "author": "Dr. Seuss"
+  },
+  {
+    "quote": "The knowledge and understanding of the world which science gives us and the magnificent opportunity which it extends to us to control and use the world for the extension of our pleasure in it has never been greater than it now is.",
+    "author": "Polykarp Kusch"
+  },
+  {
+    "quote": "I always remembered that when I saw people get married they got on a rocketship and went to Planet Happiness, Population: Them.",
+    "author": "Marc Webb"
+  },
+  {
+    "quote": "Natural science will in time incorporate into itself the science of man, just as the science of man will incorporate into itself natural science: there will be one science.",
+    "author": "Karl Marx"
+  },
+  {
+    "quote": "We need to think of the future and the planet we are going to leave to our children and their children.",
+    "author": "Kofi Annan"
+  },
+  {
+    "quote": "I was always attracted to science fiction movies.",
+    "author": "Tina Turner"
+  },
+  {
+    "quote": "The older generation had greater respect for land than science. But we live in an age when science, more than soil, has become the provider of growth and abundance. Living just on the land creates loneliness in an age of globality.",
+    "author": "Shimon Peres"
+  },
+  {
+    "quote": "Most of man's problems upon this planet, in the long history of the race, have been met and solved either partially or as a whole by experiment based on common sense and carried out with courage.",
+    "author": "Frances Perkins"
+  },
+  {
+    "quote": "Luck is a component that a lot of people in the arts sometimes fail to recognise: that you can have talent, perseverance, patience, but without luck you will not have a successful career.",
+    "author": "Bryan Cranston"
+  },
+  {
+    "quote": "Logic is neither an art nor a science but a dodge.",
+    "author": "Stendhal"
+  },
+  {
+    "quote": "The age in which we live, this non-stop distraction, is making it more impossible for the young generation to ever have the curiosity or discipline... because you need to be alone to find out anything.",
+    "author": "Vivienne Westwood"
+  },
+  {
+    "quote": "Everything is perfect in the universe even your desire to improve it.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "quote": "Life is a process. We are a process. The universe is a process.",
+    "author": "Anne Schaef"
+  },
+  {
+    "quote": "One's age should be tranquil, as childhood should be playful. Hard work at either extremity of life seems out of place. At midday the sun may burn, and men labor under it but the morning and evening should be alike calm and cheerful.",
+    "author": "Thomas Arnold"
+  },
+  {
+    "quote": "Art has a double face, of expression and illusion, just like science has a double face: the reality of error and the phantom of truth.",
+    "author": "Publilius Syrus"
+  },
+  {
+    "quote": "Nothing retains less of desire in art, in science, than this will to industry, booty, possession.",
+    "author": "Andre Breton"
+  },
+  {
+    "quote": "I get up at an unholy hour in the morning my work day is completed by the time the sun rises. I have a slightly bad back which has made an enormous contribution to American literature.",
+    "author": "David Eddings"
+  },
+  {
+    "quote": "Political ideology can corrupt the mind, and science.",
+    "author": "E. O. Wilson"
+  },
+  {
+    "quote": "Science consists exactly of those forms of knowledge that can be verified and duplicated by anybody.",
+    "author": "Seth Lloyd"
+  },
+  {
+    "quote": "Nothing in the universe can travel at the speed of light, they say, forgetful of the shadow's speed.",
+    "author": "Howard Nemerov"
+  },
+  {
+    "quote": "I'm healthy, have a loving and adorable family, great hunting dogs, a gravity defying musical career and most importantly, fuzzy-headed idiots hate me.",
+    "author": "Ted Nugent"
+  },
+  {
+    "quote": "Of course I believe in aliens. I think it's very egocentric to think that there's nothing else with intelligence in the whole universe.",
+    "author": "Lizzie Brochere"
+  },
+  {
+    "quote": "I think people are realizing that engineering and science are extremely good degrees to get and you'll be very highly paid once you've got them.",
+    "author": "James Dyson"
+  },
+  {
+    "quote": "Skeptical scrutiny is the means, in both science and religion, by which deep thoughts can be winnowed from deep nonsense.",
+    "author": "Carl Sagan"
+  },
+  {
+    "quote": "There is a single light of science, and to brighten it anywhere is to brighten it everywhere.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "quote": "As an elder of the Americas and of the rest of the planet, it is my responsibility to care for and protect, to the best of my ability, the young.",
+    "author": "Alice Walker"
+  },
+  {
+    "quote": "Morality comes with the sad wisdom of age, when the sense of curiosity has withered.",
+    "author": "Graham Greene"
+  },
+  {
+    "quote": "Science is a method to keep yourself from kidding yourself.",
+    "author": "Edwin Land"
+  },
+  {
+    "quote": "In science one tries to tell people, in such a way as to be understood by everyone, something that no one ever knew before. But in poetry, it's the exact opposite.",
+    "author": "Paul Dirac"
+  },
+  {
+    "quote": "Most of us can remember a time when a birthday - especially if it was one's own - brightened the world as if a second sun has risen.",
+    "author": "Robert Staughton Lynd"
+  },
+  {
+    "quote": "The central task of science is to arrive, stage by stage, at a clearer comprehension of nature, but this does not at all mean, as it is sometimes claimed to mean, a search for mastery over nature.",
+    "author": "Lewis Thomas"
+  },
+  {
+    "quote": "Science is properly more scrupulous than dogma. Dogma gives a charter to mistake, but the very breath of science is a contest with mistake, and must keep the conscience alive.",
+    "author": "George Eliot"
+  },
+  {
+    "quote": "I think, at a child's birth, if a mother could ask a fairy godmother to endow it with the most useful gift, that gift should be curiosity.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "quote": "Where it is a duty to worship the sun it is pretty sure to be a crime to examine the laws of heat.",
+    "author": "John Morley"
+  },
+  {
+    "quote": "Borrowing knowledge of reality from all sources, taking the best from every study, Science of Mind brings together the highest enlightenment of the ages.",
+    "author": "Ernest Holmes"
+  },
+  {
+    "quote": "In science, as in art, and, as I believe, in every other sphere of human activity, there may be wisdom in a multitude of counsellors, but it is only in one or two of them.",
+    "author": "Thomas Huxley"
+  },
+  {
+    "quote": "He who possesses art and science has religion he who does not possess them, needs religion.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "quote": "Some theists in evolutionary science acquiesce to these tacit rules and retain a personal faith while accepting a thoroughly naturalistic picture of physical reality.",
+    "author": "Phillip E. Johnson"
+  },
+  {
+    "quote": "Every known fact in natural science was divined by the presentiment of somebody, before it was actually verified.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "quote": "This is the first convention of the space age - where a candidate can promise the moon and mean it.",
+    "author": "David Brinkley"
+  },
+  {
+    "quote": "I remember looking at the sky and thinking that the universe is so big and it's all chaos. I call it 'the dark fear.' At any moment, the dark fear could come in.",
+    "author": "St. Vincent"
+  },
+  {
+    "quote": "Science is all metaphor.",
+    "author": "Timothy Leary"
+  },
+  {
+    "quote": "I think masculinity is bravado against the mystery of the universe of women. It's just a fear of not knowing what women have that's so powerful. It's this shield they put up to try to get closer.",
+    "author": "K. D. Lang"
+  },
+  {
+    "quote": "We especially need imagination in science.",
+    "author": "Maria Mitchell"
+  },
+  {
+    "quote": "And by the way, I wanted to point out that Kindred is not science fiction. You'll note there's no science in it. It's a kind of grim fantasy.",
+    "author": "Octavia Butler"
+  },
+  {
+    "quote": "Blind faith, no matter how passionately expressed, will not suffice. Science for its part will test relentlessly every assumption about the human condition.",
+    "author": "E. O. Wilson"
+  },
+  {
+    "quote": "Ecclesiasticism in science is only unfaithfulness to truth.",
+    "author": "Thomas Huxley"
+  },
+  {
+    "quote": "The Nitrogen in our DNA, the Calcium in our teeth, the Iron in our blood, the Carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.",
+    "author": "Carl Sagan"
+  },
+  {
+    "quote": "Equipped with his five senses, man explores the universe around him and calls the adventure Science.",
+    "author": "Edwin Hubble"
+  },
+  {
+    "quote": "Ignorance more frequently begets confidence than does knowledge: it is those who know little, and not those who know much, who so positively assert that this or that problem will never be solved by science.",
+    "author": "Charles Darwin"
+  },
+  {
+    "quote": "All one's inventions are true, you can be sure of that. Poetry is as exact a science as geometry.",
+    "author": "Gustave Flaubert"
+  },
+  {
+    "quote": "The accumulation of skill and science which has been directed to diminish the difficulty of producing manufactured goods, has not been beneficial to that country alone in which it is concentrated distant kingdoms have participated in its advantages.",
+    "author": "Charles Babbage"
+  },
+  {
+    "quote": "Obama wants to be thought of as the president who freed us from foreign oil. But if he doesn't show some political courage, he may well be remembered as the president who cooked the planet.",
+    "author": "Jeff Goodell"
+  },
+  {
+    "quote": "Raising children is a creative endeavor, an art rather than a science.",
+    "author": "Bruno Bettelheim"
+  },
+  {
+    "quote": "Superstition is to religion what astrology is to astronomy the mad daughter of a wise mother. These daughters have too long dominated the earth.",
+    "author": "Voltaire"
+  },
+  {
+    "quote": "Every day is a good day to be alive, whether the sun's shining or not.",
+    "author": "Marty Robbins"
+  },
+  {
+    "quote": "A rude nature is worse than a brute nature by so much more as man is better than a beast: and those that are of civil natures and genteel dispositions are as much nearer to celestial creatures as those that are rude and cruel are to devils.",
+    "author": "Margaret Cavendish"
+  },
+  {
+    "quote": "How we are using up our home, how we are living and polluting the planet is frightening. It was evident when I was a child. It's more evident now.",
+    "author": "Maya Lin"
+  },
+  {
+    "quote": "It is therefore not unreasonable to suppose that some portion of the neglect of science in England, may be attributed to the system of education we pursue.",
+    "author": "Charles Babbage"
+  },
+  {
+    "quote": "Human Nature is the only science of man and yet has been hitherto the most neglected.",
+    "author": "David Hume"
+  },
+  {
+    "quote": "Growing up in the '70s and '80s, science fiction and especially fantasy had such a stigma attached to them. I felt so punished and exiled for being devoted to these things.",
+    "author": "Lev Grossman"
+  },
+  {
+    "quote": "Science has not yet taught us if madness is or is not the sublimity of the intelligence.",
+    "author": "Edgar Allan Poe"
+  },
+  {
+    "quote": "In science, a healthy skepticism is a professional necessity, whereas in religion, having belief without evidence is regarded as a virtue.",
+    "author": "Paul Davies"
+  },
+  {
+    "quote": "Plunderous is the palate I gift to you, openly I hug the universe of our friendship expanding its outer limit.",
+    "author": "Bradley Chicho"
+  },
+  {
+    "quote": "People from a planet without flowers would think we must be mad with joy the whole time to have such things about us.",
+    "author": "Iris Murdoch"
+  },
+  {
+    "quote": "Language, philosophy, and science are interwoven into the design of words, which are manipulated to create surprising illusions.",
+    "author": "John Langdon"
+  },
+  {
+    "quote": "Architecture is a science arising out of many other sciences, and adorned with much and varied learning by the help of which a judgment is formed of those works which are the result of other arts.",
+    "author": "Marcus V. Pollio"
+  },
+  {
+    "quote": "From my dad I learned to be good to people, to always be honest and straightforward. I learned hard work and perseverance.",
+    "author": "Luke Bryan"
+  },
+  {
+    "quote": "The commonality between science and art is in trying to see profoundly - to develop strategies of seeing and showing.",
+    "author": "Edward Tufte"
+  },
+  {
+    "quote": "The chief difficulty which prevents men of science from believing in divine as well as in nature Spirits is their materialism.",
+    "author": "H. P. Blavatsky"
+  },
+  {
+    "quote": "In securing the future of the planet, we secure happiness for ourselves. One of the aims of the Greens is to turn around the tide of pessimism amongst the young people of the world.",
+    "author": "Bob Brown"
+  },
+  {
+    "quote": "Some of the most amazing human beings on the face of the planet go to sci-fi conventions, although I'm sure a few of them wouldn't admit it.",
+    "author": "Richard Hatch"
+  },
+  {
+    "quote": "The Universe is one great kindergarten for man. Everything that exists has brought with it its own peculiar lesson.",
+    "author": "Orison Swett Marden"
+  },
+  {
+    "quote": "English is necessary as at present original works of science are in English. I believe that in two decades times original works of science will start coming out in our languages. Then we can move over like the Japanese.",
+    "author": "Abdul Kalam"
+  },
+  {
+    "quote": "Science is organized knowledge. Wisdom is organized life.",
+    "author": "Immanuel Kant"
+  },
+  {
+    "quote": "In those parts of the world where learning and science has prevailed, miracles have ceased but in those parts of it as are barbarous and ignorant, miracles are still in vogue.",
+    "author": "Ethan Allen"
+  },
+  {
+    "quote": "My taste in watching things runs from dramas and low-budget films to high-end fantasy/science fiction.",
+    "author": "Michael Sheen"
+  },
+  {
+    "quote": "That which today calls itself science gives us more and more information, and indigestible glut of information, and less and less understanding.",
+    "author": "Edward Abbey"
+  },
+  {
+    "quote": "The ultimate wisdom which deals with beginnings, remains locked in a seed. There it lies, the simplest fact of the universe and at the same time the one which calls faith rather than reason.",
+    "author": "Hal Borland"
+  },
+  {
+    "quote": "Those theologians who are beginning to take the doctrine of creation very seriously should pay some attention to science's story.",
+    "author": "John Polkinghorne"
+  },
+  {
+    "quote": "Wine and cheese are ageless companions, like aspirin and aches, or June and moon, or good people and noble ventures.",
+    "author": "M. F. K. Fisher"
+  },
+  {
+    "quote": "I think the crux of the matter was that if we were going to become partners in, for example, the International Space Station, we had to gain the respect of a country like the United States and particularly its space organization, NASA.",
+    "author": "Marc Garneau"
+  },
+  {
+    "quote": "I really hope that we'll have a sustainable future on this planet, I really do. So I probably geek out mostly about learning more about how potentially we can hopefully make that happen, hopefully we're not too far lost.",
+    "author": "Ellen Page"
+  },
+  {
+    "quote": "Man has to awaken to wonder - and so perhaps do peoples. Science is a way of sending him to sleep again.",
+    "author": "Ludwig Wittgenstein"
+  },
+  {
+    "quote": "Turn your face toward the sun and the shadows will fall behind you.",
+    "author": "Maori proverb"
+  },
+  {
+    "quote": "If we have any hope of finding ways for seven billion people to live well on planet with finite resources, we have to learn to use our resources efficiently. Plastic bags are neither efficient nor environmentally friendly.",
+    "author": "David Suzuki"
+  },
+  {
+    "quote": "I'm a sci-fi girl. If I can have anything in life, I'd want tons of great science-fiction movies and stories. It's so progressive, beautiful, and imaginative.",
+    "author": "Zoe Saldana"
+  },
+  {
+    "quote": "Nobody under the sun was like Madonna. She was positive and clear and wholly dedicated to achieving everything that she's achieved.",
+    "author": "Nile Rodgers"
+  },
+  {
+    "quote": "I wasn't with Joseph, but I believe him. My faith did not come to me through science, and I will not permit so-called science to destroy it.",
+    "author": "Thomas S. Monson"
+  },
+  {
+    "quote": "Master of the universe but not of myself, I am the only rebel against my absolute power.",
+    "author": "Pierre Corneille"
+  },
+  {
+    "quote": "It's always a combination of physics and poetry that I find inspiring. It's hard to wrap your head around things like the Hubble scope.",
+    "author": "Tom Hanks"
+  },
+  {
+    "quote": "I'd visit the near future, close enough that someone might want to talk to Larry Niven and can figure out the language distant enough to get me decent medical techniques and a ticket to the Moon.",
+    "author": "Larry Niven"
+  },
+  {
+    "quote": "Books are the carriers of civilization. Without books, history is silent, literature dumb, science crippled, thought and speculation at a standstill.",
+    "author": "Barbara Tuchman"
+  },
+  {
+    "quote": "I did get a very fine education, and not just in science. It took some pressure on the part of my elders to convince me that I really should take an interest in humanities.",
+    "author": "Joshua Lederberg"
+  },
+  {
+    "quote": "Photograph: a picture painted by the sun without instruction in art.",
+    "author": "Ambrose Bierce"
+  },
+  {
+    "quote": "I'm a strange mixture of my mother's curiosity my father, who grew up the son of the manse in a Presbyterian family, who had a tremendous sense of duty and responsibility and my mother's father, who was always in trouble with gambling debts.",
+    "author": "Rupert Murdoch"
+  },
+  {
+    "quote": "Parenting is the most important job on the planet next to keeping Gary Busey off the nation's highways.",
+    "author": "Dennis Miller"
+  },
+  {
+    "quote": "My three Ps: passion, patience, perseverance. You have to do this if you've got to be a filmmaker.",
+    "author": "Robert Wise"
+  },
+  {
+    "quote": "When I entered medical physics in 1958 there were fewer than 100 in the U.S. and I could see many opportunities to apply my knowledge of nuclear physics.",
+    "author": "John Cameron"
+  },
+  {
+    "quote": "Adversity isn't set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "quote": "When we're on set, we kind of joke around, and when we're rehearsing, we change up the scenes and make each other laugh. We lighten up the mood. The blooper reel is going to be amazing on 'New Moon.'",
+    "author": "Kellan Lutz"
+  },
+  {
+    "quote": "Science is a cemetery of dead ideas.",
+    "author": "Miguel de Unamuno"
+  },
+  {
+    "quote": "Experimental science is fascinating, but I don't want to do it. I want other people to do it, and I'll read about it.",
+    "author": "Barbara Ehrenreich"
+  },
+  {
+    "quote": "I've always been inspired by artists who have shown musical and intellectual curiosity and the courage to take risks.",
+    "author": "Renee Fleming"
+  },
+  {
+    "quote": "Curiosity is the wick in the candle of learning.",
+    "author": "William Arthur Ward"
+  },
+  {
+    "quote": "Quantum computation is... a distinctively new way of harnessing nature... It will be the first technology that allows useful tasks to be performed in collaboration between parallel universes.",
+    "author": "David Deutsch"
+  },
+  {
+    "quote": "The universe never did make sense I suspect it was built on government contract.",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "quote": "The difference between science and the fuzzy subjects is that science requires reasoning while those other subjects merely require scholarship.",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "quote": "The greatest advances of civilization, whether in architecture or painting, in science and literature, in industry or agriculture, have never come from centralized government.",
+    "author": "Milton Friedman"
+  },
+  {
+    "quote": "Art is I science is we.",
+    "author": "Claude Bernard"
+  },
+  {
+    "quote": "Religion is to mysticism what popularization is to science.",
+    "author": "Henri Bergson"
+  },
+  {
+    "quote": "The respect for human rights, essential if we are to use technology wisely, is not something alien that must be grafted onto science. On the contrary, it is integral to science, as also to scholarship in general.",
+    "author": "John Charles Polanyi"
+  },
+  {
+    "quote": "Some say they see poetry in my paintings I see only science.",
+    "author": "Georges Seurat"
+  },
+  {
+    "quote": "Science can purify religion from error and superstition. Religion can purify science from idolatry and false absolutes.",
+    "author": "Pope John Paul II"
+  },
+  {
+    "quote": "Odd how the creative power at once brings the whole universe to order.",
+    "author": "Virginia Woolf"
+  },
+  {
+    "quote": "If you live in a ghetto and really want not to just change your life and your family's life but change your ghetto's life, make your ghetto a good neighbourhood, learn science try to be like Mark Zuckerberg, Bill Gates and Steve Jobs.",
+    "author": "will.i.am"
+  },
+  {
+    "quote": "It may be that everything the life science companies are telling us will turn out to be right, and there's no problem here whatsoever. That defies logic.",
+    "author": "Jeremy Rifkin"
+  },
+  {
+    "quote": "I'm a huge fan of science fiction and fantasy - not so much horror because I get a bit scared.",
+    "author": "Michael Sheen"
+  },
+  {
+    "quote": "There are no such things as applied sciences, only applications of science.",
+    "author": "Louis Pasteur"
+  },
+  {
+    "quote": "Science is fun. Science is curiosity. We all have natural curiosity. Science is a process of investigating. It's posing questions and coming up with a method. It's delving in.",
+    "author": "Sally Ride"
+  },
+  {
+    "quote": "The enlightenment is under threat. So is reason. So is truth. So is science, especially in the schools of America.",
+    "author": "Richard Dawkins"
+  },
+  {
+    "quote": "There is science, logic, reason there is thought verified by experience. And then there is California.",
+    "author": "Edward Abbey"
+  },
+  {
+    "quote": "Science is the highest personification of the nation because that nation will remain the first which carries the furthest the works of thought and intelligence.",
+    "author": "Louis Pasteur"
+  },
+  {
+    "quote": "The world is full of strange phenomena that cannot be explained by the laws of logic or science. Dennis Rodman is only one example.",
+    "author": "Dave Barry"
+  },
+  {
+    "quote": "The radiation left over from the Big Bang is the same as that in your microwave oven but very much less powerful. It would heat your pizza only to minus 271.3*C - not much good for defrosting the pizza, let alone cooking it.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "quote": "As soon as questions of will or decision or reason or choice of action arise, human science is at a loss.",
+    "author": "Noam Chomsky"
+  },
+  {
+    "quote": "As far as I'm concerned, there's no job more important on the planet than being a mom.",
+    "author": "Mark Wahlberg"
+  },
+  {
+    "quote": "Science has to be understood in its broadest sense, as a method for comprehending all observable reality, and not merely as an instrument for acquiring specialized knowledge.",
+    "author": "Alexis Carrel"
+  },
+  {
+    "quote": "The day I finished 'Twilight,' I came home and started bulking up. For 'New Moon,' I'm 30 pounds heavier than I was in 'Twilight.'",
+    "author": "Taylor Lautner"
+  },
+  {
+    "quote": "Vast is the field of Science. The more a man knows, the more he will find he has to know.",
+    "author": "Samuel Richardson"
+  },
+  {
+    "quote": "My father was a lawyer and to my best knowledge nobody in my family before had interest in science.",
+    "author": "George Andrew Olah"
+  },
+  {
+    "quote": "Through all of history mankind has ingested psychedelic substances. Those substances exist to put you in touch with spirits beyond yourself, with the creator, with the creative impulse of the planet.",
+    "author": "Ray Manzarek"
+  },
+  {
+    "quote": "Everything that is necessary is also easy. You just have to accept it. And the most necessary, the most natural matter on this planet is death.",
+    "author": "Friedrich Durrenmatt"
+  },
+  {
+    "quote": "Science is what you know, philosophy is what you don't know.",
+    "author": "Bertrand Russell"
+  },
+  {
+    "quote": "Strictly speaking, the idea of a scientific poem is probably as nonsensical as that of a poetic science.",
+    "author": "Karl Wilhelm Friedrich Schlegel"
+  },
+  {
+    "quote": "Medical physics is an applied area of physics.",
+    "author": "John Cameron"
+  },
+  {
+    "quote": "Yeah we all shine on, like the moon, and the stars, and the sun.",
+    "author": "John Lennon"
+  },
+  {
+    "quote": "We are so bound together that no man can labor for himself alone. Each blow he strikes in his own behalf helps to mold the universe.",
+    "author": "Jerome K. Jerome"
+  },
+  {
+    "quote": "The insufferable arrogance of human beings to think that Nature was made solely for their benefit, as if it was conceivable that the sun had been set afire merely to ripen men's apples and head their cabbages.",
+    "author": "Cyrano de Bergerac"
+  },
+  {
+    "quote": "That science has long been neglected and declining in England, is not an opinion originating with me, but is shared by many, and has been expressed by higher authority than mine.",
+    "author": "Charles Babbage"
+  },
+  {
+    "quote": "Science, like art, religion, commerce, warfare, and even sleep, is based on presuppositions.",
+    "author": "Gregory Bateson"
+  },
+  {
+    "quote": "Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth.",
+    "author": "Jules Verne"
+  },
+  {
+    "quote": "It will free man from the remaining chains, the chains of gravity which still tie him to this planet.",
+    "author": "Wernher von Braun"
+  },
+  {
+    "quote": "Millions of people were inspired by the Apollo Program. I was five years old when I watched Apollo 11 unfold on television, and without any doubt it was a big contributor to my passions for science, engineering, and exploration.",
+    "author": "Jeff Bezos"
+  },
+  {
+    "quote": "Curiosity is one of the great secrets of happiness.",
+    "author": "Bryant H. McGill"
+  },
+  {
+    "quote": "If history and science have taught us anything, it is that passion and desire are not the same as truth.",
+    "author": "E. O. Wilson"
+  },
+  {
+    "quote": "The grounding in natural sciences which I obtained in the course of my medical studies, including preliminary examinations in botany, zoology, physics, and chemistry, was to become decisive in determining the trend of my literary work.",
+    "author": "Johannes Vilhelm Jensen"
+  },
+  {
+    "quote": "Science is the knowledge of consequences, and dependence of one fact upon another.",
+    "author": "Thomas Hobbes"
+  },
+  {
+    "quote": "The materialistic paradigm of Western science has been a major obstacle for any objective evaluation of the data describing the events occurring at the time of death.",
+    "author": "Stanislav Grof"
+  },
+  {
+    "quote": "To raise new questions, new possibilities, to regard old problems from a new angle, requires creative imagination and marks real advance in science.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Natural science, does not simply describe and explain nature it is part of the interplay between nature and ourselves.",
+    "author": "Werner Heisenberg"
+  },
+  {
+    "quote": "I've got a full plate, yes I do. That iPod, that's nice. A phone recorder? Nicely done. All right I'm a bit of a tech geek. I have a subscription to Popular Science and I keep up on all this stuff.",
+    "author": "Nathan Fillion"
+  },
+  {
+    "quote": "It is not natural or inevitable that half the world goes hungry that the freedom of markets trumps protection of the planet or that citizens' rights come second to those of corporations.",
+    "author": "Frances O'Grady"
+  },
+  {
+    "quote": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+    "author": "Buddha"
+  },
+  {
+    "quote": "My dad was an engineer and so I had this picture of science and technology and pursuits of the mind as being more impressive than artistic pursuits, which I saw a as kind of frivolous.",
+    "author": "Scott McCloud"
+  },
+  {
+    "quote": "Of course in science there are things that are open to doubt and things need to be discussed. But among the things that science does know, evolution is about as certain as anything we know.",
+    "author": "Richard Dawkins"
+  },
+  {
+    "quote": "If, on occasion, the knowledge brought by science leads to an unhappy end, this is not to the discredit of science but is rather an indication of an imperfect ability to use wisely the gifts placed within our hands.",
+    "author": "Polykarp Kusch"
+  },
+  {
+    "quote": "The art and science of asking questions is the source of all knowledge.",
+    "author": "Thomas Berger"
+  },
+  {
+    "quote": "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained.",
+    "author": "Marie Curie"
+  },
+  {
+    "quote": "Just as the science and art of agriculture depend upon chemistry and botany, so the art of education depends upon physiology and psychology.",
+    "author": "Edward Thorndike"
+  },
+  {
+    "quote": "My father was my main influence. He was a preacher, but he was also a history and political science teacher, and since he was my hero, I wanted to follow in his footsteps and become a teacher.",
+    "author": "David Soul"
+  },
+  {
+    "quote": "If it's true that our species is alone in the universe, then I'd have to say the universe aimed rather low and settled for very little.",
+    "author": "George Carlin"
+  },
+  {
+    "quote": "Knowledge has three degrees opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.",
+    "author": "Plotinus"
+  },
+  {
+    "quote": "Science means simply the aggregate of all the recipes that are always successful. All the rest is literature.",
+    "author": "Paul Valery"
+  },
+  {
+    "quote": "Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "quote": "The possibilities that are suggested in quantum physics tell us that everything that we're looking at may not be in fact there, so the underlying nature of being is weird.",
+    "author": "William Shatner"
+  },
+  {
+    "quote": "Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.",
+    "author": "Khalil Gibran"
+  },
+  {
+    "quote": "A mind at peace, a mind centered and not focused on harming others, is stronger than any physical force in the universe.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "quote": "Science reckons many prophets, but there is not even a promise of a Messiah.",
+    "author": "Thomas Huxley"
+  },
+  {
+    "quote": "The whole history of science has been the gradual realization that events do not happen in an arbitrary manner, but that they reflect a certain underlying order, which may or may not be divinely inspired.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "quote": "Anybody who has been seriously engaged in scientific work of any kind realizes that over the entrance to the gates of the temple of science are written the words: 'Ye must have faith.'",
+    "author": "Max Planck"
+  },
+  {
+    "quote": "When the sun comes up, I have morals again.",
+    "author": "Elayne Boosler"
+  },
+  {
+    "quote": "Here men from the planet Earth first set foot upon the Moon. July 1969 AD. We came in peace for all mankind.",
+    "author": "Neil Armstrong"
+  },
+  {
+    "quote": "I used to think information was destroyed in black hole. This was my biggest blunder, or at least my biggest blunder in science.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "quote": "Everything is perfect in the universe - even your desire to improve it.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "quote": "I object to a legal approach when settling questions of science or scientific behavior.",
+    "author": "Serge Lang"
+  },
+  {
+    "quote": "The media thinks that you have to make science sexy and concentrate on themes such as rivalry and the human issues.",
+    "author": "James Dyson"
+  },
+  {
+    "quote": "I've loved science fiction ever since I was a little kid, mainly from looking at the covers of science-fiction magazines and books, and I've read quite extensively as an adult.",
+    "author": "Matt Groening"
+  },
+  {
+    "quote": "I think mistakes are the essence of science and law. It's impossible to conceive of either scientific progress or legal progress without understanding the important role of being wrong and of mistakes.",
+    "author": "Alan Dershowitz"
+  },
+  {
+    "quote": "Democracy is the art and science of running the circus from the monkey cage.",
+    "author": "H. L. Mencken"
+  },
+  {
+    "quote": "We sleep, but the loom of life never stops, and the pattern which was weaving when the sun went down is weaving when it comes up in the morning.",
+    "author": "Henry Ward Beecher"
+  },
+  {
+    "quote": "The age of innocent faith in science and technology may be over.",
+    "author": "Barry Commoner"
+  },
+  {
+    "quote": "A body of work such as Pasteur's is inconceivable in our time: no man would be given a chance to create a whole science. Nowadays a path is scarcely opened up when the crowd begins to pour in.",
+    "author": "Jean Rostand"
+  },
+  {
+    "quote": "The whole art of teaching is only the art of awakening the natural curiosity of young minds for the purpose of satisfying it afterwards.",
+    "author": "Anatole France"
+  },
+  {
+    "quote": "Life is not an exact science, it is an art.",
+    "author": "Samuel Butler"
+  },
+  {
+    "quote": "Reason, observation, and experience the holy trinity of science.",
+    "author": "Robert Green Ingersoll"
+  },
+  {
+    "quote": "Wonder, connected with a principle of rational curiosity, is the source of all knowledge and discover, and it is a principle even of piety but wonder which ends in wonder, and is satisfied with wonder, is the quality of an idiot.",
+    "author": "Samuel Horsley"
+  },
+  {
+    "quote": "I hesitate to predict whether this theory is true. But if the general opinion of Mankind is optimistic then we're in for a period of extreme popularity for science fiction.",
+    "author": "David Eddings"
+  },
+  {
+    "quote": "The sun, the moon and the stars would have disappeared long ago... had they happened to be within the reach of predatory human hands.",
+    "author": "Havelock Ellis"
+  },
+  {
+    "quote": "Science is a way of thinking much more than it is a body of knowledge.",
+    "author": "Carl Sagan"
+  },
+  {
+    "quote": "I landed a job with Roger Corman. The job was to write the English dialogue for a Russian science fiction picture. I didn't speak any Russian. He didn't care whether I could understand what they were saying he wanted me to make up dialogue.",
+    "author": "Francis Ford Coppola"
+  },
+  {
+    "quote": "Science gives us knowledge, but only philosophy can give us wisdom.",
+    "author": "Will Durant"
+  },
+  {
+    "quote": "Of all the failed technologies that litter the onward march of science - steam carriages, zeppelins, armoured trains - none has been so catastrophic to prosperity as the last century's attempt to generate electricity from nuclear fission.",
+    "author": "James Buchan"
+  },
+  {
+    "quote": "The growth of technology is such that it is not possible today for a nuclear physicist to switch into medical physics without training. The field is now much more technical. More training is needed to do the job.",
+    "author": "John Cameron"
+  },
+  {
+    "quote": "It is funny that men who are supposed to be scientific cannot get themselves to realise the basic principle of physics, that action and reaction are equal and opposite, that when you persecute people you always rouse them to be strong and stronger.",
+    "author": "Gertrude Stein"
+  },
+  {
+    "quote": "Every science begins as philosophy and ends as art.",
+    "author": "Will Durant"
+  },
+  {
+    "quote": "Science, we are repeatedly told, is the most reliable form of knowledge about the world because it is based on testable hypotheses. Religion, by contrast, is based on faith. The term 'doubting Thomas' well illustrates the difference.",
+    "author": "Paul Davies"
+  },
+  {
+    "quote": "Wisdom alone is the science of other sciences.",
+    "author": "Plato"
+  },
+  {
+    "quote": "You have many years ahead of you to create the dreams that we can't even imagine dreaming. You have done more for the collective unconscious of this planet than you will ever know.",
+    "author": "Steven Spielberg"
+  },
+  {
+    "quote": "A leaf fluttered in through the window this morning, as if supported by the rays of the sun, a bird settled on the fire escape, joy in the task of coffee, joy accompanied me as I walked.",
+    "author": "Anais Nin"
+  },
+  {
+    "quote": "There is one thing even more vital to science than intelligent methods and that is, the sincere desire to find out the truth, whatever it may be.",
+    "author": "Charles Pierce"
+  },
+  {
+    "quote": "The universe is under no obligation to make sense to you.",
+    "author": "Neil deGrasse Tyson"
+  },
+  {
+    "quote": "Science has done more for the development of western civilization in one hundred years than Christianity did in eighteen hundred years.",
+    "author": "John Burroughs"
+  },
+  {
+    "quote": "The capacity to be puzzled is the premise of all creation, be it in art or in science.",
+    "author": "Erich Fromm"
+  },
+  {
+    "quote": "In the Atlantean period there were many energies being used and information and knowledge being used which were, for particular reasons of safety, withdrawn, shall we say, to prevent complete catastrophe, to prevent total destruction of your planet.",
+    "author": "David Icke"
+  },
+  {
+    "quote": "The argument for intelligent design basically depends on saying, 'You haven't answered every question with evolution,'... Well, guess what? Science can't answer every question.",
+    "author": "Kenneth R. Miller"
+  },
+  {
+    "quote": "Art and science have their meeting point in method.",
+    "author": "Edward G. Bulwer-Lytton"
+  },
+  {
+    "quote": "Before a war military science seems a real science, like astronomy but after a war it seems more like astrology.",
+    "author": "Rebecca West"
+  },
+  {
+    "quote": "There are two ways of attaining an important end, force and perseverance the silent power of the latter grows irresistible with time.",
+    "author": "Sophie Swetchine"
+  },
+  {
+    "quote": "Many who have had an opportunity of knowing any more about mathematics confuse it with arithmetic, and consider it an arid science. In reality, however, it is a science which requires a great amount of imagination.",
+    "author": "Sofia Kovalevskaya"
+  },
+  {
+    "quote": "Science knows only one commandment - contribute to science.",
+    "author": "Bertolt Brecht"
+  },
+  {
+    "quote": "Physics does not change the nature of the world it studies, and no science of behavior can change the essential nature of man, even though both sciences yield technologies with a vast power to manipulate the subject matters.",
+    "author": "Pope Paul VI"
+  },
+  {
+    "quote": "We must revisit the idea that science is a methodology and not an ontology.",
+    "author": "Deepak Chopra"
+  },
+  {
+    "quote": "Let me tell you, never before in the history of this planet has anybody made the progress that African-Americans have made in a 30-year period, in spite of many black folks and white folks lying to one another.",
+    "author": "Dick Gregory"
+  },
+  {
+    "quote": "Medicine is a science of uncertainty and an art of probability.",
+    "author": "William Osler"
+  },
+  {
+    "quote": "The method of political science is the interpretation of life its instrument is insight, a nice understanding of subtle, unformulated conditions.",
+    "author": "Woodrow Wilson"
+  },
+  {
+    "quote": "I am a dreamer. Seriously, I'm living on another planet.",
+    "author": "Eva Green"
+  },
+  {
+    "quote": "Intelligence is not a science.",
+    "author": "Frank Carlucci"
+  },
+  {
+    "quote": "Science fiction writers foresee the inevitable, and although problems and catastrophes may be inevitable, solutions are not.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "quote": "The universe is transformation; our life is what our thoughts make it.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Politicians should read science fiction, not westerns and detective stories.",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "quote": "Science is for those who learn, poetry is for those who know.",
+    "author": "Joseph Roux"
+  },
+  {
+    "quote": "I open with a clock striking, to beget an awful attention in the audience - it also marks the time, which is four o clock in the morning, and saves a description of the rising sun, and a great deal about gilding the eastern hemisphere.",
+    "author": "Richard Brinsley Sheridan"
+  },
+  {
+    "quote": "Look up at the stars and not down at your feet.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "quote": "When a scientist is ahead of his times, it is often through misunderstanding of current, rather than intuition of future truth. In science there is never any error so gross that it won't one day, from some perspective, appear prophetic.",
+    "author": "Jean Rostand"
+  },
+  {
+    "quote": "The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.",
+    "author": "Edward Ericson"
+  },
+  {
+    "quote": "Every science has for its basis a system of principles as fixed and unalterable as those by which the universe is regulated and governed. Man cannot make principles he can only discover them.",
+    "author": "Thomas Paine"
+  },
+  {
+    "quote": "More and more NFL players have been willing their bodies to science so that their brains can be studied even if they die of other causes.",
+    "author": "Jeffrey Kluger"
+  },
+  {
+    "quote": "Let both sides seek to invoke the wonders of science instead of its terrors. Together let us explore the stars, conquer the deserts, eradicate disease, tap the ocean depths, and encourage the arts and commerce.",
+    "author": "John F. Kennedy"
+  },
+  {
+    "quote": "Science cannot tell theology how to construct a doctrine of creation, but you can't construct a doctrine of creation without taking account of the age of the universe and the evolutionary character of cosmic history.",
+    "author": "John Polkinghorne"
+  },
+  {
+    "quote": "Despite what anti-aging ads say, growing older can be better. I feel better in my skin, 100 percent. You have greater effects of gravity, but the better sense of yourself you have is something I wouldn't trade. Women who lie about their age - 'why?'",
+    "author": "Demi Moore"
+  },
+  {
+    "quote": "It is a miracle that curiosity survives formal education.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "When I look upon seamen, men of science and philosophers, man is the wisest of all beings when I look upon priests and prophets nothing is as contemptible as man.",
+    "author": "Diogenes"
+  },
+  {
+    "quote": "Germany has reduced savagery to a science, and this great war for the victorious peace of justice must go on until the German cancer is cut clean out of the world body.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "quote": "The stars shall fade away, the sun himself Grow dim with age, and nature sink in years, But thou shalt flourish in immortal youth, Unhurt amidst the wars of elements, The wrecks of matter, and the crush of worlds.",
+    "author": "Joseph Addison"
+  },
+  {
+    "quote": "Unfortunately things are different in climate science because the arguments have become heavily politicised. To say that the dogmas are wrong has become politically incorrect.",
+    "author": "Freeman Dyson"
+  },
+  {
+    "quote": "My dad was always such a frustrated artist. He always worked very hard to support his family, doing a bunch of ridiculous jobs. He wanted to be a painter, but then he also wrote science-fiction novels in his spare time.",
+    "author": "Rainn Wilson"
+  },
+  {
+    "quote": "Economics has never been a science - and it is even less now than a few years ago.",
+    "author": "Paul Samuelson"
+  },
+  {
+    "quote": "Almost everything that distinguishes the modern world from earlier centuries is attributable to science, which achieved its most spectacular triumphs in the seventeenth century.",
+    "author": "Bertrand Russell"
+  },
+  {
+    "quote": "The major obstacle to a religious renewal is the intellectual classes, who are highly influential and tend to view religion as primitive superstition. They believe that science has left atheism as the only respectable intellectual stance.",
+    "author": "Robert Bork"
+  },
+  {
+    "quote": "My Alma mater was books, a good library... I could spend the rest of my life reading, just satisfying my curiosity.",
+    "author": "Malcolm X"
+  },
+  {
+    "quote": "We can lick gravity, but sometimes the paperwork is overwhelming.",
+    "author": "Wernher von Braun"
+  },
+  {
+    "quote": "One of the great questions of philosophy is, do we innately have morality, or do we get it from celestial dictation? A study of the Ten Commandments is a very good way of getting into and resolving that issue.",
+    "author": "Christopher Hitchens"
+  },
+  {
+    "quote": "And time itself? Time was a never-ending medium that stretched into the future and the past - except there was no future and no past, but an infinite number of brackets, extending either way, each bracket enclosing its single phase of the Universe.",
+    "author": "Clifford D. Simak"
+  },
+  {
+    "quote": "People, and especially theologians, should try to familiarize themselves with scientific ideas. Of course, science is technical in many respects, but there are some very good books that try to set out some of the conceptual structure of science.",
+    "author": "John Polkinghorne"
+  },
+  {
+    "quote": "Nature, I have constantly argued in my work, is the real superpower of this godless universe. It is the ultimate disposer of human fate, randomly recarving geography over 10,000-year epochs.",
+    "author": "Camille Paglia"
+  },
+  {
+    "quote": "If you take any world problem, any issue on the planet, the solution to that problem certainly includes education. In education, the roadblock is the laptop.",
+    "author": "Nicholas Negroponte"
+  },
+  {
+    "quote": "The purpose of science is not to analyze or describe but to make useful models of the world. A model is useful if it allows us to get use out of it.",
+    "author": "Edward de Bono"
+  },
+  {
+    "quote": "That attitude does not exist so much today, but in those days there was a very sharp distinction between basic physics and applied physics. Columbia did not deal with applied physics.",
+    "author": "Gordon Gould"
+  },
+  {
+    "quote": "You can have a revolution wherever you like, except in a government office even were the world to come to an end, you'd have to destroy the universe first and then government offices.",
+    "author": "Karel Capek"
+  },
+  {
+    "quote": "People have accused me of being in favor of globalization. This is equivalent to accusing me of being in favor of the sun rising in the morning.",
+    "author": "Clare Short"
+  },
+  {
+    "quote": "Science fiction writers, I am sorry to say, really do not know anything. We can't talk about science, because our knowledge of it is limited and unofficial, and usually our fiction is dreadful.",
+    "author": "Philip K. Dick"
+  },
+  {
+    "quote": "The day of the sun is like the day of a king. It is a promenade in the morning, a sitting on the throne at noon, a pageant in the evening.",
+    "author": "Wallace Stevens"
+  },
+  {
+    "quote": "I want to put a ding in the universe.",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "Go beyond science, into the region of metaphysics. Real religion is beyond argument. It can only be lived both inwardly and outwardly.",
+    "author": "Swami Sivananda"
+  },
+  {
+    "quote": "From now on we live in a world where man has walked on the Moon. It's not a miracle we just decided to go.",
+    "author": "Tom Hanks"
+  },
+  {
+    "quote": "Drill everything, mine everything, roll back regulations, tweak the science, expedite permits. Sound familiar? The Republicans offer up more 19th-Century solutions to our 21st-Century energy problems.",
+    "author": "Jeff Goodell"
+  },
+  {
+    "quote": "For NASA, space is still a high priority.",
+    "author": "Dan Quayle"
+  },
+  {
+    "quote": "We simply do not understand our place in the universe and have not the courage to admit it.",
+    "author": "Barry Lopez"
+  },
+  {
+    "quote": "There are in fact two things, science and opinion the former begets knowledge, the later ignorance.",
+    "author": "Hippocrates"
+  },
+  {
+    "quote": "I was horrible at science and math. I couldn't pass a test to save my life! I'm surprised that it didn't take me until I was 20 to graduate. That's why my role is so cool - Grissom is the complete opposite of me.",
+    "author": "William Petersen"
+  },
+  {
+    "quote": "Science without religion is lame, religion without science is blind.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "For each one of us stands alone in the midst of a universe.",
+    "author": "John Buchanan Robinson"
+  },
+  {
+    "quote": "In Europe art has to a large degree taken the place of religion. In America it seems rather to be science.",
+    "author": "Johan Huizinga"
+  },
+  {
+    "quote": "The monopoly of science in the realm of knowledge explains why evolutionary biologists do not find it meaningful to address the question whether the Darwinian theory is true.",
+    "author": "Phillip E. Johnson"
+  },
+  {
+    "quote": "We were making the first step out of the age of chemistry and physics, and into the age of biology.",
+    "author": "Jeremy Rifkin"
+  },
+  {
+    "quote": "By any reasonable measure of achievement, the faith of the Enlightenment thinkers in science was justified.",
+    "author": "E. O. Wilson"
+  },
+  {
+    "quote": "For whatever reason, I didn't succumb to the stereotype that science wasn't for girls. I got encouragement from my parents. I never ran into a teacher or a counselor who told me that science was for boys. A lot of my friends did.",
+    "author": "Sally Ride"
+  },
+  {
+    "quote": "You cannot, in human experience, rush into the light. You have to go through the twilight into the broadening day before the noon comes and the full sun is upon the landscape.",
+    "author": "Woodrow Wilson"
+  },
+  {
+    "quote": "When you are courting a nice girl an hour seems like a second. When you sit on a red-hot cinder a second seems like an hour. That's relativity.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "One definition of eternity is that we are not alone on this planet, that there are those who've gone before and those who will come, and that there is a community of spirits.",
+    "author": "Rita Dove"
+  },
+  {
+    "quote": "The object of all the former voyages to the South Seas undertaken by the command of his present majesty, has been the advancement of science and the increase of knowledge.",
+    "author": "William Bligh"
+  },
+  {
+    "quote": "Physics is experience, arranged in economical order.",
+    "author": "Ernst Mach"
+  },
+  {
+    "quote": "The sun is new each day.",
+    "author": "Heraclitus"
+  },
+  {
+    "quote": "All science is either physics or stamp collecting.",
+    "author": "Ernest Rutherford"
+  },
+  {
+    "quote": "If we long to believe that the stars rise and set for us, that we are the reason there is a Universe, does science do us a disservice in deflating our conceits?",
+    "author": "Carl Sagan"
+  },
+  {
+    "quote": "We are learning more about the humanity of the unborn child. Science and truth support the prolife movement.",
+    "author": "Candice S. Miller"
+  },
+  {
+    "quote": "Science without respect for human life is degrading to us all and reflects a hollow and deceptive philosophy, a philosophy that we as a people should never condone.",
+    "author": "Nathan Deal"
+  },
+  {
+    "quote": "Children rarely want to know who their parents were before they were parents, and when age finally stirs their curiosity, there is no parent left to tell them.",
+    "author": "Russell Baker"
+  },
+  {
+    "quote": "Children are remarkable for their intelligence and ardor, for their curiosity, their intolerance of shams, the clarity and ruthlessness of their vision.",
+    "author": "Aldous Huxley"
+  },
+  {
+    "quote": "Doing a documentary is about discovering, being open, learning, and following curiosity.",
+    "author": "Spike Jonze"
+  },
+  {
+    "quote": "Formerly, when religion was strong and science weak, men mistook magic for medicine now, when science is strong and religion weak, men mistake medicine for magic.",
+    "author": "Thomas Szasz"
+  },
+  {
+    "quote": "It is reasonable to expect the doctor to recognize that science may not have all the answers to problems of health and healing.",
+    "author": "Norman Cousins"
+  },
+  {
+    "quote": "Don't pray when it rains if you don't pray when the sun shines.",
+    "author": "Satchel Paige"
+  },
+  {
+    "quote": "Christmas renews our youth by stirring our wonder. The capacity for wonder has been called our most pregnant human faculty, for in it are born our art, our science, our religion.",
+    "author": "Ralph W. Sockman"
+  },
+  {
+    "quote": "Fudging the data in any way whatsoever is quite literally a sin against the holy ghost of science. I'm not religious, but I put it that way because I feel so strongly. It's the one thing you do not ever do. You've got to have standards.",
+    "author": "James Lovelock"
+  },
+  {
+    "quote": "The day will dawn when all the people of Ireland will have the desire for freedom to show. It is then we'll see the rising of the moon.",
+    "author": "Bobby Sands"
+  },
+  {
+    "quote": "Well, I've always thought that my career was in England, really. I used to do more in the theatre, and I felt that I should be there. It's not far is it? It's amazing the way that special FX have taken a quantum leap in what they're capable of doing.",
+    "author": "Albert Finney"
+  },
+  {
+    "quote": "The cure for boredom is curiosity. There is no cure for curiosity.",
+    "author": "Ellen Parr"
+  },
+  {
+    "quote": "Well, logos is science or reason, something that helps us to function practically and effectively in the world, and it must therefore be closely in tune and reflect accurately the realities of the world around us.",
+    "author": "Karen Armstrong"
+  },
+  {
+    "quote": "Loads of chemicals and hazardous wastes have been introduced into the atmosphere that didn't even exist in 1948. The environmental condition of the planet is far worse than it was 42 years ago.",
+    "author": "Gaylord Nelson"
+  },
+  {
+    "quote": "New discoveries in science will continue to create a thousand new frontiers for those who still would adventure.",
+    "author": "Herbert Hoover"
+  },
+  {
+    "quote": "The wealthy are always surrounded by hangers-on science and art are as well.",
+    "author": "Anton Chekhov"
+  },
+  {
+    "quote": "Science commits suicide when it adopts a creed.",
+    "author": "Thomas Huxley"
+  },
+  {
+    "quote": "Faith is an island in the setting sun, But proof is the bottom line for everyone.",
+    "author": "Paul Simon"
+  },
+  {
+    "quote": "If we take science as our sole guide, if we accept and hold fast that alone which is verifiable, the old theology must go.",
+    "author": "John Burroughs"
+  },
+  {
+    "quote": "No delusion is greater than the notion that method and industry can make up for lack of mother-wit, either in science or in practical life.",
+    "author": "Thomas Huxley"
+  },
+  {
+    "quote": "Vanity of science. Knowledge of physical science will not console me for ignorance of morality in time of affliction, but knowledge of morality will always console me for ignorance of physical science.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "quote": "I hate science fiction.",
+    "author": "James Dyson"
+  },
+  {
+    "quote": "I feel good in my own skin because I've accepted the fact that I'm me. That's what's so great about being alive and being on this planet: Everybody's different.",
+    "author": "Kelly Osbourne"
+  },
+  {
+    "quote": "I don't think humor is forced upon my universe it's a part of it.",
+    "author": "Manuel Puig"
+  },
+  {
+    "quote": "We tried war, we tried aggression, we tried intervention. None of it works. Why don't we try peace, as a science of human relations, not as some vague notion - as everyday work.",
+    "author": "Dennis Kucinich"
+  },
+  {
+    "quote": "Space or science fiction has become a dialect for our time.",
+    "author": "Doris Lessing"
+  },
+  {
+    "quote": "I went to college at the University of Kansas, where I got a degree in political science.",
+    "author": "Sara Paretsky"
+  },
+  {
+    "quote": "Every great advance in science has issued from a new audacity of imagination.",
+    "author": "John Dewey"
+  },
+  {
+    "quote": "Wherever on this planet ideals of personal freedom and dignity apply, there you will find the cultural inheritance of England.",
+    "author": "Karel Capek"
+  },
+  {
+    "quote": "In the sick room, ten cents' worth of human understanding equals ten dollars' worth of medical science.",
+    "author": "Martin H. Fischer"
+  },
+  {
+    "quote": "Science may eventually explain the world of How. The ultimate world of Why may remain for contemplation, philosophy, religion.",
+    "author": "Liberty Hyde Bailey"
+  },
+  {
+    "quote": "True science is never speculative it employs hypotheses as suggesting points for inquiry, but it never adopts the hypotheses as though they were demonstrated propositions.",
+    "author": "Cleveland Abbe"
+  },
+  {
+    "quote": "Everything is becoming science fiction. From the margins of an almost invisible literature has sprung the intact reality of the 20th century.",
+    "author": "J. G. Ballard"
+  },
+  {
+    "quote": "Honest pioneer work in the field of science has always been, and will continue to be, life's pilot. On all sides, life is surrounded by hostility. This puts us under an obligation.",
+    "author": "Wilhelm Reich"
+  },
+  {
+    "quote": "When Honor's sun declines, and Wealth takes wings, Then Learning shines, the best of precious things.",
+    "author": "Edward Cocker"
+  },
+  {
+    "quote": "To attempt this would be like seeing without eyes or directing the gaze of knowledge behind one's own eye. Modern science can acknowledge no other than this epistemological stand-point.",
+    "author": "Wilhelm Dilthey"
+  },
+  {
+    "quote": "Advances in science and medical research and public health policies have meant that life expectancy for Australians is one of the highest in the world.",
+    "author": "Julie Bishop"
+  },
+  {
+    "quote": "What's different here is that we have now technologies that allow these life science companies to bypass classical breeding. That's what makes it both powerful and exciting.",
+    "author": "Jeremy Rifkin"
+  },
+  {
+    "quote": "A powerful attraction exists, therefore, to the promotion of a study and of duties of all others engrossing the time most completely, and which is less benefited than most others by any acquaintance with science.",
+    "author": "Charles Babbage"
+  },
+  {
+    "quote": "Moral science is better occupied when treating of friendship than of justice.",
+    "author": "Thomas Aquinas"
+  },
+  {
+    "quote": "I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.",
+    "author": "C. S. Lewis"
+  },
+  {
+    "quote": "Both the man of science and the man of action live always at the edge of mystery, surrounded by it.",
+    "author": "J. Robert Oppenheimer"
+  },
+  {
+    "quote": "They can shout down the head of the physics department at Cal Tech.",
+    "author": "James Stockdale"
+  },
+  {
+    "quote": "However far modern science and techniques have fallen short of their inherent possibilities, they have taught mankind at least one lesson nothing is impossible.",
+    "author": "Lewis Mumford"
+  },
+  {
+    "quote": "Is there anything science should not try to explain? Science is knowledge and knowledge is power - power to do good or evil. Sometimes ignorance is bliss.",
+    "author": "Paul Davies"
+  },
+  {
+    "quote": "Much of today's public anxiety about science is the apprehension that we may forever be overlooking the whole by an endless, obsessive preoccupation with the parts.",
+    "author": "Lewis Thomas"
+  },
+  {
+    "quote": "As you simplify your life, the laws of the universe will be simpler solitude will not be solitude, poverty will not be poverty, nor weakness weakness.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "quote": "Americans are the most generous country on the planet. I've worked in Europe, I've worked in Australia. There is no where else where you get absolutely no attitude for being a foreigner. If you do your job well, they embrace you.",
+    "author": "Hugh Jackman"
+  },
+  {
+    "quote": "We've arranged a civilization in which most crucial elements profoundly depend on science and technology.",
+    "author": "Carl Sagan"
+  },
+  {
+    "quote": "I do a lot of curiosity buying I buy it if I like the album cover, I buy it if I like the name of the band, anything that sparks my imagination.",
+    "author": "Bruce Springsteen"
+  },
+  {
+    "quote": "The foundation of empire is art and science. Remove them or degrade them, and the empire is no more. Empire follows art and not vice versa as Englishmen suppose.",
+    "author": "William Blake"
+  },
+  {
+    "quote": "It is through science that we prove, but through intuition that we discover.",
+    "author": "Jules Poincare"
+  },
+  {
+    "quote": "The scientific theory I like best is that the rings of Saturn are composed entirely of lost airline luggage.",
+    "author": "Mark Russell"
+  },
+  {
+    "quote": "President Obama promised to begin to slow the rise of the oceans and heal the planet. My promise... is to help you and your family.",
+    "author": "Mitt Romney"
+  },
+  {
+    "quote": "There's no question that as science, knowledge and technology advance, that we will attempt to do more significant things. And there's no question that we will always have to temper those things with ethics.",
+    "author": "Benjamin Carson"
+  },
+  {
+    "quote": "I don't know anything about science.",
+    "author": "Rachel Weisz"
+  },
+  {
+    "quote": "Perhaps it would be better for science, that all criticism should be avowed.",
+    "author": "Charles Babbage"
+  },
+  {
+    "quote": "You cannot look up at the night sky on the Planet Earth and not wonder what it's like to be up there amongst the stars. And I always look up at the moon and see it as the single most romantic place within the cosmos.",
+    "author": "Tom Hanks"
+  },
+  {
+    "quote": "We are the miracle of force and matter making itself over into imagination and will. Incredible. The Life Force experimenting with forms. You for one. Me for another. The Universe has shouted itself alive. We are one of the shouts.",
+    "author": "Ray Bradbury"
+  },
+  {
+    "quote": "Advertising is fundamentally persuasion and persuasion happens to be not a science, but an art.",
+    "author": "William Bernbach"
+  },
+  {
+    "quote": "When science, art, literature, and philosophy are simply the manifestation of personality they are on a level where glorious and dazzling achievements are possible, which can make a man's name live for thousands of years.",
+    "author": "Denis Diderot"
+  },
+  {
+    "quote": "If civilization is to survive, we must cultivate the science of human relationships - the ability of all peoples, of all kinds, to live together, in the same world at peace.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "quote": "Science is nothing but perception.",
+    "author": "Plato"
+  },
+  {
+    "quote": "Nothing is less important than which fork you use. Etiquette is the science of living. It embraces everything. It is ethics. It is honor.",
+    "author": "Emily Post"
+  },
+  {
+    "quote": "I have a lot of plants and fish and a pet lizard and Venus flytraps. I have a whole ecosystem in my room, like a running waterfall and different lights and sensors set on digital timers.",
+    "author": "Chris Pratt"
+  },
+  {
+    "quote": "The historical development of the work of anthropologists seems to single out clearly a domain of knowledge that heretofore has not been treated by any other science.",
+    "author": "Franz Boas"
+  },
+  {
+    "quote": "The human brain now holds the key to our future. We have to recall the image of the planet from outer space: a single entity in which air, water, and continents are interconnected. That is our home.",
+    "author": "David Suzuki"
+  },
+  {
+    "quote": "Bad religion is arrogant, self-righteous, dogmatic and intolerant. And so is bad science. But unlike religious fundamentalists, scientific fundamentalists do not realize that their opinions are based on faith. They think they know the truth.",
+    "author": "Rupert Sheldrake"
+  },
+  {
+    "quote": "Every great advance in science has issued from a new audacity of the imagination.",
+    "author": "John Dewey"
+  },
+  {
+    "quote": "The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'",
+    "author": "Isaac Asimov"
+  },
+  {
+    "quote": "If you start any large theory, such as quantum mechanics, plate tectonics, evolution, it takes about 40 years for mainstream science to come around. Gaia has been going for only 30 years or so.",
+    "author": "James Lovelock"
+  },
+  {
+    "quote": "I'm an amateur science enthusiast. I'm not even a professional enthusiast. I don't know anything I never even passed biology in high school. But I read the science section of the newspaper.",
+    "author": "Dave Eggers"
+  },
+  {
+    "quote": "The earth is supported by the power of truth it is the power of truth that makes the sun shine and the winds blow indeed all things rest upon truth.",
+    "author": "Chanakya"
+  },
+  {
+    "quote": "Science and literature are not two things, but two sides of one thing.",
+    "author": "Thomas Huxley"
+  },
+  {
+    "quote": "The nineteenth century believed in science but the twentieth century does not.",
+    "author": "Gertrude Stein"
+  },
+  {
+    "quote": "The development of the telescope, together with increased knowledge of things, brought men to see that the earth is not what man had once thought it to be.",
+    "author": "Joseph Franklin Rutherford"
+  },
+  {
+    "quote": "Perhaps, to the uninformed, it may appear unaccountable that a man should be able to retain in his memory such a variety of learning but the close alliance with each other, of the different branches of science, will explain the difficulty.",
+    "author": "Marcus V. Pollio"
+  },
+  {
+    "quote": "I feel blessed to be here representing our country and carrying out th research of scientists around the world... I hope you could feel the positive energy that beamed to the whole planet as we glided over.",
+    "author": "Laurel Clark"
+  },
+  {
+    "quote": "When I began in 1960, individuality wasn't an accepted thing to look for it was about species-specific behaviour. But animal behaviour is not hard science. There's room for intuition.",
+    "author": "Jane Goodall"
+  },
+  {
+    "quote": "Many of the mainstream agricultural scientists, especially at the agricultural schools, but at all of our major universities, are tied into all sorts of contractual relationships and consulting relationships with the life science companies.",
+    "author": "Jeremy Rifkin"
+  },
+  {
+    "quote": "I did, although I didn't read from page 1 to page 187 but I read chunks of it. I did a little bit of science when I was in the university so I was able to understand the graphs and pie charts and stuff like that. It was extremely dry.",
+    "author": "Liam Neeson"
+  },
+  {
+    "quote": "Science is organized common sense where many a beautiful theory was killed by an ugly fact.",
+    "author": "Thomas Huxley"
+  },
+  {
+    "quote": "Public discourse has been polluted now for decades by corporate-funded disinformation - not just with climate change but with a host of health, environmental and societal threats. The implications for the planet are grim.",
+    "author": "Michael E. Mann"
+  },
+  {
+    "quote": "Imagination is the key to my lyrics. The rest is painted with a little science fiction.",
+    "author": "Jimi Hendrix"
+  },
+  {
+    "quote": "The realm of immediate or personal knowledge is a narrow circle in which these bodies move the realm of knowledge derived through faith is as wide as the universe, and old as eternity.",
+    "author": "Matthew Simpson"
+  },
+  {
+    "quote": "Medicine is not only a science it is also an art. It does not consist of compounding pills and plasters it deals with the very processes of life, which must be understood before they may be guided.",
+    "author": "Paracelsus"
+  },
+  {
+    "quote": "Men shut their doors against a setting sun.",
+    "author": "William Shakespeare"
+  },
+  {
+    "quote": "My own dreams fortunately came true in this great state. I became Mr. Universe I became a successful businessman. And even though some people say I still speak with a slight accent, I have reached the top of the acting profession.",
+    "author": "Arnold Schwarzenegger"
+  },
+  {
+    "quote": "Science is spectral analysis. Art is light synthesis.",
+    "author": "Karl Kraus"
+  },
+  {
+    "quote": "Science is the great antidote to the poison of enthusiasm and superstition.",
+    "author": "Adam Smith"
+  },
+  {
+    "quote": "Einstein was searching for String Theory. It not only reconciles General Relativity to Quantum Mechanics, but it reconciles Science and the Bible as well.",
+    "author": "Roy H. Williams"
+  },
+  {
+    "quote": "Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is.",
+    "author": "Douglas Adams"
+  },
+  {
+    "quote": "There is no wider gulf in the universe than yawns between those on the hither and thither side of vital experience.",
+    "author": "Rebecca West"
+  },
+  {
+    "quote": "I'm concentrating on staying healthy, having peace, being happy, remembering what is important, taking in nature and animals, spending time reading, trying to understand the universe, where science and the spiritual meet.",
+    "author": "Joan Jett"
+  },
+  {
+    "quote": "The most beautiful thing we can experience is the mysterious. It is the source of all true art and science.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Dreaming in public is an important part of our job description, as science writers, but there are bad dreams as well as good dreams. We're dreamers, you see, but we're also realists, of a sort.",
+    "author": "William Gibson"
+  },
+  {
+    "quote": "The universe is an intelligence test.",
+    "author": "Timothy Leary"
+  },
+  {
+    "quote": "Observation is a passive science, experimentation an active science.",
+    "author": "Claude Bernard"
+  },
+  {
+    "quote": "A member must say that he is a member of the Unification Church and that he is the follower of Sun Myung Moon. If he doesn't have the courage to say it, he is not worthy of me.",
+    "author": "Sun Myung Moon"
+  },
+  {
+    "quote": "I very much enjoyed my career in science. I didn't leave science because I was disillusioned, but felt I'd done my bit for it after about twenty-five years.",
+    "author": "John Polkinghorne"
+  },
+  {
+    "quote": "There does not exist a category of science to which one can give the name applied science. There are science and the applications of science, bound together as the fruit of the tree which bears it.",
+    "author": "Louis Pasteur"
+  },
+  {
+    "quote": "The usual approach of science of constructing a mathematical model cannot answer the questions of why there should be a universe for the model to describe. Why does the universe go to all the bother of existing?",
+    "author": "Stephen Hawking"
+  },
+  {
+    "quote": "The point here is that physics followed the data where it seemed to lead, even though some thought the model gave aid and comfort to religion.",
+    "author": "Michael Behe"
+  },
+  {
+    "quote": "Loss and possession, death and life are one, There falls no shadow where there shines no sun.",
+    "author": "Hilaire Belloc"
+  },
+  {
+    "quote": "When I was a boy, the Sioux owned the world. The sun rose and set on their land they sent ten thousand men to battle. Where are the warriors today? Who slew them? Where are our lands? Who owns them?",
+    "author": "Sitting Bull"
+  },
+  {
+    "quote": "Science has fulfilled her function when she has ascertained and enunciated truth.",
+    "author": "Thomas Huxley"
+  },
+  {
+    "quote": "The universe is governed by science. But science tells us that we can't solve the equations, directly in the abstract.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "quote": "The most important thing we can do is inspire young minds and to advance the kind of science, math and technology education that will help youngsters take us to the next phase of space travel.",
+    "author": "John Glenn"
+  },
+  {
+    "quote": "To me there has never been a higher source of earthly honor or distinction than that connected with advances in science.",
+    "author": "Isaac Newton"
+  },
+  {
+    "quote": "There can be no truce between science and religion.",
+    "author": "John B. S. Haldane"
+  },
+  {
+    "quote": "My mom introduced me to science-fiction.",
+    "author": "Logan Marshall-Green"
+  },
+  {
+    "quote": "I have seen the science I worshiped, and the aircraft I loved, destroying the civilization I expected them to serve.",
+    "author": "Charles Lindbergh"
+  },
+  {
+    "quote": "The best thing about science is that hard, empirical answers are always there if you look hard enough. The best thing about religion is that the very absence of that certainty is what requires - and gives rise to - deep feelings of faith.",
+    "author": "Jeffrey Kluger"
+  },
+  {
+    "quote": "Life must be lived and curiosity kept alive. One must never, for whatever reason, turn his back on life.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "quote": "According to materialistic science, any memory requires a material substrate, such as the neuronal network in the brain or the DNA molecules of the genes.",
+    "author": "Stanislav Grof"
+  },
+  {
+    "quote": "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "quote": "Form your life humanly, and you have done enough: but you will never reach the height of art and the depth of science without something divine.",
+    "author": "Karl Wilhelm Friedrich Schlegel"
+  },
+  {
+    "quote": "Happiness exists on earth, and it is won through prudent exercise of reason, knowledge of the harmony of the universe, and constant practice of generosity.",
+    "author": "Jose Marti"
+  },
+  {
+    "quote": "Very few recognize science as the high adventure it really is, the wildest of all explorations ever taken by human beings, the chance to glimpse things never seen before, the shrewdest maneuver for discovering how the world works.",
+    "author": "Lewis Thomas"
+  },
+  {
+    "quote": "Courage and perseverance have a magical talisman, before which difficulties disappear and obstacles vanish into air.",
+    "author": "John Quincy Adams"
+  },
+  {
+    "quote": "The experience of being in space didn't change my perspective of myself or of the planet or of life. I had no spiritual experience.",
+    "author": "Sally Ride"
+  },
+  {
+    "quote": "The light which puts out our eyes is darkness to us. Only that day dawns to which we are awake. There is more day to dawn. The sun is but a morning star.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "quote": "Science fiction, outside of poetry, is the only literary field which has no limits, no parameters whatsoever.",
+    "author": "Theodore Sturgeon"
+  },
+  {
+    "quote": "I believe that the quantum of our knowledge will increase considerably in the coming years and that scientists will continue to be amongst the brave voices speaking out.",
+    "author": "Peter Garrett"
+  },
+  {
+    "quote": "The world of science and the world of literature have much in common. Each is an international club, helping to tie mankind together across barriers of nationality, race and language. I have been doubly lucky, being accepted as a member of both.",
+    "author": "Freeman Dyson"
+  },
+  {
+    "quote": "Of all that is good, sublimity is supreme. Succeeding is the coming together of all that is beautiful. Furtherance is the agreement of all that is just. Perseverance is the foundation of all actions.",
+    "author": "Lao Tzu"
+  },
+  {
+    "quote": "Imagination is as vital to any advance in science as learning and precision are essential for starting points.",
+    "author": "Percival Lowell"
+  },
+  {
+    "quote": "It vexes me when they would constrain science by the authority of the Scriptures, and yet do not consider themselves bound to answer reason and experiment.",
+    "author": "Galileo Galilei"
+  },
+  {
+    "quote": "'Snow White' is an old fairy tale, so obviously the idea of vanity and obsession with youth is long-standing. With today's science, people have become crazy with trying to move their face around. It's bizarre.",
+    "author": "Julia Roberts"
+  },
+  {
+    "quote": "I don't see this planet being... they're talking about how they're turning around the environmental problems here, but I think it's already too late.",
+    "author": "Ace Frehley"
+  },
+  {
+    "quote": "Civilization has given us enormous successes: going to the moon, technology. But then this is the civilisation that took us to debt, environmental crisis, every single crisis. We need a civilization where we say goodbye to these things.",
+    "author": "Muhammad Yunus"
+  },
+  {
+    "quote": "The four building blocks of the universe are fire, water, gravel and vinyl.",
+    "author": "Dave Barry"
+  },
+  {
+    "quote": "I wanted to be an astronaut and wanted to go to space camp, but then I found out that I was too short to become an astronaut. My mom really made me believe that if I worked hard enough and if I really wanted to do it, I could do it.",
+    "author": "Soleil Moon Frye"
+  },
+  {
+    "quote": "I don't think any other city in the world... the sun doesn't shine the same way anywhere as it does in New York. And then I guess everyone's very good at hanging out. Not in a crazy way, but you're just constantly interacting and learning.",
+    "author": "Ben Lovett"
+  },
+  {
+    "quote": "Everything in the universe goes by indirection. There are no straight lines.",
+    "author": "Ralph Emerson"
+  },
+  {
+    "quote": "Science is the father of knowledge, but opinion breeds ignorance.",
+    "author": "Hippocrates"
+  },
+  {
+    "quote": "I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.",
+    "author": "Amy Tan"
+  },
+  {
+    "quote": "We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.",
+    "author": "Carl Sagan"
+  },
+  {
+    "quote": "Without consciousness and intelligence, the universe would lack meaning.",
+    "author": "Clifford D. Simak"
+  },
+  {
+    "quote": "Unlike scientism, science in the true sense of the word is open to unbiased investigation of any existing phenomena.",
+    "author": "Stanislav Grof"
+  },
+  {
+    "quote": "I look for what needs to be done. After all, that's how the universe designs itself.",
+    "author": "R. Buckminster Fuller"
+  },
+  {
+    "quote": "What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk.",
+    "author": "Marcus Tullius Cicero"
+  },
+  {
+    "quote": "I am one of those scientists who feels that it is no longer enough just to get on and do science. We have to devote a significant proportion of our time and resources to defending it from deliberate attack from organised ignorance.",
+    "author": "Richard Dawkins"
+  },
+  {
+    "quote": "We know from science that nothing in the universe exists as an isolated or independent entity.",
+    "author": "Margaret Wheatley"
+  },
+  {
+    "quote": "The object of pure physics is the unfolding of the laws of the intelligible world the object of pure mathematics that of unfolding the laws of human intelligence.",
+    "author": "James Joseph Sylvester"
+  },
+  {
+    "quote": "How glorious a greeting the sun gives the mountains!",
+    "author": "John Muir"
+  },
+  {
+    "quote": "Imagine a world in which every single person on the planet is given free access to the sum of all human knowledge. That's what we're doing.",
+    "author": "Jimmy Wales"
+  },
+  {
+    "quote": "Following the light of the sun, we left the Old World.",
+    "author": "Christopher Columbus"
+  },
+  {
+    "quote": "The conscious mind may be compared to a fountain playing in the sun and falling back into the great subterranean pool of subconscious from which it rises.",
+    "author": "Sigmund Freud"
+  },
+  {
+    "quote": "Science is a first-rate piece of furniture for a man's upper chamber, if he has common sense on the ground floor.",
+    "author": "Oliver Wendell Holmes"
+  },
+  {
+    "quote": "To bathe a cat takes brute force, perseverance, courage of conviction - and a cat. The last ingredient is usually hardest to come by.",
+    "author": "Stephen Baker"
+  },
+  {
+    "quote": "I served the famous professors and scholars, and eventually they learned that the Reverend Moon is superior to them. Even Nobel laureate academics who thought they were at the center of knowledge are as nothing in front of me.",
+    "author": "Sun Myung Moon"
+  },
+  {
+    "quote": "The whole of science is nothing more than a refinement of everyday thinking.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Science coverage could be improved by the recognition that science is timeless, and therefore science stories should not need to be pegged to an item in the news.",
+    "author": "Richard Dawkins"
+  },
+  {
+    "quote": "My mother was the sweetest lady who ever lived on this planet, but if you tried to tell her that Jesus wasn't a Christian, she would stomp you to death.",
+    "author": "Dick Gregory"
+  },
+  {
+    "quote": "The most wonderful discovery made by scientists is science itself.",
+    "author": "Jacob Bronowski"
+  },
+  {
+    "quote": "Similarly, another famous little quantum fluctuation that programs you is the exact configuration of your DNA.",
+    "author": "Seth Lloyd"
+  },
+  {
+    "quote": "To those who have chosen the profession of medicine, a knowledge of chemistry, and of some branches of natural history, and, indeed, of several other departments of science, affords useful assistance.",
+    "author": "Charles Babbage"
+  },
+  {
+    "quote": "A fool's brain digests philosophy into folly, science into superstition, and art into pedantry. Hence University education.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "quote": "Science and technology multiply around us. To an increasing extent they dictate the languages in which we speak and think. Either we use those languages, or we remain mute.",
+    "author": "J. G. Ballard"
+  },
+  {
+    "quote": "Rocket science is tough, and rockets have a way of failing.",
+    "author": "Sally Ride"
+  },
+  {
+    "quote": "The humanities need to be defended today against the encroachments of physical science, as they once needed to be against the encroachment of theology.",
+    "author": "Irving Babbitt"
+  },
+  {
+    "quote": "You will certainly not doubt the necessity of studying astronomy and physics, if you are desirous of comprehending the relation between the world and Providence as it is in reality, and not according to imagination.",
+    "author": "Maimonides"
+  },
+  {
+    "quote": "This means that to entrust to science - or to deliberate control according to scientific principles - more than scientific method can achieve may have deplorable effects.",
+    "author": "Friedrich August von Hayek"
+  },
+  {
+    "quote": "It is an interesting fact that during my tour I was never allowed access to computers, radios, or anything else that I might damage through curiosity, or perhaps something more sinister.",
+    "author": "Robert B. Laughlin"
+  },
+  {
+    "quote": "I was always very interested in science, and I knew that for me, science was a better long-term career than tennis.",
+    "author": "Sally Ride"
+  },
+  {
+    "quote": "Modern science cannot explain why the laws of physics are exactly balanced for animal life to exist.",
+    "author": "Robert Lanza"
+  },
+  {
+    "quote": "The wise man regulates his conduct by the theories both of religion and science. But he regards these theories not as statements of ultimate fact but as art-forms.",
+    "author": "John B. S. Haldane"
+  },
+  {
+    "quote": "No matter how vast, how total, the failure of man here on earth, the work of man will be resumed elsewhere. War leaders talk of resuming operations on this front and that, but man's front embraces the whole universe.",
+    "author": "Henry Miller"
+  },
+  {
+    "quote": "In both religion and science, some people are dishonest, exploitative, incompetent and exhibit other human failings.",
+    "author": "Rupert Sheldrake"
+  },
+  {
+    "quote": "There is only one corner of the universe you can be certain of improving, and that's your own self.",
+    "author": "Aldous Huxley"
+  },
+  {
+    "quote": "As long as men are free to ask what they must, free to say what they think, free to think what they will, freedom can never be lost and science can never regress.",
+    "author": "Marcel Proust"
+  },
+  {
+    "quote": "Hydrogen holds great promise to meet many of our future energy needs, and it addresses national security and our environmental concerns. Hydrogen is the simplest, most abundant element in the universe.",
+    "author": "Dan Lipinski"
+  },
+  {
+    "quote": "Ayurveda is a sister philosophy to yoga. It is the science of life or longevity and it teaches about the power and the cycles of nature, as well as the elements.",
+    "author": "Christy Turlington"
+  },
+  {
+    "quote": "I started out writing much more science fictiony stuff and writing about science fiction.",
+    "author": "Neil Gaiman"
+  },
+  {
+    "quote": "Women tend to be more intuitive, or to admit to being intuitive, and maybe the hard science approach isn't so attractive. The way that science is taught is very cold. I would never have become a scientist if I had been taught like that.",
+    "author": "Jane Goodall"
+  },
+  {
+    "quote": "There is no gilding of setting sun or glamor of poetry to light up the ferocious and endless toil of the farmers' wives.",
+    "author": "Hamlin Garland"
+  },
+  {
+    "quote": "The pursuit of science leads only to the insoluble.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "quote": "Neither the sun nor death can be looked at with a steady eye.",
+    "author": "Francois de La Rochefoucauld"
+  },
+  {
+    "quote": "Journey with me to a true commitment to our environment. Journey with me to the serenity of leaving to our children a planet in equilibrium.",
+    "author": "Paul Tsongas"
+  },
+  {
+    "quote": "The march of science and technology does not imply growing intellectual complexity in the lives of most people. It often means the opposite.",
+    "author": "Thomas Sowell"
+  },
+  {
+    "quote": "Amazingly when you add life and consciousness to the equation you can actually explain some of the biggest puzzles of science.",
+    "author": "Robert Lanza"
+  },
+  {
+    "quote": "Wherever men and women are persecuted because of their race, religion, or political views, that place must - at that moment - become the center of the universe.",
+    "author": "Elie Wiesel"
+  },
+  {
+    "quote": "Philosophers have not kept up with modern developments in science. Particularly physics.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "quote": "We've made science experiments of ourselves and our children.",
+    "author": "Jonathan Safran Foer"
+  },
+  {
+    "quote": "Perseverance is not a long race it is many short races one after the other.",
+    "author": "Walter Elliot"
+  },
+  {
+    "quote": "Living here on Earth, we breathe the rhythms of a universe that extends infinitely above us. When resonant harmonies arise between this vast outer cosmos and the inner human cosmos, poetry is born.",
+    "author": "Daisaku Ikeda"
+  },
+  {
+    "quote": "Woman is the sun, an extraordinary creature, one that makes the imagination gallop.",
+    "author": "Marcello Mastroianni"
+  },
+  {
+    "quote": "I learned patience, perseverance, and dedication. Now I really know myself, and I know my voice. It's a voice of pain and victory.",
+    "author": "Anthony Hamilton"
+  },
+  {
+    "quote": "You can be the moon and still be jealous of the stars.",
+    "author": "Gary Allan"
+  },
+  {
+    "quote": "Old age, calm, expanded, broad with the haughty breadth of the universe, old age flowing free with the delicious near-by freedom of death.",
+    "author": "Edith Wharton"
+  },
+  {
+    "quote": "From all this it follows what the general character of the problem of the development of a body of scientific knowledge is, in so far as it depends on elements internal to science itself.",
+    "author": "Talcott Parsons"
+  },
+  {
+    "quote": "Never tell me the sky’s the limit when there are footprints on the moon.",
+    "author": "Unknown"
+  },
+  {
+    "quote": "My entry into the environmental arena was through the issue that so dramatically - and destructively - demonstrates the link between science and social action: nuclear weapons.",
+    "author": "Barry Commoner"
+  },
+  {
+    "quote": "Science has nothing to be ashamed of even in the ruins of Nagasaki. The shame is theirs who appeal to other values than the human imaginative values which science has evolved.",
+    "author": "Jacob Bronowski"
+  },
+  {
+    "quote": "Every day I try to be in communication with the universe in an unconscious way.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "quote": "The church saves sinners, but science seeks to stop their manufacture.",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "quote": "Mythology and science both extend the scope of human beings. Like science and technology, mythology, as we shall see, is not about opting out of this world, but about enabling us to live more intensely within it.",
+    "author": "Karen Armstrong"
+  },
+  {
+    "quote": "Individual science fiction stories may seem as trivial as ever to the blinder critics and philosophers of today - but the core of science fiction, its essence has become crucial to our salvation if we are to be saved at all.",
+    "author": "Isaac Asimov"
+  },
+  {
+    "quote": "But perhaps the rest of us could have separate classes in science appreciation, the wonder of science, scientific ways of thinking, and the history of scientific ideas, rather than laboratory experience.",
+    "author": "Richard Dawkins"
+  },
+  {
+    "quote": "Soon I knew the craft of experimental physics was beyond me - it was the sublime quality of patience - patience in accumulating data, patience with recalcitrant equipment - which I sadly lacked.",
+    "author": "Abdus Salam"
+  },
+  {
+    "quote": "Freedom is absolutely necessary for the progress in science and the liberal arts.",
+    "author": "Baruch Spinoza"
+  },
+  {
+    "quote": "We owe at least this much to future generations, from whom we have borrowed a fragile planet called Earth.",
+    "author": "Maurice Strong"
+  },
+  {
+    "quote": "Intelligent life on a planet comes of age when it first works out the reason for its own existence.",
+    "author": "Richard Dawkins"
+  },
+  {
+    "quote": "The natural state of motherhood is unselfishness. When you become a mother, you are no longer the center of your own universe. You relinquish that position to your children.",
+    "author": "Jessica Lange"
+  },
+  {
+    "quote": "The surest sign that intelligent life exists elsewhere in the universe is that it has never tried to contact us.",
+    "author": "Bill Watterson"
+  },
+  {
+    "quote": "The work of science is to substitute facts for appearances, and demonstrations for impressions.",
+    "author": "John Ruskin"
+  },
+  {
+    "quote": "Never respect men merely for their riches, but rather for their philanthropy we do not value the sun for its height, but for its use.",
+    "author": "Gamaliel Bailey"
+  },
+  {
+    "quote": "Religion is something left over from the infancy of our intelligence, it will fade away as we adopt reason and science as our guidelines.",
+    "author": "Bertrand Russell"
+  },
+  {
+    "quote": "In questions of science, the authority of a thousand is not worth the humble reasoning of a single individual.",
+    "author": "Galileo Galilei"
+  },
+  {
+    "quote": "I had people in my life who didn't give up on me: my mother, my aunt, my science teacher. I had one-on-one speech therapy. I had a nanny who spent all day playing turn-taking games with me.",
+    "author": "Temple Grandin"
+  },
+  {
+    "quote": "Shun no toil to make yourself remarkable by some talent or other yet do not devote yourself to one branch exclusively. Strive to get clear notions about all. Give up no science entirely for science is but one.",
+    "author": "Lucius Annaeus Seneca"
+  },
+  {
+    "quote": "When, as we must often do, we fear science, we really fear ourselves.",
+    "author": "John Charles Polanyi"
+  },
+  {
+    "quote": "Instruction ends in the schoolroom, but education ends only with life. A child is given to the universe to be educated.",
+    "author": "Frederick William Robertson"
+  },
+  {
+    "quote": "Much of the debate over global warming is predicated on fear, rather than science.",
+    "author": "James Inhofe"
+  },
+  {
+    "quote": "A visitor from Mars could easily pick out the civilized nations. They have the best implements of war.",
+    "author": "Herbert V. Prochnow"
+  },
+  {
+    "quote": "True science teaches, above all, to doubt and to be ignorant.",
+    "author": "Miguel de Unamuno"
+  },
+  {
+    "quote": "If I can get some student interested in science, if I can show members of the general public what's going on up there in the space program, then my job's been done.",
+    "author": "Christa McAuliffe"
+  },
+  {
+    "quote": "There are so many different people that I've emulated vocally. In the rock world - Sebastian Bach, Vince Neil, Freddie Mercury, Robert Plant. They all had amazing vocal talent.",
+    "author": "Fergie"
+  },
+  {
+    "quote": "Medical science has proven time and again that when the resources are provided, great progress in the treatment, cure, and prevention of disease can occur.",
+    "author": "Michael J. Fox"
+  },
+  {
+    "quote": "When you talk about obesity, there's so many things that can cause that. It can be a medical thing, or down to the individual. There's a lot of other things involved than eating a Mars bar.",
+    "author": "Peter Shilton"
+  },
+  {
+    "quote": "Traditional academic science describes human beings as highly developed animals and biological thinking machines. We appear to be Newtonian objects made of atoms, molecules, cells, tissues, and organs.",
+    "author": "Stanislav Grof"
+  },
+  {
+    "quote": "I had no books at home. I started to frequent a public library in Lisbon. It was there, with no help except curiosity and the will to learn, that my taste for reading developed and was refined.",
+    "author": "Jose Saramago"
+  },
+  {
+    "quote": "Like all science, psychology is knowledge and like science again, it is knowledge of a definite thing, the mind.",
+    "author": "James M. Baldwin"
+  },
+  {
+    "quote": "I can promise you that women working together - linked, informed and educated - can bring peace and prosperity to this forsaken planet.",
+    "author": "Isabel Allende"
+  },
+  {
+    "quote": "After all, science is essentially international, and it is only through lack of the historical sense that national qualities have been attributed to it.",
+    "author": "Marie Curie"
+  },
+  {
+    "quote": "Let freedom reign. The sun never set on so glorious a human achievement.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "quote": "Man masters nature not by force but by understanding. This is why science has succeeded where magic failed: because it has looked for no spell to cast over nature.",
+    "author": "Jacob Bronowski"
+  },
+  {
+    "quote": "Art is science made clear.",
+    "author": "Wilson Mizner"
+  },
+  {
+    "quote": "Stay out of the sun, because it is the worst thing in terms of aging. I'm very medical. I come from a medical family.",
+    "author": "Nicole Kidman"
+  },
+  {
+    "quote": "I don't read 'chick lit,' fantasy or science fiction but I'll give any book a chance if it's lying there and I've got half an hour to kill.",
+    "author": "J. K. Rowling"
+  },
+  {
+    "quote": "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.",
+    "author": "Louis Pasteur"
+  },
+  {
+    "quote": "So if you're a robot and you're living on this planet, you can do things that you can't do in real life - things that you wished you could do: like fly like have a car that flies like have furniture that is alive.",
+    "author": "William Joyce"
+  },
+  {
+    "quote": "In all science, error precedes the truth, and it is better it should go first than last.",
+    "author": "Hugh Walpole"
+  },
+  {
+    "quote": "Just after World War II, this country led the world in science by every way you could measure it, yet the number of scientists was a tiny proportion of what it is now.",
+    "author": "James Lovelock"
+  },
+  {
+    "quote": "I'm learning something all the time. That's the way I want it to go, and that's the way I'll go until I am no longer on this planet.",
+    "author": "Doris Roberts"
+  },
+  {
+    "quote": "I was taught from a young age that I had to serve, so that turned into me thinking I had to save the planet.",
+    "author": "Alanis Morissette"
+  },
+  {
+    "quote": "Science arose from poetry... when times change the two can meet again on a higher level as friends.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "quote": "Doing is a quantum leap from imagining.",
+    "author": "Barbara Sher"
+  },
+  {
+    "quote": "Science predicts that many different kinds of universe will be spontaneously created out of nothing. It is a matter of chance which we are in.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "quote": "The study and knowledge of the universe would somehow be lame and defective were no practical results to follow.",
+    "author": "Marcus Tullius Cicero"
+  },
+  {
+    "quote": "And if you don't believe the sun will rise, stand alone and greet the coming night in the last remaining light.",
+    "author": "Chris Cornell"
+  },
+  {
+    "quote": "Whence come I and whither go I? That is the great unfathomable question, the same for every one of us. Science has no answer to it.",
+    "author": "Max Planck"
+  },
+  {
+    "quote": "Joy in the universe, and keen curiosity about it all - that has been my religion.",
+    "author": "John Burroughs"
+  },
+  {
+    "quote": "I like fantasy. I like horror, science fiction because I can get avant-garde with those performances in those movies.",
+    "author": "Nicolas Cage"
+  },
+  {
+    "quote": "Science and religion are the two most powerful forces in the world. Having them at odds... is not productive.",
+    "author": "E. O. Wilson"
+  },
+  {
+    "quote": "Specialized meaninglessness has come to be regarded, in certain circles, as a kind of hallmark of true science.",
+    "author": "Aldous Huxley"
+  },
+  {
+    "quote": "Now science has presented us with a hope called stem cell research, which may provide our scientists with many answers that have for so long been beyond our grasp.",
+    "author": "Nancy Reagan"
+  },
+  {
+    "quote": "I had bohemian parents in Seattle in the last '60s living in a houseboat. My dad wrote science fiction novels and painted big murals and oil paintings.",
+    "author": "Rainn Wilson"
+  },
+  {
+    "quote": "Most people have no concept of how an automatic transmission works, yet they know how to drive a car. You don't have to study physics to understand the laws of motion to drive a car. You don't have to understand any of this stuff to use Macintosh.",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "No one's played on the moon yet. No one's played in zero gravity. Some bands have played at the Pyramids of Giza, but we'd very much like to do that in the near future.",
+    "author": "Brandon Boyd"
+  },
+  {
+    "quote": "Our most basic common link is that we all inhabit this planet. We all breathe the same air. We all cherish our children's future. And we are all mortal.",
+    "author": "John F. Kennedy"
+  },
+  {
+    "quote": "Adding sound to movies would be like putting lipstick on the Venus de Milo.",
+    "author": "Mary Pickford"
+  },
+  {
+    "quote": "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
+    "author": "John Adams"
+  },
+  {
+    "quote": "Political liberty, the peace of a nation, and science itself are gifts for which Fate demands a heavy tax in blood!",
+    "author": "Honore de Balzac"
+  },
+  {
+    "quote": "In any case, in so far as our knowledge of the universe carries us, the advent of civilization for the first time on our globe represents the highest ascent of the life processes to which evolution had anywhere attained.",
+    "author": "James H. Breasted"
+  },
+  {
+    "quote": "The science linking the increased frequency and severity of extreme weather to the climate crisis has matured tremendously in the last couple of years.",
+    "author": "Al Gore"
+  },
+  {
+    "quote": "The credit of advancing science has always been due to individuals and never to the age.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "quote": "Science will explain how but not why. It talks about what is, not what ought to be. Science is descriptive, not prescriptive it can tell us about causes but it cannot tell us about purposes. Indeed, science disavows purposes.",
+    "author": "Jonathan Sacks"
+  },
+  {
+    "quote": "I am a voyager - and the voyage cannot mean that I stay at home.",
+    "author": "Emmanuelle Beart"
+  },
+  {
+    "quote": "Science investigates religion interprets. Science gives man knowledge which is power religion gives man wisdom which is control.",
+    "author": "Martin Luther King, Jr."
+  },
+  {
+    "quote": "If the experience of science teaches anything, it's that the world is very strange and surprising. The many revolutions in science have certainly shown that.",
+    "author": "John Polkinghorne"
+  },
+  {
+    "quote": "A man who leaves home to mend himself and others is a philosopher but he who goes from country to country, guided by the blind impulse of curiosity, is a vagabond.",
+    "author": "Oliver Goldsmith"
+  },
+  {
+    "quote": "It is sometimes important for science to know how to forget the things she is surest of.",
+    "author": "Jean Rostand"
+  },
+  {
+    "quote": "A broad margin of leisure is as beautiful in a man's life as in a book. Haste makes waste, no less in life than in housekeeping. Keep the time, observe the hours of the universe, not of the cars.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "quote": "Actually, I majored in marketing and I have a bachelor of science.",
+    "author": "Wanda Sykes"
+  },
+  {
+    "quote": "Sometimes I think we're alone in the universe, and sometimes I think we're not. In either case the idea is quite staggering.",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "quote": "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.",
+    "author": "Thomas Carlyle"
+  },
+  {
+    "quote": "Knowledge has three degrees — opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.",
+    "author": "Plotinus"
+  },
+  {
+    "quote": "If your determination is fixed, I do not counsel you to despair. Few things are impossible to diligence and skill. Great works are performed not by strength, but perseverance.",
+    "author": "Samuel Johnson"
+  },
+  {
+    "quote": "A dog teaches a boy fidelity, perseverance, and to turn around three times before lying down.",
+    "author": "Robert Benchley"
+  },
+  {
+    "quote": "Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve.",
+    "author": "Max Planck"
+  },
+  {
+    "quote": "Observe constantly that all things take place by change, and accustom thyself to consider that the nature of the Universe loves nothing so much as to change the things which are, and to make new things like them.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Science and technology revolutionize our lives, but memory, tradition and myth frame our response.",
+    "author": "Arthur M. Schlesinger"
+  },
+  {
+    "quote": "Man lives for science as well as bread.",
+    "author": "William James"
+  },
+  {
+    "quote": "It's the opinion of some that crops could be grown on the moon which raises the fear that it may not be long before we're paying somebody not to.",
+    "author": "Franklin P. Jones"
+  },
+  {
+    "quote": "All good criticism should be judged the way art is. You shouldn't read it the way you read history or science.",
+    "author": "Leslie Fiedler"
+  },
+  {
+    "quote": "Anthropology was the science that gave her the platform from which she surveyed, scolded and beamed at the world.",
+    "author": "Jane Howard"
+  },
+  {
+    "quote": "I do not see how a man can work on the frontiers of physics and write poetry at the same time. They are in opposition.",
+    "author": "Paul Dirac"
+  },
+  {
+    "quote": "I'll confess right here that I secretly wish I'd have drawn a strip about a little boy with a fake tiger, going for adventures throughout the universe in spaceships of his imagination.",
+    "author": "Berkeley Breathed"
+  },
+  {
+    "quote": "With acknowledgement of residues, we can be more easily prepared to grant the unit of science, the overlapping of disciplines, and the total coherence of all facts.",
+    "author": "Kenneth L. Pike"
+  },
+  {
+    "quote": "He who lives in harmony with himself lives in harmony with the universe.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Even if you only want to write science fiction, you should also read mysteries, poetry, mainstream literature, history, biography, philosophy, and science.",
+    "author": "Walter Jon Williams"
+  },
+  {
+    "quote": "Is it not careless to become too local when there are four hundred billion stars in our galaxy alone.",
+    "author": "A. R. Ammons"
+  },
+  {
+    "quote": "He who stands with his face to the East in the morning will have the sun before him. If he does not change his posture, the Earth in the meantime having changed its, he will have the sun no longer before him, but behind.",
+    "author": "Daniel De Leon"
+  },
+  {
+    "quote": "I like physics. I think it is the best science out of all three of them, because generally it's more useful. You learn about speed and velocity and time, and that's all clever stuff.",
+    "author": "Tom Felton"
+  },
+  {
+    "quote": "The proper study of mankind is the science of design.",
+    "author": "Herbert Simon"
+  },
+  {
+    "quote": "Perhaps the best motivation for going to Mars is political. It is obvious that no single nation currently has either the will or the resources to do it alone, but a consortium of nations and space agencies could achieve it within 20 years.",
+    "author": "Paul Davies"
+  },
+  {
+    "quote": "I liked math - that was my favorite subject - and I was very interested in astronomy and in physical science.",
+    "author": "Sally Ride"
+  },
+  {
+    "quote": "So the old Copenhagen interpretation needs to be generalized, needs to be replaced by something that can be used for the whole universe, and can be used also in cases where there is plenty of individuality and history.",
+    "author": "Murray Gell-Mann"
+  },
+  {
+    "quote": "It seems to me that socialists today can preserve their position in academic economics merely by the pretense that the differences are entirely moral questions about which science cannot decide.",
+    "author": "Friedrich August von Hayek"
+  },
+  {
+    "quote": "Each of us have things and thoughts and descriptions of an amazing universe in our possession that kings in the 17th Century would have gone to war to possess.",
+    "author": "Kary Mullis"
+  },
+  {
+    "quote": "For more than 200 years, materialists have promised that science will eventually explain everything in terms of physics and chemistry. Believers are sustained by the faith that scientific discoveries will justify their beliefs.",
+    "author": "Rupert Sheldrake"
+  },
+  {
+    "quote": "It has become almost a cliche to remark that nobody boasts of ignorance of literature, but it is socially acceptable to boast ignorance of science and proudly claim incompetence in mathematics.",
+    "author": "Richard Dawkins"
+  },
+  {
+    "quote": "Be like the flower, turn your face to the sun.",
+    "author": "Kahlil Gibran"
+  },
+  {
+    "quote": "The atmosphere seems to change once the sun goes down and the race fans get to watch a good show.",
+    "author": "Dale Earnhardt"
+  },
+  {
+    "quote": "Science is global. Einstein's equation, E=mc2, has to reach everywhere. Science is a beautiful gift to humanity, we should not distort it. Science does not differentiate between multiple races.",
+    "author": "Abdul Kalam"
+  },
+  {
+    "quote": "When I was born in 1970 with a rare genetic disorder called spondyloepiphyseal dysplasia congenita (SED), medical science wasn't what it is today and my mum and dad were treated terribly by the medical profession.",
+    "author": "Warwick Davis"
+  },
+  {
+    "quote": "Science is organized knowledge.",
+    "author": "Herbert Spencer"
+  },
+  {
+    "quote": "The man of science has learned to believe in justification, not by faith, but by verification.",
+    "author": "Thomas Huxley"
+  },
+  {
+    "quote": "The product of mental labor - science - always stands far below its value, because the labor-time necessary to reproduce it has no relation at all to the labor-time required for its original production.",
+    "author": "Karl Marx"
+  },
+  {
+    "quote": "Indeed, in view of its function, religion stands in greater need of a rational foundation of its ultimate principles than even the dogmas of science.",
+    "author": "Muhammad Iqbal"
+  },
+  {
+    "quote": "It's not going to do any good to land on Mars if we're stupid.",
+    "author": "Ray Bradbury"
+  },
+  {
+    "quote": "The world is my country, science is my religion.",
+    "author": "Christiaan Huygens"
+  },
+  {
+    "quote": "I don't pretend to understand the Universe - it's a great deal bigger than I am.",
+    "author": "Thomas Carlyle"
+  },
+  {
+    "quote": "One could write a history of science in reverse by assembling the solemn pronouncements of highest authority about what could not be done and could never happen.",
+    "author": "Robert A. Heinlein"
+  },
+  {
+    "quote": "Curiosity is free-wheeling intelligence.",
+    "author": "Alistair Cooke"
+  },
+  {
+    "quote": "The universe is made of stories, not atoms.",
+    "author": "Muriel Rukeyser"
+  },
+  {
+    "quote": "Many people and governments share the mistaken belief that science, with new, ingenious devices and techniques, can rescue us from the troubles we face without our having to mend our ways and change our patterns of activity. This is not so.",
+    "author": "Henry W. Kendall"
+  },
+  {
+    "quote": "Growing hemp as nature designed it is vital to our urgent need to reduce greenhouse gases and ensure the survival of our planet.",
+    "author": "Jack Herer"
+  },
+  {
+    "quote": "I couldn't wait for the sun to come up the next morning so that I could get out on the course again.",
+    "author": "Ben Hogan"
+  },
+  {
+    "quote": "The sun, with all those planets revolving around it and dependent on it, can still ripen a bunch of grapes as if it had nothing else in the universe to do.",
+    "author": "Galileo Galilei"
+  },
+  {
+    "quote": "Nothing in the universe is contingent, but all things are conditioned to exist and operate in a particular manner by the necessity of the divine nature.",
+    "author": "Baruch Spinoza"
+  },
+  {
+    "quote": "Traditional science assumes, for the most part, that an objective observer independent reality exists the universe, stars, galaxies, sun, moon and earth would still be there if no one was looking.",
+    "author": "Deepak Chopra"
+  },
+  {
+    "quote": "Satisfaction of one's curiosity is one of the greatest sources of happiness in life.",
+    "author": "Linus Pauling"
+  },
+  {
+    "quote": "The mysteriousness and mystique of space is such, that science fiction attempts to tantalize you by telling you a story that could possibly be out there and that's the appeal of science fiction.",
+    "author": "William Shatner"
+  },
+  {
+    "quote": "On neither the sun, nor death, can a man look fixedly.",
+    "author": "Francois de La Rochefoucauld"
+  },
+  {
+    "quote": "In science the important thing is to modify and change one's ideas as science advances.",
+    "author": "Herbert Spencer"
+  },
+  {
+    "quote": "The faults of a superior person are like the sun and moon. They have their faults, and everyone sees them they change and everyone looks up to them.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "quote": "Science was something that really caught my attention. It was something I really could sink my teeth into.",
+    "author": "Michael P. Anderson"
+  },
+  {
+    "quote": "It stands to the everlasting credit of science that by acting on the human mind it has overcome man's insecurity before himself and before nature.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Thence results, for science as well as for industry, the necessity of the division and association of labor. I receive and I give - such is human life. Each directs and is directed in his turn.",
+    "author": "Mikhail Bakunin"
+  },
+  {
+    "quote": "If you wish to make an apple pie from scratch, you must first invent the universe.",
+    "author": "Carl Sagan"
+  },
+  {
+    "quote": "Works of art, in my opinion, are the only objects in the material universe to possess internal order, and that is why, though I don't believe that only art matters, I do believe in Art for Art's sake.",
+    "author": "E. M. Forster"
+  },
+  {
+    "quote": "Courage is sometimes frail as hope is frail: a fragile shoot between two stones that grows brave toward the sun though warmth and brightness fail, striving and faith the only strength it knows.",
+    "author": "Frances Rodman"
+  },
+  {
+    "quote": "The founder of the Mona Foundation actually knew my dad for years, and the more I learned about it, the more I realized I really found the perfect charity. It sponsors schools and educational initiatives all over the planet.",
+    "author": "Rainn Wilson"
+  },
+  {
+    "quote": "When prayer removes distrust and doubt and enters the field of mental certainty, it becomes faith and the universe is built on faith.",
+    "author": "Ernest Holmes"
+  },
+  {
+    "quote": "The history of astronomy is a history of receding horizons.",
+    "author": "Edwin Hubble"
+  },
+  {
+    "quote": "One science only will one genius fit so vast is art, so narrow human wit.",
+    "author": "Alexander Pope"
+  },
+  {
+    "quote": "If there was an observer on Mars, they would probably be amazed that we have survived this long.",
+    "author": "Noam Chomsky"
+  },
+  {
+    "quote": "The artist does not illustrate science (but) he frequently responds to the same interests that a scientist does.",
+    "author": "Lewis Mumford"
+  },
+  {
+    "quote": "I have a Ph.D. in cell biology. And that's really manual labor. I mean, experimental science, you do it with your hands. So it's very different. You're out there in a lab, cleaning test tubes, and it just wasn't that fascinating.",
+    "author": "Barbara Ehrenreich"
+  },
+  {
+    "quote": "There must be a positive and negative in everything in the universe in order to complete a circuit or circle, without which there would be no activity, no motion.",
+    "author": "John McDonald"
+  },
+  {
+    "quote": "To this day, I hate walnuts and I hate onions because on weekends when the walnuts and onions were in season, we were out there first thing in the morning and out there until the sun went down topping onions or picking walnuts.",
+    "author": "Scott Brooks"
+  },
+  {
+    "quote": "Science is built up of facts, as a house is with stones. But a collection of facts is no more a science than a heap of stones is a house.",
+    "author": "Henri Poincare"
+  },
+  {
+    "quote": "In 1950, when the Giants signed me, they gave me $15,000. I bought a 1950 Mercury. I couldn't drive, but I had it in the parking lot there, and everybody that could drive would drive the car. So it was like a community thing.",
+    "author": "Willie Mays"
+  },
+  {
+    "quote": "Science is knowledge arranged and classified according to truth, facts, and the general laws of nature.",
+    "author": "Luther Burbank"
+  },
+  {
+    "quote": "We pray that every field of science may contribute in bringing happiness - not disaster - to human beings.",
+    "author": "Kenichi Fukui"
+  },
+  {
+    "quote": "Science may never come up with a better office communication system than the coffee break.",
+    "author": "Earl Wilson"
+  },
+  {
+    "quote": "Enough people have now mentioned Bill Nye the Science Guy to me that I now desperately avoid it all costs.",
+    "author": "Alton Brown"
+  },
+  {
+    "quote": "As a 22-year Army Veteran who served in Operations Desert Storm and Iraqi Freedom, and as a Civilian Advisor to the Afghan Army in Operation Enduring Freedom, I understand both the gravity of giving the order, and the challenge of carrying it out.",
+    "author": "Allen West"
+  },
+  {
+    "quote": "Losing faith in your own singularity is the start of wisdom, I suppose also the first announcement of death.",
+    "author": "Peter Conrad"
+  },
+  {
+    "quote": "Poetry should surprise by a fine excess and not by singularity, it should strike the reader as a wording of his own highest thoughts, and appear almost a remembrance.",
+    "author": "John Keats"
+  },
+  {
+    "quote": "Leisure and curiosity might soon make great advances in useful knowledge, were they not diverted by minute emulation and laborious trifles.",
+    "author": "Samuel Johnson"
+  },
+  {
+    "quote": "Perseverance is failing 19 times and succeeding the 20th.",
+    "author": "Julie Andrews"
+  },
+  {
+    "quote": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
+    "author": "Newt Gingrich"
+  },
+  {
+    "quote": "Worldly wealth is the Devil's bait and those whose minds feed upon riches recede, in general, from real happiness, in proportion as their stores increase, as the moon, when she is fullest, is farthest from the sun.",
+    "author": "Robert Burton"
+  },
+  {
+    "quote": "If we were to wipe out insects alone on this planet, the rest of life and humanity with it would mostly disappear from the land. Within a few months.",
+    "author": "E. O. Wilson"
+  },
+  {
+    "quote": "Science is always discovering odd scraps of magical wisdom and making a tremendous fuss about its cleverness.",
+    "author": "Aleister Crowley"
+  },
+  {
+    "quote": "What we must understand is that the industries, processes, and inventions created by modern science can be used either to subjugate or liberate. The choice is up to us.",
+    "author": "Henry A. Wallace"
+  },
+  {
+    "quote": "For this generation, ours, life is nuclear survival, liberty is human rights, the pursuit of happiness is a planet whose resources are devoted to the physical and spiritual nourishment of its inhabitants.",
+    "author": "Jimmy Carter"
+  },
+  {
+    "quote": "Science has proof without any certainty. Creationists have certainty without any proof.",
+    "author": "Ashley Montagu"
+  },
+  {
+    "quote": "We must conceive of this whole universe as one commonwealth of which both gods and men are members.",
+    "author": "Marcus Tullius Cicero"
+  },
+  {
+    "quote": "Science is nothing, but trained and organized common sense.",
+    "author": "Thomas Huxley"
+  },
+  {
+    "quote": "Think how hard physics would be if particles could think.",
+    "author": "Murray Gell-Mann"
+  },
+  {
+    "quote": "Failure after long perseverance is much grander than never to have a striving good enough to be called a failure.",
+    "author": "George Eliot"
+  },
+  {
+    "quote": "Inspiration in Science may have to do with ideas, but not in Art. In art it is in the senses that are instinctively responsive to the medium of expression.",
+    "author": "Arthur Erickson"
+  },
+  {
+    "quote": "That's the whole problem with science. You've got a bunch of empiricists trying to describe things of unimaginable wonder.",
+    "author": "Bill Watterson"
+  },
+  {
+    "quote": "Definition of Statistics: The science of producing unreliable facts from reliable figures.",
+    "author": "Evan Esar"
+  },
+  {
+    "quote": "Being in an area of the planet where scientists believe mankind started is quite amazing.",
+    "author": "Jan de Bont"
+  },
+  {
+    "quote": "Imagination is the real and eternal world of which this vegetable universe is but a faint shadow.",
+    "author": "William Blake"
+  },
+  {
+    "quote": "Education has failed in a very serious way to convey the most important lesson science can teach: skepticism.",
+    "author": "David Suzuki"
+  },
+  {
+    "quote": "Galileo was no idiot. Only an idiot could believe that science requires martyrdom - that may be necessary in religion, but in time a scientific result will establish itself.",
+    "author": "David Hilbert"
+  },
+  {
+    "quote": "Science never solves a problem without creating ten more.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "quote": "A good day is one where I can not just read a book, but write a review of it. Maybe today I'll be able to do that. I get for some reason somewhat stronger when the sun starts to go down. Dusk is a good time for me. I'm crepuscular.",
+    "author": "Christopher Hitchens"
+  },
+  {
+    "quote": "When I die, I'm leaving my body to science fiction.",
+    "author": "Steven Wright"
+  },
+  {
+    "quote": "The beliefs I was raised with - to respect animals and to be aware of nature, to understand that we share this planet with other creatures - have had a huge impact on me.",
+    "author": "Stella McCartney"
+  },
+  {
+    "quote": "The accidental causes of science are only accidents relatively to the intelligence of a man.",
+    "author": "Chauncey Wright"
+  },
+  {
+    "quote": "Science has sometimes been said to be opposed to faith, and inconsistent with it. But all science, in fact, rests on a basis of faith, for it assumes the permanence and uniformity of natural laws - a thing which can never be demonstrated.",
+    "author": "Tryon Edwards"
+  },
+  {
+    "quote": "Our science has become terrible, our research dangerous, our findings deadly. We physicists have to make peace with reality. Reality is not as strong as we are. We will ruin reality.",
+    "author": "Friedrich Durrenmatt"
+  },
+  {
+    "quote": "So I decided on science when I was in college.",
+    "author": "Sally Ride"
+  },
+  {
+    "quote": "Great works are performed not by strength but by perseverance.",
+    "author": "Samuel Johnson"
+  },
+  {
+    "quote": "I received my undergraduate degree in engineering in 1939 and a Master of Science degree in mathematical physics in 1941 at Steven Institute of Technology.",
+    "author": "Frederick Reines"
+  },
+  {
+    "quote": "Today the function of the artist is to bring imagination to science and science to imagination, where they meet, in the myth.",
+    "author": "Cyril Connolly"
+  },
+  {
+    "quote": "Shoot for the moon. Even if you miss, you'll land among the stars.",
+    "author": "Les Brown"
+  },
+  {
+    "quote": "Science is but an image of the truth.",
+    "author": "Francis Bacon"
+  },
+  {
+    "quote": "For me my friendship with Omar Rodriguez from Mars Volta that friendship really means a lot to me because he's another creative person who works as hard as I do.",
+    "author": "John Frusciante"
+  },
+  {
+    "quote": "The capacity of the female mind for studies of the highest order cannot be doubted, having been sufficiently illustrated by its works of genius, of erudition, and of science.",
+    "author": "James Madison"
+  },
+  {
+    "quote": "Just as houses are made of stones, so is science made of facts.",
+    "author": "Henri Poincare"
+  },
+  {
+    "quote": "Not to discriminate every moment some passionate attitude in those about us, and in the very brilliancy of their gifts some tragic dividing on their ways, is, on this short day of frost and sun, to sleep before evening.",
+    "author": "Walter Pater"
+  },
+  {
+    "quote": "Science is simply common sense at its best, that is, rigidly accurate in observation, and merciless to fallacy in logic.",
+    "author": "Thomas Huxley"
+  },
+  {
+    "quote": "When His Holiness won the Nobel Peace Prize, there was a quantum leap. He is not seen as solely a Tibetan anymore he belongs to the world.",
+    "author": "Richard Gere"
+  },
+  {
+    "quote": "We have failed to protect science against speculative extensions of nature, continuing to assign physical and mathematical properties to hypothetical entities beyond what is observable in nature.",
+    "author": "Robert Lanza"
+  },
+  {
+    "quote": "Anthropology is the science which tells us that people are the same the whole world over - except when they are different.",
+    "author": "Nancy Banks Smith"
+  },
+  {
+    "quote": "When we try to pick out anything by itself, we find it hitched to everything else in the universe.",
+    "author": "John Muir"
+  },
+  {
+    "quote": "I have a better internal and intuitive understanding of folklore and myth than science and technology, so in that way fantasy is easier.",
+    "author": "Sarah Zettel"
+  },
+  {
+    "quote": "In science, read, by preference, the newest works in literature, the oldest. The classic literature is always modern.",
+    "author": "Edward G. Bulwer-Lytton"
+  },
+  {
+    "quote": "And I have lived since - as you have - in a period of cold war, during which we have ensured by our achievements in the science and technology of destruction that a third act in this tragedy of war will result in the peace of extinction.",
+    "author": "Lester B. Pearson"
+  },
+  {
+    "quote": "There are only two races on this planet - the intelligent and the stupid.",
+    "author": "John Fowles"
+  },
+  {
+    "quote": "I think the driving thing was curiosity about the universe. That fascinated me. I didn't think anything about being famous or anything like that, I was just interested in the concepts involved.",
+    "author": "Clyde Tombaugh"
+  },
+  {
+    "quote": "I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.",
+    "author": "Dalai Lama"
+  },
+  {
+    "quote": "The universe we observe has precisely the properties we should expect if there is, at bottom, no design, no purpose, no evil, no good, nothing but blind, pitiless indifference.",
+    "author": "Richard Dawkins"
+  },
+  {
+    "quote": "Chastity is the cement of civilization and progress. Without it there is no stability in society, and without it one cannot attain the Science of Life.",
+    "author": "Mary Baker Eddy"
+  },
+  {
+    "quote": "We are a way for the cosmos to know itself.",
+    "author": "Carl Sagan"
+  },
+  {
+    "quote": "Time travel used to be thought of as just science fiction, but Einstein's general theory of relativity allows for the possibility that we could warp space-time so much that you could go off in a rocket and return before you set out.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "quote": "Science always uses metaphor.",
+    "author": "James Lovelock"
+  },
+  {
+    "quote": "The universe is change our life is what our thoughts make it.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "I didn't mind studying. Obviously math and the physical science subjects interested me more than some of the more artistic subjects, but I think I was a pretty good student.",
+    "author": "Alan Shepard"
+  },
+  {
+    "quote": "Man is unique not because he does science, and his is unique not because he does art, but because science and art equally are expressions of his marvelous plasticity of mind.",
+    "author": "Jacob Bronowski"
+  },
+  {
+    "quote": "I have devoted much time and energy to helping medical physics in developing countries.",
+    "author": "John Cameron"
+  },
+  {
+    "quote": "I believe very strongly, and have fought since many years ago - at least over 30 years ago - to get architecture not just within schools, but architecture talked about under history, geography, science, technology, art.",
+    "author": "Richard Rogers"
+  },
+  {
+    "quote": "False facts are highly injurious to the progress of science, for they often endure long but false views, if supported by some evidence, do little harm, for every one takes a salutary pleasure in proving their falseness.",
+    "author": "Charles Darwin"
+  },
+  {
+    "quote": "The scientist is motivated primarily by curiosity and a desire for truth.",
+    "author": "Irving Langmuir"
+  },
+  {
+    "quote": "I used to be scared of women. When I was very young they terrified me, but discovering the female universe was incredible and still is to this day, as you never stop learning about them.",
+    "author": "Antonio Banderas"
+  },
+  {
+    "quote": "For the sake of our health, our children and grandchildren and even our economic well-being, we must make protecting the planet our top priority.",
+    "author": "David Suzuki"
+  },
+  {
+    "quote": "Science is analytical, descriptive, informative. Man does not live by bread alone, but by science he attempts to do so. Hence the deadliness of all that is purely scientific.",
+    "author": "Eric Gill"
+  },
+  {
+    "quote": "Design and technology should be the subject where mathematical brainboxes and science whizzkids turn their bright ideas into useful products.",
+    "author": "James Dyson"
+  },
+  {
+    "quote": "I left science, then I went into art, but I approach things very analytically. I choose to pursue both art and architecture as completely separate fields rather than merging them.",
+    "author": "Maya Lin"
+  },
+  {
+    "quote": "A multitude of bees can tell the time of day, calculate the geometry of the sun's position, argue about the best location for the next swarm. Bees do a lot of close observing of other bees maybe they know what follows stinging and do it anyway.",
+    "author": "Lewis Thomas"
+  },
+  {
+    "quote": "Humor is just another defense against the universe.",
+    "author": "Mel Brooks"
+  },
+  {
+    "quote": "If you saw Queen Elizabeth it would be amazing, she came from another planet. She was so attractive in what she was wearing.",
+    "author": "Vivienne Westwood"
+  },
+  {
+    "quote": "Teachers started recognizing me and praising me for being smart in science and that made me want to be even smarter in science!",
+    "author": "Steve Wozniak"
+  },
+  {
+    "quote": "The great tragedy of science - the slaying of a beautiful hypothesis by an ugly fact.",
+    "author": "Thomas Huxley"
+  },
+  {
+    "quote": "This is a war universe. War all the time. That is its nature. There may be other universes based on all sorts of other principles, but ours seems to be based on war and games.",
+    "author": "William Burroughs"
+  },
+  {
+    "quote": "Everything is perfect in the universe — even your desire to improve it.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "quote": "I want to be the Cecil B. DeMille of science fiction.",
+    "author": "Steven Spielberg"
+  },
+  {
+    "quote": "For the past two years, President Obama has promised our children the moon, stars, rainbows, unicorns and universal health care for all. But the White House Santa's cradle-to-grave entitlement mandates are a spectacularly predictable bust.",
+    "author": "Michelle Malkin"
+  },
+  {
+    "quote": "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
+    "author": "Eden Phillpotts"
+  },
+  {
+    "quote": "When the honour is given to that scientist personally the happiness is sweet indeed. Science is, on the whole, an informal activity, a life of shirt sleeves and coffee served in beakers.",
+    "author": "George Porter"
+  },
+  {
+    "quote": "Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us.",
+    "author": "Samuel Smiles"
+  },
+  {
+    "quote": "Science is a wonderful thing if one does not have to earn one's living at it.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "That is the essence of science: ask an impertinent question, and you are on the way to a pertinent answer.",
+    "author": "Jacob Bronowski"
+  }
 ]
