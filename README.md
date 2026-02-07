@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20knowledge%20and%20understanding%20of%20the%20world%20which%20science%20gives%20us%20and%20the%20magnificent%20opportunity%20which%20it%20extends%20to%20us%20to%20control%20and%20use%20the%20world%20for%20the%20extension%20of%20our%20pleasure%20in%20it%20has%20never%20been%20greater%20than%20it%20now%20is.&author=Polykarp%20Kusch&v=1770491779" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20dad%20was%20an%20engineer%20and%20so%20I%20had%20this%20picture%20of%20science%20and%20technology%20and%20pursuits%20of%20the%20mind%20as%20being%20more%20impressive%20than%20artistic%20pursuits%2C%20which%20I%20saw%20a%20as%20kind%20of%20frivolous.&author=Scott%20McCloud&v=1770495249" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
