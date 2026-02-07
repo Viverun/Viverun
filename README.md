@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20a%20way%20of%20thinking%20much%20more%20than%20it%20is%20a%20body%20of%20knowledge.&author=Carl%20Sagan&v=1770459266" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Morality%20comes%20with%20the%20sad%20wisdom%20of%20age%2C%20when%20the%20sense%20of%20curiosity%20has%20withered.&author=Graham%20Greene&v=1770462818" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
