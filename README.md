@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20saw%20Queen%20Elizabeth%20it%20would%20be%20amazing%2C%20she%20came%20from%20another%20planet.%20She%20was%20so%20attractive%20in%20what%20she%20was%20wearing.&author=Vivienne%20Westwood&v=1770471391" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20central%20task%20of%20science%20is%20to%20arrive%2C%20stage%20by%20stage%2C%20at%20a%20clearer%20comprehension%20of%20nature%2C%20but%20this%20does%20not%20at%20all%20mean%2C%20as%20it%20is%20sometimes%20claimed%20to%20mean%2C%20a%20search%20for%20mastery%20over%20nature.&author=Lewis%20Thomas&v=1770473793" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
