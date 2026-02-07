@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20is%20a%20single%20light%20of%20science%2C%20and%20to%20brighten%20it%20anywhere%20is%20to%20brighten%20it%20everywhere.&author=Isaac%20Asimov&v=1770484660" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That%20attitude%20does%20not%20exist%20so%20much%20today%2C%20but%20in%20those%20days%20there%20was%20a%20very%20sharp%20distinction%20between%20basic%20physics%20and%20applied%20physics.%20Columbia%20did%20not%20deal%20with%20applied%20physics.&author=Gordon%20Gould&v=1770488388" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
