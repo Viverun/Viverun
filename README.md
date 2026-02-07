@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Wherever%20on%20this%20planet%20ideals%20of%20personal%20freedom%20and%20dignity%20apply%2C%20there%20you%20will%20find%20the%20cultural%20inheritance%20of%20England.&author=Karel%20Capek&v=1770456025" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20a%20way%20of%20thinking%20much%20more%20than%20it%20is%20a%20body%20of%20knowledge.&author=Carl%20Sagan&v=1770459266" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
