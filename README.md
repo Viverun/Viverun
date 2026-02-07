@@ -117,7 +117,7 @@ print(entity.transmit_message())
 
 <br/>
 
-## � Telemetry Data
+## 📊 Telemetry Data
 
 <div align="center">
 
@@ -129,12 +129,7 @@ print(entity.transmit_message())
 
 <br/><br/>
 
-<!-- Orbital Period (Streak) -->
-<a href="https://github.com/Viverun">
-  <img src="https://streak-stats.demolab.com?user=Viverun&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=555555"/>
-</a>
 
-<br/><br/>
 
 <!-- Star Chart (Activity Graph) -->
 <a href="https://github.com/Viverun">
@@ -148,20 +143,6 @@ print(entity.transmit_message())
 <!-- Animated Starfield Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<br/>
-
-## 🏆 Stellar Achievements
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=Viverun&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
-
-</div>
-
-<br/>
-
-<!-- Animated Starfield Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
@@ -176,17 +157,6 @@ print(entity.transmit_message())
 
 <br/><br/>
 
-<!-- Carl Sagan Quote -->
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   "The cosmos is within us. We are made of star-stuff.          │
-│    We are a way for the universe to know itself."               │
-│                                                                 │
-│                                        — Carl Sagan ✨           │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 <br/>
 
@@ -205,6 +175,3 @@ print(entity.transmit_message())
 </div>
 
 <br/>
-
-<!-- Event Horizon Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20,24&height=120&section=footer&animation=twinkling"/>
