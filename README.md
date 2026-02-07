@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20is%20an%20intelligence%20test.&author=Timothy%20Leary&v=1770451384" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Strictly%20speaking%2C%20the%20idea%20of%20a%20scientific%20poem%20is%20probably%20as%20nonsensical%20as%20that%20of%20a%20poetic%20science.&author=Karl%20Wilhelm%20Friedrich%20Schlegel&v=1770451430" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
