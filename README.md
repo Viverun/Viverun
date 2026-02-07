@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20organized%20common%20sense%20where%20many%20a%20beautiful%20theory%20was%20killed%20by%20an%20ugly%20fact.&author=Thomas%20Huxley&v=1770467038" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20saw%20Queen%20Elizabeth%20it%20would%20be%20amazing%2C%20she%20came%20from%20another%20planet.%20She%20was%20so%20attractive%20in%20what%20she%20was%20wearing.&author=Vivienne%20Westwood&v=1770471391" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
