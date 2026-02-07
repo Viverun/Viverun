@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Inspiration%20in%20Science%20may%20have%20to%20do%20with%20ideas%2C%20but%20not%20in%20Art.%20In%20art%20it%20is%20in%20the%20senses%20that%20are%20instinctively%20responsive%20to%20the%20medium%20of%20expression.&author=Arthur%20Erickson&v=1770477303" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=English%20is%20necessary%20as%20at%20present%20original%20works%20of%20science%20are%20in%20English.%20I%20believe%20that%20in%20two%20decades%20times%20original%20works%20of%20science%20will%20start%20coming%20out%20in%20our%20languages.%20Then%20we%20can%20move%20over%20like%20the%20Japanese.&author=Abdul%20Kalam&v=1770480984" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
