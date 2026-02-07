@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20dad%20was%20an%20engineer%20and%20so%20I%20had%20this%20picture%20of%20science%20and%20technology%20and%20pursuits%20of%20the%20mind%20as%20being%20more%20impressive%20than%20artistic%20pursuits%2C%20which%20I%20saw%20a%20as%20kind%20of%20frivolous.&author=Scott%20McCloud&v=1770495249" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Art%20is%20I%20science%20is%20we.&author=Claude%20Bernard&v=1770498950" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
