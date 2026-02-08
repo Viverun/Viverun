@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Old%20age%2C%20calm%2C%20expanded%2C%20broad%20with%20the%20haughty%20breadth%20of%20the%20universe%2C%20old%20age%20flowing%20free%20with%20the%20delicious%20near-by%20freedom%20of%20death.&author=Edith%20Wharton&v=1770563739" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20object%20of%20all%20the%20former%20voyages%20to%20the%20South%20Seas%20undertaken%20by%20the%20command%20of%20his%20present%20majesty%2C%20has%20been%20the%20advancement%20of%20science%20and%20the%20increase%20of%20knowledge.&author=William%20Bligh&v=1770567434" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
