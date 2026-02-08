@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20a%20dreamer.%20Seriously%2C%20I%27m%20living%20on%20another%20planet.&author=Eva%20Green&v=1770574867" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Both%20the%20man%20of%20science%20and%20the%20man%20of%20action%20live%20always%20at%20the%20edge%20of%20mystery%2C%20surrounded%20by%20it.&author=J.%20Robert%20Oppenheimer&v=1770578254" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
