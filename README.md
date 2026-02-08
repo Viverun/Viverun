@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=From%20now%20on%20we%20live%20in%20a%20world%20where%20man%20has%20walked%20on%20the%20Moon.%20It%27s%20not%20a%20miracle%20we%20just%20decided%20to%20go.&author=Tom%20Hanks&v=1770549270" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20capacity%20of%20the%20female%20mind%20for%20studies%20of%20the%20highest%20order%20cannot%20be%20doubted%2C%20having%20been%20sufficiently%20illustrated%20by%20its%20works%20of%20genius%2C%20of%20erudition%2C%20and%20of%20science.&author=James%20Madison&v=1770553484" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
