@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Don%27t%20pray%20when%20it%20rains%20if%20you%20don%27t%20pray%20when%20the%20sun%20shines.&author=Satchel%20Paige&v=1770538812" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Patience%20and%20perseverance%20have%20a%20magical%20effect%20before%20which%20difficulties%20disappear%20and%20obstacles%20vanish.&author=John%20Adams&v=1770542422" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
