@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20object%20of%20all%20the%20former%20voyages%20to%20the%20South%20Seas%20undertaken%20by%20the%20command%20of%20his%20present%20majesty%2C%20has%20been%20the%20advancement%20of%20science%20and%20the%20increase%20of%20knowledge.&author=William%20Bligh&v=1770567434" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20one%20of%20those%20scientists%20who%20feels%20that%20it%20is%20no%20longer%20enough%20just%20to%20get%20on%20and%20do%20science.%20We%20have%20to%20devote%20a%20significant%20proportion%20of%20our%20time%20and%20resources%20to%20defending%20it%20from%20deliberate%20attack%20from%20organised%20ignorance.&author=Richard%20Dawkins&v=1770571050" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
