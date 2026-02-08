@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20a%20voyager%20-%20and%20the%20voyage%20cannot%20mean%20that%20I%20stay%20at%20home.&author=Emmanuelle%20Beart&v=1770530102" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Galileo%20was%20no%20idiot.%20Only%20an%20idiot%20could%20believe%20that%20science%20requires%20martyrdom%20-%20that%20may%20be%20necessary%20in%20religion%2C%20but%20in%20time%20a%20scientific%20result%20will%20establish%20itself.&author=David%20Hilbert&v=1770532627" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
