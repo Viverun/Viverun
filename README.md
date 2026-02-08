@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20capacity%20of%20the%20female%20mind%20for%20studies%20of%20the%20highest%20order%20cannot%20be%20doubted%2C%20having%20been%20sufficiently%20illustrated%20by%20its%20works%20of%20genius%2C%20of%20erudition%2C%20and%20of%20science.&author=James%20Madison&v=1770553484" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20science%20of%20today%20is%20the%20technology%20of%20tomorrow.&author=Edward%20Teller&v=1770557863" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
