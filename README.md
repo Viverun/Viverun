@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Never%20tell%20me%20the%20sky%E2%80%99s%20the%20limit%20when%20there%20are%20footprints%20on%20the%20moon.&author=Unknown&v=1770535907" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Don%27t%20pray%20when%20it%20rains%20if%20you%20don%27t%20pray%20when%20the%20sun%20shines.&author=Satchel%20Paige&v=1770538812" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
