@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20work%20of%20science%20is%20to%20substitute%20facts%20for%20appearances%2C%20and%20demonstrations%20for%20impressions.&author=John%20Ruskin&v=1770585359" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20Athanasian%20Creed%20is%20to%20me%20light%20and%20intelligible%20reading%20in%20comparison%20with%20much%20that%20now%20passes%20for%20science.&author=Samuel%20Butler&v=1770588921" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
