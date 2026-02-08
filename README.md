@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Children%20rarely%20want%20to%20know%20who%20their%20parents%20were%20before%20they%20were%20parents%2C%20and%20when%20age%20finally%20stirs%20their%20curiosity%2C%20there%20is%20no%20parent%20left%20to%20tell%20them.&author=Russell%20Baker&v=1770581655" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20work%20of%20science%20is%20to%20substitute%20facts%20for%20appearances%2C%20and%20demonstrations%20for%20impressions.&author=John%20Ruskin&v=1770585359" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
