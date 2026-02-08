@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20visitor%20from%20Mars%20could%20easily%20pick%20out%20the%20civilized%20nations.%20They%20have%20the%20best%20implements%20of%20war.&author=Herbert%20V.%20Prochnow&v=1770560297" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Old%20age%2C%20calm%2C%20expanded%2C%20broad%20with%20the%20haughty%20breadth%20of%20the%20universe%2C%20old%20age%20flowing%20free%20with%20the%20delicious%20near-by%20freedom%20of%20death.&author=Edith%20Wharton&v=1770563739" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
