@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=For%20NASA%2C%20space%20is%20still%20a%20high%20priority.&author=Dan%20Quayle&v=1770662552" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20may%20be%20that%20everything%20the%20life%20science%20companies%20are%20telling%20us%20will%20turn%20out%20to%20be%20right%2C%20and%20there%27s%20no%20problem%20here%20whatsoever.%20That%20defies%20logic.&author=Jeremy%20Rifkin&v=1770667000" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
