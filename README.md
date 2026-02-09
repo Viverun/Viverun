@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20greatest%20advances%20of%20civilization%2C%20whether%20in%20architecture%20or%20painting%2C%20in%20science%20and%20literature%2C%20in%20industry%20or%20agriculture%2C%20have%20never%20come%20from%20centralized%20government.&author=Milton%20Friedman&v=1770610508" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20the%20honour%20is%20given%20to%20that%20scientist%20personally%20the%20happiness%20is%20sweet%20indeed.%20Science%20is%2C%20on%20the%20whole%2C%20an%20informal%20activity%2C%20a%20life%20of%20shirt%20sleeves%20and%20coffee%20served%20in%20beakers.&author=George%20Porter&v=1770616844" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
