@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20may%20be%20that%20everything%20the%20life%20science%20companies%20are%20telling%20us%20will%20turn%20out%20to%20be%20right%2C%20and%20there%27s%20no%20problem%20here%20whatsoever.%20That%20defies%20logic.&author=Jeremy%20Rifkin&v=1770667000" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20went%20to%20college%20at%20the%20University%20of%20Kansas%2C%20where%20I%20got%20a%20degree%20in%20political%20science.&author=Sara%20Paretsky&v=1770669175" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
