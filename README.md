@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everything%20is%20perfect%20in%20the%20universe%20-%20even%20your%20desire%20to%20improve%20it.&author=Wayne%20Dyer&v=1770637078" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20done%20more%20for%20the%20development%20of%20western%20civilization%20in%20one%20hundred%20years%20than%20Christianity%20did%20in%20eighteen%20hundred%20years.&author=John%20Burroughs&v=1770640822" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
