@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Equipped%20with%20his%20five%20senses%2C%20man%20explores%20the%20universe%20around%20him%20and%20calls%20the%20adventure%20Science.&author=Edwin%20Hubble&v=1770623335" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20age%20of%20innocent%20faith%20in%20science%20and%20technology%20may%20be%20over.&author=Barry%20Commoner&v=1770626239" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
