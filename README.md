@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20used%20to%20be%20scared%20of%20women.%20When%20I%20was%20very%20young%20they%20terrified%20me%2C%20but%20discovering%20the%20female%20universe%20was%20incredible%20and%20still%20is%20to%20this%20day%2C%20as%20you%20never%20stop%20learning%20about%20them.&author=Antonio%20Banderas&v=1770651830" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20wish%20to%20succeed%20in%20life%2C%20make%20perseverance%20your%20bosom%20friend%2C%20experience%20your%20wise%20counselor%2C%20caution%20your%20elder%20brother%2C%20and%20hope%20your%20guardian%20genius.&author=Joseph%20Addison&v=1770658894" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
