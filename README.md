@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20the%20sick%20room%2C%20ten%20cents%27%20worth%20of%20human%20understanding%20equals%20ten%20dollars%27%20worth%20of%20medical%20science.&author=Martin%20H.%20Fischer&v=1770646029" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20used%20to%20be%20scared%20of%20women.%20When%20I%20was%20very%20young%20they%20terrified%20me%2C%20but%20discovering%20the%20female%20universe%20was%20incredible%20and%20still%20is%20to%20this%20day%2C%20as%20you%20never%20stop%20learning%20about%20them.&author=Antonio%20Banderas&v=1770651830" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
