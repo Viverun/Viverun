@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20all%20metaphor.&author=Timothy%20Leary&v=1770592806" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20but%20an%20image%20of%20the%20truth.&author=Francis%20Bacon&v=1770599380" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
