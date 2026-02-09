@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20the%20honour%20is%20given%20to%20that%20scientist%20personally%20the%20happiness%20is%20sweet%20indeed.%20Science%20is%2C%20on%20the%20whole%2C%20an%20informal%20activity%2C%20a%20life%20of%20shirt%20sleeves%20and%20coffee%20served%20in%20beakers.&author=George%20Porter&v=1770616844" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Equipped%20with%20his%20five%20senses%2C%20man%20explores%20the%20universe%20around%20him%20and%20calls%20the%20adventure%20Science.&author=Edwin%20Hubble&v=1770623335" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
