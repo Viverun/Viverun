@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20age%20of%20innocent%20faith%20in%20science%20and%20technology%20may%20be%20over.&author=Barry%20Commoner&v=1770626239" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20not%20natural%20or%20inevitable%20that%20half%20the%20world%20goes%20hungry%20that%20the%20freedom%20of%20markets%20trumps%20protection%20of%20the%20planet%20or%20that%20citizens%27%20rights%20come%20second%20to%20those%20of%20corporations.&author=Frances%20O%27Grady&v=1770630498" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
