@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20went%20to%20college%20at%20the%20University%20of%20Kansas%2C%20where%20I%20got%20a%20degree%20in%20political%20science.&author=Sara%20Paretsky&v=1770669175" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Most%20medical%20physicists%20work%20in%20the%20physics%20of%20radiation%20oncology%20making%20sure%20that%20the%20desired%20dose%20is%20given%20to%20the%20cancer%20and%20the%20dose%20to%20normal%20tissues%20are%20minimized.&author=John%20Cameron&v=1770672572" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
