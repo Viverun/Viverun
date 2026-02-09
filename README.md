@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Most%20medical%20physicists%20work%20in%20the%20physics%20of%20radiation%20oncology%20making%20sure%20that%20the%20desired%20dose%20is%20given%20to%20the%20cancer%20and%20the%20dose%20to%20normal%20tissues%20are%20minimized.&author=John%20Cameron&v=1770672572" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Some%20theists%20in%20evolutionary%20science%20acquiesce%20to%20these%20tacit%20rules%20and%20retain%20a%20personal%20faith%20while%20accepting%20a%20thoroughly%20naturalistic%20picture%20of%20physical%20reality.&author=Phillip%20E.%20Johnson&v=1770675962" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
