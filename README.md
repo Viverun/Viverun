@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20didn%27t%20mind%20studying.%20Obviously%20math%20and%20the%20physical%20science%20subjects%20interested%20me%20more%20than%20some%20of%20the%20more%20artistic%20subjects%2C%20but%20I%20think%20I%20was%20a%20pretty%20good%20student.&author=Alan%20Shepard&v=1770686308" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20are%20so%20many%20different%20people%20that%20I%27ve%20emulated%20vocally.%20In%20the%20rock%20world%20-%20Sebastian%20Bach%2C%20Vince%20Neil%2C%20Freddie%20Mercury%2C%20Robert%20Plant.%20They%20all%20had%20amazing%20vocal%20talent.&author=Fergie&v=1770697415" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
