@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Sometimes%20I%20think%20we%27re%20alone%20in%20the%20universe%2C%20and%20sometimes%20I%20think%20we%27re%20not.%20In%20either%20case%20the%20idea%20is%20quite%20staggering.&author=Arthur%20C.%20Clarke&v=1770742523" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20wonderful%20discovery%20made%20by%20scientists%20is%20science%20itself.&author=Jacob%20Bronowski&v=1770746080" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
