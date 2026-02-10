@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20couldn%27t%20wait%20for%20the%20sun%20to%20come%20up%20the%20next%20morning%20so%20that%20I%20could%20get%20out%20on%20the%20course%20again.&author=Ben%20Hogan&v=1770762531" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20day%20will%20dawn%20when%20all%20the%20people%20of%20Ireland%20will%20have%20the%20desire%20for%20freedom%20to%20show.%20It%20is%20then%20we%27ll%20see%20the%20rising%20of%20the%20moon.&author=Bobby%20Sands&v=1770766198" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
