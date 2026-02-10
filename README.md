@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20cosmos%20is%20neither%20moral%20or%20immoral%3B%20only%20people%20are.%20He%20who%20would%20move%20the%20world%20must%20first%20move%20himself.&author=Edward%20Ericson&v=1770703525" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20what%20you%20know%2C%20philosophy%20is%20what%20you%20don%27t%20know.&author=Bertrand%20Russell&v=1770709915" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
