@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Never%20respect%20men%20merely%20for%20their%20riches%2C%20but%20rather%20for%20their%20philanthropy%20we%20do%20not%20value%20the%20sun%20for%20its%20height%2C%20but%20for%20its%20use.&author=Gamaliel%20Bailey&v=1770732945" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Shoot%20for%20the%20moon.%20Even%20if%20you%20miss%2C%20you%27ll%20land%20among%20the%20stars.&author=Les%20Brown&v=1770738972" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
