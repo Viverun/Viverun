@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20often%20amazed%20at%20how%20much%20more%20capability%20and%20enthusiasm%20for%20science%20there%20is%20among%20elementary%20school%20youngsters%20than%20among%20college%20students.&author=Carl%20Sagan&v=1770727526" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Never%20respect%20men%20merely%20for%20their%20riches%2C%20but%20rather%20for%20their%20philanthropy%20we%20do%20not%20value%20the%20sun%20for%20its%20height%2C%20but%20for%20its%20use.&author=Gamaliel%20Bailey&v=1770732945" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
