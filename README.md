@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everything%20is%20becoming%20science%20fiction.%20From%20the%20margins%20of%20an%20almost%20invisible%20literature%20has%20sprung%20the%20intact%20reality%20of%20the%2020th%20century.&author=J.%20G.%20Ballard&v=1770753257" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20foundation%20of%20empire%20is%20art%20and%20science.%20Remove%20them%20or%20degrade%20them%2C%20and%20the%20empire%20is%20no%20more.%20Empire%20follows%20art%20and%20not%20vice%20versa%20as%20Englishmen%20suppose.&author=William%20Blake&v=1770755657" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
