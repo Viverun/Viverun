@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Teachers%20started%20recognizing%20me%20and%20praising%20me%20for%20being%20smart%20in%20science%20and%20that%20made%20me%20want%20to%20be%20even%20smarter%20in%20science%21&author=Steve%20Wozniak&v=1770712664" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=From%20my%20dad%20I%20learned%20to%20be%20good%20to%20people%2C%20to%20always%20be%20honest%20and%20straightforward.%20I%20learned%20hard%20work%20and%20perseverance.&author=Luke%20Bryan&v=1770716972" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
