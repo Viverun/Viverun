@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20wish%20to%20make%20an%20apple%20pie%20from%20scratch%2C%20you%20must%20first%20invent%20the%20universe.&author=Carl%20Sagan&v=1770749538" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everything%20is%20becoming%20science%20fiction.%20From%20the%20margins%20of%20an%20almost%20invisible%20literature%20has%20sprung%20the%20intact%20reality%20of%20the%2020th%20century.&author=J.%20G.%20Ballard&v=1770753257" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
