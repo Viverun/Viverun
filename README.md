@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20cannot%20solve%20the%20ultimate%20mystery%20of%20nature.%20And%20that%20is%20because%2C%20in%20the%20last%20analysis%2C%20we%20ourselves%20are%20a%20part%20of%20the%20mystery%20that%20we%20are%20trying%20to%20solve.&author=Max%20Planck&v=1770679692" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20didn%27t%20mind%20studying.%20Obviously%20math%20and%20the%20physical%20science%20subjects%20interested%20me%20more%20than%20some%20of%20the%20more%20artistic%20subjects%2C%20but%20I%20think%20I%20was%20a%20pretty%20good%20student.&author=Alan%20Shepard&v=1770686308" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
