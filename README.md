@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%27s%20no%20question%20that%20as%20science%2C%20knowledge%20and%20technology%20advance%2C%20that%20we%20will%20attempt%20to%20do%20more%20significant%20things.%20And%20there%27s%20no%20question%20that%20we%20will%20always%20have%20to%20temper%20those%20things%20with%20ethics.&author=Benjamin%20Carson&v=1770759198" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20couldn%27t%20wait%20for%20the%20sun%20to%20come%20up%20the%20next%20morning%20so%20that%20I%20could%20get%20out%20on%20the%20course%20again.&author=Ben%20Hogan&v=1770762531" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
