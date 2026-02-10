@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20the%20sick%20room%2C%20ten%20cents%27%20worth%20of%20human%20understanding%20equals%20ten%20dollars%27%20worth%20of%20medical%20science.&author=Martin%20H.%20Fischer&v=1770723714" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20often%20amazed%20at%20how%20much%20more%20capability%20and%20enthusiasm%20for%20science%20there%20is%20among%20elementary%20school%20youngsters%20than%20among%20college%20students.&author=Carl%20Sagan&v=1770727526" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
