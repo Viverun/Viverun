@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20what%20you%20know%2C%20philosophy%20is%20what%20you%20don%27t%20know.&author=Bertrand%20Russell&v=1770709915" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Teachers%20started%20recognizing%20me%20and%20praising%20me%20for%20being%20smart%20in%20science%20and%20that%20made%20me%20want%20to%20be%20even%20smarter%20in%20science%21&author=Steve%20Wozniak&v=1770712664" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
