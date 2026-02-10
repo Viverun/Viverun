@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20art%20and%20science%20of%20asking%20questions%20is%20the%20source%20of%20all%20knowledge.&author=Thomas%20Berger&v=1770720182" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20the%20sick%20room%2C%20ten%20cents%27%20worth%20of%20human%20understanding%20equals%20ten%20dollars%27%20worth%20of%20medical%20science.&author=Martin%20H.%20Fischer&v=1770723714" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
