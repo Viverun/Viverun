@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20wonderful%20discovery%20made%20by%20scientists%20is%20science%20itself.&author=Jacob%20Bronowski&v=1770746080" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20wish%20to%20make%20an%20apple%20pie%20from%20scratch%2C%20you%20must%20first%20invent%20the%20universe.&author=Carl%20Sagan&v=1770749538" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
