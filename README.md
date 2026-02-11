@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20day%20will%20dawn%20when%20all%20the%20people%20of%20Ireland%20will%20have%20the%20desire%20for%20freedom%20to%20show.%20It%20is%20then%20we%27ll%20see%20the%20rising%20of%20the%20moon.&author=Bobby%20Sands&v=1770766198" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20civilization%20is%20to%20survive%2C%20we%20must%20cultivate%20the%20science%20of%20human%20relationships%20-%20the%20ability%20of%20all%20peoples%2C%20of%20all%20kinds%2C%20to%20live%20together%2C%20in%20the%20same%20world%20at%20peace.&author=Franklin%20D.%20Roosevelt&v=1770772590" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
