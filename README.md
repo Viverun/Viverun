@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20facts%20of%20science%20are%20real%20enough%2C%20and%20so%20are%20the%20techniques%20that%20scientists%20use%2C%20and%20so%20are%20the%20technologies%20based%20on%20them.%20But%20the%20belief%20system%20that%20governs%20conventional%20scientific%20thinking%20is%20an%20act%20of%20faith.&author=Rupert%20Sheldrake&v=1770818884" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=For%20each%20one%20of%20us%20stands%20alone%20in%20the%20midst%20of%20a%20universe.&author=John%20Buchanan%20Robinson&v=1770824963" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
