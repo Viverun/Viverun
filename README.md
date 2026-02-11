@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20warn%20you%20against%20believing%20that%20advertising%20is%20a%20science.&author=William%20Bernbach&v=1770845096" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Philosophers%20have%20not%20kept%20up%20with%20modern%20developments%20in%20science.%20Particularly%20physics.&author=Stephen%20Hawking&v=1770848392" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
