@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20all%20metaphor.&author=Timothy%20Leary&v=1770841662" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20warn%20you%20against%20believing%20that%20advertising%20is%20a%20science.&author=William%20Bernbach&v=1770845096" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
