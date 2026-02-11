@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20accumulation%20of%20skill%20and%20science%20which%20has%20been%20directed%20to%20diminish%20the%20difficulty%20of%20producing%20manufactured%20goods%2C%20has%20not%20been%20beneficial%20to%20that%20country%20alone%20in%20which%20it%20is%20concentrated%20distant%20kingdoms%20have%20participated%20in%20its%20advantages.&author=Charles%20Babbage&v=1770789704" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Time%20travel%20used%20to%20be%20thought%20of%20as%20just%20science%20fiction%2C%20but%20Einstein%27s%20general%20theory%20of%20relativity%20allows%20for%20the%20possibility%20that%20we%20could%20warp%20space-time%20so%20much%20that%20you%20could%20go%20off%20in%20a%20rocket%20and%20return%20before%20you%20set%20out.&author=Stephen%20Hawking&v=1770795956" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
