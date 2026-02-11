@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Chastity%20is%20the%20cement%20of%20civilization%20and%20progress.%20Without%20it%20there%20is%20no%20stability%20in%20society%2C%20and%20without%20it%20one%20cannot%20attain%20the%20Science%20of%20Life.&author=Mary%20Baker%20Eddy&v=1770839373" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20all%20metaphor.&author=Timothy%20Leary&v=1770841662" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
