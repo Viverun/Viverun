@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Philosophers%20have%20not%20kept%20up%20with%20modern%20developments%20in%20science.%20Particularly%20physics.&author=Stephen%20Hawking&v=1770848392" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=New%20discoveries%20in%20science%20will%20continue%20to%20create%20a%20thousand%20new%20frontiers%20for%20those%20who%20still%20would%20adventure.&author=Herbert%20Hoover&v=1770852121" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
