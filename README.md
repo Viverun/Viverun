@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Imagine%20a%20world%20in%20which%20every%20single%20person%20on%20the%20planet%20is%20given%20free%20access%20to%20the%20sum%20of%20all%20human%20knowledge.%20That%27s%20what%20we%27re%20doing.&author=Jimmy%20Wales&v=1770809782" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Equipped%20with%20his%20five%20senses%2C%20man%20explores%20the%20universe%20around%20him%20and%20calls%20the%20adventure%20Science.&author=Edwin%20Hubble&v=1770813662" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
