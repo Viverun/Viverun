@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Equipped%20with%20his%20five%20senses%2C%20man%20explores%20the%20universe%20around%20him%20and%20calls%20the%20adventure%20Science.&author=Edwin%20Hubble&v=1770813662" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20facts%20of%20science%20are%20real%20enough%2C%20and%20so%20are%20the%20techniques%20that%20scientists%20use%2C%20and%20so%20are%20the%20technologies%20based%20on%20them.%20But%20the%20belief%20system%20that%20governs%20conventional%20scientific%20thinking%20is%20an%20act%20of%20faith.&author=Rupert%20Sheldrake&v=1770818884" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
