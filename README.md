@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Art%20and%20science%20have%20their%20meeting%20point%20in%20method.&author=Edward%20G.%20Bulwer-Lytton&v=1770798910" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20whole%20of%20science%20is%20nothing%20more%20than%20a%20refinement%20of%20everyday%20thinking.&author=Albert%20Einstein&v=1770802877" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
