@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20does%20not%20exist%20a%20category%20of%20science%20to%20which%20one%20can%20give%20the%20name%20applied%20science.%20There%20are%20science%20and%20the%20applications%20of%20science%2C%20bound%20together%20as%20the%20fruit%20of%20the%20tree%20which%20bears%20it.&author=Louis%20Pasteur&v=1770828756" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20from%20the%20Madeleine%20L%27Engle%20school.%20The%20more%20she%20delves%20into%20science%2C%20the%20more%20she%20knows%20there%27s%20a%20creator%20who%27s%20behind%20these%20amazing%20laws%2C%20these%20amazing%20events.%20The%20symmetry%20of%20nature%2C%20the%20structure%20and%20order%20of%20it.&author=Tom%20Shadyac&v=1770832191" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
