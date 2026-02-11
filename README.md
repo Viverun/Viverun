@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20from%20the%20Madeleine%20L%27Engle%20school.%20The%20more%20she%20delves%20into%20science%2C%20the%20more%20she%20knows%20there%27s%20a%20creator%20who%27s%20behind%20these%20amazing%20laws%2C%20these%20amazing%20events.%20The%20symmetry%20of%20nature%2C%20the%20structure%20and%20order%20of%20it.&author=Tom%20Shadyac&v=1770832191" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=So%20the%20old%20Copenhagen%20interpretation%20needs%20to%20be%20generalized%2C%20needs%20to%20be%20replaced%20by%20something%20that%20can%20be%20used%20for%20the%20whole%20universe%2C%20and%20can%20be%20used%20also%20in%20cases%20where%20there%20is%20plenty%20of%20individuality%20and%20history.&author=Murray%20Gell-Mann&v=1770835668" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
