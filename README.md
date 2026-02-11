@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=So%20the%20old%20Copenhagen%20interpretation%20needs%20to%20be%20generalized%2C%20needs%20to%20be%20replaced%20by%20something%20that%20can%20be%20used%20for%20the%20whole%20universe%2C%20and%20can%20be%20used%20also%20in%20cases%20where%20there%20is%20plenty%20of%20individuality%20and%20history.&author=Murray%20Gell-Mann&v=1770835668" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Chastity%20is%20the%20cement%20of%20civilization%20and%20progress.%20Without%20it%20there%20is%20no%20stability%20in%20society%2C%20and%20without%20it%20one%20cannot%20attain%20the%20Science%20of%20Life.&author=Mary%20Baker%20Eddy&v=1770839373" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
