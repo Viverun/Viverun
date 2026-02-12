@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20fool%27s%20brain%20digests%20philosophy%20into%20folly%2C%20science%20into%20superstition%2C%20and%20art%20into%20pedantry.%20Hence%20University%20education.&author=George%20Bernard%20Shaw&v=1770875836" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%27ve%20arranged%20a%20civilization%20in%20which%20most%20crucial%20elements%20profoundly%20depend%20on%20science%20and%20technology.&author=Carl%20Sagan&v=1770879364" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
