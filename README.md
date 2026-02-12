@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Now%20the%20main%20areas%20of%20higher%20education%20that%20still%20enjoy%20considerable%20financial%20support%20from%20government%20are%20subjects%20like%20engineering%20and%20science%20and%20the%20research%20ringfence%20which%20is%20the%20basic%20minimum%20to%20protect%20Britain%27s%20scientific%20competitiveness.&author=Vince%20Cable&v=1770882294" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20not%20yet%20mastered%20prophecy.%20We%20predict%20too%20much%20for%20the%20next%20year%20and%20yet%20far%20too%20little%20for%20the%20next%2010.&author=Neil%20Armstrong&v=1770885174" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
