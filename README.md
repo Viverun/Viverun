@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20a%20voyager%20-%20and%20the%20voyage%20cannot%20mean%20that%20I%20stay%20at%20home.&author=Emmanuelle%20Beart&v=1770869591" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20fool%27s%20brain%20digests%20philosophy%20into%20folly%2C%20science%20into%20superstition%2C%20and%20art%20into%20pedantry.%20Hence%20University%20education.&author=George%20Bernard%20Shaw&v=1770875836" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
