@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Politicians%20should%20read%20science%20fiction%2C%20not%20westerns%20and%20detective%20stories.&author=Arthur%20C.%20Clarke&v=1770927763" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Losing%20faith%20in%20your%20own%20singularity%20is%20the%20start%20of%20wisdom%2C%20I%20suppose%20also%20the%20first%20announcement%20of%20death.&author=Peter%20Conrad&v=1770931405" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
