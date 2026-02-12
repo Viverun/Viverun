@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20stars%20shall%20fade%20away%2C%20the%20sun%20himself%20Grow%20dim%20with%20age%2C%20and%20nature%20sink%20in%20years%2C%20But%20thou%20shalt%20flourish%20in%20immortal%20youth%2C%20Unhurt%20amidst%20the%20wars%20of%20elements%2C%20The%20wrecks%20of%20matter%2C%20and%20the%20crush%20of%20worlds.&author=Joseph%20Addison&v=1770925402" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Politicians%20should%20read%20science%20fiction%2C%20not%20westerns%20and%20detective%20stories.&author=Arthur%20C.%20Clarke&v=1770927763" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
