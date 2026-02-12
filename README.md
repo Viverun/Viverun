@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=After%20all%2C%20science%20is%20essentially%20international%2C%20and%20it%20is%20only%20through%20lack%20of%20the%20historical%20sense%20that%20national%20qualities%20have%20been%20attributed%20to%20it.&author=Marie%20Curie&v=1770910808" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20want%20to%20put%20a%20ding%20in%20the%20universe.&author=Steve%20Jobs&v=1770914693" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
