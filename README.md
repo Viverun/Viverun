@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Well%2C%20I%27ve%20always%20thought%20that%20my%20career%20was%20in%20England%2C%20really.%20I%20used%20to%20do%20more%20in%20the%20theatre%2C%20and%20I%20felt%20that%20I%20should%20be%20there.%20It%27s%20not%20far%20is%20it%3F%20It%27s%20amazing%20the%20way%20that%20special%20FX%20have%20taken%20a%20quantum%20leap%20in%20what%20they%27re%20capable%20of%20doing.&author=Albert%20Finney&v=1770899879" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20Universe%20is%20one%20great%20kindergarten%20for%20man.%20Everything%20that%20exists%20has%20brought%20with%20it%20its%20own%20peculiar%20lesson.&author=Orison%20Swett%20Marden&v=1770905003" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
