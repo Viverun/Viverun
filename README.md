@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20not%20yet%20mastered%20prophecy.%20We%20predict%20too%20much%20for%20the%20next%20year%20and%20yet%20far%20too%20little%20for%20the%20next%2010.&author=Neil%20Armstrong&v=1770885174" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20historical%20development%20of%20the%20work%20of%20anthropologists%20seems%20to%20single%20out%20clearly%20a%20domain%20of%20knowledge%20that%20heretofore%20has%20not%20been%20treated%20by%20any%20other%20science.&author=Franz%20Boas&v=1770889004" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
