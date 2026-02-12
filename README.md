@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20historical%20development%20of%20the%20work%20of%20anthropologists%20seems%20to%20single%20out%20clearly%20a%20domain%20of%20knowledge%20that%20heretofore%20has%20not%20been%20treated%20by%20any%20other%20science.&author=Franz%20Boas&v=1770889004" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20can%20purify%20religion%20from%20error%20and%20superstition.%20Religion%20can%20purify%20science%20from%20idolatry%20and%20false%20absolutes.&author=Pope%20John%20Paul%20II&v=1770892406" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
