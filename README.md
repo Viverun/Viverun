@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20Universe%20is%20one%20great%20kindergarten%20for%20man.%20Everything%20that%20exists%20has%20brought%20with%20it%20its%20own%20peculiar%20lesson.&author=Orison%20Swett%20Marden&v=1770905003" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=After%20all%2C%20science%20is%20essentially%20international%2C%20and%20it%20is%20only%20through%20lack%20of%20the%20historical%20sense%20that%20national%20qualities%20have%20been%20attributed%20to%20it.&author=Marie%20Curie&v=1770910808" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
