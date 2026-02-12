@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%27ve%20arranged%20a%20civilization%20in%20which%20most%20crucial%20elements%20profoundly%20depend%20on%20science%20and%20technology.&author=Carl%20Sagan&v=1770879364" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Now%20the%20main%20areas%20of%20higher%20education%20that%20still%20enjoy%20considerable%20financial%20support%20from%20government%20are%20subjects%20like%20engineering%20and%20science%20and%20the%20research%20ringfence%20which%20is%20the%20basic%20minimum%20to%20protect%20Britain%27s%20scientific%20competitiveness.&author=Vince%20Cable&v=1770882294" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
