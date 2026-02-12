@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=New%20discoveries%20in%20science%20will%20continue%20to%20create%20a%20thousand%20new%20frontiers%20for%20those%20who%20still%20would%20adventure.&author=Herbert%20Hoover&v=1770852121" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20devoted%20much%20time%20and%20energy%20to%20helping%20medical%20physics%20in%20developing%20countries.&author=John%20Cameron&v=1770858541" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
