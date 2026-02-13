@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20me%20there%20has%20never%20been%20a%20higher%20source%20of%20earthly%20honor%20or%20distinction%20than%20that%20connected%20with%20advances%20in%20science.&author=Isaac%20Newton&v=1770993271" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=False%20facts%20are%20highly%20injurious%20to%20the%20progress%20of%20science%2C%20for%20they%20often%20endure%20long%20but%20false%20views%2C%20if%20supported%20by%20some%20evidence%2C%20do%20little%20harm%2C%20for%20every%20one%20takes%20a%20salutary%20pleasure%20in%20proving%20their%20falseness.&author=Charles%20Darwin&v=1770996712" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
