@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20dad%20was%20always%20such%20a%20frustrated%20artist.%20He%20always%20worked%20very%20hard%20to%20support%20his%20family%2C%20doing%20a%20bunch%20of%20ridiculous%20jobs.%20He%20wanted%20to%20be%20a%20painter%2C%20but%20then%20he%20also%20wrote%20science-fiction%20novels%20in%20his%20spare%20time.&author=Rainn%20Wilson&v=1770955813" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20believe%20in%20Christianity%20as%20I%20believe%20that%20the%20sun%20has%20risen%3A%20not%20only%20because%20I%20see%20it%2C%20but%20because%20by%20it%20I%20see%20everything%20else.&author=C.%20S.%20Lewis&v=1770961963" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
