@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20gives%20us%20knowledge%2C%20but%20only%20philosophy%20can%20give%20us%20wisdom.&author=Will%20Durant&v=1770971426" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20want%20to%20answer%20this%20classical%20question%2C%20who%20am%20I%3F%20So%20I%20think%20that%20most%20of%20our%20works%20are%20for%20art%2C%20or%20whatever%20we%20do%2C%20including%20science%20or%20religion%2C%20tried%20to%20answer%20that%20question.&author=Paulo%20Coelho&v=1770975170" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
