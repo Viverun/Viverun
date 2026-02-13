@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20cannot%2C%20in%20human%20experience%2C%20rush%20into%20the%20light.%20You%20have%20to%20go%20through%20the%20twilight%20into%20the%20broadening%20day%20before%20the%20noon%20comes%20and%20the%20full%20sun%20is%20upon%20the%20landscape.&author=Woodrow%20Wilson&v=1770938337" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20those%20parts%20of%20the%20world%20where%20learning%20and%20science%20has%20prevailed%2C%20miracles%20have%20ceased%20but%20in%20those%20parts%20of%20it%20as%20are%20barbarous%20and%20ignorant%2C%20miracles%20are%20still%20in%20vogue.&author=Ethan%20Allen&v=1770945147" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
