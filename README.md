@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=False%20facts%20are%20highly%20injurious%20to%20the%20progress%20of%20science%2C%20for%20they%20often%20endure%20long%20but%20false%20views%2C%20if%20supported%20by%20some%20evidence%2C%20do%20little%20harm%2C%20for%20every%20one%20takes%20a%20salutary%20pleasure%20in%20proving%20their%20falseness.&author=Charles%20Darwin&v=1770996712" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20long%20as%20men%20are%20free%20to%20ask%20what%20they%20must%2C%20free%20to%20say%20what%20they%20think%2C%20free%20to%20think%20what%20they%20will%2C%20freedom%20can%20never%20be%20lost%20and%20science%20can%20never%20regress.&author=Marcel%20Proust&v=1771000320" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
