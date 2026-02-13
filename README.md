@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20is%20only%20one%20thing%20for%20us%20to%20do%2C%20and%20that%20is%20to%20do%20our%20level%20best%20right%20where%20we%20are%20every%20day%20of%20our%20lives%20To%20use%20our%20best%20judgment%2C%20and%20then%20to%20trust%20the%20rest%20to%20that%20Power%20which%20holds%20the%20forces%20of%20the%20universe%20in%20his%20hands.&author=Orison%20Swett%20Marden&v=1771011262" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20fulfilled%20her%20function%20when%20she%20has%20ascertained%20and%20enunciated%20truth.&author=Thomas%20Huxley&v=1771014313" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
