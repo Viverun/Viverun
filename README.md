@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20want%20to%20answer%20this%20classical%20question%2C%20who%20am%20I%3F%20So%20I%20think%20that%20most%20of%20our%20works%20are%20for%20art%2C%20or%20whatever%20we%20do%2C%20including%20science%20or%20religion%2C%20tried%20to%20answer%20that%20question.&author=Paulo%20Coelho&v=1770975170" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20far%20as%20I%27m%20concerned%2C%20there%27s%20no%20job%20more%20important%20on%20the%20planet%20than%20being%20a%20mom.&author=Mark%20Wahlberg&v=1770978568" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
