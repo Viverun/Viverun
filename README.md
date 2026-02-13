@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20there%20was%20an%20observer%20on%20Mars%2C%20they%20would%20probably%20be%20amazed%20that%20we%20have%20survived%20this%20long.&author=Noam%20Chomsky&v=1770985979" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20like%20physics.%20I%20think%20it%20is%20the%20best%20science%20out%20of%20all%20three%20of%20them%2C%20because%20generally%20it%27s%20more%20useful.%20You%20learn%20about%20speed%20and%20velocity%20and%20time%2C%20and%20that%27s%20all%20clever%20stuff.&author=Tom%20Felton&v=1770990876" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
