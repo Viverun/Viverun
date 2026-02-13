@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20clearest%20way%20into%20the%20Universe%20is%20through%20a%20forest%20wilderness.&author=John%20Muir&v=1771003988" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Unfortunately%20things%20are%20different%20in%20climate%20science%20because%20the%20arguments%20have%20become%20heavily%20politicised.%20To%20say%20that%20the%20dogmas%20are%20wrong%20has%20become%20politically%20incorrect.&author=Freeman%20Dyson&v=1771007495" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
