@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20long%20as%20men%20are%20free%20to%20ask%20what%20they%20must%2C%20free%20to%20say%20what%20they%20think%2C%20free%20to%20think%20what%20they%20will%2C%20freedom%20can%20never%20be%20lost%20and%20science%20can%20never%20regress.&author=Marcel%20Proust&v=1771000320" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20clearest%20way%20into%20the%20Universe%20is%20through%20a%20forest%20wilderness.&author=John%20Muir&v=1771003988" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
