@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20believe%20in%20Christianity%20as%20I%20believe%20that%20the%20sun%20has%20risen%3A%20not%20only%20because%20I%20see%20it%2C%20but%20because%20by%20it%20I%20see%20everything%20else.&author=C.%20S.%20Lewis&v=1770961963" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life%20is%20not%20an%20exact%20science%2C%20it%20is%20an%20art.&author=Samuel%20Butler&v=1770965132" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
