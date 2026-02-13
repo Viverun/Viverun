@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20those%20parts%20of%20the%20world%20where%20learning%20and%20science%20has%20prevailed%2C%20miracles%20have%20ceased%20but%20in%20those%20parts%20of%20it%20as%20are%20barbarous%20and%20ignorant%2C%20miracles%20are%20still%20in%20vogue.&author=Ethan%20Allen&v=1770945147" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20dad%20was%20always%20such%20a%20frustrated%20artist.%20He%20always%20worked%20very%20hard%20to%20support%20his%20family%2C%20doing%20a%20bunch%20of%20ridiculous%20jobs.%20He%20wanted%20to%20be%20a%20painter%2C%20but%20then%20he%20also%20wrote%20science-fiction%20novels%20in%20his%20spare%20time.&author=Rainn%20Wilson&v=1770955813" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
