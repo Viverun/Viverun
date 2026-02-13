@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Death%20comes%20to%20all%2C%20but%20great%20achievements%20build%20a%20monument%20which%20shall%20endure%20until%20the%20sun%20grows%20cold.&author=Ralph%20Waldo%20Emerson&v=1770981792" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20there%20was%20an%20observer%20on%20Mars%2C%20they%20would%20probably%20be%20amazed%20that%20we%20have%20survived%20this%20long.&author=Noam%20Chomsky&v=1770985979" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
