@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20far%20as%20I%27m%20concerned%2C%20there%27s%20no%20job%20more%20important%20on%20the%20planet%20than%20being%20a%20mom.&author=Mark%20Wahlberg&v=1770978568" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Death%20comes%20to%20all%2C%20but%20great%20achievements%20build%20a%20monument%20which%20shall%20endure%20until%20the%20sun%20grows%20cold.&author=Ralph%20Waldo%20Emerson&v=1770981792" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
