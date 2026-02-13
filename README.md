@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20was%20horrible%20at%20science%20and%20math.%20I%20couldn%27t%20pass%20a%20test%20to%20save%20my%20life%21%20I%27m%20surprised%20that%20it%20didn%27t%20take%20me%20until%20I%20was%2020%20to%20graduate.%20That%27s%20why%20my%20role%20is%20so%20cool%20-%20Grissom%20is%20the%20complete%20opposite%20of%20me.&author=William%20Petersen&v=1771017934" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Space%20is%20big.%20You%20just%20won%27t%20believe%20how%20vastly%2C%20hugely%2C%20mind-bogglingly%20big%20it%20is.&author=Douglas%20Adams&v=1771021339" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
