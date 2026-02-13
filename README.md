@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Many%20who%20have%20had%20an%20opportunity%20of%20knowing%20any%20more%20about%20mathematics%20confuse%20it%20with%20arithmetic%2C%20and%20consider%20it%20an%20arid%20science.%20In%20reality%2C%20however%2C%20it%20is%20a%20science%20which%20requires%20a%20great%20amount%20of%20imagination.&author=Sofia%20Kovalevskaya&v=1770968520" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20gives%20us%20knowledge%2C%20but%20only%20philosophy%20can%20give%20us%20wisdom.&author=Will%20Durant&v=1770971426" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
