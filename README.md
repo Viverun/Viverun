@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Man%20is%20unique%20not%20because%20he%20does%20science%2C%20and%20his%20is%20unique%20not%20because%20he%20does%20art%2C%20but%20because%20science%20and%20art%20equally%20are%20expressions%20of%20his%20marvelous%20plasticity%20of%20mind.&author=Jacob%20Bronowski&v=1771076236" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=How%20we%20are%20using%20up%20our%20home%2C%20how%20we%20are%20living%20and%20polluting%20the%20planet%20is%20frightening.%20It%20was%20evident%20when%20I%20was%20a%20child.%20It%27s%20more%20evident%20now.&author=Maya%20Lin&v=1771078633" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
