@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%27ve%20made%20science%20experiments%20of%20ourselves%20and%20our%20children.&author=Jonathan%20Safran%20Foer&v=1771067639" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20think%20laughter%20may%20be%20a%20form%20of%20courage.%20As%20humans%20we%20sometimes%20stand%20tall%20and%20look%20into%20the%20sun%20and%20laugh%2C%20and%20I%20think%20we%20are%20never%20more%20brave%20than%20when%20we%20do%20that.&author=Linda%20Ellerbee&v=1771071796" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
