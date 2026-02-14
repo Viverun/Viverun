@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20thing%20about%20science%20is%20that%20hard%2C%20empirical%20answers%20are%20always%20there%20if%20you%20look%20hard%20enough.%20The%20best%20thing%20about%20religion%20is%20that%20the%20very%20absence%20of%20that%20certainty%20is%20what%20requires%20-%20and%20gives%20rise%20to%20-%20deep%20feelings%20of%20faith.&author=Jeffrey%20Kluger&v=1771024841" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Public%20discourse%20has%20been%20polluted%20now%20for%20decades%20by%20corporate-funded%20disinformation%20-%20not%20just%20with%20climate%20change%20but%20with%20a%20host%20of%20health%2C%20environmental%20and%20societal%20threats.%20The%20implications%20for%20the%20planet%20are%20grim.&author=Michael%20E.%20Mann&v=1771031130" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
