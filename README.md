@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20owe%20at%20least%20this%20much%20to%20future%20generations%2C%20from%20whom%20we%20have%20borrowed%20a%20fragile%20planet%20called%20Earth.&author=Maurice%20Strong&v=1771064105" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%27ve%20made%20science%20experiments%20of%20ourselves%20and%20our%20children.&author=Jonathan%20Safran%20Foer&v=1771067639" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
