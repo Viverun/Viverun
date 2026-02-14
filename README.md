@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20started%20out%20writing%20much%20more%20science%20fictiony%20stuff%20and%20writing%20about%20science%20fiction.&author=Neil%20Gaiman&v=1771082099" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20for%20those%20who%20learn%2C%20poetry%20is%20for%20those%20who%20know.&author=Joseph%20Roux&v=1771085766" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
