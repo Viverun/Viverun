@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20simply%20do%20not%20understand%20our%20place%20in%20the%20universe%20and%20have%20not%20the%20courage%20to%20admit%20it.&author=Barry%20Lopez&v=1771089435" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20properly%20more%20scrupulous%20than%20dogma.%20Dogma%20gives%20a%20charter%20to%20mistake%2C%20but%20the%20very%20breath%20of%20science%20is%20a%20contest%20with%20mistake%2C%20and%20must%20keep%20the%20conscience%20alive.&author=George%20Eliot&v=1771093148" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
