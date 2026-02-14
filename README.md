@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Equipped%20with%20his%20five%20senses%2C%20man%20explores%20the%20universe%20around%20him%20and%20calls%20the%20adventure%20Science.&author=Edwin%20Hubble&v=1771054037" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20reckons%20many%20prophets%2C%20but%20there%20is%20not%20even%20a%20promise%20of%20a%20Messiah.&author=Thomas%20Huxley&v=1771057129" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
