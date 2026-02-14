@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=How%20we%20are%20using%20up%20our%20home%2C%20how%20we%20are%20living%20and%20polluting%20the%20planet%20is%20frightening.%20It%20was%20evident%20when%20I%20was%20a%20child.%20It%27s%20more%20evident%20now.&author=Maya%20Lin&v=1771078633" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20started%20out%20writing%20much%20more%20science%20fictiony%20stuff%20and%20writing%20about%20science%20fiction.&author=Neil%20Gaiman&v=1771082099" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
