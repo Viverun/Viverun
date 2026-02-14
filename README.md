@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Observation%20is%20a%20passive%20science%2C%20experimentation%20an%20active%20science.&author=Claude%20Bernard&v=1771107152" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ayurveda%20is%20a%20sister%20philosophy%20to%20yoga.%20It%20is%20the%20science%20of%20life%20or%20longevity%20and%20it%20teaches%20about%20the%20power%20and%20the%20cycles%20of%20nature%2C%20as%20well%20as%20the%20elements.&author=Christy%20Turlington&v=1771110834" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
