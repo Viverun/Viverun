@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20for%20those%20who%20learn%2C%20poetry%20is%20for%20those%20who%20know.&author=Joseph%20Roux&v=1771085766" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20simply%20do%20not%20understand%20our%20place%20in%20the%20universe%20and%20have%20not%20the%20courage%20to%20admit%20it.&author=Barry%20Lopez&v=1771089435" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
