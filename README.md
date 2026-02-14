@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Just%20as%20the%20science%20and%20art%20of%20agriculture%20depend%20upon%20chemistry%20and%20botany%2C%20so%20the%20art%20of%20education%20depends%20upon%20physiology%20and%20psychology.&author=Edward%20Thorndike&v=1771041602" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Satisfaction%20of%20one%27s%20curiosity%20is%20one%20of%20the%20greatest%20sources%20of%20happiness%20in%20life.&author=Linus%20Pauling&v=1771045806" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
