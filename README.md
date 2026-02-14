@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20world%20is%20full%20of%20strange%20phenomena%20that%20cannot%20be%20explained%20by%20the%20laws%20of%20logic%20or%20science.%20Dennis%20Rodman%20is%20only%20one%20example.&author=Dave%20Barry&v=1771100047" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%2C%20my%20lad%2C%20is%20made%20up%20of%20mistakes%2C%20but%20they%20are%20mistakes%20which%20it%20is%20useful%20to%20make%2C%20because%20they%20lead%20little%20by%20little%20to%20the%20truth.&author=Jules%20Verne&v=1771103644" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
