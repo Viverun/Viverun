@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Mythology%20and%20science%20both%20extend%20the%20scope%20of%20human%20beings.%20Like%20science%20and%20technology%2C%20mythology%2C%20as%20we%20shall%20see%2C%20is%20not%20about%20opting%20out%20of%20this%20world%2C%20but%20about%20enabling%20us%20to%20live%20more%20intensely%20within%20it.&author=Karen%20Armstrong&v=1771096553" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20world%20is%20full%20of%20strange%20phenomena%20that%20cannot%20be%20explained%20by%20the%20laws%20of%20logic%20or%20science.%20Dennis%20Rodman%20is%20only%20one%20example.&author=Dave%20Barry&v=1771100047" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
