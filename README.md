@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Public%20discourse%20has%20been%20polluted%20now%20for%20decades%20by%20corporate-funded%20disinformation%20-%20not%20just%20with%20climate%20change%20but%20with%20a%20host%20of%20health%2C%20environmental%20and%20societal%20threats.%20The%20implications%20for%20the%20planet%20are%20grim.&author=Michael%20E.%20Mann&v=1771031130" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Just%20as%20the%20science%20and%20art%20of%20agriculture%20depend%20upon%20chemistry%20and%20botany%2C%20so%20the%20art%20of%20education%20depends%20upon%20physiology%20and%20psychology.&author=Edward%20Thorndike&v=1771041602" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
