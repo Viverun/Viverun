@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%2C%20my%20lad%2C%20is%20made%20up%20of%20mistakes%2C%20but%20they%20are%20mistakes%20which%20it%20is%20useful%20to%20make%2C%20because%20they%20lead%20little%20by%20little%20to%20the%20truth.&author=Jules%20Verne&v=1771103644" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Observation%20is%20a%20passive%20science%2C%20experimentation%20an%20active%20science.&author=Claude%20Bernard&v=1771107152" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
