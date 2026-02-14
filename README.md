@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20properly%20more%20scrupulous%20than%20dogma.%20Dogma%20gives%20a%20charter%20to%20mistake%2C%20but%20the%20very%20breath%20of%20science%20is%20a%20contest%20with%20mistake%2C%20and%20must%20keep%20the%20conscience%20alive.&author=George%20Eliot&v=1771093148" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Mythology%20and%20science%20both%20extend%20the%20scope%20of%20human%20beings.%20Like%20science%20and%20technology%2C%20mythology%2C%20as%20we%20shall%20see%2C%20is%20not%20about%20opting%20out%20of%20this%20world%2C%20but%20about%20enabling%20us%20to%20live%20more%20intensely%20within%20it.&author=Karen%20Armstrong&v=1771096553" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
