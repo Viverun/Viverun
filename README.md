@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20capacity%20of%20the%20female%20mind%20for%20studies%20of%20the%20highest%20order%20cannot%20be%20doubted%2C%20having%20been%20sufficiently%20illustrated%20by%20its%20works%20of%20genius%2C%20of%20erudition%2C%20and%20of%20science.&author=James%20Madison&v=1771050688" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Equipped%20with%20his%20five%20senses%2C%20man%20explores%20the%20universe%20around%20him%20and%20calls%20the%20adventure%20Science.&author=Edwin%20Hubble&v=1771054037" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
