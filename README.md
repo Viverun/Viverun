@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20to%20be%20understood%20in%20its%20broadest%20sense%2C%20as%20a%20method%20for%20comprehending%20all%20observable%20reality%2C%20and%20not%20merely%20as%20an%20instrument%20for%20acquiring%20specialized%20knowledge.&author=Alexis%20Carrel&v=1771154052" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20capacity%20of%20the%20female%20mind%20for%20studies%20of%20the%20highest%20order%20cannot%20be%20doubted%2C%20having%20been%20sufficiently%20illustrated%20by%20its%20works%20of%20genius%2C%20of%20erudition%2C%20and%20of%20science.&author=James%20Madison&v=1771158296" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
