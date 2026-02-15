@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Public%20discourse%20has%20been%20polluted%20now%20for%20decades%20by%20corporate-funded%20disinformation%20-%20not%20just%20with%20climate%20change%20but%20with%20a%20host%20of%20health%2C%20environmental%20and%20societal%20threats.%20The%20implications%20for%20the%20planet%20are%20grim.&author=Michael%20E.%20Mann&v=1771172160" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%27s%20sort%20of%20a%20mental%20attitude%20about%20critical%20thinking%20and%20curiosity.%20It%27s%20about%20mindset%20of%20looking%20at%20the%20world%20in%20a%20playful%20and%20curious%20and%20creative%20way.&author=Adam%20Savage&v=1771175783" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
