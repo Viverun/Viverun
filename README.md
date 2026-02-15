@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20learning%20something%20all%20the%20time.%20That%27s%20the%20way%20I%20want%20it%20to%20go%2C%20and%20that%27s%20the%20way%20I%27ll%20go%20until%20I%20am%20no%20longer%20on%20this%20planet.&author=Doris%20Roberts&v=1771162677" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20taste%20in%20watching%20things%20runs%20from%20dramas%20and%20low-budget%20films%20to%20high-end%20fantasy/science%20fiction.&author=Michael%20Sheen&v=1771165084" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
