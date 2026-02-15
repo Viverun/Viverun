@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Almost%20everything%20that%20distinguishes%20the%20modern%20world%20from%20earlier%20centuries%20is%20attributable%20to%20science%2C%20which%20achieved%20its%20most%20spectacular%20triumphs%20in%20the%20seventeenth%20century.&author=Bertrand%20Russell&v=1771150539" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20to%20be%20understood%20in%20its%20broadest%20sense%2C%20as%20a%20method%20for%20comprehending%20all%20observable%20reality%2C%20and%20not%20merely%20as%20an%20instrument%20for%20acquiring%20specialized%20knowledge.&author=Alexis%20Carrel&v=1771154052" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
