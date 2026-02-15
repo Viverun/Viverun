@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Natural%20science%20will%20in%20time%20incorporate%20into%20itself%20the%20science%20of%20man%2C%20just%20as%20the%20science%20of%20man%20will%20incorporate%20into%20itself%20natural%20science%3A%20there%20will%20be%20one%20science.&author=Karl%20Marx&v=1771168526" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Public%20discourse%20has%20been%20polluted%20now%20for%20decades%20by%20corporate-funded%20disinformation%20-%20not%20just%20with%20climate%20change%20but%20with%20a%20host%20of%20health%2C%20environmental%20and%20societal%20threats.%20The%20implications%20for%20the%20planet%20are%20grim.&author=Michael%20E.%20Mann&v=1771172160" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
