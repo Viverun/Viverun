@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Language%2C%20philosophy%2C%20and%20science%20are%20interwoven%20into%20the%20design%20of%20words%2C%20which%20are%20manipulated%20to%20create%20surprising%20illusions.&author=John%20Langdon&v=1771137473" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20want%20to%20be%20the%20Cecil%20B.%20DeMille%20of%20science%20fiction.&author=Steven%20Spielberg&v=1771140687" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
