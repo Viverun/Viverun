@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20knows%20only%20one%20commandment%20-%20contribute%20to%20science.&author=Bertolt%20Brecht&v=1771190084" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Think%20how%20hard%20physics%20would%20be%20if%20particles%20could%20think.&author=Murray%20Gell-Mann&v=1771193564" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
