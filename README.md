@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20Honor%27s%20sun%20declines%2C%20and%20Wealth%20takes%20wings%2C%20Then%20Learning%20shines%2C%20the%20best%20of%20precious%20things.&author=Edward%20Cocker&v=1771128681" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Without%20consciousness%20and%20intelligence%2C%20the%20universe%20would%20lack%20meaning.&author=Clifford%20D.%20Simak&v=1771134503" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
