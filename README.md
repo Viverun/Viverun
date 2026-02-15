@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20think%20mistakes%20are%20the%20essence%20of%20science%20and%20law.%20It%27s%20impossible%20to%20conceive%20of%20either%20scientific%20progress%20or%20legal%20progress%20without%20understanding%20the%20important%20role%20of%20being%20wrong%20and%20of%20mistakes.&author=Alan%20Dershowitz&v=1771186444" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20knows%20only%20one%20commandment%20-%20contribute%20to%20science.&author=Bertolt%20Brecht&v=1771190084" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
