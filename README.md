@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%2C%20like%20art%2C%20religion%2C%20commerce%2C%20warfare%2C%20and%20even%20sleep%2C%20is%20based%20on%20presuppositions.&author=Gregory%20Bateson&v=1771117891" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20Honor%27s%20sun%20declines%2C%20and%20Wealth%20takes%20wings%2C%20Then%20Learning%20shines%2C%20the%20best%20of%20precious%20things.&author=Edward%20Cocker&v=1771128681" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
