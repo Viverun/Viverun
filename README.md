@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Americans%20are%20the%20most%20generous%20country%20on%20the%20planet.%20I%27ve%20worked%20in%20Europe%2C%20I%27ve%20worked%20in%20Australia.%20There%20is%20no%20where%20else%20where%20you%20get%20absolutely%20no%20attitude%20for%20being%20a%20foreigner.%20If%20you%20do%20your%20job%20well%2C%20they%20embrace%20you.&author=Hugh%20Jackman&v=1771183056" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20think%20mistakes%20are%20the%20essence%20of%20science%20and%20law.%20It%27s%20impossible%20to%20conceive%20of%20either%20scientific%20progress%20or%20legal%20progress%20without%20understanding%20the%20important%20role%20of%20being%20wrong%20and%20of%20mistakes.&author=Alan%20Dershowitz&v=1771186444" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
