@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20want%20to%20be%20the%20Cecil%20B.%20DeMille%20of%20science%20fiction.&author=Steven%20Spielberg&v=1771140687" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20does%20not%20exist%20a%20category%20of%20science%20to%20which%20one%20can%20give%20the%20name%20applied%20science.%20There%20are%20science%20and%20the%20applications%20of%20science%2C%20bound%20together%20as%20the%20fruit%20of%20the%20tree%20which%20bears%20it.&author=Louis%20Pasteur&v=1771143603" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
