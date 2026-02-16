@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20fiction%2C%20outside%20of%20poetry%2C%20is%20the%20only%20literary%20field%20which%20has%20no%20limits%2C%20no%20parameters%20whatsoever.&author=Theodore%20Sturgeon&v=1771225504" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Moral%20science%20is%20better%20occupied%20when%20treating%20of%20friendship%20than%20of%20justice.&author=Thomas%20Aquinas&v=1771230846" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
