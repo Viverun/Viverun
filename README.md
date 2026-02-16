@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Imagine%20a%20world%20in%20which%20every%20single%20person%20on%20the%20planet%20is%20given%20free%20access%20to%20the%20sum%20of%20all%20human%20knowledge.%20That%27s%20what%20we%27re%20doing.&author=Jimmy%20Wales&v=1771255883" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%2C%20like%20art%2C%20religion%2C%20commerce%2C%20warfare%2C%20and%20even%20sleep%2C%20is%20based%20on%20presuppositions.&author=Gregory%20Bateson&v=1771259427" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
