@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20fiction%2C%20to%20me%2C%20has%20not%20only%20things%20that%20wouldn%27t%20happen%2C%20but%20other%20planets.&author=Margaret%20Atwood&v=1771241551" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20pray%20that%20every%20field%20of%20science%20may%20contribute%20in%20bringing%20happiness%20-%20not%20disaster%20-%20to%20human%20beings.&author=Kenichi%20Fukui&v=1771245398" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
