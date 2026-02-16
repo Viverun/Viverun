@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=History%20is%20the%20science%20of%20things%20which%20are%20not%20repeated.&author=Paul%20Valery&v=1771266522" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20credit%20of%20advancing%20science%20has%20always%20been%20due%20to%20individuals%20and%20never%20to%20the%20age.&author=Johann%20Wolfgang%20von%20Goethe&v=1771269968" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
