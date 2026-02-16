@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20must%20be%20a%20positive%20and%20negative%20in%20everything%20in%20the%20universe%20in%20order%20to%20complete%20a%20circuit%20or%20circle%2C%20without%20which%20there%20would%20be%20no%20activity%2C%20no%20motion.&author=John%20McDonald&v=1771280197" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%2C%20like%20art%2C%20religion%2C%20commerce%2C%20warfare%2C%20and%20even%20sleep%2C%20is%20based%20on%20presuppositions.&author=Gregory%20Bateson&v=1771283923" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
