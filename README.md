@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20concentrating%20on%20staying%20healthy%2C%20having%20peace%2C%20being%20happy%2C%20remembering%20what%20is%20important%2C%20taking%20in%20nature%20and%20animals%2C%20spending%20time%20reading%2C%20trying%20to%20understand%20the%20universe%2C%20where%20science%20and%20the%20spiritual%20meet.&author=Joan%20Jett&v=1771221573" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20fiction%2C%20outside%20of%20poetry%2C%20is%20the%20only%20literary%20field%20which%20has%20no%20limits%2C%20no%20parameters%20whatsoever.&author=Theodore%20Sturgeon&v=1771225504" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
