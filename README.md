@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%2C%20like%20art%2C%20religion%2C%20commerce%2C%20warfare%2C%20and%20even%20sleep%2C%20is%20based%20on%20presuppositions.&author=Gregory%20Bateson&v=1771259427" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Medical%20physics%20is%20an%20applied%20area%20of%20physics.&author=John%20Cameron&v=1771263044" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
