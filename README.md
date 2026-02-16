@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20questions%20of%20science%2C%20the%20authority%20of%20a%20thousand%20is%20not%20worth%20the%20humble%20reasoning%20of%20a%20single%20individual.&author=Galileo%20Galilei&v=1771273083" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Physics%20does%20not%20change%20the%20nature%20of%20the%20world%20it%20studies%2C%20and%20no%20science%20of%20behavior%20can%20change%20the%20essential%20nature%20of%20man%2C%20even%20though%20both%20sciences%20yield%20technologies%20with%20a%20vast%20power%20to%20manipulate%20the%20subject%20matters.&author=Pope%20Paul%20VI&v=1771276744" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
