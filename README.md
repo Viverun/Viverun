@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20credit%20of%20advancing%20science%20has%20always%20been%20due%20to%20individuals%20and%20never%20to%20the%20age.&author=Johann%20Wolfgang%20von%20Goethe&v=1771269968" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20questions%20of%20science%2C%20the%20authority%20of%20a%20thousand%20is%20not%20worth%20the%20humble%20reasoning%20of%20a%20single%20individual.&author=Galileo%20Galilei&v=1771273083" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
