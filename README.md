@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20pray%20that%20every%20field%20of%20science%20may%20contribute%20in%20bringing%20happiness%20-%20not%20disaster%20-%20to%20human%20beings.&author=Kenichi%20Fukui&v=1771245398" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20sometimes%20been%20said%20to%20be%20opposed%20to%20faith%2C%20and%20inconsistent%20with%20it.%20But%20all%20science%2C%20in%20fact%2C%20rests%20on%20a%20basis%20of%20faith%2C%20for%20it%20assumes%20the%20permanence%20and%20uniformity%20of%20natural%20laws%20-%20a%20thing%20which%20can%20never%20be%20demonstrated.&author=Tryon%20Edwards&v=1771250316" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
