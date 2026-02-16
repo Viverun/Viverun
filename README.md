@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Medical%20physics%20is%20an%20applied%20area%20of%20physics.&author=John%20Cameron&v=1771263044" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=History%20is%20the%20science%20of%20things%20which%20are%20not%20repeated.&author=Paul%20Valery&v=1771266522" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
