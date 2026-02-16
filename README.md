@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20remember%20looking%20at%20the%20sky%20and%20thinking%20that%20the%20universe%20is%20so%20big%20and%20it%27s%20all%20chaos.%20I%20call%20it%20%27the%20dark%20fear.%27%20At%20any%20moment%2C%20the%20dark%20fear%20could%20come%20in.&author=St.%20Vincent&v=1771197341" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20saw%20Queen%20Elizabeth%20it%20would%20be%20amazing%2C%20she%20came%20from%20another%20planet.%20She%20was%20so%20attractive%20in%20what%20she%20was%20wearing.&author=Vivienne%20Westwood&v=1771204145" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
