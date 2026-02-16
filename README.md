@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Moral%20science%20is%20better%20occupied%20when%20treating%20of%20friendship%20than%20of%20justice.&author=Thomas%20Aquinas&v=1771230846" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20attempt%20this%20would%20be%20like%20seeing%20without%20eyes%20or%20directing%20the%20gaze%20of%20knowledge%20behind%20one%27s%20own%20eye.%20Modern%20science%20can%20acknowledge%20no%20other%20than%20this%20epistemological%20stand-point.&author=Wilhelm%20Dilthey&v=1771234854" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
