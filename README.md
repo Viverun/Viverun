@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20attempt%20this%20would%20be%20like%20seeing%20without%20eyes%20or%20directing%20the%20gaze%20of%20knowledge%20behind%20one%27s%20own%20eye.%20Modern%20science%20can%20acknowledge%20no%20other%20than%20this%20epistemological%20stand-point.&author=Wilhelm%20Dilthey&v=1771234854" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%27ve%20arranged%20a%20civilization%20in%20which%20most%20crucial%20elements%20profoundly%20depend%20on%20science%20and%20technology.&author=Carl%20Sagan&v=1771238310" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
