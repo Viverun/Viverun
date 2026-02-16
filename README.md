@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%27ve%20arranged%20a%20civilization%20in%20which%20most%20crucial%20elements%20profoundly%20depend%20on%20science%20and%20technology.&author=Carl%20Sagan&v=1771238310" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20fiction%2C%20to%20me%2C%20has%20not%20only%20things%20that%20wouldn%27t%20happen%2C%20but%20other%20planets.&author=Margaret%20Atwood&v=1771241551" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
