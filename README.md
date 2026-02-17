@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Some%20say%20they%20see%20poetry%20in%20my%20paintings%20I%20see%20only%20science.&author=Georges%20Seurat&v=1771336760" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perseverance%20is%20not%20a%20long%20race%20it%20is%20many%20short%20races%20one%20after%20the%20other.&author=Walter%20Elliot&v=1771339591" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
