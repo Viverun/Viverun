@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Art%20has%20a%20double%20face%2C%20of%20expression%20and%20illusion%2C%20just%20like%20science%20has%20a%20double%20face%3A%20the%20reality%20of%20error%20and%20the%20phantom%20of%20truth.&author=Publilius%20Syrus&v=1771350441" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20you%27re%20a%20houseguest%20and%20you%20leave%2C%20it%27s%20nice%20to%20straighten%20something%20up%20or%20send%20your%20hosts%20a%20useful%20gift.%20And%20when%20you%20leave%20the%20planet%2C%20it%27s%20nice%20to%20have%20made%20a%20positive%20contribution.&author=Alexander%20Payne&v=1771353671" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
