@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20seen%20the%20science%20I%20worshiped%2C%20and%20the%20aircraft%20I%20loved%2C%20destroying%20the%20civilization%20I%20expected%20them%20to%20serve.&author=Charles%20Lindbergh&v=1771363466" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=What%27s%20different%20here%20is%20that%20we%20have%20now%20technologies%20that%20allow%20these%20life%20science%20companies%20to%20bypass%20classical%20breeding.%20That%27s%20what%20makes%20it%20both%20powerful%20and%20exciting.&author=Jeremy%20Rifkin&v=1771366761" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
