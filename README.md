@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20a%20method%20to%20keep%20yourself%20from%20kidding%20yourself.&author=Edwin%20Land&v=1771327927" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20beliefs%20I%20was%20raised%20with%20-%20to%20respect%20animals%20and%20to%20be%20aware%20of%20nature%2C%20to%20understand%20that%20we%20share%20this%20planet%20with%20other%20creatures%20-%20have%20had%20a%20huge%20impact%20on%20me.&author=Stella%20McCartney&v=1771331778" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
