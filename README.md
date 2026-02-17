@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20brother%20and%20Lauren%20are%20very%20close%20with%20me%20and%20they%20are%20in%20Sun%20Valley%2C%20so%20sometimes%20I%20need%20to%20go%20there%20and%20feel%20their%20presence.%20And%20there%20are%20times%20I%20need%20to%20see%20my%20bro%27%20alone.&author=Picabo%20Street&v=1771321022" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nothing%20is%20less%20important%20than%20which%20fork%20you%20use.%20Etiquette%20is%20the%20science%20of%20living.%20It%20embraces%20everything.%20It%20is%20ethics.%20It%20is%20honor.&author=Emily%20Post&v=1771324504" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
