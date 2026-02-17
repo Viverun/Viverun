@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20me%20there%20has%20never%20been%20a%20higher%20source%20of%20earthly%20honor%20or%20distinction%20than%20that%20connected%20with%20advances%20in%20science.&author=Isaac%20Newton&v=1771359922" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20seen%20the%20science%20I%20worshiped%2C%20and%20the%20aircraft%20I%20loved%2C%20destroying%20the%20civilization%20I%20expected%20them%20to%20serve.&author=Charles%20Lindbergh&v=1771363466" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
