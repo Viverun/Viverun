@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Most%20people%20have%20no%20concept%20of%20how%20an%20automatic%20transmission%20works%2C%20yet%20they%20know%20how%20to%20drive%20a%20car.%20You%20don%27t%20have%20to%20study%20physics%20to%20understand%20the%20laws%20of%20motion%20to%20drive%20a%20car.%20You%20don%27t%20have%20to%20understand%20any%20of%20this%20stuff%20to%20use%20Macintosh.&author=Steve%20Jobs&v=1771310642" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20nineteenth%20century%20believed%20in%20science%20but%20the%20twentieth%20century%20does%20not.&author=Gertrude%20Stein&v=1771314146" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
