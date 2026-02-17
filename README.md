@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20the%20highest%20personification%20of%20the%20nation%20because%20that%20nation%20will%20remain%20the%20first%20which%20carries%20the%20furthest%20the%20works%20of%20thought%20and%20intelligence.&author=Louis%20Pasteur&v=1771317132" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20brother%20and%20Lauren%20are%20very%20close%20with%20me%20and%20they%20are%20in%20Sun%20Valley%2C%20so%20sometimes%20I%20need%20to%20go%20there%20and%20feel%20their%20presence.%20And%20there%20are%20times%20I%20need%20to%20see%20my%20bro%27%20alone.&author=Picabo%20Street&v=1771321022" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
