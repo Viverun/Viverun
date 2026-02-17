@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=But%20perhaps%20the%20rest%20of%20us%20could%20have%20separate%20classes%20in%20science%20appreciation%2C%20the%20wonder%20of%20science%2C%20scientific%20ways%20of%20thinking%2C%20and%20the%20history%20of%20scientific%20ideas%2C%20rather%20than%20laboratory%20experience.&author=Richard%20Dawkins&v=1771301288" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20don%27t%20pretend%20to%20understand%20the%20Universe%20-%20it%27s%20a%20great%20deal%20bigger%20than%20I%20am.&author=Thomas%20Carlyle&v=1771307462" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
