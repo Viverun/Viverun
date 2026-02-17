@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Politicians%20should%20read%20science%20fiction%2C%20not%20westerns%20and%20detective%20stories.&author=Arthur%20C.%20Clarke&v=1771290458" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=But%20perhaps%20the%20rest%20of%20us%20could%20have%20separate%20classes%20in%20science%20appreciation%2C%20the%20wonder%20of%20science%2C%20scientific%20ways%20of%20thinking%2C%20and%20the%20history%20of%20scientific%20ideas%2C%20rather%20than%20laboratory%20experience.&author=Richard%20Dawkins&v=1771301288" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
