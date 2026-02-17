@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perseverance%20is%20not%20a%20long%20race%20it%20is%20many%20short%20races%20one%20after%20the%20other.&author=Walter%20Elliot&v=1771339591" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20cannot%20tell%20theology%20how%20to%20construct%20a%20doctrine%20of%20creation%2C%20but%20you%20can%27t%20construct%20a%20doctrine%20of%20creation%20without%20taking%20account%20of%20the%20age%20of%20the%20universe%20and%20the%20evolutionary%20character%20of%20cosmic%20history.&author=John%20Polkinghorne&v=1771342841" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
