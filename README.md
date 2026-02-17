@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20own%20dreams%20fortunately%20came%20true%20in%20this%20great%20state.%20I%20became%20Mr.%20Universe%20I%20became%20a%20successful%20businessman.%20And%20even%20though%20some%20people%20say%20I%20still%20speak%20with%20a%20slight%20accent%2C%20I%20have%20reached%20the%20top%20of%20the%20acting%20profession.&author=Arnold%20Schwarzenegger&v=1771346628" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Art%20has%20a%20double%20face%2C%20of%20expression%20and%20illusion%2C%20just%20like%20science%20has%20a%20double%20face%3A%20the%20reality%20of%20error%20and%20the%20phantom%20of%20truth.&author=Publilius%20Syrus&v=1771350441" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
