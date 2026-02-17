@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nothing%20is%20less%20important%20than%20which%20fork%20you%20use.%20Etiquette%20is%20the%20science%20of%20living.%20It%20embraces%20everything.%20It%20is%20ethics.%20It%20is%20honor.&author=Emily%20Post&v=1771324504" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20a%20method%20to%20keep%20yourself%20from%20kidding%20yourself.&author=Edwin%20Land&v=1771327927" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
