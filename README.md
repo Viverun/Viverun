@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20cannot%20tell%20theology%20how%20to%20construct%20a%20doctrine%20of%20creation%2C%20but%20you%20can%27t%20construct%20a%20doctrine%20of%20creation%20without%20taking%20account%20of%20the%20age%20of%20the%20universe%20and%20the%20evolutionary%20character%20of%20cosmic%20history.&author=John%20Polkinghorne&v=1771342841" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20own%20dreams%20fortunately%20came%20true%20in%20this%20great%20state.%20I%20became%20Mr.%20Universe%20I%20became%20a%20successful%20businessman.%20And%20even%20though%20some%20people%20say%20I%20still%20speak%20with%20a%20slight%20accent%2C%20I%20have%20reached%20the%20top%20of%20the%20acting%20profession.&author=Arnold%20Schwarzenegger&v=1771346628" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
