@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Unless%20we%20keep%20this%20planet%20healthy%2C%20everything%20else%20is%20for%20naught.&author=Victoria%20Principal&v=1771357196" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20me%20there%20has%20never%20been%20a%20higher%20source%20of%20earthly%20honor%20or%20distinction%20than%20that%20connected%20with%20advances%20in%20science.&author=Isaac%20Newton&v=1771359922" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
