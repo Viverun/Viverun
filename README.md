@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%2C%20like%20art%2C%20religion%2C%20commerce%2C%20warfare%2C%20and%20even%20sleep%2C%20is%20based%20on%20presuppositions.&author=Gregory%20Bateson&v=1771283923" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Politicians%20should%20read%20science%20fiction%2C%20not%20westerns%20and%20detective%20stories.&author=Arthur%20C.%20Clarke&v=1771290458" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
