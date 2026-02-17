@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=What%27s%20different%20here%20is%20that%20we%20have%20now%20technologies%20that%20allow%20these%20life%20science%20companies%20to%20bypass%20classical%20breeding.%20That%27s%20what%20makes%20it%20both%20powerful%20and%20exciting.&author=Jeremy%20Rifkin&v=1771366761" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Happiness%20exists%20on%20earth%2C%20and%20it%20is%20won%20through%20prudent%20exercise%20of%20reason%2C%20knowledge%20of%20the%20harmony%20of%20the%20universe%2C%20and%20constant%20practice%20of%20generosity.&author=Jose%20Marti&v=1771370327" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
