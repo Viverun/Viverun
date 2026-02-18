@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20fool%27s%20brain%20digests%20philosophy%20into%20folly%2C%20science%20into%20superstition%2C%20and%20art%20into%20pedantry.%20Hence%20University%20education.&author=George%20Bernard%20Shaw&v=1771397349" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20artist%20does%20not%20illustrate%20science%20%28but%29%20he%20frequently%20responds%20to%20the%20same%20interests%20that%20a%20scientist%20does.&author=Lewis%20Mumford&v=1771400578" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
