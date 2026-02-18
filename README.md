@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Unless%20we%20keep%20this%20planet%20healthy%2C%20everything%20else%20is%20for%20naught.&author=Victoria%20Principal&v=1771449989" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Failure%20after%20long%20perseverance%20is%20much%20grander%20than%20never%20to%20have%20a%20striving%20good%20enough%20to%20be%20called%20a%20failure.&author=George%20Eliot&v=1771453313" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
