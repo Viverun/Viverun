@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20wish%20to%20make%20an%20apple%20pie%20from%20scratch%2C%20you%20must%20first%20invent%20the%20universe.&author=Carl%20Sagan&v=1771433395" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=For%20whatever%20reason%2C%20I%20didn%27t%20succumb%20to%20the%20stereotype%20that%20science%20wasn%27t%20for%20girls.%20I%20got%20encouragement%20from%20my%20parents.%20I%20never%20ran%20into%20a%20teacher%20or%20a%20counselor%20who%20told%20me%20that%20science%20was%20for%20boys.%20A%20lot%20of%20my%20friends%20did.&author=Sally%20Ride&v=1771436768" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
