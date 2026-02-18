@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Instruction%20ends%20in%20the%20schoolroom%2C%20but%20education%20ends%20only%20with%20life.%20A%20child%20is%20given%20to%20the%20universe%20to%20be%20educated.&author=Frederick%20William%20Robertson&v=1771429214" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20wish%20to%20make%20an%20apple%20pie%20from%20scratch%2C%20you%20must%20first%20invent%20the%20universe.&author=Carl%20Sagan&v=1771433395" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
