@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Political%20ideology%20can%20corrupt%20the%20mind%2C%20and%20science.&author=E.%20O.%20Wilson&v=1771394014" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20fool%27s%20brain%20digests%20philosophy%20into%20folly%2C%20science%20into%20superstition%2C%20and%20art%20into%20pedantry.%20Hence%20University%20education.&author=George%20Bernard%20Shaw&v=1771397349" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
