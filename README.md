@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20explained%20nothing%20the%20more%20we%20know%20the%20more%20fantastic%20the%20world%20becomes%20and%20the%20profounder%20the%20surrounding%20darkness.&author=Aldous%20Huxley&v=1771446420" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Unless%20we%20keep%20this%20planet%20healthy%2C%20everything%20else%20is%20for%20naught.&author=Victoria%20Principal&v=1771449989" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
