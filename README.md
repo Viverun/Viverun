@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=For%20whatever%20reason%2C%20I%20didn%27t%20succumb%20to%20the%20stereotype%20that%20science%20wasn%27t%20for%20girls.%20I%20got%20encouragement%20from%20my%20parents.%20I%20never%20ran%20into%20a%20teacher%20or%20a%20counselor%20who%20told%20me%20that%20science%20was%20for%20boys.%20A%20lot%20of%20my%20friends%20did.&author=Sally%20Ride&v=1771436768" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Our%20most%20basic%20common%20link%20is%20that%20we%20all%20inhabit%20this%20planet.%20We%20all%20breathe%20the%20same%20air.%20We%20all%20cherish%20our%20children%27s%20future.%20And%20we%20are%20all%20mortal.&author=John%20F.%20Kennedy&v=1771439834" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
