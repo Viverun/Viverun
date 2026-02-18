@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Many%20people%20and%20governments%20share%20the%20mistaken%20belief%20that%20science%2C%20with%20new%2C%20ingenious%20devices%20and%20techniques%2C%20can%20rescue%20us%20from%20the%20troubles%20we%20face%20without%20our%20having%20to%20mend%20our%20ways%20and%20change%20our%20patterns%20of%20activity.%20This%20is%20not%20so.&author=Henry%20W.%20Kendall&v=1771403572" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20fiction%20writers%20foresee%20the%20inevitable%2C%20and%20although%20problems%20and%20catastrophes%20may%20be%20inevitable%2C%20solutions%20are%20not.&author=Isaac%20Asimov&v=1771407348" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
