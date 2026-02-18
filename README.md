@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Man%20has%20to%20awaken%20to%20wonder%20-%20and%20so%20perhaps%20do%20peoples.%20Science%20is%20a%20way%20of%20sending%20him%20to%20sleep%20again.&author=Ludwig%20Wittgenstein&v=1771443592" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20explained%20nothing%20the%20more%20we%20know%20the%20more%20fantastic%20the%20world%20becomes%20and%20the%20profounder%20the%20surrounding%20darkness.&author=Aldous%20Huxley&v=1771446420" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
