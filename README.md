@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20media%20thinks%20that%20you%20have%20to%20make%20science%20sexy%20and%20concentrate%20on%20themes%20such%20as%20rivalry%20and%20the%20human%20issues.&author=James%20Dyson&v=1771423219" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Instruction%20ends%20in%20the%20schoolroom%2C%20but%20education%20ends%20only%20with%20life.%20A%20child%20is%20given%20to%20the%20universe%20to%20be%20educated.&author=Frederick%20William%20Robertson&v=1771429214" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
