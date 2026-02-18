@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Our%20most%20basic%20common%20link%20is%20that%20we%20all%20inhabit%20this%20planet.%20We%20all%20breathe%20the%20same%20air.%20We%20all%20cherish%20our%20children%27s%20future.%20And%20we%20are%20all%20mortal.&author=John%20F.%20Kennedy&v=1771439834" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Man%20has%20to%20awaken%20to%20wonder%20-%20and%20so%20perhaps%20do%20peoples.%20Science%20is%20a%20way%20of%20sending%20him%20to%20sleep%20again.&author=Ludwig%20Wittgenstein&v=1771443592" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
