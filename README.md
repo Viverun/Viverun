@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20a%2022-year%20Army%20Veteran%20who%20served%20in%20Operations%20Desert%20Storm%20and%20Iraqi%20Freedom%2C%20and%20as%20a%20Civilian%20Advisor%20to%20the%20Afghan%20Army%20in%20Operation%20Enduring%20Freedom%2C%20I%20understand%20both%20the%20gravity%20of%20giving%20the%20order%2C%20and%20the%20challenge%20of%20carrying%20it%20out.&author=Allen%20West&v=1771418117" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20media%20thinks%20that%20you%20have%20to%20make%20science%20sexy%20and%20concentrate%20on%20themes%20such%20as%20rivalry%20and%20the%20human%20issues.&author=James%20Dyson&v=1771423219" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
