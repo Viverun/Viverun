@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20man%20who%20leaves%20home%20to%20mend%20himself%20and%20others%20is%20a%20philosopher%20but%20he%20who%20goes%20from%20country%20to%20country%2C%20guided%20by%20the%20blind%20impulse%20of%20curiosity%2C%20is%20a%20vagabond.&author=Oliver%20Goldsmith&v=1771414252" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20a%2022-year%20Army%20Veteran%20who%20served%20in%20Operations%20Desert%20Storm%20and%20Iraqi%20Freedom%2C%20and%20as%20a%20Civilian%20Advisor%20to%20the%20Afghan%20Army%20in%20Operation%20Enduring%20Freedom%2C%20I%20understand%20both%20the%20gravity%20of%20giving%20the%20order%2C%20and%20the%20challenge%20of%20carrying%20it%20out.&author=Allen%20West&v=1771418117" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
