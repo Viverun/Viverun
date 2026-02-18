@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20historical%20development%20of%20the%20work%20of%20anthropologists%20seems%20to%20single%20out%20clearly%20a%20domain%20of%20knowledge%20that%20heretofore%20has%20not%20been%20treated%20by%20any%20other%20science.&author=Franz%20Boas&v=1771377017" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Almost%20everything%20that%20distinguishes%20the%20modern%20world%20from%20earlier%20centuries%20is%20attributable%20to%20science%2C%20which%20achieved%20its%20most%20spectacular%20triumphs%20in%20the%20seventeenth%20century.&author=Bertrand%20Russell&v=1771387827" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
