@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20fiction%20writers%20foresee%20the%20inevitable%2C%20and%20although%20problems%20and%20catastrophes%20may%20be%20inevitable%2C%20solutions%20are%20not.&author=Isaac%20Asimov&v=1771407348" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Amazingly%20when%20you%20add%20life%20and%20consciousness%20to%20the%20equation%20you%20can%20actually%20explain%20some%20of%20the%20biggest%20puzzles%20of%20science.&author=Robert%20Lanza&v=1771410783" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
