@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Amazingly%20when%20you%20add%20life%20and%20consciousness%20to%20the%20equation%20you%20can%20actually%20explain%20some%20of%20the%20biggest%20puzzles%20of%20science.&author=Robert%20Lanza&v=1771410783" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20man%20who%20leaves%20home%20to%20mend%20himself%20and%20others%20is%20a%20philosopher%20but%20he%20who%20goes%20from%20country%20to%20country%2C%20guided%20by%20the%20blind%20impulse%20of%20curiosity%2C%20is%20a%20vagabond.&author=Oliver%20Goldsmith&v=1771414252" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
