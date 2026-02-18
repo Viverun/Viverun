@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Happiness%20exists%20on%20earth%2C%20and%20it%20is%20won%20through%20prudent%20exercise%20of%20reason%2C%20knowledge%20of%20the%20harmony%20of%20the%20universe%2C%20and%20constant%20practice%20of%20generosity.&author=Jose%20Marti&v=1771370327" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20historical%20development%20of%20the%20work%20of%20anthropologists%20seems%20to%20single%20out%20clearly%20a%20domain%20of%20knowledge%20that%20heretofore%20has%20not%20been%20treated%20by%20any%20other%20science.&author=Franz%20Boas&v=1771377017" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
