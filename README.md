@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20cure%20for%20boredom%20is%20curiosity.%20There%20is%20no%20cure%20for%20curiosity.&author=Ellen%20Parr&v=1771463362" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%2C%20we%20are%20repeatedly%20told%2C%20is%20the%20most%20reliable%20form%20of%20knowledge%20about%20the%20world%20because%20it%20is%20based%20on%20testable%20hypotheses.%20Religion%2C%20by%20contrast%2C%20is%20based%20on%20faith.%20The%20term%20%27doubting%20Thomas%27%20well%20illustrates%20the%20difference.&author=Paul%20Davies&v=1771474142" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
