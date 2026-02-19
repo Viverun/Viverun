@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20for%20those%20who%20learn%2C%20poetry%20is%20for%20those%20who%20know.&author=Joseph%20Roux&v=1771493651" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Plunderous%20is%20the%20palate%20I%20gift%20to%20you%2C%20openly%20I%20hug%20the%20universe%20of%20our%20friendship%20expanding%20its%20outer%20limit.&author=Bradley%20Chicho&v=1771497148" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
