@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20wonderful%20discovery%20made%20by%20scientists%20is%20science%20itself.&author=Jacob%20Bronowski&v=1771519151" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Following%20the%20light%20of%20the%20sun%2C%20we%20left%20the%20Old%20World.&author=Christopher%20Columbus&v=1771522919" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
