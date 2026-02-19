@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20is%20a%20fifth%20dimension%2C%20beyond%20that%20which%20is%20known%20to%20man.%20It%20is%20a%20dimension%20as%20vast%20as%20space%20and%20as%20timeless%20as%20infinity.%20It%20is%20the%20middle%20ground%20between%20light%20and%20shadow%2C%20between%20science%20and%20superstition.&author=Rod%20Serling&v=1771526274" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20a%20dog%20barks%20at%20the%20moon%2C%20then%20it%20is%20religion%20but%20when%20he%20barks%20at%20strangers%2C%20it%20is%20patriotism%21&author=David%20Starr%20Jordan&v=1771529579" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
