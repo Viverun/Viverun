@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20will%20certainly%20not%20doubt%20the%20necessity%20of%20studying%20astronomy%20and%20physics%2C%20if%20you%20are%20desirous%20of%20comprehending%20the%20relation%20between%20the%20world%20and%20Providence%20as%20it%20is%20in%20reality%2C%20and%20not%20according%20to%20imagination.&author=Maimonides&v=1771532441" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20believe%20in%20Christianity%20as%20I%20believe%20that%20the%20sun%20has%20risen%3A%20not%20only%20because%20I%20see%20it%2C%20but%20because%20by%20it%20I%20see%20everything%20else.&author=C.%20S.%20Lewis&v=1771536106" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
