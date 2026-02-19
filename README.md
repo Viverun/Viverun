@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20a%20cemetery%20of%20dead%20ideas.&author=Miguel%20de%20Unamuno&v=1771539607" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20I%20look%20upon%20seamen%2C%20men%20of%20science%20and%20philosophers%2C%20man%20is%20the%20wisest%20of%20all%20beings%20when%20I%20look%20upon%20priests%20and%20prophets%20nothing%20is%20as%20contemptible%20as%20man.&author=Diogenes&v=1771543209" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
