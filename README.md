@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Yeah%2C%20I%20get%20to%20fight%20in%20%27Eclipse.%27%20My%20trainer%20is%20teaching%20me%20MMA%20right%20now.%20So.%20Cool.&author=Ashley%20Greene&v=1771483587" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20a%20huge%20fan%20of%20science%20fiction%20and%20fantasy%20-%20not%20so%20much%20horror%20because%20I%20get%20a%20bit%20scared.&author=Michael%20Sheen&v=1771486903" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
