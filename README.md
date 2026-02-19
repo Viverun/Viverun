@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=All%20good%20criticism%20should%20be%20judged%20the%20way%20art%20is.%20You%20shouldn%27t%20read%20it%20the%20way%20you%20read%20history%20or%20science.&author=Leslie%20Fiedler&v=1771480302" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Yeah%2C%20I%20get%20to%20fight%20in%20%27Eclipse.%27%20My%20trainer%20is%20teaching%20me%20MMA%20right%20now.%20So.%20Cool.&author=Ashley%20Greene&v=1771483587" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
