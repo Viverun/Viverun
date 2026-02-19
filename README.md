@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20are%20so%20bound%20together%20that%20no%20man%20can%20labor%20for%20himself%20alone.%20Each%20blow%20he%20strikes%20in%20his%20own%20behalf%20helps%20to%20mold%20the%20universe.&author=Jerome%20K.%20Jerome&v=1771504601" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Because%20our%20entire%20universe%20is%20made%20up%20of%20consciousness%2C%20we%20never%20really%20experience%20the%20universe%20directly%20we%20just%20experience%20our%20consciousness%20of%20the%20universe%2C%20our%20perception%20of%20it%2C%20so%20right%2C%20our%20only%20universe%20is%20perception.&author=Alan%20Moore&v=1771509696" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
