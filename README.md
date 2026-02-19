@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20the%20Atlantean%20period%20there%20were%20many%20energies%20being%20used%20and%20information%20and%20knowledge%20being%20used%20which%20were%2C%20for%20particular%20reasons%20of%20safety%2C%20withdrawn%2C%20shall%20we%20say%2C%20to%20prevent%20complete%20catastrophe%2C%20to%20prevent%20total%20destruction%20of%20your%20planet.&author=David%20Icke&v=1771456741" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20cure%20for%20boredom%20is%20curiosity.%20There%20is%20no%20cure%20for%20curiosity.&author=Ellen%20Parr&v=1771463362" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
