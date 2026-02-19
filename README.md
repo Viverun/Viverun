@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20a%20dog%20barks%20at%20the%20moon%2C%20then%20it%20is%20religion%20but%20when%20he%20barks%20at%20strangers%2C%20it%20is%20patriotism%21&author=David%20Starr%20Jordan&v=1771529579" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20will%20certainly%20not%20doubt%20the%20necessity%20of%20studying%20astronomy%20and%20physics%2C%20if%20you%20are%20desirous%20of%20comprehending%20the%20relation%20between%20the%20world%20and%20Providence%20as%20it%20is%20in%20reality%2C%20and%20not%20according%20to%20imagination.&author=Maimonides&v=1771532441" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
