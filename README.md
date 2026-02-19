@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20believe%20in%20Christianity%20as%20I%20believe%20that%20the%20sun%20has%20risen%3A%20not%20only%20because%20I%20see%20it%2C%20but%20because%20by%20it%20I%20see%20everything%20else.&author=C.%20S.%20Lewis&v=1771536106" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20a%20cemetery%20of%20dead%20ideas.&author=Miguel%20de%20Unamuno&v=1771539607" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
