@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Because%20our%20entire%20universe%20is%20made%20up%20of%20consciousness%2C%20we%20never%20really%20experience%20the%20universe%20directly%20we%20just%20experience%20our%20consciousness%20of%20the%20universe%2C%20our%20perception%20of%20it%2C%20so%20right%2C%20our%20only%20universe%20is%20perception.&author=Alan%20Moore&v=1771509696" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=So%20I%20decided%20on%20science%20when%20I%20was%20in%20college.&author=Sally%20Ride&v=1771515449" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
