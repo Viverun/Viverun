@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=So%20I%20decided%20on%20science%20when%20I%20was%20in%20college.&author=Sally%20Ride&v=1771515449" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20wonderful%20discovery%20made%20by%20scientists%20is%20science%20itself.&author=Jacob%20Bronowski&v=1771519151" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
