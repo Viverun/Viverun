@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=They%20can%20shout%20down%20the%20head%20of%20the%20physics%20department%20at%20Cal%20Tech.&author=James%20Stockdale&v=1771597970" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Natural%20science%20will%20in%20time%20incorporate%20into%20itself%20the%20science%20of%20man%2C%20just%20as%20the%20science%20of%20man%20will%20incorporate%20into%20itself%20natural%20science%3A%20there%20will%20be%20one%20science.&author=Karl%20Marx&v=1771601348" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
