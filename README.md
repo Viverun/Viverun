@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20history%20of%20astronomy%20is%20a%20history%20of%20receding%20horizons.&author=Edwin%20Hubble&v=1771576143" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20the%20highest%20personification%20of%20the%20nation%20because%20that%20nation%20will%20remain%20the%20first%20which%20carries%20the%20furthest%20the%20works%20of%20thought%20and%20intelligence.&author=Louis%20Pasteur&v=1771579841" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
