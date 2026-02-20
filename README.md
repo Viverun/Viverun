@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20wasn%27t%20with%20Joseph%2C%20but%20I%20believe%20him.%20My%20faith%20did%20not%20come%20to%20me%20through%20science%2C%20and%20I%20will%20not%20permit%20so-called%20science%20to%20destroy%20it.&author=Thomas%20S.%20Monson&v=1771618712" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20wish%20to%20make%20an%20apple%20pie%20from%20scratch%2C%20you%20must%20first%20invent%20the%20universe.&author=Carl%20Sagan&v=1771622070" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
