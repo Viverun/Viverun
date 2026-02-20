@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That%20which%20today%20calls%20itself%20science%20gives%20us%20more%20and%20more%20information%2C%20and%20indigestible%20glut%20of%20information%2C%20and%20less%20and%20less%20understanding.&author=Edward%20Abbey&v=1771583195" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20known%20history%2C%20nobody%20has%20had%20such%20capacity%20for%20altering%20the%20universe%20than%20the%20people%20of%20the%20United%20States%20of%20America.%20And%20nobody%20has%20gone%20about%20it%20in%20such%20an%20aggressive%20way.&author=Alan%20Watts&v=1771586585" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
