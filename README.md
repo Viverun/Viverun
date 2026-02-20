@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20wish%20to%20make%20an%20apple%20pie%20from%20scratch%2C%20you%20must%20first%20invent%20the%20universe.&author=Carl%20Sagan&v=1771622070" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=By%20any%20reasonable%20measure%20of%20achievement%2C%20the%20faith%20of%20the%20Enlightenment%20thinkers%20in%20science%20was%20justified.&author=E.%20O.%20Wilson&v=1771625618" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
