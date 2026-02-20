@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Millions%20of%20people%20were%20inspired%20by%20the%20Apollo%20Program.%20I%20was%20five%20years%20old%20when%20I%20watched%20Apollo%2011%20unfold%20on%20television%2C%20and%20without%20any%20doubt%20it%20was%20a%20big%20contributor%20to%20my%20passions%20for%20science%2C%20engineering%2C%20and%20exploration.&author=Jeff%20Bezos&v=1771595566" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=They%20can%20shout%20down%20the%20head%20of%20the%20physics%20department%20at%20Cal%20Tech.&author=James%20Stockdale&v=1771597970" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
