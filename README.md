@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20known%20history%2C%20nobody%20has%20had%20such%20capacity%20for%20altering%20the%20universe%20than%20the%20people%20of%20the%20United%20States%20of%20America.%20And%20nobody%20has%20gone%20about%20it%20in%20such%20an%20aggressive%20way.&author=Alan%20Watts&v=1771586585" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20we%20observe%20has%20precisely%20the%20properties%20we%20should%20expect%20if%20there%20is%2C%20at%20bottom%2C%20no%20design%2C%20no%20purpose%2C%20no%20evil%2C%20no%20good%2C%20nothing%20but%20blind%2C%20pitiless%20indifference.&author=Richard%20Dawkins&v=1771590760" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
