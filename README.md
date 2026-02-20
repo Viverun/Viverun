@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Teachers%20started%20recognizing%20me%20and%20praising%20me%20for%20being%20smart%20in%20science%20and%20that%20made%20me%20want%20to%20be%20even%20smarter%20in%20science%21&author=Steve%20Wozniak&v=1771612300" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20left%20science%2C%20then%20I%20went%20into%20art%2C%20but%20I%20approach%20things%20very%20analytically.%20I%20choose%20to%20pursue%20both%20art%20and%20architecture%20as%20completely%20separate%20fields%20rather%20than%20merging%20them.&author=Maya%20Lin&v=1771615785" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
