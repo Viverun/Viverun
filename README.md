@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=By%20any%20reasonable%20measure%20of%20achievement%2C%20the%20faith%20of%20the%20Enlightenment%20thinkers%20in%20science%20was%20justified.&author=E.%20O.%20Wilson&v=1771625618" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everything%20in%20the%20universe%20goes%20by%20indirection.%20There%20are%20no%20straight%20lines.&author=Ralph%20Emerson&v=1771629524" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
