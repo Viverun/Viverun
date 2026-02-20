@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20civilization%20is%20to%20survive%2C%20we%20must%20cultivate%20the%20science%20of%20human%20relationships%20-%20the%20ability%20of%20all%20peoples%2C%20of%20all%20kinds%2C%20to%20live%20together%2C%20in%20the%20same%20world%20at%20peace.&author=Franklin%20D.%20Roosevelt&v=1771573219" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20history%20of%20astronomy%20is%20a%20history%20of%20receding%20horizons.&author=Edwin%20Hubble&v=1771576143" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
