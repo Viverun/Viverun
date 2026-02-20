@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=All%20science%20is%20either%20physics%20or%20stamp%20collecting.&author=Ernest%20Rutherford&v=1771604713" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20man%20of%20science%20has%20learned%20to%20believe%20in%20justification%2C%20not%20by%20faith%2C%20but%20by%20verification.&author=Thomas%20Huxley&v=1771608550" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
