@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20I%20look%20upon%20seamen%2C%20men%20of%20science%20and%20philosophers%2C%20man%20is%20the%20wisest%20of%20all%20beings%20when%20I%20look%20upon%20priests%20and%20prophets%20nothing%20is%20as%20contemptible%20as%20man.&author=Diogenes&v=1771543209" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20wealthy%20are%20always%20surrounded%20by%20hangers-on%20science%20and%20art%20are%20as%20well.&author=Anton%20Chekhov&v=1771549513" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
