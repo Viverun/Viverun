@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=For%20science%20must%20breathe%20the%20oxygen%20of%20freedom.&author=John%20Charles%20Polanyi&v=1771560291" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Imagination%20is%20as%20vital%20to%20any%20advance%20in%20science%20as%20learning%20and%20precision%20are%20essential%20for%20starting%20points.&author=Percival%20Lowell&v=1771566272" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
