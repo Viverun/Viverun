@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20man%20of%20science%20has%20learned%20to%20believe%20in%20justification%2C%20not%20by%20faith%2C%20but%20by%20verification.&author=Thomas%20Huxley&v=1771608550" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Teachers%20started%20recognizing%20me%20and%20praising%20me%20for%20being%20smart%20in%20science%20and%20that%20made%20me%20want%20to%20be%20even%20smarter%20in%20science%21&author=Steve%20Wozniak&v=1771612300" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
