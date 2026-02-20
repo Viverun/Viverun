@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20wealthy%20are%20always%20surrounded%20by%20hangers-on%20science%20and%20art%20are%20as%20well.&author=Anton%20Chekhov&v=1771549513" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=For%20science%20must%20breathe%20the%20oxygen%20of%20freedom.&author=John%20Charles%20Polanyi&v=1771560291" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
