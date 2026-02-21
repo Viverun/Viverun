@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Anthropology%20was%20the%20science%20that%20gave%20her%20the%20platform%20from%20which%20she%20surveyed%2C%20scolded%20and%20beamed%20at%20the%20world.&author=Jane%20Howard&v=1771694170" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20funny%20that%20men%20who%20are%20supposed%20to%20be%20scientific%20cannot%20get%20themselves%20to%20realise%20the%20basic%20principle%20of%20physics%2C%20that%20action%20and%20reaction%20are%20equal%20and%20opposite%2C%20that%20when%20you%20persecute%20people%20you%20always%20rouse%20them%20to%20be%20strong%20and%20stronger.&author=Gertrude%20Stein&v=1771697967" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
