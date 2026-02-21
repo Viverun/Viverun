@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Constant%20kindness%20can%20accomplish%20much.%20As%20the%20sun%20makes%20ice%20melt%2C%20kindness%20causes%20misunderstanding%2C%20mistrust%2C%20and%20hostility%20to%20evaporate.&author=Albert%20Schweitzer&v=1771635812" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20properly%20more%20scrupulous%20than%20dogma.%20Dogma%20gives%20a%20charter%20to%20mistake%2C%20but%20the%20very%20breath%20of%20science%20is%20a%20contest%20with%20mistake%2C%20and%20must%20keep%20the%20conscience%20alive.&author=George%20Eliot&v=1771646187" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
