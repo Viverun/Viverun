@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20growth%20of%20technology%20is%20such%20that%20it%20is%20not%20possible%20today%20for%20a%20nuclear%20physicist%20to%20switch%20into%20medical%20physics%20without%20training.%20The%20field%20is%20now%20much%20more%20technical.%20More%20training%20is%20needed%20to%20do%20the%20job.&author=John%20Cameron&v=1771686863" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20wasn%27t%20with%20Joseph%2C%20but%20I%20believe%20him.%20My%20faith%20did%20not%20come%20to%20me%20through%20science%2C%20and%20I%20will%20not%20permit%20so-called%20science%20to%20destroy%20it.&author=Thomas%20S.%20Monson&v=1771690551" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
