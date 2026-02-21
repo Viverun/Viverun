@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Observe%20constantly%20that%20all%20things%20take%20place%20by%20change%2C%20and%20accustom%20thyself%20to%20consider%20that%20the%20nature%20of%20the%20Universe%20loves%20nothing%20so%20much%20as%20to%20change%20the%20things%20which%20are%2C%20and%20to%20make%20new%20things%20like%20them.&author=Marcus%20Aurelius&v=1771704795" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20faults%20of%20a%20superior%20person%20are%20like%20the%20sun%20and%20moon.%20They%20have%20their%20faults%2C%20and%20everyone%20sees%20them%20they%20change%20and%20everyone%20looks%20up%20to%20them.&author=Confucius&v=1771708350" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
