@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20grounding%20in%20natural%20sciences%20which%20I%20obtained%20in%20the%20course%20of%20my%20medical%20studies%2C%20including%20preliminary%20examinations%20in%20botany%2C%20zoology%2C%20physics%2C%20and%20chemistry%2C%20was%20to%20become%20decisive%20in%20determining%20the%20trend%20of%20my%20literary%20work.&author=Johannes%20Vilhelm%20Jensen&v=1771711933" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Losing%20faith%20in%20your%20own%20singularity%20is%20the%20start%20of%20wisdom%2C%20I%20suppose%20also%20the%20first%20announcement%20of%20death.&author=Peter%20Conrad&v=1771715674" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
