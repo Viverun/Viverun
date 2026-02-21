@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Teachers%20started%20recognizing%20me%20and%20praising%20me%20for%20being%20smart%20in%20science%20and%20that%20made%20me%20want%20to%20be%20even%20smarter%20in%20science%21&author=Steve%20Wozniak&v=1771683347" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20growth%20of%20technology%20is%20such%20that%20it%20is%20not%20possible%20today%20for%20a%20nuclear%20physicist%20to%20switch%20into%20medical%20physics%20without%20training.%20The%20field%20is%20now%20much%20more%20technical.%20More%20training%20is%20needed%20to%20do%20the%20job.&author=John%20Cameron&v=1771686863" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
