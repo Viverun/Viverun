@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Great%20works%20are%20performed%20not%20by%20strength%20but%20by%20perseverance.&author=Samuel%20Johnson&v=1771676585" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20is%20no%20gilding%20of%20setting%20sun%20or%20glamor%20of%20poetry%20to%20light%20up%20the%20ferocious%20and%20endless%20toil%20of%20the%20farmers%27%20wives.&author=Hamlin%20Garland&v=1771680932" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
