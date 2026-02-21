@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Blind%20faith%2C%20no%20matter%20how%20passionately%20expressed%2C%20will%20not%20suffice.%20Science%20for%20its%20part%20will%20test%20relentlessly%20every%20assumption%20about%20the%20human%20condition.&author=E.%20O.%20Wilson&v=1771650131" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20graduated%20from%20the%20University%20of%20Delaware%20with%20a%20double%20major%20in%20history%20and%20political%20science.&author=Joe%20Biden&v=1771655318" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
