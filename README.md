@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Thence%20results%2C%20for%20science%20as%20well%20as%20for%20industry%2C%20the%20necessity%20of%20the%20division%20and%20association%20of%20labor.%20I%20receive%20and%20I%20give%20-%20such%20is%20human%20life.%20Each%20directs%20and%20is%20directed%20in%20his%20turn.&author=Mikhail%20Bakunin&v=1771672403" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Great%20works%20are%20performed%20not%20by%20strength%20but%20by%20perseverance.&author=Samuel%20Johnson&v=1771676585" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
