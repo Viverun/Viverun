@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20graduated%20from%20the%20University%20of%20Delaware%20with%20a%20double%20major%20in%20history%20and%20political%20science.&author=Joe%20Biden&v=1771655318" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20method%20of%20political%20science%20is%20the%20interpretation%20of%20life%20its%20instrument%20is%20insight%2C%20a%20nice%20understanding%20of%20subtle%2C%20unformulated%20conditions.&author=Woodrow%20Wilson&v=1771658654" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
