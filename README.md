@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20method%20of%20political%20science%20is%20the%20interpretation%20of%20life%20its%20instrument%20is%20insight%2C%20a%20nice%20understanding%20of%20subtle%2C%20unformulated%20conditions.&author=Woodrow%20Wilson&v=1771658654" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20I%20die%2C%20I%27m%20leaving%20my%20body%20to%20science%20fiction.&author=Steven%20Wright&v=1771661864" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
