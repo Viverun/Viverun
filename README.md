@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20wish%20to%20succeed%20in%20life%2C%20make%20perseverance%20your%20bosom%20friend%2C%20experience%20your%20wise%20counselor%2C%20caution%20your%20elder%20brother%2C%20and%20hope%20your%20guardian%20genius.&author=Joseph%20Addison&v=1771665580" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20mind%20at%20peace%2C%20a%20mind%20centered%20and%20not%20focused%20on%20harming%20others%2C%20is%20stronger%20than%20any%20physical%20force%20in%20the%20universe.&author=Wayne%20Dyer&v=1771668873" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
