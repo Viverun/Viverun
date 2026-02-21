@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20funny%20that%20men%20who%20are%20supposed%20to%20be%20scientific%20cannot%20get%20themselves%20to%20realise%20the%20basic%20principle%20of%20physics%2C%20that%20action%20and%20reaction%20are%20equal%20and%20opposite%2C%20that%20when%20you%20persecute%20people%20you%20always%20rouse%20them%20to%20be%20strong%20and%20stronger.&author=Gertrude%20Stein&v=1771697967" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Medicine%20is%20not%20only%20a%20science%20it%20is%20also%20an%20art.%20It%20does%20not%20consist%20of%20compounding%20pills%20and%20plasters%20it%20deals%20with%20the%20very%20processes%20of%20life%2C%20which%20must%20be%20understood%20before%20they%20may%20be%20guided.&author=Paracelsus&v=1771701390" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
