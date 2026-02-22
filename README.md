@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20were%20making%20the%20first%20step%20out%20of%20the%20age%20of%20chemistry%20and%20physics%2C%20and%20into%20the%20age%20of%20biology.&author=Jeremy%20Rifkin&v=1771769794" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=No%20one%27s%20played%20on%20the%20moon%20yet.%20No%20one%27s%20played%20in%20zero%20gravity.%20Some%20bands%20have%20played%20at%20the%20Pyramids%20of%20Giza%2C%20but%20we%27d%20very%20much%20like%20to%20do%20that%20in%20the%20near%20future.&author=Brandon%20Boyd&v=1771773285" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
