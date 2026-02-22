@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20organized%20knowledge.%20Wisdom%20is%20organized%20life.&author=Immanuel%20Kant&v=1771722493" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20feel%20good%20in%20my%20own%20skin%20because%20I%27ve%20accepted%20the%20fact%20that%20I%27m%20me.%20That%27s%20what%27s%20so%20great%20about%20being%20alive%20and%20being%20on%20this%20planet%3A%20Everybody%27s%20different.&author=Kelly%20Osbourne&v=1771733175" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
