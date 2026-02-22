@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20landed%20a%20job%20with%20Roger%20Corman.%20The%20job%20was%20to%20write%20the%20English%20dialogue%20for%20a%20Russian%20science%20fiction%20picture.%20I%20didn%27t%20speak%20any%20Russian.%20He%20didn%27t%20care%20whether%20I%20could%20understand%20what%20they%20were%20saying%20he%20wanted%20me%20to%20make%20up%20dialogue.&author=Francis%20Ford%20Coppola&v=1771755278" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20three%20Ps%3A%20passion%2C%20patience%2C%20perseverance.%20You%20have%20to%20do%20this%20if%20you%27ve%20got%20to%20be%20a%20filmmaker.&author=Robert%20Wise&v=1771758790" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
