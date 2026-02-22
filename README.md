@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perseverance%20is%20not%20a%20long%20race%20it%20is%20many%20short%20races%20one%20after%20the%20other.&author=Walter%20Elliot&v=1771784416" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20I%20entered%20medical%20physics%20in%201958%20there%20were%20fewer%20than%20100%20in%20the%20U.S.%20and%20I%20could%20see%20many%20opportunities%20to%20apply%20my%20knowledge%20of%20nuclear%20physics.&author=John%20Cameron&v=1771787814" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
