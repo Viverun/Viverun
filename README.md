@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20march%20of%20science%20and%20technology%20does%20not%20imply%20growing%20intellectual%20complexity%20in%20the%20lives%20of%20most%20people.%20It%20often%20means%20the%20opposite.&author=Thomas%20Sowell&v=1771745333" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20will%20free%20man%20from%20the%20remaining%20chains%2C%20the%20chains%20of%20gravity%20which%20still%20tie%20him%20to%20this%20planet.&author=Wernher%20von%20Braun&v=1771748321" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
