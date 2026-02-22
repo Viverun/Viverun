@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Losing%20faith%20in%20your%20own%20singularity%20is%20the%20start%20of%20wisdom%2C%20I%20suppose%20also%20the%20first%20announcement%20of%20death.&author=Peter%20Conrad&v=1771715674" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20organized%20knowledge.%20Wisdom%20is%20organized%20life.&author=Immanuel%20Kant&v=1771722493" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
