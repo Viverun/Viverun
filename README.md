@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20I%20entered%20medical%20physics%20in%201958%20there%20were%20fewer%20than%20100%20in%20the%20U.S.%20and%20I%20could%20see%20many%20opportunities%20to%20apply%20my%20knowledge%20of%20nuclear%20physics.&author=John%20Cameron&v=1771787814" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20science%20linking%20the%20increased%20frequency%20and%20severity%20of%20extreme%20weather%20to%20the%20climate%20crisis%20has%20matured%20tremendously%20in%20the%20last%20couple%20of%20years.&author=Al%20Gore&v=1771791224" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
