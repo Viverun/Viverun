@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Biology%20is%20now%20bigger%20than%20physics%2C%20as%20measured%20by%20the%20size%20of%20budgets%2C%20by%20the%20size%20of%20the%20workforce%2C%20or%20by%20the%20output%20of%20major%20discoveries%20and%20biology%20is%20likely%20to%20remain%20the%20biggest%20part%20of%20science%20through%20the%20twenty-first%20century.&author=Freeman%20Dyson&v=1771742040" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20march%20of%20science%20and%20technology%20does%20not%20imply%20growing%20intellectual%20complexity%20in%20the%20lives%20of%20most%20people.%20It%20often%20means%20the%20opposite.&author=Thomas%20Sowell&v=1771745333" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
