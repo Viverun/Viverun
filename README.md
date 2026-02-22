@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20father%20was%20my%20main%20influence.%20He%20was%20a%20preacher%2C%20but%20he%20was%20also%20a%20history%20and%20political%20science%20teacher%2C%20and%20since%20he%20was%20my%20hero%2C%20I%20wanted%20to%20follow%20in%20his%20footsteps%20and%20become%20a%20teacher.&author=David%20Soul&v=1771738987" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Biology%20is%20now%20bigger%20than%20physics%2C%20as%20measured%20by%20the%20size%20of%20budgets%2C%20by%20the%20size%20of%20the%20workforce%2C%20or%20by%20the%20output%20of%20major%20discoveries%20and%20biology%20is%20likely%20to%20remain%20the%20biggest%20part%20of%20science%20through%20the%20twenty-first%20century.&author=Freeman%20Dyson&v=1771742040" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
