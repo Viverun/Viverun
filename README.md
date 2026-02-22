@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20feel%20good%20in%20my%20own%20skin%20because%20I%27ve%20accepted%20the%20fact%20that%20I%27m%20me.%20That%27s%20what%27s%20so%20great%20about%20being%20alive%20and%20being%20on%20this%20planet%3A%20Everybody%27s%20different.&author=Kelly%20Osbourne&v=1771733175" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20father%20was%20my%20main%20influence.%20He%20was%20a%20preacher%2C%20but%20he%20was%20also%20a%20history%20and%20political%20science%20teacher%2C%20and%20since%20he%20was%20my%20hero%2C%20I%20wanted%20to%20follow%20in%20his%20footsteps%20and%20become%20a%20teacher.&author=David%20Soul&v=1771738987" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
