@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20mother%20was%20the%20sweetest%20lady%20who%20ever%20lived%20on%20this%20planet%2C%20but%20if%20you%20tried%20to%20tell%20her%20that%20Jesus%20wasn%27t%20a%20Christian%2C%20she%20would%20stomp%20you%20to%20death.&author=Dick%20Gregory&v=1771776967" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Now%20science%20has%20presented%20us%20with%20a%20hope%20called%20stem%20cell%20research%2C%20which%20may%20provide%20our%20scientists%20with%20many%20answers%20that%20have%20for%20so%20long%20been%20beyond%20our%20grasp.&author=Nancy%20Reagan&v=1771780641" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
