@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Language%2C%20philosophy%2C%20and%20science%20are%20interwoven%20into%20the%20design%20of%20words%2C%20which%20are%20manipulated%20to%20create%20surprising%20illusions.&author=John%20Langdon&v=1771798355" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20always%20uses%20metaphor.&author=James%20Lovelock&v=1771802094" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
