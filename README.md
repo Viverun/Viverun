@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Art%20is%20I%20science%20is%20we.&author=Claude%20Bernard&v=1771763068" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Odd%20how%20the%20creative%20power%20at%20once%20brings%20the%20whole%20universe%20to%20order.&author=Virginia%20Woolf&v=1771767406" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
