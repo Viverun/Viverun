@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Odd%20how%20the%20creative%20power%20at%20once%20brings%20the%20whole%20universe%20to%20order.&author=Virginia%20Woolf&v=1771767406" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20were%20making%20the%20first%20step%20out%20of%20the%20age%20of%20chemistry%20and%20physics%2C%20and%20into%20the%20age%20of%20biology.&author=Jeremy%20Rifkin&v=1771769794" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
