@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=No%20one%27s%20played%20on%20the%20moon%20yet.%20No%20one%27s%20played%20in%20zero%20gravity.%20Some%20bands%20have%20played%20at%20the%20Pyramids%20of%20Giza%2C%20but%20we%27d%20very%20much%20like%20to%20do%20that%20in%20the%20near%20future.&author=Brandon%20Boyd&v=1771773285" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20mother%20was%20the%20sweetest%20lady%20who%20ever%20lived%20on%20this%20planet%2C%20but%20if%20you%20tried%20to%20tell%20her%20that%20Jesus%20wasn%27t%20a%20Christian%2C%20she%20would%20stomp%20you%20to%20death.&author=Dick%20Gregory&v=1771776967" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
