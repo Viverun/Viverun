@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Now%20science%20has%20presented%20us%20with%20a%20hope%20called%20stem%20cell%20research%2C%20which%20may%20provide%20our%20scientists%20with%20many%20answers%20that%20have%20for%20so%20long%20been%20beyond%20our%20grasp.&author=Nancy%20Reagan&v=1771780641" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perseverance%20is%20not%20a%20long%20race%20it%20is%20many%20short%20races%20one%20after%20the%20other.&author=Walter%20Elliot&v=1771784416" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
