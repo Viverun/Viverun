@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20will%20free%20man%20from%20the%20remaining%20chains%2C%20the%20chains%20of%20gravity%20which%20still%20tie%20him%20to%20this%20planet.&author=Wernher%20von%20Braun&v=1771748321" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20liked%20math%20-%20that%20was%20my%20favorite%20subject%20-%20and%20I%20was%20very%20interested%20in%20astronomy%20and%20in%20physical%20science.&author=Sally%20Ride&v=1771752009" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
