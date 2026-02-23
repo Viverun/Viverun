@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=All%20science%20is%20either%20physics%20or%20stamp%20collecting.&author=Ernest%20Rutherford&v=1771885779" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20respect%20for%20human%20rights%2C%20essential%20if%20we%20are%20to%20use%20technology%20wisely%2C%20is%20not%20something%20alien%20that%20must%20be%20grafted%20onto%20science.%20On%20the%20contrary%2C%20it%20is%20integral%20to%20science%2C%20as%20also%20to%20scholarship%20in%20general.&author=John%20Charles%20Polanyi&v=1771889141" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
