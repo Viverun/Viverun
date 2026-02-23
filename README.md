@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20commonality%20between%20science%20and%20art%20is%20in%20trying%20to%20see%20profoundly%20-%20to%20develop%20strategies%20of%20seeing%20and%20showing.&author=Edward%20Tufte&v=1771882452" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=All%20science%20is%20either%20physics%20or%20stamp%20collecting.&author=Ernest%20Rutherford&v=1771885779" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
