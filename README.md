@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20science%2C%20all%20facts%2C%20no%20matter%20how%20trivial%20or%20banal%2C%20enjoy%20democratic%20equality.&author=Mary%20McCarthy&v=1771872433" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20any%20case%2C%20in%20so%20far%20as%20our%20knowledge%20of%20the%20universe%20carries%20us%2C%20the%20advent%20of%20civilization%20for%20the%20first%20time%20on%20our%20globe%20represents%20the%20highest%20ascent%20of%20the%20life%20processes%20to%20which%20evolution%20had%20anywhere%20attained.&author=James%20H.%20Breasted&v=1771876266" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
