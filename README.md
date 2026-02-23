@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20hesitate%20to%20predict%20whether%20this%20theory%20is%20true.%20But%20if%20the%20general%20opinion%20of%20Mankind%20is%20optimistic%20then%20we%27re%20in%20for%20a%20period%20of%20extreme%20popularity%20for%20science%20fiction.&author=David%20Eddings&v=1771839710" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Much%20of%20today%27s%20public%20anxiety%20about%20science%20is%20the%20apprehension%20that%20we%20may%20forever%20be%20overlooking%20the%20whole%20by%20an%20endless%2C%20obsessive%20preoccupation%20with%20the%20parts.&author=Lewis%20Thomas&v=1771843154" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
