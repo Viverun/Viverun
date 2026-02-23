@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20day%20I%20finished%20%27Twilight%2C%27%20I%20came%20home%20and%20started%20bulking%20up.%20For%20%27New%20Moon%2C%27%20I%27m%2030%20pounds%20heavier%20than%20I%20was%20in%20%27Twilight.%27&author=Taylor%20Lautner&v=1771878793" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20commonality%20between%20science%20and%20art%20is%20in%20trying%20to%20see%20profoundly%20-%20to%20develop%20strategies%20of%20seeing%20and%20showing.&author=Edward%20Tufte&v=1771882452" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
