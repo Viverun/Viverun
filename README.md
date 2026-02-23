@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20made%20us%20gods%20even%20before%20we%20are%20worthy%20of%20being%20men.&author=Jean%20Rostand&v=1771819936" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20media%20need%20superheroes%20in%20science%20just%20as%20in%20every%20sphere%20of%20life%2C%20but%20there%20is%20really%20a%20continuous%20range%20of%20abilities%20with%20no%20clear%20dividing%20line.&author=Stephen%20Hawking&v=1771826322" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
