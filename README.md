@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=One%20science%20only%20will%20one%20genius%20fit%20so%20vast%20is%20art%2C%20so%20narrow%20human%20wit.&author=Alexander%20Pope&v=1771860994" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20don%27t%20think%20any%20other%20city%20in%20the%20world...%20the%20sun%20doesn%27t%20shine%20the%20same%20way%20anywhere%20as%20it%20does%20in%20New%20York.%20And%20then%20I%20guess%20everyone%27s%20very%20good%20at%20hanging%20out.%20Not%20in%20a%20crazy%20way%2C%20but%20you%27re%20just%20constantly%20interacting%20and%20learning.&author=Ben%20Lovett&v=1771864930" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
