@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20have%20not%20given%20science%20too%20big%20a%20place%20in%20our%20education%2C%20but%20we%20have%20made%20a%20perilous%20mistake%20in%20giving%20it%20too%20great%20a%20preponderance%20in%20method%20in%20every%20other%20branch%20of%20study.&author=Woodrow%20Wilson&v=1771855241" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=One%20science%20only%20will%20one%20genius%20fit%20so%20vast%20is%20art%2C%20so%20narrow%20human%20wit.&author=Alexander%20Pope&v=1771860994" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
