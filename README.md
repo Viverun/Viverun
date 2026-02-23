@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20don%27t%20think%20any%20other%20city%20in%20the%20world...%20the%20sun%20doesn%27t%20shine%20the%20same%20way%20anywhere%20as%20it%20does%20in%20New%20York.%20And%20then%20I%20guess%20everyone%27s%20very%20good%20at%20hanging%20out.%20Not%20in%20a%20crazy%20way%2C%20but%20you%27re%20just%20constantly%20interacting%20and%20learning.&author=Ben%20Lovett&v=1771864930" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Failure%20after%20long%20perseverance%20is%20much%20grander%20than%20never%20to%20have%20a%20striving%20good%20enough%20to%20be%20called%20a%20failure.&author=George%20Eliot&v=1771869206" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
