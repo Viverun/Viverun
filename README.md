@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Failure%20after%20long%20perseverance%20is%20much%20grander%20than%20never%20to%20have%20a%20striving%20good%20enough%20to%20be%20called%20a%20failure.&author=George%20Eliot&v=1771869206" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20science%2C%20all%20facts%2C%20no%20matter%20how%20trivial%20or%20banal%2C%20enjoy%20democratic%20equality.&author=Mary%20McCarthy&v=1771872433" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
