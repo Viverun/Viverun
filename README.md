@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Much%20of%20today%27s%20public%20anxiety%20about%20science%20is%20the%20apprehension%20that%20we%20may%20forever%20be%20overlooking%20the%20whole%20by%20an%20endless%2C%20obsessive%20preoccupation%20with%20the%20parts.&author=Lewis%20Thomas&v=1771843154" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Intelligent%20life%20on%20a%20planet%20comes%20of%20age%20when%20it%20first%20works%20out%20the%20reason%20for%20its%20own%20existence.&author=Richard%20Dawkins&v=1771846319" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
