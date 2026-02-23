@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perhaps%20it%20would%20be%20better%20for%20science%2C%20that%20all%20criticism%20should%20be%20avowed.&author=Charles%20Babbage&v=1771835748" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20hesitate%20to%20predict%20whether%20this%20theory%20is%20true.%20But%20if%20the%20general%20opinion%20of%20Mankind%20is%20optimistic%20then%20we%27re%20in%20for%20a%20period%20of%20extreme%20popularity%20for%20science%20fiction.&author=David%20Eddings&v=1771839710" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
