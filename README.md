@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20media%20need%20superheroes%20in%20science%20just%20as%20in%20every%20sphere%20of%20life%2C%20but%20there%20is%20really%20a%20continuous%20range%20of%20abilities%20with%20no%20clear%20dividing%20line.&author=Stephen%20Hawking&v=1771826322" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Fudging%20the%20data%20in%20any%20way%20whatsoever%20is%20quite%20literally%20a%20sin%20against%20the%20holy%20ghost%20of%20science.%20I%27m%20not%20religious%2C%20but%20I%20put%20it%20that%20way%20because%20I%20feel%20so%20strongly.%20It%27s%20the%20one%20thing%20you%20do%20not%20ever%20do.%20You%27ve%20got%20to%20have%20standards.&author=James%20Lovelock&v=1771830201" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
