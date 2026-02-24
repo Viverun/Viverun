@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Amazingly%20when%20you%20add%20life%20and%20consciousness%20to%20the%20equation%20you%20can%20actually%20explain%20some%20of%20the%20biggest%20puzzles%20of%20science.&author=Robert%20Lanza&v=1771964566" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20are%20learning%20more%20about%20the%20humanity%20of%20the%20unborn%20child.%20Science%20and%20truth%20support%20the%20prolife%20movement.&author=Candice%20S.%20Miller&v=1771968246" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
