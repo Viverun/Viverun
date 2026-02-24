@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20world%20is%20full%20of%20strange%20phenomena%20that%20cannot%20be%20explained%20by%20the%20laws%20of%20logic%20or%20science.%20Dennis%20Rodman%20is%20only%20one%20example.&author=Dave%20Barry&v=1771947890" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20is%20an%20intelligence%20test.&author=Timothy%20Leary&v=1771952032" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
