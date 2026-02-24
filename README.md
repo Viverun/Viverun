@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20are%20learning%20more%20about%20the%20humanity%20of%20the%20unborn%20child.%20Science%20and%20truth%20support%20the%20prolife%20movement.&author=Candice%20S.%20Miller&v=1771968246" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=One%20definition%20of%20eternity%20is%20that%20we%20are%20not%20alone%20on%20this%20planet%2C%20that%20there%20are%20those%20who%27ve%20gone%20before%20and%20those%20who%20will%20come%2C%20and%20that%20there%20is%20a%20community%20of%20spirits.&author=Rita%20Dove&v=1771971738" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
