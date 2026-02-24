@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20a%20better%20internal%20and%20intuitive%20understanding%20of%20folklore%20and%20myth%20than%20science%20and%20technology%2C%20so%20in%20that%20way%20fantasy%20is%20easier.&author=Sarah%20Zettel&v=1771915524" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20an%20interesting%20fact%20that%20during%20my%20tour%20I%20was%20never%20allowed%20access%20to%20computers%2C%20radios%2C%20or%20anything%20else%20that%20I%20might%20damage%20through%20curiosity%2C%20or%20perhaps%20something%20more%20sinister.&author=Robert%20B.%20Laughlin&v=1771918962" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
