@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Of%20course%20in%20science%20there%20are%20things%20that%20are%20open%20to%20doubt%20and%20things%20need%20to%20be%20discussed.%20But%20among%20the%20things%20that%20science%20does%20know%2C%20evolution%20is%20about%20as%20certain%20as%20anything%20we%20know.&author=Richard%20Dawkins&v=1771962179" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Amazingly%20when%20you%20add%20life%20and%20consciousness%20to%20the%20equation%20you%20can%20actually%20explain%20some%20of%20the%20biggest%20puzzles%20of%20science.&author=Robert%20Lanza&v=1771964566" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
