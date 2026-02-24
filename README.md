@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ignorance%20more%20frequently%20begets%20confidence%20than%20does%20knowledge%3A%20it%20is%20those%20who%20know%20little%2C%20and%20not%20those%20who%20know%20much%2C%20who%20so%20positively%20assert%20that%20this%20or%20that%20problem%20will%20never%20be%20solved%20by%20science.&author=Charles%20Darwin&v=1771936674" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20funny%20that%20men%20who%20are%20supposed%20to%20be%20scientific%20cannot%20get%20themselves%20to%20realise%20the%20basic%20principle%20of%20physics%2C%20that%20action%20and%20reaction%20are%20equal%20and%20opposite%2C%20that%20when%20you%20persecute%20people%20you%20always%20rouse%20them%20to%20be%20strong%20and%20stronger.&author=Gertrude%20Stein&v=1771941791" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
