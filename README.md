@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20funny%20that%20men%20who%20are%20supposed%20to%20be%20scientific%20cannot%20get%20themselves%20to%20realise%20the%20basic%20principle%20of%20physics%2C%20that%20action%20and%20reaction%20are%20equal%20and%20opposite%2C%20that%20when%20you%20persecute%20people%20you%20always%20rouse%20them%20to%20be%20strong%20and%20stronger.&author=Gertrude%20Stein&v=1771941791" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20world%20is%20full%20of%20strange%20phenomena%20that%20cannot%20be%20explained%20by%20the%20laws%20of%20logic%20or%20science.%20Dennis%20Rodman%20is%20only%20one%20example.&author=Dave%20Barry&v=1771947890" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
