@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20a%20differential%20equation.%20Religion%20is%20a%20boundary%20condition.&author=Alan%20Turing&v=1771958694" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Of%20course%20in%20science%20there%20are%20things%20that%20are%20open%20to%20doubt%20and%20things%20need%20to%20be%20discussed.%20But%20among%20the%20things%20that%20science%20does%20know%2C%20evolution%20is%20about%20as%20certain%20as%20anything%20we%20know.&author=Richard%20Dawkins&v=1771962179" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
