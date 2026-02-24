@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Go%20beyond%20science%2C%20into%20the%20region%20of%20metaphysics.%20Real%20religion%20is%20beyond%20argument.%20It%20can%20only%20be%20lived%20both%20inwardly%20and%20outwardly.&author=Swami%20Sivananda&v=1771912309" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20a%20better%20internal%20and%20intuitive%20understanding%20of%20folklore%20and%20myth%20than%20science%20and%20technology%2C%20so%20in%20that%20way%20fantasy%20is%20easier.&author=Sarah%20Zettel&v=1771915524" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
