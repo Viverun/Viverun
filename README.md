@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Much%20of%20the%20debate%20over%20global%20warming%20is%20predicated%20on%20fear%2C%20rather%20than%20science.&author=James%20Inhofe&v=1771926008" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Growing%20up%20in%20the%20%2770s%20and%20%2780s%2C%20science%20fiction%20and%20especially%20fantasy%20had%20such%20a%20stigma%20attached%20to%20them.%20I%20felt%20so%20punished%20and%20exiled%20for%20being%20devoted%20to%20these%20things.&author=Lev%20Grossman&v=1771929428" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
