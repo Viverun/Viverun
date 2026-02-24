@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Time%20travel%20used%20to%20be%20thought%20of%20as%20just%20science%20fiction%2C%20but%20Einstein%27s%20general%20theory%20of%20relativity%20allows%20for%20the%20possibility%20that%20we%20could%20warp%20space-time%20so%20much%20that%20you%20could%20go%20off%20in%20a%20rocket%20and%20return%20before%20you%20set%20out.&author=Stephen%20Hawking&v=1771906056" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Go%20beyond%20science%2C%20into%20the%20region%20of%20metaphysics.%20Real%20religion%20is%20beyond%20argument.%20It%20can%20only%20be%20lived%20both%20inwardly%20and%20outwardly.&author=Swami%20Sivananda&v=1771912309" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
