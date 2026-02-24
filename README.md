@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20body%20is%20like%20a%20car%3A%20the%20older%20you%20become%20the%20more%20care%20you%20have%20to%20take%20care%20of%20it%20-%20and%20you%20don%27t%20leave%20a%20Ferrari%20out%20in%20the%20sun.&author=Joan%20Collins&v=1771932739" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ignorance%20more%20frequently%20begets%20confidence%20than%20does%20knowledge%3A%20it%20is%20those%20who%20know%20little%2C%20and%20not%20those%20who%20know%20much%2C%20who%20so%20positively%20assert%20that%20this%20or%20that%20problem%20will%20never%20be%20solved%20by%20science.&author=Charles%20Darwin&v=1771936674" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
