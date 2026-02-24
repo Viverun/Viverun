@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20especially%20need%20imagination%20in%20science.&author=Maria%20Mitchell&v=1771955396" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20a%20differential%20equation.%20Religion%20is%20a%20boundary%20condition.&author=Alan%20Turing&v=1771958694" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
