@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=One%20definition%20of%20eternity%20is%20that%20we%20are%20not%20alone%20on%20this%20planet%2C%20that%20there%20are%20those%20who%27ve%20gone%20before%20and%20those%20who%20will%20come%2C%20and%20that%20there%20is%20a%20community%20of%20spirits.&author=Rita%20Dove&v=1771971738" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20believe%20very%20strongly%2C%20and%20have%20fought%20since%20many%20years%20ago%20-%20at%20least%20over%2030%20years%20ago%20-%20to%20get%20architecture%20not%20just%20within%20schools%2C%20but%20architecture%20talked%20about%20under%20history%2C%20geography%2C%20science%2C%20technology%2C%20art.&author=Richard%20Rogers&v=1771975261" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
