@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20wish%20to%20succeed%20in%20life%2C%20make%20perseverance%20your%20bosom%20friend%2C%20experience%20your%20wise%20counselor%2C%20caution%20your%20elder%20brother%2C%20and%20hope%20your%20guardian%20genius.&author=Joseph%20Addison&v=1771922018" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Much%20of%20the%20debate%20over%20global%20warming%20is%20predicated%20on%20fear%2C%20rather%20than%20science.&author=James%20Inhofe&v=1771926008" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
