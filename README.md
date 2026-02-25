@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Rocket%20science%20is%20tough%2C%20and%20rockets%20have%20a%20way%20of%20failing.&author=Sally%20Ride&v=1772058049" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=All%20good%20criticism%20should%20be%20judged%20the%20way%20art%20is.%20You%20shouldn%27t%20read%20it%20the%20way%20you%20read%20history%20or%20science.&author=Leslie%20Fiedler&v=1772061573" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
