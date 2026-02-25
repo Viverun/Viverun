@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everything%20is%20perfect%20in%20the%20universe%20-%20even%20your%20desire%20to%20improve%20it.&author=Wayne%20Dyer&v=1772005443" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=However%20far%20modern%20science%20and%20techniques%20have%20fallen%20short%20of%20their%20inherent%20possibilities%2C%20they%20have%20taught%20mankind%20at%20least%20one%20lesson%20nothing%20is%20impossible.&author=Lewis%20Mumford&v=1772008531" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
