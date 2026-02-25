@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Though%20many%20have%20tried%2C%20no%20one%20has%20ever%20yet%20explained%20away%20the%20decisive%20fact%20that%20science%2C%20which%20can%20do%20so%20much%2C%20cannot%20decide%20what%20it%20ought%20to%20do.&author=Joseph%20Wood%20Krutch&v=1772034600" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%2C%20on%20occasion%2C%20the%20knowledge%20brought%20by%20science%20leads%20to%20an%20unhappy%20end%2C%20this%20is%20not%20to%20the%20discredit%20of%20science%20but%20is%20rather%20an%20indication%20of%20an%20imperfect%20ability%20to%20use%20wisely%20the%20gifts%20placed%20within%20our%20hands.&author=Polykarp%20Kusch&v=1772038624" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
