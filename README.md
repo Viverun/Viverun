@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=People%20have%20accused%20me%20of%20being%20in%20favor%20of%20globalization.%20This%20is%20equivalent%20to%20accusing%20me%20of%20being%20in%20favor%20of%20the%20sun%20rising%20in%20the%20morning.&author=Clare%20Short&v=1771992570" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20are%20the%20miracle%20of%20force%20and%20matter%20making%20itself%20over%20into%20imagination%20and%20will.%20Incredible.%20The%20Life%20Force%20experimenting%20with%20forms.%20You%20for%20one.%20Me%20for%20another.%20The%20Universe%20has%20shouted%20itself%20alive.%20We%20are%20one%20of%20the%20shouts.&author=Ray%20Bradbury&v=1771998837" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
