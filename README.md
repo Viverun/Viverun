@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20are%20the%20miracle%20of%20force%20and%20matter%20making%20itself%20over%20into%20imagination%20and%20will.%20Incredible.%20The%20Life%20Force%20experimenting%20with%20forms.%20You%20for%20one.%20Me%20for%20another.%20The%20Universe%20has%20shouted%20itself%20alive.%20We%20are%20one%20of%20the%20shouts.&author=Ray%20Bradbury&v=1771998837" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Well%2C%20logos%20is%20science%20or%20reason%2C%20something%20that%20helps%20us%20to%20function%20practically%20and%20effectively%20in%20the%20world%2C%20and%20it%20must%20therefore%20be%20closely%20in%20tune%20and%20reflect%20accurately%20the%20realities%20of%20the%20world%20around%20us.&author=Karen%20Armstrong&v=1772002210" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
