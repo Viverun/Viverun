@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%2C%20on%20occasion%2C%20the%20knowledge%20brought%20by%20science%20leads%20to%20an%20unhappy%20end%2C%20this%20is%20not%20to%20the%20discredit%20of%20science%20but%20is%20rather%20an%20indication%20of%20an%20imperfect%20ability%20to%20use%20wisely%20the%20gifts%20placed%20within%20our%20hands.&author=Polykarp%20Kusch&v=1772038624" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20entry%20into%20the%20environmental%20arena%20was%20through%20the%20issue%20that%20so%20dramatically%20-%20and%20destructively%20-%20demonstrates%20the%20link%20between%20science%20and%20social%20action%3A%20nuclear%20weapons.&author=Barry%20Commoner&v=1772042023" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
