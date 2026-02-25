@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=However%20far%20modern%20science%20and%20techniques%20have%20fallen%20short%20of%20their%20inherent%20possibilities%2C%20they%20have%20taught%20mankind%20at%20least%20one%20lesson%20nothing%20is%20impossible.&author=Lewis%20Mumford&v=1772008531" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20open%20with%20a%20clock%20striking%2C%20to%20beget%20an%20awful%20attention%20in%20the%20audience%20-%20it%20also%20marks%20the%20time%2C%20which%20is%20four%20o%20clock%20in%20the%20morning%2C%20and%20saves%20a%20description%20of%20the%20rising%20sun%2C%20and%20a%20great%20deal%20about%20gilding%20the%20eastern%20hemisphere.&author=Richard%20Brinsley%20Sheridan&v=1772012506" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
