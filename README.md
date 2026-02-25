@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Economics%20has%20never%20been%20a%20science%20-%20and%20it%20is%20even%20less%20now%20than%20a%20few%20years%20ago.&author=Paul%20Samuelson&v=1772019175" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20your%20determination%20is%20fixed%2C%20I%20do%20not%20counsel%20you%20to%20despair.%20Few%20things%20are%20impossible%20to%20diligence%20and%20skill.%20Great%20works%20are%20performed%20not%20by%20strength%2C%20but%20perseverance.&author=Samuel%20Johnson&v=1772023034" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
