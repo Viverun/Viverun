@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20your%20determination%20is%20fixed%2C%20I%20do%20not%20counsel%20you%20to%20despair.%20Few%20things%20are%20impossible%20to%20diligence%20and%20skill.%20Great%20works%20are%20performed%20not%20by%20strength%2C%20but%20perseverance.&author=Samuel%20Johnson&v=1772023034" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20a%20dreamer.%20Seriously%2C%20I%27m%20living%20on%20another%20planet.&author=Eva%20Green&v=1772028126" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
