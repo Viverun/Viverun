@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20open%20with%20a%20clock%20striking%2C%20to%20beget%20an%20awful%20attention%20in%20the%20audience%20-%20it%20also%20marks%20the%20time%2C%20which%20is%20four%20o%20clock%20in%20the%20morning%2C%20and%20saves%20a%20description%20of%20the%20rising%20sun%2C%20and%20a%20great%20deal%20about%20gilding%20the%20eastern%20hemisphere.&author=Richard%20Brinsley%20Sheridan&v=1772012506" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20own%20dreams%20fortunately%20came%20true%20in%20this%20great%20state.%20I%20became%20Mr.%20Universe%20I%20became%20a%20successful%20businessman.%20And%20even%20though%20some%20people%20say%20I%20still%20speak%20with%20a%20slight%20accent%2C%20I%20have%20reached%20the%20top%20of%20the%20acting%20profession.&author=Arnold%20Schwarzenegger&v=1772015963" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
