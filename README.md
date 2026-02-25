@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20a%20dreamer.%20Seriously%2C%20I%27m%20living%20on%20another%20planet.&author=Eva%20Green&v=1772028126" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Though%20many%20have%20tried%2C%20no%20one%20has%20ever%20yet%20explained%20away%20the%20decisive%20fact%20that%20science%2C%20which%20can%20do%20so%20much%2C%20cannot%20decide%20what%20it%20ought%20to%20do.&author=Joseph%20Wood%20Krutch&v=1772034600" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
