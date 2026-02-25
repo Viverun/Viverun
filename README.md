@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Well%2C%20logos%20is%20science%20or%20reason%2C%20something%20that%20helps%20us%20to%20function%20practically%20and%20effectively%20in%20the%20world%2C%20and%20it%20must%20therefore%20be%20closely%20in%20tune%20and%20reflect%20accurately%20the%20realities%20of%20the%20world%20around%20us.&author=Karen%20Armstrong&v=1772002210" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everything%20is%20perfect%20in%20the%20universe%20-%20even%20your%20desire%20to%20improve%20it.&author=Wayne%20Dyer&v=1772005443" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
