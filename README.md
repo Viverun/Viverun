@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20entry%20into%20the%20environmental%20arena%20was%20through%20the%20issue%20that%20so%20dramatically%20-%20and%20destructively%20-%20demonstrates%20the%20link%20between%20science%20and%20social%20action%3A%20nuclear%20weapons.&author=Barry%20Commoner&v=1772042023" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Skeptical%20scrutiny%20is%20the%20means%2C%20in%20both%20science%20and%20religion%2C%20by%20which%20deep%20thoughts%20can%20be%20winnowed%20from%20deep%20nonsense.&author=Carl%20Sagan&v=1772045420" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
