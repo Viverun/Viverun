@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20without%20religion%20is%20lame%2C%20religion%20without%20science%20is%20blind.&author=Albert%20Einstein&v=1772051074" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%2C%20on%20occasion%2C%20the%20knowledge%20brought%20by%20science%20leads%20to%20an%20unhappy%20end%2C%20this%20is%20not%20to%20the%20discredit%20of%20science%20but%20is%20rather%20an%20indication%20of%20an%20imperfect%20ability%20to%20use%20wisely%20the%20gifts%20placed%20within%20our%20hands.&author=Polykarp%20Kusch&v=1772054744" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
