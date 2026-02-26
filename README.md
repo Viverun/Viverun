@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Whether%20things%20turn%20out%20for%20the%20better%20depends%20on%20what%20we%20do.%20We%20ought%20not%20spend%20our%20time%20masterminding%20the%20future%2C%20but%20recognize%20our%20marching%20orders%3A%20to%20do%20the%20best%20we%20can%20for%20history%20and%20the%20planet.&author=Huston%20Smith&v=1772098657" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Unfortunately%20things%20are%20different%20in%20climate%20science%20because%20the%20arguments%20have%20become%20heavily%20politicised.%20To%20say%20that%20the%20dogmas%20are%20wrong%20has%20become%20politically%20incorrect.&author=Freeman%20Dyson&v=1772102100" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
