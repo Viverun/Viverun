@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20I%20want%20to%20understand%20the%20laws%20of%20physics%20I%20have%20to%20first%20believe%20what%20I%20read%20about%20physics.%20I%20have%20to%20have%20faith%20in%20what%20I%20read.&author=Ray%20Comfort&v=1772134543" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20therefore%20not%20unreasonable%20to%20suppose%20that%20some%20portion%20of%20the%20neglect%20of%20science%20in%20England%2C%20may%20be%20attributed%20to%20the%20system%20of%20education%20we%20pursue.&author=Charles%20Babbage&v=1772137484" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
