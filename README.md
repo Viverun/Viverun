@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20healthy%2C%20have%20a%20loving%20and%20adorable%20family%2C%20great%20hunting%20dogs%2C%20a%20gravity%20defying%20musical%20career%20and%20most%20importantly%2C%20fuzzy-headed%20idiots%20hate%20me.&author=Ted%20Nugent&v=1772088332" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Three%20things%20cannot%20be%20long%20hidden%3A%20the%20sun%2C%20the%20moon%2C%20and%20the%20truth.&author=Buddha&v=1772091796" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
