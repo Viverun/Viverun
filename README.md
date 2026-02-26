@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=By%20any%20reasonable%20measure%20of%20achievement%2C%20the%20faith%20of%20the%20Enlightenment%20thinkers%20in%20science%20was%20justified.&author=E.%20O.%20Wilson&v=1772144507" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Growing%20up%20in%20the%20%2770s%20and%20%2780s%2C%20science%20fiction%20and%20especially%20fantasy%20had%20such%20a%20stigma%20attached%20to%20them.%20I%20felt%20so%20punished%20and%20exiled%20for%20being%20devoted%20to%20these%20things.&author=Lev%20Grossman&v=1772147985" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
