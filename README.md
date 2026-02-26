@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20will%20free%20man%20from%20the%20remaining%20chains%2C%20the%20chains%20of%20gravity%20which%20still%20tie%20him%20to%20this%20planet.&author=Wernher%20von%20Braun&v=1772114550" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Some%20theists%20in%20evolutionary%20science%20acquiesce%20to%20these%20tacit%20rules%20and%20retain%20a%20personal%20faith%20while%20accepting%20a%20thoroughly%20naturalistic%20picture%20of%20physical%20reality.&author=Phillip%20E.%20Johnson&v=1772120545" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
