@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Vanity%20of%20science.%20Knowledge%20of%20physical%20science%20will%20not%20console%20me%20for%20ignorance%20of%20morality%20in%20time%20of%20affliction%2C%20but%20knowledge%20of%20morality%20will%20always%20console%20me%20for%20ignorance%20of%20physical%20science.&author=Blaise%20Pascal&v=1772141017" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=By%20any%20reasonable%20measure%20of%20achievement%2C%20the%20faith%20of%20the%20Enlightenment%20thinkers%20in%20science%20was%20justified.&author=E.%20O.%20Wilson&v=1772144507" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
