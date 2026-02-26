@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Some%20theists%20in%20evolutionary%20science%20acquiesce%20to%20these%20tacit%20rules%20and%20retain%20a%20personal%20faith%20while%20accepting%20a%20thoroughly%20naturalistic%20picture%20of%20physical%20reality.&author=Phillip%20E.%20Johnson&v=1772120545" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20capacity%20to%20be%20puzzled%20is%20the%20premise%20of%20all%20creation%2C%20be%20it%20in%20art%20or%20in%20science.&author=Erich%20Fromm&v=1772124256" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
