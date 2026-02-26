@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Three%20things%20cannot%20be%20long%20hidden%3A%20the%20sun%2C%20the%20moon%2C%20and%20the%20truth.&author=Buddha&v=1772091796" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everything%20is%20perfect%20in%20the%20universe%20%E2%80%94%20even%20your%20desire%20to%20improve%20it.&author=Wayne%20Dyer&v=1772094801" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
