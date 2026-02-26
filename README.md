@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27ve%20loved%20science%20fiction%20ever%20since%20I%20was%20a%20little%20kid%2C%20mainly%20from%20looking%20at%20the%20covers%20of%20science-fiction%20magazines%20and%20books%2C%20and%20I%27ve%20read%20quite%20extensively%20as%20an%20adult.&author=Matt%20Groening&v=1772078771" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Very%20few%20recognize%20science%20as%20the%20high%20adventure%20it%20really%20is%2C%20the%20wildest%20of%20all%20explorations%20ever%20taken%20by%20human%20beings%2C%20the%20chance%20to%20glimpse%20things%20never%20seen%20before%2C%20the%20shrewdest%20maneuver%20for%20discovering%20how%20the%20world%20works.&author=Lewis%20Thomas&v=1772085027" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
