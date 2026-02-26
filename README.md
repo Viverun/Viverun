@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20capacity%20to%20be%20puzzled%20is%20the%20premise%20of%20all%20creation%2C%20be%20it%20in%20art%20or%20in%20science.&author=Erich%20Fromm&v=1772124256" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20study%20and%20knowledge%20of%20the%20universe%20would%20somehow%20be%20lame%20and%20defective%20were%20no%20practical%20results%20to%20follow.&author=Marcus%20Tullius%20Cicero&v=1772128255" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
