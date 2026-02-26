@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Every%20day%20is%20a%20good%20day%20to%20be%20alive%2C%20whether%20the%20sun%27s%20shining%20or%20not.&author=Marty%20Robbins&v=1772109442" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20will%20free%20man%20from%20the%20remaining%20chains%2C%20the%20chains%20of%20gravity%20which%20still%20tie%20him%20to%20this%20planet.&author=Wernher%20von%20Braun&v=1772114550" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
