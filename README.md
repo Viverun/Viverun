@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Unfortunately%20things%20are%20different%20in%20climate%20science%20because%20the%20arguments%20have%20become%20heavily%20politicised.%20To%20say%20that%20the%20dogmas%20are%20wrong%20has%20become%20politically%20incorrect.&author=Freeman%20Dyson&v=1772102100" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Stay%20out%20of%20the%20sun%2C%20because%20it%20is%20the%20worst%20thing%20in%20terms%20of%20aging.%20I%27m%20very%20medical.%20I%20come%20from%20a%20medical%20family.&author=Nicole%20Kidman&v=1772105515" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
