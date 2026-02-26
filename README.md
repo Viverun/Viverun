@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20study%20and%20knowledge%20of%20the%20universe%20would%20somehow%20be%20lame%20and%20defective%20were%20no%20practical%20results%20to%20follow.&author=Marcus%20Tullius%20Cicero&v=1772128255" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Economists%20treat%20economics%20as%20if%20it%20is%20a%20pure%20science%20divorced%20from%20the%20facts%20of%20life.%20The%20result%20of%20this%20false%20accountancy%20is%20a%20willful%20confusion%20under%20cover%20of%20which%20industry%20wreaks%20its%20havoc%20scot-free%20and%20ignores%20the%20environmental%20cost.&author=Vivienne%20Westwood&v=1772131023" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
