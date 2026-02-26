@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Stay%20out%20of%20the%20sun%2C%20because%20it%20is%20the%20worst%20thing%20in%20terms%20of%20aging.%20I%27m%20very%20medical.%20I%20come%20from%20a%20medical%20family.&author=Nicole%20Kidman&v=1772105515" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Every%20day%20is%20a%20good%20day%20to%20be%20alive%2C%20whether%20the%20sun%27s%20shining%20or%20not.&author=Marty%20Robbins&v=1772109442" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
