@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20therefore%20not%20unreasonable%20to%20suppose%20that%20some%20portion%20of%20the%20neglect%20of%20science%20in%20England%2C%20may%20be%20attributed%20to%20the%20system%20of%20education%20we%20pursue.&author=Charles%20Babbage&v=1772137484" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Vanity%20of%20science.%20Knowledge%20of%20physical%20science%20will%20not%20console%20me%20for%20ignorance%20of%20morality%20in%20time%20of%20affliction%2C%20but%20knowledge%20of%20morality%20will%20always%20console%20me%20for%20ignorance%20of%20physical%20science.&author=Blaise%20Pascal&v=1772141017" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
