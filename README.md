@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Growing%20up%20in%20the%20%2770s%20and%20%2780s%2C%20science%20fiction%20and%20especially%20fantasy%20had%20such%20a%20stigma%20attached%20to%20them.%20I%20felt%20so%20punished%20and%20exiled%20for%20being%20devoted%20to%20these%20things.&author=Lev%20Grossman&v=1772147985" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Just%20after%20World%20War%20II%2C%20this%20country%20led%20the%20world%20in%20science%20by%20every%20way%20you%20could%20measure%20it%2C%20yet%20the%20number%20of%20scientists%20was%20a%20tiny%20proportion%20of%20what%20it%20is%20now.&author=James%20Lovelock&v=1772154290" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
