@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Of%20all%20that%20is%20good%2C%20sublimity%20is%20supreme.%20Succeeding%20is%20the%20coming%20together%20of%20all%20that%20is%20beautiful.%20Furtherance%20is%20the%20agreement%20of%20all%20that%20is%20just.%20Perseverance%20is%20the%20foundation%20of%20all%20actions.&author=Lao%20Tzu&v=1772174317" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20and%20literature%20are%20not%20two%20things%2C%20but%20two%20sides%20of%20one%20thing.&author=Thomas%20Huxley&v=1772177892" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
