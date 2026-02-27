@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20raise%20new%20questions%2C%20new%20possibilities%2C%20to%20regard%20old%20problems%20from%20a%20new%20angle%2C%20requires%20creative%20imagination%20and%20marks%20real%20advance%20in%20science.&author=Albert%20Einstein&v=1772209685" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20Alma%20mater%20was%20books%2C%20a%20good%20library...%20I%20could%20spend%20the%20rest%20of%20my%20life%20reading%2C%20just%20satisfying%20my%20curiosity.&author=Malcolm%20X&v=1772213152" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
