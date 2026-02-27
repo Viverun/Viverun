@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Freedom%20is%20absolutely%20necessary%20for%20the%20progress%20in%20science%20and%20the%20liberal%20arts.&author=Baruch%20Spinoza&v=1772206183" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20raise%20new%20questions%2C%20new%20possibilities%2C%20to%20regard%20old%20problems%20from%20a%20new%20angle%2C%20requires%20creative%20imagination%20and%20marks%20real%20advance%20in%20science.&author=Albert%20Einstein&v=1772209685" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
