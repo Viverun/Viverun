@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20can%20be%20no%20truce%20between%20science%20and%20religion.&author=John%20B.%20S.%20Haldane&v=1772227120" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20made%20us%20gods%20even%20before%20we%20are%20worthy%20of%20being%20men.&author=Jean%20Rostand&v=1772230391" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
