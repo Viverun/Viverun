@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Economics%20has%20never%20been%20a%20science%20-%20and%20it%20is%20even%20less%20now%20than%20a%20few%20years%20ago.&author=Paul%20Samuelson&v=1772188020" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20wealthy%20are%20always%20surrounded%20by%20hangers-on%20science%20and%20art%20are%20as%20well.&author=Anton%20Chekhov&v=1772191433" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
