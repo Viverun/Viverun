@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Adding%20sound%20to%20movies%20would%20be%20like%20putting%20lipstick%20on%20the%20Venus%20de%20Milo.&author=Mary%20Pickford&v=1772216796" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Space%20is%20big.%20You%20just%20won%27t%20believe%20how%20vastly%2C%20hugely%2C%20mind-bogglingly%20big%20it%20is.&author=Douglas%20Adams&v=1772220365" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
