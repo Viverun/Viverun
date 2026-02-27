@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Space%20is%20big.%20You%20just%20won%27t%20believe%20how%20vastly%2C%20hugely%2C%20mind-bogglingly%20big%20it%20is.&author=Douglas%20Adams&v=1772220365" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=With%20acknowledgement%20of%20residues%2C%20we%20can%20be%20more%20easily%20prepared%20to%20grant%20the%20unit%20of%20science%2C%20the%20overlapping%20of%20disciplines%2C%20and%20the%20total%20coherence%20of%20all%20facts.&author=Kenneth%20L.%20Pike&v=1772223467" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
