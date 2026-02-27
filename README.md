@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20a%20miracle%20that%20curiosity%20survives%20formal%20education.&author=Albert%20Einstein&v=1772180956" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Those%20theologians%20who%20are%20beginning%20to%20take%20the%20doctrine%20of%20creation%20very%20seriously%20should%20pay%20some%20attention%20to%20science%27s%20story.&author=John%20Polkinghorne&v=1772184617" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
