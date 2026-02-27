@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20and%20literature%20are%20not%20two%20things%2C%20but%20two%20sides%20of%20one%20thing.&author=Thomas%20Huxley&v=1772177892" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20a%20miracle%20that%20curiosity%20survives%20formal%20education.&author=Albert%20Einstein&v=1772180956" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
