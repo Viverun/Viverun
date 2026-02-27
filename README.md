@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=With%20acknowledgement%20of%20residues%2C%20we%20can%20be%20more%20easily%20prepared%20to%20grant%20the%20unit%20of%20science%2C%20the%20overlapping%20of%20disciplines%2C%20and%20the%20total%20coherence%20of%20all%20facts.&author=Kenneth%20L.%20Pike&v=1772223467" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20can%20be%20no%20truce%20between%20science%20and%20religion.&author=John%20B.%20S.%20Haldane&v=1772227120" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
