@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20wealthy%20are%20always%20surrounded%20by%20hangers-on%20science%20and%20art%20are%20as%20well.&author=Anton%20Chekhov&v=1772191433" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20are%20so%20many%20different%20people%20that%20I%27ve%20emulated%20vocally.%20In%20the%20rock%20world%20-%20Sebastian%20Bach%2C%20Vince%20Neil%2C%20Freddie%20Mercury%2C%20Robert%20Plant.%20They%20all%20had%20amazing%20vocal%20talent.&author=Fergie&v=1772195554" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
