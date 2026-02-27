@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Just%20after%20World%20War%20II%2C%20this%20country%20led%20the%20world%20in%20science%20by%20every%20way%20you%20could%20measure%20it%2C%20yet%20the%20number%20of%20scientists%20was%20a%20tiny%20proportion%20of%20what%20it%20is%20now.&author=James%20Lovelock&v=1772154290" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20do%20a%20lot%20of%20curiosity%20buying%20I%20buy%20it%20if%20I%20like%20the%20album%20cover%2C%20I%20buy%20it%20if%20I%20like%20the%20name%20of%20the%20band%2C%20anything%20that%20sparks%20my%20imagination.&author=Bruce%20Springsteen&v=1772164957" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
