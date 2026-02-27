@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Natural%20science%20will%20in%20time%20incorporate%20into%20itself%20the%20science%20of%20man%2C%20just%20as%20the%20science%20of%20man%20will%20incorporate%20into%20itself%20natural%20science%3A%20there%20will%20be%20one%20science.&author=Karl%20Marx&v=1772171007" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Of%20all%20that%20is%20good%2C%20sublimity%20is%20supreme.%20Succeeding%20is%20the%20coming%20together%20of%20all%20that%20is%20beautiful.%20Furtherance%20is%20the%20agreement%20of%20all%20that%20is%20just.%20Perseverance%20is%20the%20foundation%20of%20all%20actions.&author=Lao%20Tzu&v=1772174317" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
