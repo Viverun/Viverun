@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20do%20a%20lot%20of%20curiosity%20buying%20I%20buy%20it%20if%20I%20like%20the%20album%20cover%2C%20I%20buy%20it%20if%20I%20like%20the%20name%20of%20the%20band%2C%20anything%20that%20sparks%20my%20imagination.&author=Bruce%20Springsteen&v=1772164957" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Natural%20science%20will%20in%20time%20incorporate%20into%20itself%20the%20science%20of%20man%2C%20just%20as%20the%20science%20of%20man%20will%20incorporate%20into%20itself%20natural%20science%3A%20there%20will%20be%20one%20science.&author=Karl%20Marx&v=1772171007" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
