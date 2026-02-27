@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20Alma%20mater%20was%20books%2C%20a%20good%20library...%20I%20could%20spend%20the%20rest%20of%20my%20life%20reading%2C%20just%20satisfying%20my%20curiosity.&author=Malcolm%20X&v=1772213152" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Adding%20sound%20to%20movies%20would%20be%20like%20putting%20lipstick%20on%20the%20Venus%20de%20Milo.&author=Mary%20Pickford&v=1772216796" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
