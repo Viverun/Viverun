@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20is%20made%20of%20stories%2C%20not%20atoms.&author=Muriel%20Rukeyser&v=1772202719" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Freedom%20is%20absolutely%20necessary%20for%20the%20progress%20in%20science%20and%20the%20liberal%20arts.&author=Baruch%20Spinoza&v=1772206183" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
