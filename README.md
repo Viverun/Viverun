@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Those%20theologians%20who%20are%20beginning%20to%20take%20the%20doctrine%20of%20creation%20very%20seriously%20should%20pay%20some%20attention%20to%20science%27s%20story.&author=John%20Polkinghorne&v=1772184617" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Economics%20has%20never%20been%20a%20science%20-%20and%20it%20is%20even%20less%20now%20than%20a%20few%20years%20ago.&author=Paul%20Samuelson&v=1772188020" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
