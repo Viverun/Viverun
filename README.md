@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Galileo%20was%20no%20idiot.%20Only%20an%20idiot%20could%20believe%20that%20science%20requires%20martyrdom%20-%20that%20may%20be%20necessary%20in%20religion%2C%20but%20in%20time%20a%20scientific%20result%20will%20establish%20itself.&author=David%20Hilbert&v=1772200294" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20is%20made%20of%20stories%2C%20not%20atoms.&author=Muriel%20Rukeyser&v=1772202719" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
