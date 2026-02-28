@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Some%20of%20the%20most%20amazing%20human%20beings%20on%20the%20face%20of%20the%20planet%20go%20to%20sci-fi%20conventions%2C%20although%20I%27m%20sure%20a%20few%20of%20them%20wouldn%27t%20admit%20it.&author=Richard%20Hatch&v=1772273584" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20I%20can%20get%20some%20student%20interested%20in%20science%2C%20if%20I%20can%20show%20members%20of%20the%20general%20public%20what%27s%20going%20on%20up%20there%20in%20the%20space%20program%2C%20then%20my%20job%27s%20been%20done.&author=Christa%20McAuliffe&v=1772277009" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
