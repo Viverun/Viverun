@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20those%20who%20have%20chosen%20the%20profession%20of%20medicine%2C%20a%20knowledge%20of%20chemistry%2C%20and%20of%20some%20branches%20of%20natural%20history%2C%20and%2C%20indeed%2C%20of%20several%20other%20departments%20of%20science%2C%20affords%20useful%20assistance.&author=Charles%20Babbage&v=1772305981" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20it%27s%20true%20that%20our%20species%20is%20alone%20in%20the%20universe%2C%20then%20I%27d%20have%20to%20say%20the%20universe%20aimed%20rather%20low%20and%20settled%20for%20very%20little.&author=George%20Carlin&v=1772309626" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
