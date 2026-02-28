@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=For%20NASA%2C%20space%20is%20still%20a%20high%20priority.&author=Dan%20Quayle&v=1772266560" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perseverance%20is%20the%20hard%20work%20you%20do%20after%20you%20get%20tired%20of%20doing%20the%20hard%20work%20you%20already%20did.&author=Newt%20Gingrich&v=1772270163" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
