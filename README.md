@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20coverage%20could%20be%20improved%20by%20the%20recognition%20that%20science%20is%20timeless%2C%20and%20therefore%20science%20stories%20should%20not%20need%20to%20be%20pegged%20to%20an%20item%20in%20the%20news.&author=Richard%20Dawkins&v=1772285402" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Here%20men%20from%20the%20planet%20Earth%20first%20set%20foot%20upon%20the%20Moon.%20July%201969%20AD.%20We%20came%20in%20peace%20for%20all%20mankind.&author=Neil%20Armstrong&v=1772287958" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
