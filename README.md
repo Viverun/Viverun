@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20I%20can%20get%20some%20student%20interested%20in%20science%2C%20if%20I%20can%20show%20members%20of%20the%20general%20public%20what%27s%20going%20on%20up%20there%20in%20the%20space%20program%2C%20then%20my%20job%27s%20been%20done.&author=Christa%20McAuliffe&v=1772277009" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Well%2C%20logos%20is%20science%20or%20reason%2C%20something%20that%20helps%20us%20to%20function%20practically%20and%20effectively%20in%20the%20world%2C%20and%20it%20must%20therefore%20be%20closely%20in%20tune%20and%20reflect%20accurately%20the%20realities%20of%20the%20world%20around%20us.&author=Karen%20Armstrong&v=1772281353" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
