@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Advertising%20is%20fundamentally%20persuasion%20and%20persuasion%20happens%20to%20be%20not%20a%20science%2C%20but%20an%20art.&author=William%20Bernbach&v=1772263137" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=For%20NASA%2C%20space%20is%20still%20a%20high%20priority.&author=Dan%20Quayle&v=1772266560" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
