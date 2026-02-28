@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20knows%20no%20country%2C%20because%20knowledge%20belongs%20to%20humanity%2C%20and%20is%20the%20torch%20which%20illuminates%20the%20world.&author=Louis%20Pasteur&v=1772253994" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20body%20is%20like%20a%20car%3A%20the%20older%20you%20become%20the%20more%20care%20you%20have%20to%20take%20care%20of%20it%20-%20and%20you%20don%27t%20leave%20a%20Ferrari%20out%20in%20the%20sun.&author=Joan%20Collins&v=1772256323" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
