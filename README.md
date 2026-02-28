@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Traditional%20academic%20science%20describes%20human%20beings%20as%20highly%20developed%20animals%20and%20biological%20thinking%20machines.%20We%20appear%20to%20be%20Newtonian%20objects%20made%20of%20atoms%2C%20molecules%2C%20cells%2C%20tissues%2C%20and%20organs.&author=Stanislav%20Grof&v=1772291511" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20Nitrogen%20in%20our%20DNA%2C%20the%20Calcium%20in%20our%20teeth%2C%20the%20Iron%20in%20our%20blood%2C%20the%20Carbon%20in%20our%20apple%20pies%20were%20made%20in%20the%20interiors%20of%20collapsing%20stars.%20We%20are%20made%20of%20starstuff.&author=Carl%20Sagan&v=1772295245" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
