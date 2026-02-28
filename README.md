@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Well%2C%20logos%20is%20science%20or%20reason%2C%20something%20that%20helps%20us%20to%20function%20practically%20and%20effectively%20in%20the%20world%2C%20and%20it%20must%20therefore%20be%20closely%20in%20tune%20and%20reflect%20accurately%20the%20realities%20of%20the%20world%20around%20us.&author=Karen%20Armstrong&v=1772281353" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20coverage%20could%20be%20improved%20by%20the%20recognition%20that%20science%20is%20timeless%2C%20and%20therefore%20science%20stories%20should%20not%20need%20to%20be%20pegged%20to%20an%20item%20in%20the%20news.&author=Richard%20Dawkins&v=1772285402" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
