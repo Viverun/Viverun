@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20it%27s%20true%20that%20our%20species%20is%20alone%20in%20the%20universe%2C%20then%20I%27d%20have%20to%20say%20the%20universe%20aimed%20rather%20low%20and%20settled%20for%20very%20little.&author=George%20Carlin&v=1772309626" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Art%20is%20I%20science%20is%20we.&author=Claude%20Bernard&v=1772313104" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
