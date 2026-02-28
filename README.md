@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Never%20respect%20men%20merely%20for%20their%20riches%2C%20but%20rather%20for%20their%20philanthropy%20we%20do%20not%20value%20the%20sun%20for%20its%20height%2C%20but%20for%20its%20use.&author=Gamaliel%20Bailey&v=1772240359" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20liked%20math%20-%20that%20was%20my%20favorite%20subject%20-%20and%20I%20was%20very%20interested%20in%20astronomy%20and%20in%20physical%20science.&author=Sally%20Ride&v=1772248158" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
