@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perseverance%20is%20the%20hard%20work%20you%20do%20after%20you%20get%20tired%20of%20doing%20the%20hard%20work%20you%20already%20did.&author=Newt%20Gingrich&v=1772270163" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Some%20of%20the%20most%20amazing%20human%20beings%20on%20the%20face%20of%20the%20planet%20go%20to%20sci-fi%20conventions%2C%20although%20I%27m%20sure%20a%20few%20of%20them%20wouldn%27t%20admit%20it.&author=Richard%20Hatch&v=1772273584" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
