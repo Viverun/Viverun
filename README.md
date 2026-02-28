@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20is%20full%20of%20magical%20things%2C%20patiently%20waiting%20for%20our%20wits%20to%20grow%20sharper.&author=Eden%20Phillpotts&v=1772234110" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Never%20respect%20men%20merely%20for%20their%20riches%2C%20but%20rather%20for%20their%20philanthropy%20we%20do%20not%20value%20the%20sun%20for%20its%20height%2C%20but%20for%20its%20use.&author=Gamaliel%20Bailey&v=1772240359" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
