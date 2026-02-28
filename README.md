@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20is%20only%20one%20thing%20for%20us%20to%20do%2C%20and%20that%20is%20to%20do%20our%20level%20best%20right%20where%20we%20are%20every%20day%20of%20our%20lives%20To%20use%20our%20best%20judgment%2C%20and%20then%20to%20trust%20the%20rest%20to%20that%20Power%20which%20holds%20the%20forces%20of%20the%20universe%20in%20his%20hands.&author=Orison%20Swett%20Marden&v=1772259810" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Advertising%20is%20fundamentally%20persuasion%20and%20persuasion%20happens%20to%20be%20not%20a%20science%2C%20but%20an%20art.&author=William%20Bernbach&v=1772263137" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
