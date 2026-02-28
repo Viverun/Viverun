@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20a%20differential%20equation.%20Religion%20is%20a%20boundary%20condition.&author=Alan%20Turing&v=1772298680" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everything%20is%20perfect%20in%20the%20universe%20%E2%80%94%20even%20your%20desire%20to%20improve%20it.&author=Wayne%20Dyer&v=1772302655" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
