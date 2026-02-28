@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20hate%20science%20fiction.&author=James%20Dyson&v=1772316726" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Every%20day%20is%20a%20good%20day%20to%20be%20alive%2C%20whether%20the%20sun%27s%20shining%20or%20not.&author=Marty%20Robbins&v=1772320318" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
