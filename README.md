@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everything%20is%20perfect%20in%20the%20universe%20%E2%80%94%20even%20your%20desire%20to%20improve%20it.&author=Wayne%20Dyer&v=1772302655" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20those%20who%20have%20chosen%20the%20profession%20of%20medicine%2C%20a%20knowledge%20of%20chemistry%2C%20and%20of%20some%20branches%20of%20natural%20history%2C%20and%2C%20indeed%2C%20of%20several%20other%20departments%20of%20science%2C%20affords%20useful%20assistance.&author=Charles%20Babbage&v=1772305981" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
