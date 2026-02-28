@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20liked%20math%20-%20that%20was%20my%20favorite%20subject%20-%20and%20I%20was%20very%20interested%20in%20astronomy%20and%20in%20physical%20science.&author=Sally%20Ride&v=1772248158" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20knows%20no%20country%2C%20because%20knowledge%20belongs%20to%20humanity%2C%20and%20is%20the%20torch%20which%20illuminates%20the%20world.&author=Louis%20Pasteur&v=1772253994" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
