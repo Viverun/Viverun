@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20Nitrogen%20in%20our%20DNA%2C%20the%20Calcium%20in%20our%20teeth%2C%20the%20Iron%20in%20our%20blood%2C%20the%20Carbon%20in%20our%20apple%20pies%20were%20made%20in%20the%20interiors%20of%20collapsing%20stars.%20We%20are%20made%20of%20starstuff.&author=Carl%20Sagan&v=1772295245" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20a%20differential%20equation.%20Religion%20is%20a%20boundary%20condition.&author=Alan%20Turing&v=1772298680" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
