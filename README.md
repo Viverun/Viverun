@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20we%20observe%20has%20precisely%20the%20properties%20we%20should%20expect%20if%20there%20is%2C%20at%20bottom%2C%20no%20design%2C%20no%20purpose%2C%20no%20evil%2C%20no%20good%2C%20nothing%20but%20blind%2C%20pitiless%20indifference.&author=Richard%20Dawkins&v=1772374487" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20whole%20history%20of%20science%20has%20been%20the%20gradual%20realization%20that%20events%20do%20not%20happen%20in%20an%20arbitrary%20manner%2C%20but%20that%20they%20reflect%20a%20certain%20underlying%20order%2C%20which%20may%20or%20may%20not%20be%20divinely%20inspired.&author=Stephen%20Hawking&v=1772377965" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
