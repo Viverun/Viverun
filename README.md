@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Rocket%20science%20is%20tough%2C%20and%20rockets%20have%20a%20way%20of%20failing.&author=Sally%20Ride&v=1772381692" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perseverance%20is%20not%20a%20long%20race%20it%20is%20many%20short%20races%20one%20after%20the%20other.&author=Walter%20Elliot&v=1772385207" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
