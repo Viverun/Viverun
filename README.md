@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20we%20try%20to%20pick%20out%20anything%20by%20itself%2C%20we%20find%20it%20hitched%20to%20everything%20else%20in%20the%20universe.&author=John%20Muir&v=1772396033" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20purpose%20of%20science%20is%20not%20to%20analyze%20or%20describe%20but%20to%20make%20useful%20models%20of%20the%20world.%20A%20model%20is%20useful%20if%20it%20allows%20us%20to%20get%20use%20out%20of%20it.&author=Edward%20de%20Bono&v=1772399558" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
