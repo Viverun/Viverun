@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Loss%20and%20possession%2C%20death%20and%20life%20are%20one%2C%20There%20falls%20no%20shadow%20where%20there%20shines%20no%20sun.&author=Hilaire%20Belloc&v=1772349934" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20a%20lot%20of%20plants%20and%20fish%20and%20a%20pet%20lizard%20and%20Venus%20flytraps.%20I%20have%20a%20whole%20ecosystem%20in%20my%20room%2C%20like%20a%20running%20waterfall%20and%20different%20lights%20and%20sensors%20set%20on%20digital%20timers.&author=Chris%20Pratt&v=1772353093" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
