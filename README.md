@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perseverance%20is%20not%20a%20long%20race%20it%20is%20many%20short%20races%20one%20after%20the%20other.&author=Walter%20Elliot&v=1772385207" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=This%20world%2C%20after%20all%20our%20science%20and%20sciences%2C%20is%20still%20a%20miracle%3B%20wonderful%2C%20inscrutable%2C%20magical%20and%20more%2C%20to%20whosoever%20will%20think%20of%20it.&author=Thomas%20Carlyle&v=1772389099" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
