@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20purpose%20of%20science%20is%20not%20to%20analyze%20or%20describe%20but%20to%20make%20useful%20models%20of%20the%20world.%20A%20model%20is%20useful%20if%20it%20allows%20us%20to%20get%20use%20out%20of%20it.&author=Edward%20de%20Bono&v=1772399558" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Natural%20science%2C%20does%20not%20simply%20describe%20and%20explain%20nature%20it%20is%20part%20of%20the%20interplay%20between%20nature%20and%20ourselves.&author=Werner%20Heisenberg&v=1772403156" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
