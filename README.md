@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Odd%20how%20the%20creative%20power%20at%20once%20brings%20the%20whole%20universe%20to%20order.&author=Virginia%20Woolf&v=1772346781" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Loss%20and%20possession%2C%20death%20and%20life%20are%20one%2C%20There%20falls%20no%20shadow%20where%20there%20shines%20no%20sun.&author=Hilaire%20Belloc&v=1772349934" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
