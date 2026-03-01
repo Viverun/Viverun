@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=He%20who%20binds%20to%20himself%20a%20joy%20Does%20the%20winged%20life%20destroy%20But%20he%20who%20kisses%20the%20joy%20as%20it%20flies%20Lives%20in%20eternity%27s%20sun%20rise.&author=William%20Blake&v=1772371952" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20we%20observe%20has%20precisely%20the%20properties%20we%20should%20expect%20if%20there%20is%2C%20at%20bottom%2C%20no%20design%2C%20no%20purpose%2C%20no%20evil%2C%20no%20good%2C%20nothing%20but%20blind%2C%20pitiless%20indifference.&author=Richard%20Dawkins&v=1772374487" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
