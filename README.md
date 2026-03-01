@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20a%20lot%20of%20plants%20and%20fish%20and%20a%20pet%20lizard%20and%20Venus%20flytraps.%20I%20have%20a%20whole%20ecosystem%20in%20my%20room%2C%20like%20a%20running%20waterfall%20and%20different%20lights%20and%20sensors%20set%20on%20digital%20timers.&author=Chris%20Pratt&v=1772353093" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Reason%2C%20observation%2C%20and%20experience%20the%20holy%20trinity%20of%20science.&author=Robert%20Green%20Ingersoll&v=1772356755" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
