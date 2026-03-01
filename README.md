@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Unlike%20scientism%2C%20science%20in%20the%20true%20sense%20of%20the%20word%20is%20open%20to%20unbiased%20investigation%20of%20any%20existing%20phenomena.&author=Stanislav%20Grof&v=1772392502" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20we%20try%20to%20pick%20out%20anything%20by%20itself%2C%20we%20find%20it%20hitched%20to%20everything%20else%20in%20the%20universe.&author=John%20Muir&v=1772396033" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
