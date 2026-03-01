@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20science%2C%20a%20healthy%20skepticism%20is%20a%20professional%20necessity%2C%20whereas%20in%20religion%2C%20having%20belief%20without%20evidence%20is%20regarded%20as%20a%20virtue.&author=Paul%20Davies&v=1772343810" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Odd%20how%20the%20creative%20power%20at%20once%20brings%20the%20whole%20universe%20to%20order.&author=Virginia%20Woolf&v=1772346781" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
