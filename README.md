@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20whole%20history%20of%20science%20has%20been%20the%20gradual%20realization%20that%20events%20do%20not%20happen%20in%20an%20arbitrary%20manner%2C%20but%20that%20they%20reflect%20a%20certain%20underlying%20order%2C%20which%20may%20or%20may%20not%20be%20divinely%20inspired.&author=Stephen%20Hawking&v=1772377965" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Rocket%20science%20is%20tough%2C%20and%20rockets%20have%20a%20way%20of%20failing.&author=Sally%20Ride&v=1772381692" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
