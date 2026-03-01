@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Natural%20science%2C%20does%20not%20simply%20describe%20and%20explain%20nature%20it%20is%20part%20of%20the%20interplay%20between%20nature%20and%20ourselves.&author=Werner%20Heisenberg&v=1772403156" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20a%20strange%20mixture%20of%20my%20mother%27s%20curiosity%20my%20father%2C%20who%20grew%20up%20the%20son%20of%20the%20manse%20in%20a%20Presbyterian%20family%2C%20who%20had%20a%20tremendous%20sense%20of%20duty%20and%20responsibility%20and%20my%20mother%27s%20father%2C%20who%20was%20always%20in%20trouble%20with%20gambling%20debts.&author=Rupert%20Murdoch&v=1772406841" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
