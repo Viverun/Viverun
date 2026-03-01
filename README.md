@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20coverage%20could%20be%20improved%20by%20the%20recognition%20that%20science%20is%20timeless%2C%20and%20therefore%20science%20stories%20should%20not%20need%20to%20be%20pegged%20to%20an%20item%20in%20the%20news.&author=Richard%20Dawkins&v=1772327649" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Definition%20of%20Statistics%3A%20The%20science%20of%20producing%20unreliable%20facts%20from%20reliable%20figures.&author=Evan%20Esar&v=1772338317" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
