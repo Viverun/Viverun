@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=This%20world%2C%20after%20all%20our%20science%20and%20sciences%2C%20is%20still%20a%20miracle%3B%20wonderful%2C%20inscrutable%2C%20magical%20and%20more%2C%20to%20whosoever%20will%20think%20of%20it.&author=Thomas%20Carlyle&v=1772389099" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Unlike%20scientism%2C%20science%20in%20the%20true%20sense%20of%20the%20word%20is%20open%20to%20unbiased%20investigation%20of%20any%20existing%20phenomena.&author=Stanislav%20Grof&v=1772392502" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
