@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Traditional%20academic%20science%20describes%20human%20beings%20as%20highly%20developed%20animals%20and%20biological%20thinking%20machines.%20We%20appear%20to%20be%20Newtonian%20objects%20made%20of%20atoms%2C%20molecules%2C%20cells%2C%20tissues%2C%20and%20organs.&author=Stanislav%20Grof&v=1772444199" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=According%20to%20materialistic%20science%2C%20any%20memory%20requires%20a%20material%20substrate%2C%20such%20as%20the%20neuronal%20network%20in%20the%20brain%20or%20the%20DNA%20molecules%20of%20the%20genes.&author=Stanislav%20Grof&v=1772447660" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
