@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Drill%20everything%2C%20mine%20everything%2C%20roll%20back%20regulations%2C%20tweak%20the%20science%2C%20expedite%20permits.%20Sound%20familiar%3F%20The%20Republicans%20offer%20up%20more%2019th-Century%20solutions%20to%20our%2021st-Century%20energy%20problems.&author=Jeff%20Goodell&v=1772465486" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20seen%20the%20science%20I%20worshiped%2C%20and%20the%20aircraft%20I%20loved%2C%20destroying%20the%20civilization%20I%20expected%20them%20to%20serve.&author=Charles%20Lindbergh&v=1772469062" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
