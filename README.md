@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20beautiful%20thing%20we%20can%20experience%20is%20the%20mysterious.%20It%20is%20the%20source%20of%20all%20true%20art%20and%20science.&author=Albert%20Einstein&v=1772476286" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Honest%20pioneer%20work%20in%20the%20field%20of%20science%20has%20always%20been%2C%20and%20will%20continue%20to%20be%2C%20life%27s%20pilot.%20On%20all%20sides%2C%20life%20is%20surrounded%20by%20hostility.%20This%20puts%20us%20under%20an%20obligation.&author=Wilhelm%20Reich&v=1772479791" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
