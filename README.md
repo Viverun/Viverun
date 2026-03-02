@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20a%20strange%20mixture%20of%20my%20mother%27s%20curiosity%20my%20father%2C%20who%20grew%20up%20the%20son%20of%20the%20manse%20in%20a%20Presbyterian%20family%2C%20who%20had%20a%20tremendous%20sense%20of%20duty%20and%20responsibility%20and%20my%20mother%27s%20father%2C%20who%20was%20always%20in%20trouble%20with%20gambling%20debts.&author=Rupert%20Murdoch&v=1772406841" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=No%20delusion%20is%20greater%20than%20the%20notion%20that%20method%20and%20industry%20can%20make%20up%20for%20lack%20of%20mother-wit%2C%20either%20in%20science%20or%20in%20practical%20life.&author=Thomas%20Huxley&v=1772413599" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
