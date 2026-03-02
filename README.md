@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20didn%27t%20mind%20studying.%20Obviously%20math%20and%20the%20physical%20science%20subjects%20interested%20me%20more%20than%20some%20of%20the%20more%20artistic%20subjects%2C%20but%20I%20think%20I%20was%20a%20pretty%20good%20student.&author=Alan%20Shepard&v=1772454731" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Mythology%20and%20science%20both%20extend%20the%20scope%20of%20human%20beings.%20Like%20science%20and%20technology%2C%20mythology%2C%20as%20we%20shall%20see%2C%20is%20not%20about%20opting%20out%20of%20this%20world%2C%20but%20about%20enabling%20us%20to%20live%20more%20intensely%20within%20it.&author=Karen%20Armstrong&v=1772459531" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
