@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=According%20to%20materialistic%20science%2C%20any%20memory%20requires%20a%20material%20substrate%2C%20such%20as%20the%20neuronal%20network%20in%20the%20brain%20or%20the%20DNA%20molecules%20of%20the%20genes.&author=Stanislav%20Grof&v=1772447660" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20wrong%20to%20think%20that%20the%20task%20of%20physics%20is%20to%20find%20out%20how%20Nature%20is.%20Physics%20concerns%20what%20we%20say%20about%20Nature.&author=Niels%20Bohr&v=1772450726" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
