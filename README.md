@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20consists%20exactly%20of%20those%20forms%20of%20knowledge%20that%20can%20be%20verified%20and%20duplicated%20by%20anybody.&author=Seth%20Lloyd&v=1772489869" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20method%20of%20political%20science%20is%20the%20interpretation%20of%20life%20its%20instrument%20is%20insight%2C%20a%20nice%20understanding%20of%20subtle%2C%20unformulated%20conditions.&author=Woodrow%20Wilson&v=1772493318" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
