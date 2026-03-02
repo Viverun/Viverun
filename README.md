@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20media%20need%20superheroes%20in%20science%20just%20as%20in%20every%20sphere%20of%20life%2C%20but%20there%20is%20really%20a%20continuous%20range%20of%20abilities%20with%20no%20clear%20dividing%20line.&author=Stephen%20Hawking&v=1772462142" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Drill%20everything%2C%20mine%20everything%2C%20roll%20back%20regulations%2C%20tweak%20the%20science%2C%20expedite%20permits.%20Sound%20familiar%3F%20The%20Republicans%20offer%20up%20more%2019th-Century%20solutions%20to%20our%2021st-Century%20energy%20problems.&author=Jeff%20Goodell&v=1772465486" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
