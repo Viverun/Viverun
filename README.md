@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20is%20no%20gilding%20of%20setting%20sun%20or%20glamor%20of%20poetry%20to%20light%20up%20the%20ferocious%20and%20endless%20toil%20of%20the%20farmers%27%20wives.&author=Hamlin%20Garland&v=1772430234" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=And%20time%20itself%3F%20Time%20was%20a%20never-ending%20medium%20that%20stretched%20into%20the%20future%20and%20the%20past%20-%20except%20there%20was%20no%20future%20and%20no%20past%2C%20but%20an%20infinite%20number%20of%20brackets%2C%20extending%20either%20way%2C%20each%20bracket%20enclosing%20its%20single%20phase%20of%20the%20Universe.&author=Clifford%20D.%20Simak&v=1772433740" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
