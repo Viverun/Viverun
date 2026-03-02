@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20wrong%20to%20think%20that%20the%20task%20of%20physics%20is%20to%20find%20out%20how%20Nature%20is.%20Physics%20concerns%20what%20we%20say%20about%20Nature.&author=Niels%20Bohr&v=1772450726" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20didn%27t%20mind%20studying.%20Obviously%20math%20and%20the%20physical%20science%20subjects%20interested%20me%20more%20than%20some%20of%20the%20more%20artistic%20subjects%2C%20but%20I%20think%20I%20was%20a%20pretty%20good%20student.&author=Alan%20Shepard&v=1772454731" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
