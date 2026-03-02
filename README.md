@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20science%2C%20read%2C%20by%20preference%2C%20the%20newest%20works%20in%20literature%2C%20the%20oldest.%20The%20classic%20literature%20is%20always%20modern.&author=Edward%20G.%20Bulwer-Lytton&v=1772440279" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Traditional%20academic%20science%20describes%20human%20beings%20as%20highly%20developed%20animals%20and%20biological%20thinking%20machines.%20We%20appear%20to%20be%20Newtonian%20objects%20made%20of%20atoms%2C%20molecules%2C%20cells%2C%20tissues%2C%20and%20organs.&author=Stanislav%20Grof&v=1772444199" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
