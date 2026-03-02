@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=New%20discoveries%20in%20science%20will%20continue%20to%20create%20a%20thousand%20new%20frontiers%20for%20those%20who%20still%20would%20adventure.&author=Herbert%20Hoover&v=1772437300" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20science%2C%20read%2C%20by%20preference%2C%20the%20newest%20works%20in%20literature%2C%20the%20oldest.%20The%20classic%20literature%20is%20always%20modern.&author=Edward%20G.%20Bulwer-Lytton&v=1772440279" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
