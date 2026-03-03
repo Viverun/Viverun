@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20known%20history%2C%20nobody%20has%20had%20such%20capacity%20for%20altering%20the%20universe%20than%20the%20people%20of%20the%20United%20States%20of%20America.%20And%20nobody%20has%20gone%20about%20it%20in%20such%20an%20aggressive%20way.&author=Alan%20Watts&v=1772559308" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20cosmos%20is%20neither%20moral%20or%20immoral%3B%20only%20people%20are.%20He%20who%20would%20move%20the%20world%20must%20first%20move%20himself.&author=Edward%20Ericson&v=1772562812" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
