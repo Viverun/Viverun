@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20we%20take%20science%20as%20our%20sole%20guide%2C%20if%20we%20accept%20and%20hold%20fast%20that%20alone%20which%20is%20verifiable%2C%20the%20old%20theology%20must%20go.&author=John%20Burroughs&v=1772510664" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Germany%20has%20reduced%20savagery%20to%20a%20science%2C%20and%20this%20great%20war%20for%20the%20victorious%20peace%20of%20justice%20must%20go%20on%20until%20the%20German%20cancer%20is%20cut%20clean%20out%20of%20the%20world%20body.&author=Theodore%20Roosevelt&v=1772516450" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
