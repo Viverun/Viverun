@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20I%20began%20in%201960%2C%20individuality%20wasn%27t%20an%20accepted%20thing%20to%20look%20for%20it%20was%20about%20species-specific%20behaviour.%20But%20animal%20behaviour%20is%20not%20hard%20science.%20There%27s%20room%20for%20intuition.&author=Jane%20Goodall&v=1772533707" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20sometimes%20been%20said%20to%20be%20opposed%20to%20faith%2C%20and%20inconsistent%20with%20it.%20But%20all%20science%2C%20in%20fact%2C%20rests%20on%20a%20basis%20of%20faith%2C%20for%20it%20assumes%20the%20permanence%20and%20uniformity%20of%20natural%20laws%20-%20a%20thing%20which%20can%20never%20be%20demonstrated.&author=Tryon%20Edwards&v=1772537017" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
