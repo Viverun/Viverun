@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20is%20no%20wider%20gulf%20in%20the%20universe%20than%20yawns%20between%20those%20on%20the%20hither%20and%20thither%20side%20of%20vital%20experience.&author=Rebecca%20West&v=1772552259" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20Europe%20art%20has%20to%20a%20large%20degree%20taken%20the%20place%20of%20religion.%20In%20America%20it%20seems%20rather%20to%20be%20science.&author=Johan%20Huizinga&v=1772555640" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
