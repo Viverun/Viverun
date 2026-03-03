@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20sometimes%20been%20said%20to%20be%20opposed%20to%20faith%2C%20and%20inconsistent%20with%20it.%20But%20all%20science%2C%20in%20fact%2C%20rests%20on%20a%20basis%20of%20faith%2C%20for%20it%20assumes%20the%20permanence%20and%20uniformity%20of%20natural%20laws%20-%20a%20thing%20which%20can%20never%20be%20demonstrated.&author=Tryon%20Edwards&v=1772537017" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Much%20of%20today%27s%20public%20anxiety%20about%20science%20is%20the%20apprehension%20that%20we%20may%20forever%20be%20overlooking%20the%20whole%20by%20an%20endless%2C%20obsessive%20preoccupation%20with%20the%20parts.&author=Lewis%20Thomas&v=1772541112" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
