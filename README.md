@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20long%20as%20men%20are%20free%20to%20ask%20what%20they%20must%2C%20free%20to%20say%20what%20they%20think%2C%20free%20to%20think%20what%20they%20will%2C%20freedom%20can%20never%20be%20lost%20and%20science%20can%20never%20regress.&author=Marcel%20Proust&v=1772500116" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20we%20take%20science%20as%20our%20sole%20guide%2C%20if%20we%20accept%20and%20hold%20fast%20that%20alone%20which%20is%20verifiable%2C%20the%20old%20theology%20must%20go.&author=John%20Burroughs&v=1772510664" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
