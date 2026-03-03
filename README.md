@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Let%20me%20tell%20you%2C%20never%20before%20in%20the%20history%20of%20this%20planet%20has%20anybody%20made%20the%20progress%20that%20African-Americans%20have%20made%20in%20a%2030-year%20period%2C%20in%20spite%20of%20many%20black%20folks%20and%20white%20folks%20lying%20to%20one%20another.&author=Dick%20Gregory&v=1772523302" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20proper%20study%20of%20mankind%20is%20the%20science%20of%20design.&author=Herbert%20Simon&v=1772526472" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
