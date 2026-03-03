@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20Europe%20art%20has%20to%20a%20large%20degree%20taken%20the%20place%20of%20religion.%20In%20America%20it%20seems%20rather%20to%20be%20science.&author=Johan%20Huizinga&v=1772555640" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20known%20history%2C%20nobody%20has%20had%20such%20capacity%20for%20altering%20the%20universe%20than%20the%20people%20of%20the%20United%20States%20of%20America.%20And%20nobody%20has%20gone%20about%20it%20in%20such%20an%20aggressive%20way.&author=Alan%20Watts&v=1772559308" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
