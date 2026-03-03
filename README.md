@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20sun%2C%20with%20all%20those%20planets%20revolving%20around%20it%20and%20dependent%20on%20it%2C%20can%20still%20ripen%20a%20bunch%20of%20grapes%20as%20if%20it%20had%20nothing%20else%20in%20the%20universe%20to%20do.&author=Galileo%20Galilei&v=1772576291" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Anthropology%20is%20the%20science%20which%20tells%20us%20that%20people%20are%20the%20same%20the%20whole%20world%20over%20-%20except%20when%20they%20are%20different.&author=Nancy%20Banks%20Smith&v=1772579763" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
