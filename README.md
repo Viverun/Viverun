@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Adversity%20isn%27t%20set%20against%20you%20to%20fail%3B%20adversity%20is%20a%20way%20to%20build%20your%20character%20so%20that%20you%20can%20succeed%20over%20and%20over%20again%20through%20perseverance.&author=Byron%20Pulsifer&v=1772569300" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20mother%20was%20the%20sweetest%20lady%20who%20ever%20lived%20on%20this%20planet%2C%20but%20if%20you%20tried%20to%20tell%20her%20that%20Jesus%20wasn%27t%20a%20Christian%2C%20she%20would%20stomp%20you%20to%20death.&author=Dick%20Gregory&v=1772573024" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
