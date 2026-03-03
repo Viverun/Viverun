@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20method%20of%20political%20science%20is%20the%20interpretation%20of%20life%20its%20instrument%20is%20insight%2C%20a%20nice%20understanding%20of%20subtle%2C%20unformulated%20conditions.&author=Woodrow%20Wilson&v=1772493318" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20long%20as%20men%20are%20free%20to%20ask%20what%20they%20must%2C%20free%20to%20say%20what%20they%20think%2C%20free%20to%20think%20what%20they%20will%2C%20freedom%20can%20never%20be%20lost%20and%20science%20can%20never%20regress.&author=Marcel%20Proust&v=1772500116" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
