@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=After%20all%2C%20science%20is%20essentially%20international%2C%20and%20it%20is%20only%20through%20lack%20of%20the%20historical%20sense%20that%20national%20qualities%20have%20been%20attributed%20to%20it.&author=Marie%20Curie&v=1772530248" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20I%20began%20in%201960%2C%20individuality%20wasn%27t%20an%20accepted%20thing%20to%20look%20for%20it%20was%20about%20species-specific%20behaviour.%20But%20animal%20behaviour%20is%20not%20hard%20science.%20There%27s%20room%20for%20intuition.&author=Jane%20Goodall&v=1772533707" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
