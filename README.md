@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20think%20the%20driving%20thing%20was%20curiosity%20about%20the%20universe.%20That%20fascinated%20me.%20I%20didn%27t%20think%20anything%20about%20being%20famous%20or%20anything%20like%20that%2C%20I%20was%20just%20interested%20in%20the%20concepts%20involved.&author=Clyde%20Tombaugh&v=1772659442" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Let%20freedom%20reign.%20The%20sun%20never%20set%20on%20so%20glorious%20a%20human%20achievement.&author=Nelson%20Mandela&v=1772662801" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
