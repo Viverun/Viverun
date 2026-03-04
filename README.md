@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Galileo%20was%20no%20idiot.%20Only%20an%20idiot%20could%20believe%20that%20science%20requires%20martyrdom%20-%20that%20may%20be%20necessary%20in%20religion%2C%20but%20in%20time%20a%20scientific%20result%20will%20establish%20itself.&author=David%20Hilbert&v=1772619902" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Following%20the%20light%20of%20the%20sun%2C%20we%20left%20the%20Old%20World.&author=Christopher%20Columbus&v=1772623305" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
