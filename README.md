@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Anthropology%20is%20the%20science%20which%20tells%20us%20that%20people%20are%20the%20same%20the%20whole%20world%20over%20-%20except%20when%20they%20are%20different.&author=Nancy%20Banks%20Smith&v=1772579763" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20saw%20Queen%20Elizabeth%20it%20would%20be%20amazing%2C%20she%20came%20from%20another%20planet.%20She%20was%20so%20attractive%20in%20what%20she%20was%20wearing.&author=Vivienne%20Westwood&v=1772586266" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
