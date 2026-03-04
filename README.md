@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%2C%20as%20we%20must%20often%20do%2C%20we%20fear%20science%2C%20we%20really%20fear%20ourselves.&author=John%20Charles%20Polanyi&v=1772632137" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20we%20have%20any%20hope%20of%20finding%20ways%20for%20seven%20billion%20people%20to%20live%20well%20on%20planet%20with%20finite%20resources%2C%20we%20have%20to%20learn%20to%20use%20our%20resources%20efficiently.%20Plastic%20bags%20are%20neither%20efficient%20nor%20environmentally%20friendly.&author=David%20Suzuki&v=1772634654" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
