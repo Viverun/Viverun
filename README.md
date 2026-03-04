@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%27s%20sort%20of%20a%20mental%20attitude%20about%20critical%20thinking%20and%20curiosity.%20It%27s%20about%20mindset%20of%20looking%20at%20the%20world%20in%20a%20playful%20and%20curious%20and%20creative%20way.&author=Adam%20Savage&v=1772596688" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20nineteenth%20century%20believed%20in%20science%20but%20the%20twentieth%20century%20does%20not.&author=Gertrude%20Stein&v=1772600827" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
