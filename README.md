@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%27s%20not%20going%20to%20do%20any%20good%20to%20land%20on%20Mars%20if%20we%27re%20stupid.&author=Ray%20Bradbury&v=1772652660" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Books%20are%20the%20carriers%20of%20civilization.%20Without%20books%2C%20history%20is%20silent%2C%20literature%20dumb%2C%20science%20crippled%2C%20thought%20and%20speculation%20at%20a%20standstill.&author=Barbara%20Tuchman&v=1772655706" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
