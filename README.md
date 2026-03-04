@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20natural%20state%20of%20motherhood%20is%20unselfishness.%20When%20you%20become%20a%20mother%2C%20you%20are%20no%20longer%20the%20center%20of%20your%20own%20universe.%20You%20relinquish%20that%20position%20to%20your%20children.&author=Jessica%20Lange&v=1772645437" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=He%20who%20possesses%20art%20and%20science%20has%20religion%20he%20who%20does%20not%20possess%20them%2C%20needs%20religion.&author=Johann%20Wolfgang%20von%20Goethe&v=1772649167" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
