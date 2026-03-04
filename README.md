@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Never%20respect%20men%20merely%20for%20their%20riches%2C%20but%20rather%20for%20their%20philanthropy%20we%20do%20not%20value%20the%20sun%20for%20its%20height%2C%20but%20for%20its%20use.&author=Gamaliel%20Bailey&v=1772641816" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20natural%20state%20of%20motherhood%20is%20unselfishness.%20When%20you%20become%20a%20mother%2C%20you%20are%20no%20longer%20the%20center%20of%20your%20own%20universe.%20You%20relinquish%20that%20position%20to%20your%20children.&author=Jessica%20Lange&v=1772645437" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
