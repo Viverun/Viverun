@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20saw%20Queen%20Elizabeth%20it%20would%20be%20amazing%2C%20she%20came%20from%20another%20planet.%20She%20was%20so%20attractive%20in%20what%20she%20was%20wearing.&author=Vivienne%20Westwood&v=1772586266" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%27s%20sort%20of%20a%20mental%20attitude%20about%20critical%20thinking%20and%20curiosity.%20It%27s%20about%20mindset%20of%20looking%20at%20the%20world%20in%20a%20playful%20and%20curious%20and%20creative%20way.&author=Adam%20Savage&v=1772596688" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
