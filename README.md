@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20was%20taught%20from%20a%20young%20age%20that%20I%20had%20to%20serve%2C%20so%20that%20turned%20into%20me%20thinking%20I%20had%20to%20save%20the%20planet.&author=Alanis%20Morissette&v=1772609462" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20was%20always%20attracted%20to%20science%20fiction%20movies.&author=Tina%20Turner&v=1772612785" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
