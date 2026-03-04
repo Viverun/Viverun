@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=He%20who%20possesses%20art%20and%20science%20has%20religion%20he%20who%20does%20not%20possess%20them%2C%20needs%20religion.&author=Johann%20Wolfgang%20von%20Goethe&v=1772649167" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%27s%20not%20going%20to%20do%20any%20good%20to%20land%20on%20Mars%20if%20we%27re%20stupid.&author=Ray%20Bradbury&v=1772652660" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
