@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20we%20have%20any%20hope%20of%20finding%20ways%20for%20seven%20billion%20people%20to%20live%20well%20on%20planet%20with%20finite%20resources%2C%20we%20have%20to%20learn%20to%20use%20our%20resources%20efficiently.%20Plastic%20bags%20are%20neither%20efficient%20nor%20environmentally%20friendly.&author=David%20Suzuki&v=1772634654" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Very%20few%20recognize%20science%20as%20the%20high%20adventure%20it%20really%20is%2C%20the%20wildest%20of%20all%20explorations%20ever%20taken%20by%20human%20beings%2C%20the%20chance%20to%20glimpse%20things%20never%20seen%20before%2C%20the%20shrewdest%20maneuver%20for%20discovering%20how%20the%20world%20works.&author=Lewis%20Thomas&v=1772638152" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
