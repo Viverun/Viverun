@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20man%20who%20leaves%20home%20to%20mend%20himself%20and%20others%20is%20a%20philosopher%20but%20he%20who%20goes%20from%20country%20to%20country%2C%20guided%20by%20the%20blind%20impulse%20of%20curiosity%2C%20is%20a%20vagabond.&author=Oliver%20Goldsmith&v=1772706511" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Freedom%20is%20absolutely%20necessary%20for%20the%20progress%20in%20science%20and%20the%20liberal%20arts.&author=Baruch%20Spinoza&v=1772709925" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
