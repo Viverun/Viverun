@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Plunderous%20is%20the%20palate%20I%20gift%20to%20you%2C%20openly%20I%20hug%20the%20universe%20of%20our%20friendship%20expanding%20its%20outer%20limit.&author=Bradley%20Chicho&v=1772721461" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=One%20could%20write%20a%20history%20of%20science%20in%20reverse%20by%20assembling%20the%20solemn%20pronouncements%20of%20highest%20authority%20about%20what%20could%20not%20be%20done%20and%20could%20never%20happen.&author=Robert%20A.%20Heinlein&v=1772725181" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
