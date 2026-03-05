@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20age%20in%20which%20we%20live%2C%20this%20non-stop%20distraction%2C%20is%20making%20it%20more%20impossible%20for%20the%20young%20generation%20to%20ever%20have%20the%20curiosity%20or%20discipline...%20because%20you%20need%20to%20be%20alone%20to%20find%20out%20anything.&author=Vivienne%20Westwood&v=1772703118" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20man%20who%20leaves%20home%20to%20mend%20himself%20and%20others%20is%20a%20philosopher%20but%20he%20who%20goes%20from%20country%20to%20country%2C%20guided%20by%20the%20blind%20impulse%20of%20curiosity%2C%20is%20a%20vagabond.&author=Oliver%20Goldsmith&v=1772706511" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
