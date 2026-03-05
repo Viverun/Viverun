@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20the%20father%20of%20knowledge%2C%20but%20opinion%20breeds%20ignorance.&author=Hippocrates&v=1772672831" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Somewhere%2C%20something%20incredible%20is%20waiting%20to%20be%20known.&author=Carl%20Sagan&v=1772683326" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
