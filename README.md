@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=One%20could%20write%20a%20history%20of%20science%20in%20reverse%20by%20assembling%20the%20solemn%20pronouncements%20of%20highest%20authority%20about%20what%20could%20not%20be%20done%20and%20could%20never%20happen.&author=Robert%20A.%20Heinlein&v=1772725181" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Traditional%20science%20assumes%2C%20for%20the%20most%20part%2C%20that%20an%20objective%20observer%20independent%20reality%20exists%20the%20universe%2C%20stars%2C%20galaxies%2C%20sun%2C%20moon%20and%20earth%20would%20still%20be%20there%20if%20no%20one%20was%20looking.&author=Deepak%20Chopra&v=1772733406" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
