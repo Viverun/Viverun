@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Look%20up%20at%20the%20stars%20and%20not%20down%20at%20your%20feet.&author=Stephen%20Hawking&v=1772696098" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20not%20yet%20taught%20us%20if%20madness%20is%20or%20is%20not%20the%20sublimity%20of%20the%20intelligence.&author=Edgar%20Allan%20Poe&v=1772699282" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
