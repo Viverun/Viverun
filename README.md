@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Freedom%20is%20absolutely%20necessary%20for%20the%20progress%20in%20science%20and%20the%20liberal%20arts.&author=Baruch%20Spinoza&v=1772709925" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Moral%20science%20is%20better%20occupied%20when%20treating%20of%20friendship%20than%20of%20justice.&author=Thomas%20Aquinas&v=1772714083" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
