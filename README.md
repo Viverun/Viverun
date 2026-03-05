@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%27s%20the%20opinion%20of%20some%20that%20crops%20could%20be%20grown%20on%20the%20moon%20which%20raises%20the%20fear%20that%20it%20may%20not%20be%20long%20before%20we%27re%20paying%20somebody%20not%20to.&author=Franklin%20P.%20Jones&v=1772666401" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20the%20father%20of%20knowledge%2C%20but%20opinion%20breeds%20ignorance.&author=Hippocrates&v=1772672831" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
