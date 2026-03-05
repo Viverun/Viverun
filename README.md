@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Superstition%20is%20to%20religion%20what%20astrology%20is%20to%20astronomy%20the%20mad%20daughter%20of%20a%20wise%20mother.%20These%20daughters%20have%20too%20long%20dominated%20the%20earth.&author=Voltaire&v=1772749207" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20was%20always%20attracted%20to%20science%20fiction%20movies.&author=Tina%20Turner&v=1772754220" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
