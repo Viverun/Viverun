@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%2C%20my%20lad%2C%20is%20made%20up%20of%20mistakes%2C%20but%20they%20are%20mistakes%20which%20it%20is%20useful%20to%20make%2C%20because%20they%20lead%20little%20by%20little%20to%20the%20truth.&author=Jules%20Verne&v=1772745828" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Superstition%20is%20to%20religion%20what%20astrology%20is%20to%20astronomy%20the%20mad%20daughter%20of%20a%20wise%20mother.%20These%20daughters%20have%20too%20long%20dominated%20the%20earth.&author=Voltaire&v=1772749207" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
