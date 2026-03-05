@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20not%20yet%20taught%20us%20if%20madness%20is%20or%20is%20not%20the%20sublimity%20of%20the%20intelligence.&author=Edgar%20Allan%20Poe&v=1772699282" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20age%20in%20which%20we%20live%2C%20this%20non-stop%20distraction%2C%20is%20making%20it%20more%20impossible%20for%20the%20young%20generation%20to%20ever%20have%20the%20curiosity%20or%20discipline...%20because%20you%20need%20to%20be%20alone%20to%20find%20out%20anything.&author=Vivienne%20Westwood&v=1772703118" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
