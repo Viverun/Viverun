@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20multitude%20of%20bees%20can%20tell%20the%20time%20of%20day%2C%20calculate%20the%20geometry%20of%20the%20sun%27s%20position%2C%20argue%20about%20the%20best%20location%20for%20the%20next%20swarm.%20Bees%20do%20a%20lot%20of%20close%20observing%20of%20other%20bees%20maybe%20they%20know%20what%20follows%20stinging%20and%20do%20it%20anyway.&author=Lewis%20Thomas&v=1772742442" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%2C%20my%20lad%2C%20is%20made%20up%20of%20mistakes%2C%20but%20they%20are%20mistakes%20which%20it%20is%20useful%20to%20make%2C%20because%20they%20lead%20little%20by%20little%20to%20the%20truth.&author=Jules%20Verne&v=1772745828" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
