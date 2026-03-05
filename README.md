@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Moral%20science%20is%20better%20occupied%20when%20treating%20of%20friendship%20than%20of%20justice.&author=Thomas%20Aquinas&v=1772692600" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Look%20up%20at%20the%20stars%20and%20not%20down%20at%20your%20feet.&author=Stephen%20Hawking&v=1772696098" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
