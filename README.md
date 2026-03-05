@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Moral%20science%20is%20better%20occupied%20when%20treating%20of%20friendship%20than%20of%20justice.&author=Thomas%20Aquinas&v=1772714083" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=This%20world%2C%20after%20all%20our%20science%20and%20sciences%2C%20is%20still%20a%20miracle%3B%20wonderful%2C%20inscrutable%2C%20magical%20and%20more%2C%20to%20whosoever%20will%20think%20of%20it.&author=Thomas%20Carlyle&v=1772718856" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
