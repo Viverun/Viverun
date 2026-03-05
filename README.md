@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Traditional%20science%20assumes%2C%20for%20the%20most%20part%2C%20that%20an%20objective%20observer%20independent%20reality%20exists%20the%20universe%2C%20stars%2C%20galaxies%2C%20sun%2C%20moon%20and%20earth%20would%20still%20be%20there%20if%20no%20one%20was%20looking.&author=Deepak%20Chopra&v=1772733406" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27ve%20always%20been%20inspired%20by%20artists%20who%20have%20shown%20musical%20and%20intellectual%20curiosity%20and%20the%20courage%20to%20take%20risks.&author=Renee%20Fleming&v=1772737587" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
