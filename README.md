@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Architecture%20is%20a%20science%20arising%20out%20of%20many%20other%20sciences%2C%20and%20adorned%20with%20much%20and%20varied%20learning%20by%20the%20help%20of%20which%20a%20judgment%20is%20formed%20of%20those%20works%20which%20are%20the%20result%20of%20other%20arts.&author=Marcus%20V.%20Pollio&v=1772792614" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20beautiful%20thing%20we%20can%20experience%20is%20the%20mysterious.%20It%20is%20the%20source%20of%20all%20true%20art%20and%20science.&author=Albert%20Einstein&v=1772795992" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
