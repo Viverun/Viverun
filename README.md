@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Advances%20in%20science%20and%20medical%20research%20and%20public%20health%20policies%20have%20meant%20that%20life%20expectancy%20for%20Australians%20is%20one%20of%20the%20highest%20in%20the%20world.&author=Julie%20Bishop&v=1772785497" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20properly%20more%20scrupulous%20than%20dogma.%20Dogma%20gives%20a%20charter%20to%20mistake%2C%20but%20the%20very%20breath%20of%20science%20is%20a%20contest%20with%20mistake%2C%20and%20must%20keep%20the%20conscience%20alive.&author=George%20Eliot&v=1772789251" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
