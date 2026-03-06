@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That%20is%20the%20essence%20of%20science%3A%20ask%20an%20impertinent%20question%2C%20and%20you%20are%20on%20the%20way%20to%20a%20pertinent%20answer.&author=Jacob%20Bronowski&v=1772835385" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Some%20theists%20in%20evolutionary%20science%20acquiesce%20to%20these%20tacit%20rules%20and%20retain%20a%20personal%20faith%20while%20accepting%20a%20thoroughly%20naturalistic%20picture%20of%20physical%20reality.&author=Phillip%20E.%20Johnson&v=1772839073" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
