@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20therefore%20not%20unreasonable%20to%20suppose%20that%20some%20portion%20of%20the%20neglect%20of%20science%20in%20England%2C%20may%20be%20attributed%20to%20the%20system%20of%20education%20we%20pursue.&author=Charles%20Babbage&v=1772804721" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20done%20more%20for%20the%20development%20of%20western%20civilization%20in%20one%20hundred%20years%20than%20Christianity%20did%20in%20eighteen%20hundred%20years.&author=John%20Burroughs&v=1772807328" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
