@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20man%20who%20leaves%20home%20to%20mend%20himself%20and%20others%20is%20a%20philosopher%20but%20he%20who%20goes%20from%20country%20to%20country%2C%20guided%20by%20the%20blind%20impulse%20of%20curiosity%2C%20is%20a%20vagabond.&author=Oliver%20Goldsmith&v=1772769569" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=From%20all%20this%20it%20follows%20what%20the%20general%20character%20of%20the%20problem%20of%20the%20development%20of%20a%20body%20of%20scientific%20knowledge%20is%2C%20in%20so%20far%20as%20it%20depends%20on%20elements%20internal%20to%20science%20itself.&author=Talcott%20Parsons&v=1772773789" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
