@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Our%20science%20has%20become%20terrible%2C%20our%20research%20dangerous%2C%20our%20findings%20deadly.%20We%20physicists%20have%20to%20make%20peace%20with%20reality.%20Reality%20is%20not%20as%20strong%20as%20we%20are.%20We%20will%20ruin%20reality.&author=Friedrich%20Durrenmatt&v=1772817979" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Fifty%20percent%20of%20our%20country%20that%20we%20own%2C%20have%20all%20legal%20jurisdiction%2C%20have%20all%20rights%20to%20do%20whatever%20we%20want%2C%20lies%20beneath%20the%20sea%20and%20we%20have%20better%20maps%20of%20Mars%20than%20that%2050%20percent.&author=Robert%20Ballard&v=1772821784" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
