@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Moral%20science%20is%20better%20occupied%20when%20treating%20of%20friendship%20than%20of%20justice.&author=Thomas%20Aquinas&v=1772825211" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20Athanasian%20Creed%20is%20to%20me%20light%20and%20intelligible%20reading%20in%20comparison%20with%20much%20that%20now%20passes%20for%20science.&author=Samuel%20Butler&v=1772828376" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
