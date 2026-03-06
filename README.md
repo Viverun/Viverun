@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20was%20always%20attracted%20to%20science%20fiction%20movies.&author=Tina%20Turner&v=1772754220" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20reckons%20many%20prophets%2C%20but%20there%20is%20not%20even%20a%20promise%20of%20a%20Messiah.&author=Thomas%20Huxley&v=1772759449" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
