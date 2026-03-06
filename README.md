@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Inspiration%20in%20Science%20may%20have%20to%20do%20with%20ideas%2C%20but%20not%20in%20Art.%20In%20art%20it%20is%20in%20the%20senses%20that%20are%20instinctively%20responsive%20to%20the%20medium%20of%20expression.&author=Arthur%20Erickson&v=1772810792" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20wise%20man%20regulates%20his%20conduct%20by%20the%20theories%20both%20of%20religion%20and%20science.%20But%20he%20regards%20these%20theories%20not%20as%20statements%20of%20ultimate%20fact%20but%20as%20art-forms.&author=John%20B.%20S.%20Haldane&v=1772814403" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
