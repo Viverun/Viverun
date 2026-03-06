@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20we%27re%20on%20set%2C%20we%20kind%20of%20joke%20around%2C%20and%20when%20we%27re%20rehearsing%2C%20we%20change%20up%20the%20scenes%20and%20make%20each%20other%20laugh.%20We%20lighten%20up%20the%20mood.%20The%20blooper%20reel%20is%20going%20to%20be%20amazing%20on%20%27New%20Moon.%27&author=Kellan%20Lutz&v=1772831949" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That%20is%20the%20essence%20of%20science%3A%20ask%20an%20impertinent%20question%2C%20and%20you%20are%20on%20the%20way%20to%20a%20pertinent%20answer.&author=Jacob%20Bronowski&v=1772835385" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
