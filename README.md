@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=From%20all%20this%20it%20follows%20what%20the%20general%20character%20of%20the%20problem%20of%20the%20development%20of%20a%20body%20of%20scientific%20knowledge%20is%2C%20in%20so%20far%20as%20it%20depends%20on%20elements%20internal%20to%20science%20itself.&author=Talcott%20Parsons&v=1772773789" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20believe%20that%20the%20quantum%20of%20our%20knowledge%20will%20increase%20considerably%20in%20the%20coming%20years%20and%20that%20scientists%20will%20continue%20to%20be%20amongst%20the%20brave%20voices%20speaking%20out.&author=Peter%20Garrett&v=1772778858" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
