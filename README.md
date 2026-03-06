@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20done%20more%20for%20the%20development%20of%20western%20civilization%20in%20one%20hundred%20years%20than%20Christianity%20did%20in%20eighteen%20hundred%20years.&author=John%20Burroughs&v=1772807328" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Inspiration%20in%20Science%20may%20have%20to%20do%20with%20ideas%2C%20but%20not%20in%20Art.%20In%20art%20it%20is%20in%20the%20senses%20that%20are%20instinctively%20responsive%20to%20the%20medium%20of%20expression.&author=Arthur%20Erickson&v=1772810792" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
