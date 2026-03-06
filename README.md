@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20believe%20that%20the%20quantum%20of%20our%20knowledge%20will%20increase%20considerably%20in%20the%20coming%20years%20and%20that%20scientists%20will%20continue%20to%20be%20amongst%20the%20brave%20voices%20speaking%20out.&author=Peter%20Garrett&v=1772782315" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Advances%20in%20science%20and%20medical%20research%20and%20public%20health%20policies%20have%20meant%20that%20life%20expectancy%20for%20Australians%20is%20one%20of%20the%20highest%20in%20the%20world.&author=Julie%20Bishop&v=1772785497" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
