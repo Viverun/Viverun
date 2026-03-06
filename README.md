@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20wise%20man%20regulates%20his%20conduct%20by%20the%20theories%20both%20of%20religion%20and%20science.%20But%20he%20regards%20these%20theories%20not%20as%20statements%20of%20ultimate%20fact%20but%20as%20art-forms.&author=John%20B.%20S.%20Haldane&v=1772814403" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Our%20science%20has%20become%20terrible%2C%20our%20research%20dangerous%2C%20our%20findings%20deadly.%20We%20physicists%20have%20to%20make%20peace%20with%20reality.%20Reality%20is%20not%20as%20strong%20as%20we%20are.%20We%20will%20ruin%20reality.&author=Friedrich%20Durrenmatt&v=1772817979" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
