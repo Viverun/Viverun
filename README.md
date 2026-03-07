@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Most%20of%20us%20can%20remember%20a%20time%20when%20a%20birthday%20-%20especially%20if%20it%20was%20one%27s%20own%20-%20brightened%20the%20world%20as%20if%20a%20second%20sun%20has%20risen.&author=Robert%20Staughton%20Lynd&v=1772917895" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20learned%20patience%2C%20perseverance%2C%20and%20dedication.%20Now%20I%20really%20know%20myself%2C%20and%20I%20know%20my%20voice.%20It%27s%20a%20voice%20of%20pain%20and%20victory.&author=Anthony%20Hamilton&v=1772921523" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
