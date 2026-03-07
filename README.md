@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20and%20art%2C%20or%20by%20the%20same%20token%2C%20poetry%20and%20prose%20differ%20from%20one%20another%20like%20a%20journey%20and%20an%20excursion.%20The%20purpose%20of%20the%20journey%20is%20its%20goal%2C%20the%20purpose%20of%20an%20excursion%20is%20the%20process.&author=Franz%20Grillparzer&v=1772845357" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nobody%20under%20the%20sun%20was%20like%20Madonna.%20She%20was%20positive%20and%20clear%20and%20wholly%20dedicated%20to%20achieving%20everything%20that%20she%27s%20achieved.&author=Nile%20Rodgers&v=1772855435" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
