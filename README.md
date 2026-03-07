@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20history%20of%20astronomy%20is%20a%20history%20of%20receding%20horizons.&author=Edwin%20Hubble&v=1772861465" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Medicine%20is%20not%20only%20a%20science%20it%20is%20also%20an%20art.%20It%20does%20not%20consist%20of%20compounding%20pills%20and%20plasters%20it%20deals%20with%20the%20very%20processes%20of%20life%2C%20which%20must%20be%20understood%20before%20they%20may%20be%20guided.&author=Paracelsus&v=1772864723" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
