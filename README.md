@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Before%20a%20war%20military%20science%20seems%20a%20real%20science%2C%20like%20astronomy%20but%20after%20a%20war%20it%20seems%20more%20like%20astrology.&author=Rebecca%20West&v=1772875115" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20did%20not%20come%20to%20NASA%20to%20make%20history.&author=Sally%20Ride&v=1772878400" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
