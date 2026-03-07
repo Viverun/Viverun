@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20fundamental%20concept%20in%20social%20science%20is%20Power%2C%20in%20the%20same%20sense%20in%20which%20Energy%20is%20the%20fundamental%20concept%20in%20physics.&author=Bertrand%20Russell&v=1772907504" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20an%20elder%20of%20the%20Americas%20and%20of%20the%20rest%20of%20the%20planet%2C%20it%20is%20my%20responsibility%20to%20care%20for%20and%20protect%2C%20to%20the%20best%20of%20my%20ability%2C%20the%20young.&author=Alice%20Walker&v=1772910818" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
