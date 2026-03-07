@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20nineteenth%20century%20believed%20in%20science%20but%20the%20twentieth%20century%20does%20not.&author=Gertrude%20Stein&v=1772914384" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Most%20of%20us%20can%20remember%20a%20time%20when%20a%20birthday%20-%20especially%20if%20it%20was%20one%27s%20own%20-%20brightened%20the%20world%20as%20if%20a%20second%20sun%20has%20risen.&author=Robert%20Staughton%20Lynd&v=1772917895" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
