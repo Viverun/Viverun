@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20man%20who%20leaves%20home%20to%20mend%20himself%20and%20others%20is%20a%20philosopher%20but%20he%20who%20goes%20from%20country%20to%20country%2C%20guided%20by%20the%20blind%20impulse%20of%20curiosity%2C%20is%20a%20vagabond.&author=Oliver%20Goldsmith&v=1772903541" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20fundamental%20concept%20in%20social%20science%20is%20Power%2C%20in%20the%20same%20sense%20in%20which%20Energy%20is%20the%20fundamental%20concept%20in%20physics.&author=Bertrand%20Russell&v=1772907504" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
