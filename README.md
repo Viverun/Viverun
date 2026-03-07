@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Medicine%20is%20not%20only%20a%20science%20it%20is%20also%20an%20art.%20It%20does%20not%20consist%20of%20compounding%20pills%20and%20plasters%20it%20deals%20with%20the%20very%20processes%20of%20life%2C%20which%20must%20be%20understood%20before%20they%20may%20be%20guided.&author=Paracelsus&v=1772864723" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20wish%20to%20succeed%20in%20life%2C%20make%20perseverance%20your%20bosom%20friend%2C%20experience%20your%20wise%20counselor%2C%20caution%20your%20elder%20brother%2C%20and%20hope%20your%20guardian%20genius.&author=Joseph%20Addison&v=1772868044" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
