@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20an%20elder%20of%20the%20Americas%20and%20of%20the%20rest%20of%20the%20planet%2C%20it%20is%20my%20responsibility%20to%20care%20for%20and%20protect%2C%20to%20the%20best%20of%20my%20ability%2C%20the%20young.&author=Alice%20Walker&v=1772910818" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20nineteenth%20century%20believed%20in%20science%20but%20the%20twentieth%20century%20does%20not.&author=Gertrude%20Stein&v=1772914384" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
