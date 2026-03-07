@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Growing%20hemp%20as%20nature%20designed%20it%20is%20vital%20to%20our%20urgent%20need%20to%20reduce%20greenhouse%20gases%20and%20ensure%20the%20survival%20of%20our%20planet.&author=Jack%20Herer&v=1772900096" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20man%20who%20leaves%20home%20to%20mend%20himself%20and%20others%20is%20a%20philosopher%20but%20he%20who%20goes%20from%20country%20to%20country%2C%20guided%20by%20the%20blind%20impulse%20of%20curiosity%2C%20is%20a%20vagabond.&author=Oliver%20Goldsmith&v=1772903541" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
