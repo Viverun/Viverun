@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20learned%20patience%2C%20perseverance%2C%20and%20dedication.%20Now%20I%20really%20know%20myself%2C%20and%20I%20know%20my%20voice.%20It%27s%20a%20voice%20of%20pain%20and%20victory.&author=Anthony%20Hamilton&v=1772921523" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Religion%20is%20to%20mysticism%20what%20popularization%20is%20to%20science.&author=Henri%20Bergson&v=1772925151" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
