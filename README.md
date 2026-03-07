@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20did%20not%20come%20to%20NASA%20to%20make%20history.&author=Sally%20Ride&v=1772878400" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20is%20transformation%3B%20our%20life%20is%20what%20our%20thoughts%20make%20it.&author=Marcus%20Aurelius&v=1772881872" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
