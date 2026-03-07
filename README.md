@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life%20is%20not%20an%20exact%20science%2C%20it%20is%20an%20art.&author=Samuel%20Butler&v=1772859235" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20history%20of%20astronomy%20is%20a%20history%20of%20receding%20horizons.&author=Edwin%20Hubble&v=1772861465" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
