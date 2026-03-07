@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Some%20theists%20in%20evolutionary%20science%20acquiesce%20to%20these%20tacit%20rules%20and%20retain%20a%20personal%20faith%20while%20accepting%20a%20thoroughly%20naturalistic%20picture%20of%20physical%20reality.&author=Phillip%20E.%20Johnson&v=1772839073" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20and%20art%2C%20or%20by%20the%20same%20token%2C%20poetry%20and%20prose%20differ%20from%20one%20another%20like%20a%20journey%20and%20an%20excursion.%20The%20purpose%20of%20the%20journey%20is%20its%20goal%2C%20the%20purpose%20of%20an%20excursion%20is%20the%20process.&author=Franz%20Grillparzer&v=1772845357" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
