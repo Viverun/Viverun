@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20you%20wish%20to%20succeed%20in%20life%2C%20make%20perseverance%20your%20bosom%20friend%2C%20experience%20your%20wise%20counselor%2C%20caution%20your%20elder%20brother%2C%20and%20hope%20your%20guardian%20genius.&author=Joseph%20Addison&v=1772868044" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20an%20amateur%20science%20enthusiast.%20I%27m%20not%20even%20a%20professional%20enthusiast.%20I%20don%27t%20know%20anything%20I%20never%20even%20passed%20biology%20in%20high%20school.%20But%20I%20read%20the%20science%20section%20of%20the%20newspaper.&author=Dave%20Eggers&v=1772871443" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
