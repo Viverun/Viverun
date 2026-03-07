@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20is%20transformation%3B%20our%20life%20is%20what%20our%20thoughts%20make%20it.&author=Marcus%20Aurelius&v=1772881872" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20is%20change%20our%20life%20is%20what%20our%20thoughts%20make%20it.&author=Marcus%20Aurelius&v=1772886197" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
