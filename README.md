@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20an%20amateur%20science%20enthusiast.%20I%27m%20not%20even%20a%20professional%20enthusiast.%20I%20don%27t%20know%20anything%20I%20never%20even%20passed%20biology%20in%20high%20school.%20But%20I%20read%20the%20science%20section%20of%20the%20newspaper.&author=Dave%20Eggers&v=1772871443" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Before%20a%20war%20military%20science%20seems%20a%20real%20science%2C%20like%20astronomy%20but%20after%20a%20war%20it%20seems%20more%20like%20astrology.&author=Rebecca%20West&v=1772875115" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
