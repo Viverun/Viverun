@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Great%20works%20are%20performed%20not%20by%20strength%20but%20by%20perseverance.&author=Samuel%20Johnson&v=1772896353" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Growing%20hemp%20as%20nature%20designed%20it%20is%20vital%20to%20our%20urgent%20need%20to%20reduce%20greenhouse%20gases%20and%20ensure%20the%20survival%20of%20our%20planet.&author=Jack%20Herer&v=1772900096" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
