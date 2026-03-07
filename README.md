@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Curiosity%20will%20conquer%20fear%20even%20more%20than%20bravery%20will.&author=James%20Stephens&v=1772892874" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Great%20works%20are%20performed%20not%20by%20strength%20but%20by%20perseverance.&author=Samuel%20Johnson&v=1772896353" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
