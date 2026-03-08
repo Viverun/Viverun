@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Religion%20is%20to%20mysticism%20what%20popularization%20is%20to%20science.&author=Henri%20Bergson&v=1772925151" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life%20is%20a%20process.%20We%20are%20a%20process.%20The%20universe%20is%20a%20process.&author=Anne%20Schaef&v=1772932042" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
