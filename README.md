@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20visitor%20from%20Mars%20could%20easily%20pick%20out%20the%20civilized%20nations.%20They%20have%20the%20best%20implements%20of%20war.&author=Herbert%20V.%20Prochnow&v=1772990058" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Early-twentieth-century%20abstraction%20is%20art%27s%20version%20of%20Einstein%27s%20Theory%20of%20Relativity.%20It%27s%20the%20idea%20that%20changed%20everything%20everywhere%3A%20quickly%2C%20decisively%2C%20for%20good.&author=Jerry%20Saltz&v=1772993916" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
