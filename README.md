@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nothing%20in%20the%20universe%20is%20contingent%2C%20but%20all%20things%20are%20conditioned%20to%20exist%20and%20operate%20in%20a%20particular%20manner%20by%20the%20necessity%20of%20the%20divine%20nature.&author=Baruch%20Spinoza&v=1772976791" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20believe%20very%20strongly%2C%20and%20have%20fought%20since%20many%20years%20ago%20-%20at%20least%20over%2030%20years%20ago%20-%20to%20get%20architecture%20not%20just%20within%20schools%2C%20but%20architecture%20talked%20about%20under%20history%2C%20geography%2C%20science%2C%20technology%2C%20art.&author=Richard%20Rogers&v=1772979328" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
