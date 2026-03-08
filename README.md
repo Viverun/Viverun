@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life%20is%20a%20process.%20We%20are%20a%20process.%20The%20universe%20is%20a%20process.&author=Anne%20Schaef&v=1772932042" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Hydrogen%20holds%20great%20promise%20to%20meet%20many%20of%20our%20future%20energy%20needs%2C%20and%20it%20addresses%20national%20security%20and%20our%20environmental%20concerns.%20Hydrogen%20is%20the%20simplest%2C%20most%20abundant%20element%20in%20the%20universe.&author=Dan%20Lipinski&v=1772942448" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
