@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=No%20delusion%20is%20greater%20than%20the%20notion%20that%20method%20and%20industry%20can%20make%20up%20for%20lack%20of%20mother-wit%2C%20either%20in%20science%20or%20in%20practical%20life.&author=Thomas%20Huxley&v=1772957903" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20what%20you%20know%2C%20philosophy%20is%20what%20you%20don%27t%20know.&author=Bertrand%20Russell&v=1772961528" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
