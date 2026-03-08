@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everything%20that%20is%20necessary%20is%20also%20easy.%20You%20just%20have%20to%20accept%20it.%20And%20the%20most%20necessary%2C%20the%20most%20natural%20matter%20on%20this%20planet%20is%20death.&author=Friedrich%20Durrenmatt&v=1772972647" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nothing%20in%20the%20universe%20is%20contingent%2C%20but%20all%20things%20are%20conditioned%20to%20exist%20and%20operate%20in%20a%20particular%20manner%20by%20the%20necessity%20of%20the%20divine%20nature.&author=Baruch%20Spinoza&v=1772976791" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
