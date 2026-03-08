@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=From%20my%20dad%20I%20learned%20to%20be%20good%20to%20people%2C%20to%20always%20be%20honest%20and%20straightforward.%20I%20learned%20hard%20work%20and%20perseverance.&author=Luke%20Bryan&v=1773007970" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20you%20simplify%20your%20life%2C%20the%20laws%20of%20the%20universe%20will%20be%20simpler%20solitude%20will%20not%20be%20solitude%2C%20poverty%20will%20not%20be%20poverty%2C%20nor%20weakness%20weakness.&author=Henry%20David%20Thoreau&v=1773011605" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
