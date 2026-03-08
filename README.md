@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20is%20change%20our%20life%20is%20what%20our%20thoughts%20make%20it.&author=Marcus%20Aurelius&v=1772986541" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20visitor%20from%20Mars%20could%20easily%20pick%20out%20the%20civilized%20nations.%20They%20have%20the%20best%20implements%20of%20war.&author=Herbert%20V.%20Prochnow&v=1772990058" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
