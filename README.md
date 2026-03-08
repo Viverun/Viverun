@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20respect%20for%20human%20rights%2C%20essential%20if%20we%20are%20to%20use%20technology%20wisely%2C%20is%20not%20something%20alien%20that%20must%20be%20grafted%20onto%20science.%20On%20the%20contrary%2C%20it%20is%20integral%20to%20science%2C%20as%20also%20to%20scholarship%20in%20general.&author=John%20Charles%20Polanyi&v=1772951362" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nature%20engenders%20the%20science%20of%20painting.&author=Robert%20Delaunay&v=1772954634" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
