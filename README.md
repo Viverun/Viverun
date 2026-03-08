@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20what%20you%20know%2C%20philosophy%20is%20what%20you%20don%27t%20know.&author=Bertrand%20Russell&v=1772961528" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Religion%20is%20to%20mysticism%20what%20popularization%20is%20to%20science.&author=Henri%20Bergson&v=1772964870" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
