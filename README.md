@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20Universe%20is%20one%20great%20kindergarten%20for%20man.%20Everything%20that%20exists%20has%20brought%20with%20it%20its%20own%20peculiar%20lesson.&author=Orison%20Swett%20Marden&v=1772982819" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20is%20change%20our%20life%20is%20what%20our%20thoughts%20make%20it.&author=Marcus%20Aurelius&v=1772986541" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
