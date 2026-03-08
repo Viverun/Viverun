@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everything%20that%20is%20necessary%20is%20also%20easy.%20You%20just%20have%20to%20accept%20it.%20And%20the%20most%20necessary%2C%20the%20most%20natural%20matter%20on%20this%20planet%20is%20death.&author=Friedrich%20Durrenmatt&v=1772997331" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Time%20travel%20used%20to%20be%20thought%20of%20as%20just%20science%20fiction%2C%20but%20Einstein%27s%20general%20theory%20of%20relativity%20allows%20for%20the%20possibility%20that%20we%20could%20warp%20space-time%20so%20much%20that%20you%20could%20go%20off%20in%20a%20rocket%20and%20return%20before%20you%20set%20out.&author=Stephen%20Hawking&v=1773000807" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
