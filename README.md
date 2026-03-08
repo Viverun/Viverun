@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20a%20voyager%20-%20and%20the%20voyage%20cannot%20mean%20that%20I%20stay%20at%20home.&author=Emmanuelle%20Beart&v=1773004401" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=From%20my%20dad%20I%20learned%20to%20be%20good%20to%20people%2C%20to%20always%20be%20honest%20and%20straightforward.%20I%20learned%20hard%20work%20and%20perseverance.&author=Luke%20Bryan&v=1773007970" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
