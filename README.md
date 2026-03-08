@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Religion%20is%20to%20mysticism%20what%20popularization%20is%20to%20science.&author=Henri%20Bergson&v=1772964870" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Be%20like%20the%20flower%2C%20turn%20your%20face%20to%20the%20sun.&author=Kahlil%20Gibran&v=1772968327" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
