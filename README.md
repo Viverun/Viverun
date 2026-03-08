@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Early-twentieth-century%20abstraction%20is%20art%27s%20version%20of%20Einstein%27s%20Theory%20of%20Relativity.%20It%27s%20the%20idea%20that%20changed%20everything%20everywhere%3A%20quickly%2C%20decisively%2C%20for%20good.&author=Jerry%20Saltz&v=1772993916" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everything%20that%20is%20necessary%20is%20also%20easy.%20You%20just%20have%20to%20accept%20it.%20And%20the%20most%20necessary%2C%20the%20most%20natural%20matter%20on%20this%20planet%20is%20death.&author=Friedrich%20Durrenmatt&v=1772997331" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
