@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Constant%20kindness%20can%20accomplish%20much.%20As%20the%20sun%20makes%20ice%20melt%2C%20kindness%20causes%20misunderstanding%2C%20mistrust%2C%20and%20hostility%20to%20evaporate.&author=Albert%20Schweitzer&v=1773087665" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Very%20few%20recognize%20science%20as%20the%20high%20adventure%20it%20really%20is%2C%20the%20wildest%20of%20all%20explorations%20ever%20taken%20by%20human%20beings%2C%20the%20chance%20to%20glimpse%20things%20never%20seen%20before%2C%20the%20shrewdest%20maneuver%20for%20discovering%20how%20the%20world%20works.&author=Lewis%20Thomas&v=1773091338" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
