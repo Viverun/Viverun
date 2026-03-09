@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Economists%20treat%20economics%20as%20if%20it%20is%20a%20pure%20science%20divorced%20from%20the%20facts%20of%20life.%20The%20result%20of%20this%20false%20accountancy%20is%20a%20willful%20confusion%20under%20cover%20of%20which%20industry%20wreaks%20its%20havoc%20scot-free%20and%20ignores%20the%20environmental%20cost.&author=Vivienne%20Westwood&v=1773042175" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20method%20of%20political%20science%20is%20the%20interpretation%20of%20life%20its%20instrument%20is%20insight%2C%20a%20nice%20understanding%20of%20subtle%2C%20unformulated%20conditions.&author=Woodrow%20Wilson&v=1773045114" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
