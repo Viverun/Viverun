@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20did%20get%20a%20very%20fine%20education%2C%20and%20not%20just%20in%20science.%20It%20took%20some%20pressure%20on%20the%20part%20of%20my%20elders%20to%20convince%20me%20that%20I%20really%20should%20take%20an%20interest%20in%20humanities.&author=Joshua%20Lederberg&v=1773018445" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Books%20are%20the%20carriers%20of%20civilization.%20Without%20books%2C%20history%20is%20silent%2C%20literature%20dumb%2C%20science%20crippled%2C%20thought%20and%20speculation%20at%20a%20standstill.&author=Barbara%20Tuchman&v=1773029159" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
