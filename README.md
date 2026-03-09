@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Very%20few%20recognize%20science%20as%20the%20high%20adventure%20it%20really%20is%2C%20the%20wildest%20of%20all%20explorations%20ever%20taken%20by%20human%20beings%2C%20the%20chance%20to%20glimpse%20things%20never%20seen%20before%2C%20the%20shrewdest%20maneuver%20for%20discovering%20how%20the%20world%20works.&author=Lewis%20Thomas&v=1773091338" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=For%20me%20my%20friendship%20with%20Omar%20Rodriguez%20from%20Mars%20Volta%20that%20friendship%20really%20means%20a%20lot%20to%20me%20because%20he%27s%20another%20creative%20person%20who%20works%20as%20hard%20as%20I%20do.&author=John%20Frusciante&v=1773094670" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
