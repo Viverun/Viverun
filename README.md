@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nature%2C%20I%20have%20constantly%20argued%20in%20my%20work%2C%20is%20the%20real%20superpower%20of%20this%20godless%20universe.%20It%20is%20the%20ultimate%20disposer%20of%20human%20fate%2C%20randomly%20recarving%20geography%20over%2010%2C000-year%20epochs.&author=Camille%20Paglia&v=1773064697" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20world%20is%20my%20country%2C%20science%20is%20my%20religion.&author=Christiaan%20Huygens&v=1773067668" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
