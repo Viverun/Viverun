@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20you%20simplify%20your%20life%2C%20the%20laws%20of%20the%20universe%20will%20be%20simpler%20solitude%20will%20not%20be%20solitude%2C%20poverty%20will%20not%20be%20poverty%2C%20nor%20weakness%20weakness.&author=Henry%20David%20Thoreau&v=1773011605" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20did%20get%20a%20very%20fine%20education%2C%20and%20not%20just%20in%20science.%20It%20took%20some%20pressure%20on%20the%20part%20of%20my%20elders%20to%20convince%20me%20that%20I%20really%20should%20take%20an%20interest%20in%20humanities.&author=Joshua%20Lederberg&v=1773018445" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
