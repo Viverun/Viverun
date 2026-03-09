@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20bathe%20a%20cat%20takes%20brute%20force%2C%20perseverance%2C%20courage%20of%20conviction%20-%20and%20a%20cat.%20The%20last%20ingredient%20is%20usually%20hardest%20to%20come%20by.&author=Stephen%20Baker&v=1773081415" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20a%20lot%20of%20plants%20and%20fish%20and%20a%20pet%20lizard%20and%20Venus%20flytraps.%20I%20have%20a%20whole%20ecosystem%20in%20my%20room%2C%20like%20a%20running%20waterfall%20and%20different%20lights%20and%20sensors%20set%20on%20digital%20timers.&author=Chris%20Pratt&v=1773084760" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
