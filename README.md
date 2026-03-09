@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=For%20me%20my%20friendship%20with%20Omar%20Rodriguez%20from%20Mars%20Volta%20that%20friendship%20really%20means%20a%20lot%20to%20me%20because%20he%27s%20another%20creative%20person%20who%20works%20as%20hard%20as%20I%20do.&author=John%20Frusciante&v=1773094670" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Religion%20is%20something%20left%20over%20from%20the%20infancy%20of%20our%20intelligence%2C%20it%20will%20fade%20away%20as%20we%20adopt%20reason%20and%20science%20as%20our%20guidelines.&author=Bertrand%20Russell&v=1773098240" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
