@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20we%20try%20to%20pick%20out%20anything%20by%20itself%2C%20we%20find%20it%20hitched%20to%20everything%20else%20in%20the%20universe.&author=John%20Muir&v=1773059684" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nature%2C%20I%20have%20constantly%20argued%20in%20my%20work%2C%20is%20the%20real%20superpower%20of%20this%20godless%20universe.%20It%20is%20the%20ultimate%20disposer%20of%20human%20fate%2C%20randomly%20recarving%20geography%20over%2010%2C000-year%20epochs.&author=Camille%20Paglia&v=1773064697" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
