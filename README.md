@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Being%20in%20an%20area%20of%20the%20planet%20where%20scientists%20believe%20mankind%20started%20is%20quite%20amazing.&author=Jan%20de%20Bont&v=1773052473" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=No%20matter%20how%20vast%2C%20how%20total%2C%20the%20failure%20of%20man%20here%20on%20earth%2C%20the%20work%20of%20man%20will%20be%20resumed%20elsewhere.%20War%20leaders%20talk%20of%20resuming%20operations%20on%20this%20front%20and%20that%2C%20but%20man%27s%20front%20embraces%20the%20whole%20universe.&author=Henry%20Miller&v=1773055649" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
