@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Books%20are%20the%20carriers%20of%20civilization.%20Without%20books%2C%20history%20is%20silent%2C%20literature%20dumb%2C%20science%20crippled%2C%20thought%20and%20speculation%20at%20a%20standstill.&author=Barbara%20Tuchman&v=1773029159" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20started%20out%20writing%20much%20more%20science%20fictiony%20stuff%20and%20writing%20about%20science%20fiction.&author=Neil%20Gaiman&v=1773035388" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
