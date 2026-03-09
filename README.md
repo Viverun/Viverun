@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%27ll%20go%20back%20to%20the%20moon%20by%20not%20learning%20anything%20new.&author=Burt%20Rutan&v=1773077936" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20bathe%20a%20cat%20takes%20brute%20force%2C%20perseverance%2C%20courage%20of%20conviction%20-%20and%20a%20cat.%20The%20last%20ingredient%20is%20usually%20hardest%20to%20come%20by.&author=Stephen%20Baker&v=1773081415" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
