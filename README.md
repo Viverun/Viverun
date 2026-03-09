@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%2C%20we%20are%20repeatedly%20told%2C%20is%20the%20most%20reliable%20form%20of%20knowledge%20about%20the%20world%20because%20it%20is%20based%20on%20testable%20hypotheses.%20Religion%2C%20by%20contrast%2C%20is%20based%20on%20faith.%20The%20term%20%27doubting%20Thomas%27%20well%20illustrates%20the%20difference.&author=Paul%20Davies&v=1773038854" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Economists%20treat%20economics%20as%20if%20it%20is%20a%20pure%20science%20divorced%20from%20the%20facts%20of%20life.%20The%20result%20of%20this%20false%20accountancy%20is%20a%20willful%20confusion%20under%20cover%20of%20which%20industry%20wreaks%20its%20havoc%20scot-free%20and%20ignores%20the%20environmental%20cost.&author=Vivienne%20Westwood&v=1773042175" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
