@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Enough%20people%20have%20now%20mentioned%20Bill%20Nye%20the%20Science%20Guy%20to%20me%20that%20I%20now%20desperately%20avoid%20it%20all%20costs.&author=Alton%20Brown&v=1773104539" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Facts%20matter.%20Science%20matters.%20Reason%20matters.%20Mitt%20Romney%20has%20shown%20an%20inability%20to%20respect%20any%20of%20the%20three.%20President%20Barack%20Obama%20not%20only%20respects%20them%2C%20he%20relies%20on%20them.%20He%20is%20an%20overwhelming%20and%20unquestioned%20choice%20to%20continue%20as%20president.&author=Eliot%20Spitzer&v=1773115119" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
