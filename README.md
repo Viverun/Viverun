@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=One%27s%20age%20should%20be%20tranquil%2C%20as%20childhood%20should%20be%20playful.%20Hard%20work%20at%20either%20extremity%20of%20life%20seems%20out%20of%20place.%20At%20midday%20the%20sun%20may%20burn%2C%20and%20men%20labor%20under%20it%20but%20the%20morning%20and%20evening%20should%20be%20alike%20calm%20and%20cheerful.&author=Thomas%20Arnold&v=1773138472" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20dog%20teaches%20a%20boy%20fidelity%2C%20perseverance%2C%20and%20to%20turn%20around%20three%20times%20before%20lying%20down.&author=Robert%20Benchley&v=1773141861" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
