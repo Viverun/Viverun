@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=No%20delusion%20is%20greater%20than%20the%20notion%20that%20method%20and%20industry%20can%20make%20up%20for%20lack%20of%20mother-wit%2C%20either%20in%20science%20or%20in%20practical%20life.&author=Thomas%20Huxley&v=1773135193" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=One%27s%20age%20should%20be%20tranquil%2C%20as%20childhood%20should%20be%20playful.%20Hard%20work%20at%20either%20extremity%20of%20life%20seems%20out%20of%20place.%20At%20midday%20the%20sun%20may%20burn%2C%20and%20men%20labor%20under%20it%20but%20the%20morning%20and%20evening%20should%20be%20alike%20calm%20and%20cheerful.&author=Thomas%20Arnold&v=1773138472" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
