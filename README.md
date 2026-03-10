@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20ultimate%20wisdom%20which%20deals%20with%20beginnings%2C%20remains%20locked%20in%20a%20seed.%20There%20it%20lies%2C%20the%20simplest%20fact%20of%20the%20universe%20and%20at%20the%20same%20time%20the%20one%20which%20calls%20faith%20rather%20than%20reason.&author=Hal%20Borland&v=1773150856" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Faith%20is%20an%20island%20in%20the%20setting%20sun%2C%20But%20proof%20is%20the%20bottom%20line%20for%20everyone.&author=Paul%20Simon&v=1773153542" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
