@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20built%20up%20of%20facts%2C%20as%20a%20house%20is%20with%20stones.%20But%20a%20collection%20of%20facts%20is%20no%20more%20a%20science%20than%20a%20heap%20of%20stones%20is%20a%20house.&author=Henri%20Poincare&v=1773181014" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20did%20get%20a%20very%20fine%20education%2C%20and%20not%20just%20in%20science.%20It%20took%20some%20pressure%20on%20the%20part%20of%20my%20elders%20to%20convince%20me%20that%20I%20really%20should%20take%20an%20interest%20in%20humanities.&author=Joshua%20Lederberg&v=1773184632" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
