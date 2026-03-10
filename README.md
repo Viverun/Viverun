@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perhaps%2C%20to%20the%20uninformed%2C%20it%20may%20appear%20unaccountable%20that%20a%20man%20should%20be%20able%20to%20retain%20in%20his%20memory%20such%20a%20variety%20of%20learning%20but%20the%20close%20alliance%20with%20each%20other%2C%20of%20the%20different%20branches%20of%20science%2C%20will%20explain%20the%20difficulty.&author=Marcus%20V.%20Pollio&v=1773167639" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Worldly%20wealth%20is%20the%20Devil%27s%20bait%20and%20those%20whose%20minds%20feed%20upon%20riches%20recede%2C%20in%20general%2C%20from%20real%20happiness%2C%20in%20proportion%20as%20their%20stores%20increase%2C%20as%20the%20moon%2C%20when%20she%20is%20fullest%2C%20is%20farthest%20from%20the%20sun.&author=Robert%20Burton&v=1773171059" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
