@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Religion%20is%20something%20left%20over%20from%20the%20infancy%20of%20our%20intelligence%2C%20it%20will%20fade%20away%20as%20we%20adopt%20reason%20and%20science%20as%20our%20guidelines.&author=Bertrand%20Russell&v=1773098240" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Enough%20people%20have%20now%20mentioned%20Bill%20Nye%20the%20Science%20Guy%20to%20me%20that%20I%20now%20desperately%20avoid%20it%20all%20costs.&author=Alton%20Brown&v=1773104539" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
