@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20multitude%20of%20bees%20can%20tell%20the%20time%20of%20day%2C%20calculate%20the%20geometry%20of%20the%20sun%27s%20position%2C%20argue%20about%20the%20best%20location%20for%20the%20next%20swarm.%20Bees%20do%20a%20lot%20of%20close%20observing%20of%20other%20bees%20maybe%20they%20know%20what%20follows%20stinging%20and%20do%20it%20anyway.&author=Lewis%20Thomas&v=1773124505" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20science%2C%20a%20healthy%20skepticism%20is%20a%20professional%20necessity%2C%20whereas%20in%20religion%2C%20having%20belief%20without%20evidence%20is%20regarded%20as%20a%20virtue.&author=Paul%20Davies&v=1773127993" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
