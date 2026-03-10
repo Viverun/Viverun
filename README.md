@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20made%20us%20gods%20even%20before%20we%20are%20worthy%20of%20being%20men.&author=Jean%20Rostand&v=1773164276" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perhaps%2C%20to%20the%20uninformed%2C%20it%20may%20appear%20unaccountable%20that%20a%20man%20should%20be%20able%20to%20retain%20in%20his%20memory%20such%20a%20variety%20of%20learning%20but%20the%20close%20alliance%20with%20each%20other%2C%20of%20the%20different%20branches%20of%20science%2C%20will%20explain%20the%20difficulty.&author=Marcus%20V.%20Pollio&v=1773167639" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
