@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20a%20better%20internal%20and%20intuitive%20understanding%20of%20folklore%20and%20myth%20than%20science%20and%20technology%2C%20so%20in%20that%20way%20fantasy%20is%20easier.&author=Sarah%20Zettel&v=1773174090" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20very%20much%20enjoyed%20my%20career%20in%20science.%20I%20didn%27t%20leave%20science%20because%20I%20was%20disillusioned%2C%20but%20felt%20I%27d%20done%20my%20bit%20for%20it%20after%20about%20twenty-five%20years.&author=John%20Polkinghorne&v=1773177639" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
