@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Worldly%20wealth%20is%20the%20Devil%27s%20bait%20and%20those%20whose%20minds%20feed%20upon%20riches%20recede%2C%20in%20general%2C%20from%20real%20happiness%2C%20in%20proportion%20as%20their%20stores%20increase%2C%20as%20the%20moon%2C%20when%20she%20is%20fullest%2C%20is%20farthest%20from%20the%20sun.&author=Robert%20Burton&v=1773171059" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20a%20better%20internal%20and%20intuitive%20understanding%20of%20folklore%20and%20myth%20than%20science%20and%20technology%2C%20so%20in%20that%20way%20fantasy%20is%20easier.&author=Sarah%20Zettel&v=1773174090" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
