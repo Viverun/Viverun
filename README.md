@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Facts%20matter.%20Science%20matters.%20Reason%20matters.%20Mitt%20Romney%20has%20shown%20an%20inability%20to%20respect%20any%20of%20the%20three.%20President%20Barack%20Obama%20not%20only%20respects%20them%2C%20he%20relies%20on%20them.%20He%20is%20an%20overwhelming%20and%20unquestioned%20choice%20to%20continue%20as%20president.&author=Eliot%20Spitzer&v=1773115119" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27ll%20confess%20right%20here%20that%20I%20secretly%20wish%20I%27d%20have%20drawn%20a%20strip%20about%20a%20little%20boy%20with%20a%20fake%20tiger%2C%20going%20for%20adventures%20throughout%20the%20universe%20in%20spaceships%20of%20his%20imagination.&author=Berkeley%20Breathed&v=1773119321" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
