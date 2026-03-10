@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Loss%20and%20possession%2C%20death%20and%20life%20are%20one%2C%20There%20falls%20no%20shadow%20where%20there%20shines%20no%20sun.&author=Hilaire%20Belloc&v=1773146064" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20ultimate%20wisdom%20which%20deals%20with%20beginnings%2C%20remains%20locked%20in%20a%20seed.%20There%20it%20lies%2C%20the%20simplest%20fact%20of%20the%20universe%20and%20at%20the%20same%20time%20the%20one%20which%20calls%20faith%20rather%20than%20reason.&author=Hal%20Borland&v=1773150856" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
