@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27ll%20confess%20right%20here%20that%20I%20secretly%20wish%20I%27d%20have%20drawn%20a%20strip%20about%20a%20little%20boy%20with%20a%20fake%20tiger%2C%20going%20for%20adventures%20throughout%20the%20universe%20in%20spaceships%20of%20his%20imagination.&author=Berkeley%20Breathed&v=1773119321" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20multitude%20of%20bees%20can%20tell%20the%20time%20of%20day%2C%20calculate%20the%20geometry%20of%20the%20sun%27s%20position%2C%20argue%20about%20the%20best%20location%20for%20the%20next%20swarm.%20Bees%20do%20a%20lot%20of%20close%20observing%20of%20other%20bees%20maybe%20they%20know%20what%20follows%20stinging%20and%20do%20it%20anyway.&author=Lewis%20Thomas&v=1773124505" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
