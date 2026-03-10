@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20dog%20teaches%20a%20boy%20fidelity%2C%20perseverance%2C%20and%20to%20turn%20around%20three%20times%20before%20lying%20down.&author=Robert%20Benchley&v=1773141861" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Loss%20and%20possession%2C%20death%20and%20life%20are%20one%2C%20There%20falls%20no%20shadow%20where%20there%20shines%20no%20sun.&author=Hilaire%20Belloc&v=1773146064" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
