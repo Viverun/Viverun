@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Faith%20is%20an%20island%20in%20the%20setting%20sun%2C%20But%20proof%20is%20the%20bottom%20line%20for%20everyone.&author=Paul%20Simon&v=1773153542" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Space%20or%20science%20fiction%20has%20become%20a%20dialect%20for%20our%20time.&author=Doris%20Lessing&v=1773157797" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
