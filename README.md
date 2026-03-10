@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20very%20much%20enjoyed%20my%20career%20in%20science.%20I%20didn%27t%20leave%20science%20because%20I%20was%20disillusioned%2C%20but%20felt%20I%27d%20done%20my%20bit%20for%20it%20after%20about%20twenty-five%20years.&author=John%20Polkinghorne&v=1773177639" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20built%20up%20of%20facts%2C%20as%20a%20house%20is%20with%20stones.%20But%20a%20collection%20of%20facts%20is%20no%20more%20a%20science%20than%20a%20heap%20of%20stones%20is%20a%20house.&author=Henri%20Poincare&v=1773181014" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
