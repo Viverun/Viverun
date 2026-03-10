@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Man%20is%20unique%20not%20because%20he%20does%20science%2C%20and%20his%20is%20unique%20not%20because%20he%20does%20art%2C%20but%20because%20science%20and%20art%20equally%20are%20expressions%20of%20his%20marvelous%20plasticity%20of%20mind.&author=Jacob%20Bronowski&v=1773161077" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20made%20us%20gods%20even%20before%20we%20are%20worthy%20of%20being%20men.&author=Jean%20Rostand&v=1773164276" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
