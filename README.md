@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20need%20to%20think%20of%20the%20future%20and%20the%20planet%20we%20are%20going%20to%20leave%20to%20our%20children%20and%20their%20children.&author=Kofi%20Annan&v=1773240185" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=He%20who%20would%20do%20good%20to%20another%20must%20do%20it%20in%20Minute%20Particulars%3A%20general%20Good%20is%20the%20plea%20of%20the%20scoundrel%2C%20hypocrite%2C%20and%20flatterer%2C%20for%20Art%20and%20Science%20cannot%20exist%20but%20in%20minutely%20organized%20Particulars.&author=William%20Blake&v=1773243421" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
