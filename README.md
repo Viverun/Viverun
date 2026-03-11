@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=From%20my%20dad%20I%20learned%20to%20be%20good%20to%20people%2C%20to%20always%20be%20honest%20and%20straightforward.%20I%20learned%20hard%20work%20and%20perseverance.&author=Luke%20Bryan&v=1773257700" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20great%20tragedy%20of%20science%20-%20the%20slaying%20of%20a%20beautiful%20hypothesis%20by%20an%20ugly%20fact.&author=Thomas%20Huxley&v=1773260550" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
