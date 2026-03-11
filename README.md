@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Anybody%20who%20has%20been%20seriously%20engaged%20in%20scientific%20work%20of%20any%20kind%20realizes%20that%20over%20the%20entrance%20to%20the%20gates%20of%20the%20temple%20of%20science%20are%20written%20the%20words%3A%20%27Ye%20must%20have%20faith.%27&author=Max%20Planck&v=1773254352" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=From%20my%20dad%20I%20learned%20to%20be%20good%20to%20people%2C%20to%20always%20be%20honest%20and%20straightforward.%20I%20learned%20hard%20work%20and%20perseverance.&author=Luke%20Bryan&v=1773257700" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
