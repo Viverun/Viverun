@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Obama%20wants%20to%20be%20thought%20of%20as%20the%20president%20who%20freed%20us%20from%20foreign%20oil.%20But%20if%20he%20doesn%27t%20show%20some%20political%20courage%2C%20he%20may%20well%20be%20remembered%20as%20the%20president%20who%20cooked%20the%20planet.&author=Jeff%20Goodell&v=1773228302" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Public%20discourse%20has%20been%20polluted%20now%20for%20decades%20by%20corporate-funded%20disinformation%20-%20not%20just%20with%20climate%20change%20but%20with%20a%20host%20of%20health%2C%20environmental%20and%20societal%20threats.%20The%20implications%20for%20the%20planet%20are%20grim.&author=Michael%20E.%20Mann&v=1773232433" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
