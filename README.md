@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20commits%20suicide%20when%20it%20adopts%20a%20creed.&author=Thomas%20Huxley&v=1773267459" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20done%20more%20for%20the%20development%20of%20western%20civilization%20in%20one%20hundred%20years%20than%20Christianity%20did%20in%20eighteen%20hundred%20years.&author=John%20Burroughs&v=1773270922" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
