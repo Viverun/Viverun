@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20radiation%20left%20over%20from%20the%20Big%20Bang%20is%20the%20same%20as%20that%20in%20your%20microwave%20oven%20but%20very%20much%20less%20powerful.%20It%20would%20heat%20your%20pizza%20only%20to%20minus%20271.3%2AC%20-%20not%20much%20good%20for%20defrosting%20the%20pizza%2C%20let%20alone%20cooking%20it.&author=Stephen%20Hawking&v=1773205887" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20are%20learning%20more%20about%20the%20humanity%20of%20the%20unborn%20child.%20Science%20and%20truth%20support%20the%20prolife%20movement.&author=Candice%20S.%20Miller&v=1773211066" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
