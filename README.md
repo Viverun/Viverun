@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20great%20tragedy%20of%20science%20-%20the%20slaying%20of%20a%20beautiful%20hypothesis%20by%20an%20ugly%20fact.&author=Thomas%20Huxley&v=1773260550" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perhaps%20the%20best%20motivation%20for%20going%20to%20Mars%20is%20political.%20It%20is%20obvious%20that%20no%20single%20nation%20currently%20has%20either%20the%20will%20or%20the%20resources%20to%20do%20it%20alone%2C%20but%20a%20consortium%20of%20nations%20and%20space%20agencies%20could%20achieve%20it%20within%2020%20years.&author=Paul%20Davies&v=1773264131" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
