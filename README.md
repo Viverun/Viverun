@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20want%20to%20be%20the%20Cecil%20B.%20DeMille%20of%20science%20fiction.&author=Steven%20Spielberg&v=1773190973" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20the%20sick%20room%2C%20ten%20cents%27%20worth%20of%20human%20understanding%20equals%20ten%20dollars%27%20worth%20of%20medical%20science.&author=Martin%20H.%20Fischer&v=1773201563" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
