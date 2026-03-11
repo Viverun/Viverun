@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=He%20who%20would%20do%20good%20to%20another%20must%20do%20it%20in%20Minute%20Particulars%3A%20general%20Good%20is%20the%20plea%20of%20the%20scoundrel%2C%20hypocrite%2C%20and%20flatterer%2C%20for%20Art%20and%20Science%20cannot%20exist%20but%20in%20minutely%20organized%20Particulars.&author=William%20Blake&v=1773243421" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=However%20far%20modern%20science%20and%20techniques%20have%20fallen%20short%20of%20their%20inherent%20possibilities%2C%20they%20have%20taught%20mankind%20at%20least%20one%20lesson%20nothing%20is%20impossible.&author=Lewis%20Mumford&v=1773247113" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
