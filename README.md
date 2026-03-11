@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Art%20and%20science%20have%20their%20meeting%20point%20in%20method.&author=Edward%20G.%20Bulwer-Lytton&v=1773217677" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20very%20much%20enjoyed%20my%20career%20in%20science.%20I%20didn%27t%20leave%20science%20because%20I%20was%20disillusioned%2C%20but%20felt%20I%27d%20done%20my%20bit%20for%20it%20after%20about%20twenty-five%20years.&author=John%20Polkinghorne&v=1773221530" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
