@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20gives%20us%20knowledge%2C%20but%20only%20philosophy%20can%20give%20us%20wisdom.&author=Will%20Durant&v=1773214571" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Art%20and%20science%20have%20their%20meeting%20point%20in%20method.&author=Edward%20G.%20Bulwer-Lytton&v=1773217677" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
