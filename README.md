@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=This%20is%20the%20first%20convention%20of%20the%20space%20age%20-%20where%20a%20candidate%20can%20promise%20the%20moon%20and%20mean%20it.&author=David%20Brinkley&v=1773237468" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20need%20to%20think%20of%20the%20future%20and%20the%20planet%20we%20are%20going%20to%20leave%20to%20our%20children%20and%20their%20children.&author=Kofi%20Annan&v=1773240185" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
