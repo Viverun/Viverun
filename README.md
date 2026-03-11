@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20most%20wonderful%20discovery%20made%20by%20scientists%20is%20science%20itself.&author=Jacob%20Bronowski&v=1773224898" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Obama%20wants%20to%20be%20thought%20of%20as%20the%20president%20who%20freed%20us%20from%20foreign%20oil.%20But%20if%20he%20doesn%27t%20show%20some%20political%20courage%2C%20he%20may%20well%20be%20remembered%20as%20the%20president%20who%20cooked%20the%20planet.&author=Jeff%20Goodell&v=1773228302" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
