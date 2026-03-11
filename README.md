@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20did%20get%20a%20very%20fine%20education%2C%20and%20not%20just%20in%20science.%20It%20took%20some%20pressure%20on%20the%20part%20of%20my%20elders%20to%20convince%20me%20that%20I%20really%20should%20take%20an%20interest%20in%20humanities.&author=Joshua%20Lederberg&v=1773184632" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20want%20to%20be%20the%20Cecil%20B.%20DeMille%20of%20science%20fiction.&author=Steven%20Spielberg&v=1773190973" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
