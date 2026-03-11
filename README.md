@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20the%20sick%20room%2C%20ten%20cents%27%20worth%20of%20human%20understanding%20equals%20ten%20dollars%27%20worth%20of%20medical%20science.&author=Martin%20H.%20Fischer&v=1773201563" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20radiation%20left%20over%20from%20the%20Big%20Bang%20is%20the%20same%20as%20that%20in%20your%20microwave%20oven%20but%20very%20much%20less%20powerful.%20It%20would%20heat%20your%20pizza%20only%20to%20minus%20271.3%2AC%20-%20not%20much%20good%20for%20defrosting%20the%20pizza%2C%20let%20alone%20cooking%20it.&author=Stephen%20Hawking&v=1773205887" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
