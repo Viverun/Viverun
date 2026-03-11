@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Public%20discourse%20has%20been%20polluted%20now%20for%20decades%20by%20corporate-funded%20disinformation%20-%20not%20just%20with%20climate%20change%20but%20with%20a%20host%20of%20health%2C%20environmental%20and%20societal%20threats.%20The%20implications%20for%20the%20planet%20are%20grim.&author=Michael%20E.%20Mann&v=1773232433" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=This%20is%20the%20first%20convention%20of%20the%20space%20age%20-%20where%20a%20candidate%20can%20promise%20the%20moon%20and%20mean%20it.&author=David%20Brinkley&v=1773237468" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
