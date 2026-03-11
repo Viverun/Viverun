@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20are%20learning%20more%20about%20the%20humanity%20of%20the%20unborn%20child.%20Science%20and%20truth%20support%20the%20prolife%20movement.&author=Candice%20S.%20Miller&v=1773211066" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20gives%20us%20knowledge%2C%20but%20only%20philosophy%20can%20give%20us%20wisdom.&author=Will%20Durant&v=1773214571" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
