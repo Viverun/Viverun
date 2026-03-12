@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20have%20many%20years%20ahead%20of%20you%20to%20create%20the%20dreams%20that%20we%20can%27t%20even%20imagine%20dreaming.%20You%20have%20done%20more%20for%20the%20collective%20unconscious%20of%20this%20planet%20than%20you%20will%20ever%20know.&author=Steven%20Spielberg&v=1773337239" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20sometimes%20important%20for%20science%20to%20know%20how%20to%20forget%20the%20things%20she%20is%20surest%20of.&author=Jean%20Rostand&v=1773340671" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
