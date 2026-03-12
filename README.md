@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20sometimes%20important%20for%20science%20to%20know%20how%20to%20forget%20the%20things%20she%20is%20surest%20of.&author=Jean%20Rostand&v=1773340671" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20worst%20state%20of%20affairs%20is%20when%20science%20begins%20to%20concern%20itself%20with%20art.&author=Paul%20Klee&v=1773344072" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
