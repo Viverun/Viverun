@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Look%20up%20at%20the%20stars%20and%20not%20down%20at%20your%20feet.&author=Stephen%20Hawking&v=1773350558" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Wine%20and%20cheese%20are%20ageless%20companions%2C%20like%20aspirin%20and%20aches%2C%20or%20June%20and%20moon%2C%20or%20good%20people%20and%20noble%20ventures.&author=M.%20F.%20K.%20Fisher&v=1773353667" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
