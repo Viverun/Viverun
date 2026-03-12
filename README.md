@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20age%20in%20which%20we%20live%2C%20this%20non-stop%20distraction%2C%20is%20making%20it%20more%20impossible%20for%20the%20young%20generation%20to%20ever%20have%20the%20curiosity%20or%20discipline...%20because%20you%20need%20to%20be%20alone%20to%20find%20out%20anything.&author=Vivienne%20Westwood&v=1773307946" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20may%20never%20come%20up%20with%20a%20better%20office%20communication%20system%20than%20the%20coffee%20break.&author=Earl%20Wilson&v=1773311307" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
