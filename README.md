@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Moral%20science%20is%20better%20occupied%20when%20treating%20of%20friendship%20than%20of%20justice.&author=Thomas%20Aquinas&v=1773301132" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Skeptical%20scrutiny%20is%20the%20means%2C%20in%20both%20science%20and%20religion%2C%20by%20which%20deep%20thoughts%20can%20be%20winnowed%20from%20deep%20nonsense.&author=Carl%20Sagan&v=1773304201" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
