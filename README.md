@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20may%20never%20come%20up%20with%20a%20better%20office%20communication%20system%20than%20the%20coffee%20break.&author=Earl%20Wilson&v=1773311307" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20dog%20teaches%20a%20boy%20fidelity%2C%20perseverance%2C%20and%20to%20turn%20around%20three%20times%20before%20lying%20down.&author=Robert%20Benchley&v=1773314693" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
