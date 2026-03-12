@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20done%20more%20for%20the%20development%20of%20western%20civilization%20in%20one%20hundred%20years%20than%20Christianity%20did%20in%20eighteen%20hundred%20years.&author=John%20Burroughs&v=1773270922" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20you%20are%20courting%20a%20nice%20girl%20an%20hour%20seems%20like%20a%20second.%20When%20you%20sit%20on%20a%20red-hot%20cinder%20a%20second%20seems%20like%20an%20hour.%20That%27s%20relativity.&author=Albert%20Einstein&v=1773277200" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
