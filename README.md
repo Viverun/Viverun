@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Medicine%20is%20a%20science%20of%20uncertainty%20and%20an%20art%20of%20probability.&author=William%20Osler&v=1773286360" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Every%20day%20is%20a%20good%20day%20to%20be%20alive%2C%20whether%20the%20sun%27s%20shining%20or%20not.&author=Marty%20Robbins&v=1773292258" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
