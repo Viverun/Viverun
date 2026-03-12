@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20means%20simply%20the%20aggregate%20of%20all%20the%20recipes%20that%20are%20always%20successful.%20All%20the%20rest%20is%20literature.&author=Paul%20Valery&v=1773346948" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Look%20up%20at%20the%20stars%20and%20not%20down%20at%20your%20feet.&author=Stephen%20Hawking&v=1773350558" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
