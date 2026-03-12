@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Skeptical%20scrutiny%20is%20the%20means%2C%20in%20both%20science%20and%20religion%2C%20by%20which%20deep%20thoughts%20can%20be%20winnowed%20from%20deep%20nonsense.&author=Carl%20Sagan&v=1773304201" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20age%20in%20which%20we%20live%2C%20this%20non-stop%20distraction%2C%20is%20making%20it%20more%20impossible%20for%20the%20young%20generation%20to%20ever%20have%20the%20curiosity%20or%20discipline...%20because%20you%20need%20to%20be%20alone%20to%20find%20out%20anything.&author=Vivienne%20Westwood&v=1773307946" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
