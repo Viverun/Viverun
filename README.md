@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Modern%20science%20cannot%20explain%20why%20the%20laws%20of%20physics%20are%20exactly%20balanced%20for%20animal%20life%20to%20exist.&author=Robert%20Lanza&v=1773297580" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Moral%20science%20is%20better%20occupied%20when%20treating%20of%20friendship%20than%20of%20justice.&author=Thomas%20Aquinas&v=1773301132" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
