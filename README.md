@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Breathless%2C%20we%20flung%20us%20on%20a%20windy%20hill%2C%20Laughed%20in%20the%20sun%2C%20and%20kissed%20the%20lovely%20grass.&author=Rupert%20Brooke&v=1773330332" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Religion%20is%20to%20mysticism%20what%20popularization%20is%20to%20science.&author=Henri%20Bergson&v=1773334091" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
