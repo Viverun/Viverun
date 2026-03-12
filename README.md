@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Wine%20and%20cheese%20are%20ageless%20companions%2C%20like%20aspirin%20and%20aches%2C%20or%20June%20and%20moon%2C%20or%20good%20people%20and%20noble%20ventures.&author=M.%20F.%20K.%20Fisher&v=1773353667" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20No%20Child%20Left%20Behind%20Program%20was%20an%20incentive%20to%20the%20schools%20to%20get%20their%20kids%20up%20to%20snuff%20on%20math%20and%20science%20and%20reading.&author=Sandra%20Day%20O%27Connor&v=1773357453" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
