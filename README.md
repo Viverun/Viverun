@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Man%20lives%20for%20science%20as%20well%20as%20bread.&author=William%20James&v=1773323730" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20earth%20is%20supported%20by%20the%20power%20of%20truth%20it%20is%20the%20power%20of%20truth%20that%20makes%20the%20sun%20shine%20and%20the%20winds%20blow%20indeed%20all%20things%20rest%20upon%20truth.&author=Chanakya&v=1773326497" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
