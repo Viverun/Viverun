@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20worst%20state%20of%20affairs%20is%20when%20science%20begins%20to%20concern%20itself%20with%20art.&author=Paul%20Klee&v=1773344072" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20means%20simply%20the%20aggregate%20of%20all%20the%20recipes%20that%20are%20always%20successful.%20All%20the%20rest%20is%20literature.&author=Paul%20Valery&v=1773346948" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
