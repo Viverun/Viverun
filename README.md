@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Be%20like%20the%20flower%2C%20turn%20your%20face%20to%20the%20sun.&author=Kahlil%20Gibran&v=1773390448" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20a%20better%20internal%20and%20intuitive%20understanding%20of%20folklore%20and%20myth%20than%20science%20and%20technology%2C%20so%20in%20that%20way%20fantasy%20is%20easier.&author=Sarah%20Zettel&v=1773394120" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
