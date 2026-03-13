@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20No%20Child%20Left%20Behind%20Program%20was%20an%20incentive%20to%20the%20schools%20to%20get%20their%20kids%20up%20to%20snuff%20on%20math%20and%20science%20and%20reading.&author=Sandra%20Day%20O%27Connor&v=1773357453" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20do%20a%20lot%20of%20curiosity%20buying%20I%20buy%20it%20if%20I%20like%20the%20album%20cover%2C%20I%20buy%20it%20if%20I%20like%20the%20name%20of%20the%20band%2C%20anything%20that%20sparks%20my%20imagination.&author=Bruce%20Springsteen&v=1773363936" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
