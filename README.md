@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20questions%20of%20science%2C%20the%20authority%20of%20a%20thousand%20is%20not%20worth%20the%20humble%20reasoning%20of%20a%20single%20individual.&author=Galileo%20Galilei&v=1773412503" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20Europe%20art%20has%20to%20a%20large%20degree%20taken%20the%20place%20of%20religion.%20In%20America%20it%20seems%20rather%20to%20be%20science.&author=Johan%20Huizinga&v=1773415960" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
