@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Poetry%20should%20surprise%20by%20a%20fine%20excess%20and%20not%20by%20singularity%2C%20it%20should%20strike%20the%20reader%20as%20a%20wording%20of%20his%20own%20highest%20thoughts%2C%20and%20appear%20almost%20a%20remembrance.&author=John%20Keats&v=1773383879" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20and%20technology%20multiply%20around%20us.%20To%20an%20increasing%20extent%20they%20dictate%20the%20languages%20in%20which%20we%20speak%20and%20think.%20Either%20we%20use%20those%20languages%2C%20or%20we%20remain%20mute.&author=J.%20G.%20Ballard&v=1773387445" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
