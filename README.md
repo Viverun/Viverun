@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%2C%20like%20art%2C%20religion%2C%20commerce%2C%20warfare%2C%20and%20even%20sleep%2C%20is%20based%20on%20presuppositions.&author=Gregory%20Bateson&v=1773440333" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20monopoly%20of%20science%20in%20the%20realm%20of%20knowledge%20explains%20why%20evolutionary%20biologists%20do%20not%20find%20it%20meaningful%20to%20address%20the%20question%20whether%20the%20Darwinian%20theory%20is%20true.&author=Phillip%20E.%20Johnson&v=1773443866" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
