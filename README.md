@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20feel%20blessed%20to%20be%20here%20representing%20our%20country%20and%20carrying%20out%20th%20research%20of%20scientists%20around%20the%20world...%20I%20hope%20you%20could%20feel%20the%20positive%20energy%20that%20beamed%20to%20the%20whole%20planet%20as%20we%20glided%20over.&author=Laurel%20Clark&v=1773409938" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20questions%20of%20science%2C%20the%20authority%20of%20a%20thousand%20is%20not%20worth%20the%20humble%20reasoning%20of%20a%20single%20individual.&author=Galileo%20Galilei&v=1773412503" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
