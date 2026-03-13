@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20think%20the%20driving%20thing%20was%20curiosity%20about%20the%20universe.%20That%20fascinated%20me.%20I%20didn%27t%20think%20anything%20about%20being%20famous%20or%20anything%20like%20that%2C%20I%20was%20just%20interested%20in%20the%20concepts%20involved.&author=Clyde%20Tombaugh&v=1773433292" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20wise%20man%20regulates%20his%20conduct%20by%20the%20theories%20both%20of%20religion%20and%20science.%20But%20he%20regards%20these%20theories%20not%20as%20statements%20of%20ultimate%20fact%20but%20as%20art-forms.&author=John%20B.%20S.%20Haldane&v=1773437015" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
