@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20Europe%20art%20has%20to%20a%20large%20degree%20taken%20the%20place%20of%20religion.%20In%20America%20it%20seems%20rather%20to%20be%20science.&author=Johan%20Huizinga&v=1773415960" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Morality%20comes%20with%20the%20sad%20wisdom%20of%20age%2C%20when%20the%20sense%20of%20curiosity%20has%20withered.&author=Graham%20Greene&v=1773419196" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
