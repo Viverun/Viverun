@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20wise%20man%20regulates%20his%20conduct%20by%20the%20theories%20both%20of%20religion%20and%20science.%20But%20he%20regards%20these%20theories%20not%20as%20statements%20of%20ultimate%20fact%20but%20as%20art-forms.&author=John%20B.%20S.%20Haldane&v=1773437015" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%2C%20like%20art%2C%20religion%2C%20commerce%2C%20warfare%2C%20and%20even%20sleep%2C%20is%20based%20on%20presuppositions.&author=Gregory%20Bateson&v=1773440333" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
