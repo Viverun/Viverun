@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20was%20the%20Chair%20of%20the%20first%20department%20of%20medical%20physics%20in%20a%20medical%20school%20in%20the%20U.S.&author=John%20Cameron&v=1773429848" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20think%20the%20driving%20thing%20was%20curiosity%20about%20the%20universe.%20That%20fascinated%20me.%20I%20didn%27t%20think%20anything%20about%20being%20famous%20or%20anything%20like%20that%2C%20I%20was%20just%20interested%20in%20the%20concepts%20involved.&author=Clyde%20Tombaugh&v=1773433292" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
