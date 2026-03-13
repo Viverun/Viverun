@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20is%20a%20miracle%20that%20curiosity%20survives%20formal%20education.&author=Albert%20Einstein&v=1773400964" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20was%20growing%20up%20listening%20to%20Queen.%20Freddie%20Mercury%20threw%20those%20incredible%20melodies%20into%20his%20songs.&author=Gary%20Cherone&v=1773405160" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
