@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Morality%20comes%20with%20the%20sad%20wisdom%20of%20age%2C%20when%20the%20sense%20of%20curiosity%20has%20withered.&author=Graham%20Greene&v=1773419196" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Yet%20higher%20religion%2C%20which%20is%20only%20a%20search%20for%20a%20larger%20life%2C%20is%20essentially%20experience%20and%20recognized%20the%20necessity%20of%20experience%20as%20its%20foundation%20long%20before%20science%20learnt%20to%20do%20so.&author=Muhammad%20Iqbal&v=1773422779" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
