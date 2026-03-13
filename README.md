@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20do%20a%20lot%20of%20curiosity%20buying%20I%20buy%20it%20if%20I%20like%20the%20album%20cover%2C%20I%20buy%20it%20if%20I%20like%20the%20name%20of%20the%20band%2C%20anything%20that%20sparks%20my%20imagination.&author=Bruce%20Springsteen&v=1773363936" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20are%20two%20ways%20of%20attaining%20an%20important%20end%2C%20force%20and%20perseverance%20the%20silent%20power%20of%20the%20latter%20grows%20irresistible%20with%20time.&author=Sophie%20Swetchine&v=1773374518" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
