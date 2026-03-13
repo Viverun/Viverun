@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20was%20growing%20up%20listening%20to%20Queen.%20Freddie%20Mercury%20threw%20those%20incredible%20melodies%20into%20his%20songs.&author=Gary%20Cherone&v=1773405160" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20feel%20blessed%20to%20be%20here%20representing%20our%20country%20and%20carrying%20out%20th%20research%20of%20scientists%20around%20the%20world...%20I%20hope%20you%20could%20feel%20the%20positive%20energy%20that%20beamed%20to%20the%20whole%20planet%20as%20we%20glided%20over.&author=Laurel%20Clark&v=1773409938" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
