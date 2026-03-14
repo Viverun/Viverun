@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Three%20things%20cannot%20be%20long%20hidden%3A%20the%20sun%2C%20the%20moon%2C%20and%20the%20truth.&author=Buddha&v=1773501407" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Sometimes%20I%20think%20we%27re%20alone%20in%20the%20universe%2C%20and%20sometimes%20I%20think%20we%27re%20not.%20In%20either%20case%20the%20idea%20is%20quite%20staggering.&author=Arthur%20C.%20Clarke&v=1773505078" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
