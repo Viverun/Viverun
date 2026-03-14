@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Very%20few%20recognize%20science%20as%20the%20high%20adventure%20it%20really%20is%2C%20the%20wildest%20of%20all%20explorations%20ever%20taken%20by%20human%20beings%2C%20the%20chance%20to%20glimpse%20things%20never%20seen%20before%2C%20the%20shrewdest%20maneuver%20for%20discovering%20how%20the%20world%20works.&author=Lewis%20Thomas&v=1773512501" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20three%20Ps%3A%20passion%2C%20patience%2C%20perseverance.%20You%20have%20to%20do%20this%20if%20you%27ve%20got%20to%20be%20a%20filmmaker.&author=Robert%20Wise&v=1773515983" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
