@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20four%20building%20blocks%20of%20the%20universe%20are%20fire%2C%20water%2C%20gravel%20and%20vinyl.&author=Dave%20Barry&v=1773469990" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20greatest%20advances%20of%20civilization%2C%20whether%20in%20architecture%20or%20painting%2C%20in%20science%20and%20literature%2C%20in%20industry%20or%20agriculture%2C%20have%20never%20come%20from%20centralized%20government.&author=Milton%20Friedman&v=1773473287" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
