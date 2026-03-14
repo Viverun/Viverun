@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20greatest%20advances%20of%20civilization%2C%20whether%20in%20architecture%20or%20painting%2C%20in%20science%20and%20literature%2C%20in%20industry%20or%20agriculture%2C%20have%20never%20come%20from%20centralized%20government.&author=Milton%20Friedman&v=1773473287" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20hesitate%20to%20predict%20whether%20this%20theory%20is%20true.%20But%20if%20the%20general%20opinion%20of%20Mankind%20is%20optimistic%20then%20we%27re%20in%20for%20a%20period%20of%20extreme%20popularity%20for%20science%20fiction.&author=David%20Eddings&v=1773476539" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
