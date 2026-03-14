@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Borrowing%20knowledge%20of%20reality%20from%20all%20sources%2C%20taking%20the%20best%20from%20every%20study%2C%20Science%20of%20Mind%20brings%20together%20the%20highest%20enlightenment%20of%20the%20ages.&author=Ernest%20Holmes&v=1773519312" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Imagination%20is%20the%20real%20and%20eternal%20world%20of%20which%20this%20vegetable%20universe%20is%20but%20a%20faint%20shadow.&author=William%20Blake&v=1773522981" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
