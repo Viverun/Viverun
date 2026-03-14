@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%27s%20always%20a%20combination%20of%20physics%20and%20poetry%20that%20I%20find%20inspiring.%20It%27s%20hard%20to%20wrap%20your%20head%20around%20things%20like%20the%20Hubble%20scope.&author=Tom%20Hanks&v=1773526456" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nature%20engenders%20the%20science%20of%20painting.&author=Robert%20Delaunay&v=1773530234" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
