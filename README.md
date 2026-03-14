@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20thing%20about%20science%20is%20that%20hard%2C%20empirical%20answers%20are%20always%20there%20if%20you%20look%20hard%20enough.%20The%20best%20thing%20about%20religion%20is%20that%20the%20very%20absence%20of%20that%20certainty%20is%20what%20requires%20-%20and%20gives%20rise%20to%20-%20deep%20feelings%20of%20faith.&author=Jeffrey%20Kluger&v=1773460823" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20has%20sometimes%20been%20said%20to%20be%20opposed%20to%20faith%2C%20and%20inconsistent%20with%20it.%20But%20all%20science%2C%20in%20fact%2C%20rests%20on%20a%20basis%20of%20faith%2C%20for%20it%20assumes%20the%20permanence%20and%20uniformity%20of%20natural%20laws%20-%20a%20thing%20which%20can%20never%20be%20demonstrated.&author=Tryon%20Edwards&v=1773466676" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
