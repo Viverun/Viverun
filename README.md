@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20monopoly%20of%20science%20in%20the%20realm%20of%20knowledge%20explains%20why%20evolutionary%20biologists%20do%20not%20find%20it%20meaningful%20to%20address%20the%20question%20whether%20the%20Darwinian%20theory%20is%20true.&author=Phillip%20E.%20Johnson&v=1773443866" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20learning%20something%20all%20the%20time.%20That%27s%20the%20way%20I%20want%20it%20to%20go%2C%20and%20that%27s%20the%20way%20I%27ll%20go%20until%20I%20am%20no%20longer%20on%20this%20planet.&author=Doris%20Roberts&v=1773450291" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
