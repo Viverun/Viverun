@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20there%20was%20an%20observer%20on%20Mars%2C%20they%20would%20probably%20be%20amazed%20that%20we%20have%20survived%20this%20long.&author=Noam%20Chomsky&v=1773483451" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20media%20need%20superheroes%20in%20science%20just%20as%20in%20every%20sphere%20of%20life%2C%20but%20there%20is%20really%20a%20continuous%20range%20of%20abilities%20with%20no%20clear%20dividing%20line.&author=Stephen%20Hawking&v=1773486889" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
