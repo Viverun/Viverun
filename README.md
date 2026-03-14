@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20whole%20history%20of%20science%20has%20been%20the%20gradual%20realization%20that%20events%20do%20not%20happen%20in%20an%20arbitrary%20manner%2C%20but%20that%20they%20reflect%20a%20certain%20underlying%20order%2C%20which%20may%20or%20may%20not%20be%20divinely%20inspired.&author=Stephen%20Hawking&v=1773495485" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20a%20sci-fi%20girl.%20If%20I%20can%20have%20anything%20in%20life%2C%20I%27d%20want%20tons%20of%20great%20science-fiction%20movies%20and%20stories.%20It%27s%20so%20progressive%2C%20beautiful%2C%20and%20imaginative.&author=Zoe%20Saldana&v=1773497933" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
