@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20three%20Ps%3A%20passion%2C%20patience%2C%20perseverance.%20You%20have%20to%20do%20this%20if%20you%27ve%20got%20to%20be%20a%20filmmaker.&author=Robert%20Wise&v=1773515983" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Borrowing%20knowledge%20of%20reality%20from%20all%20sources%2C%20taking%20the%20best%20from%20every%20study%2C%20Science%20of%20Mind%20brings%20together%20the%20highest%20enlightenment%20of%20the%20ages.&author=Ernest%20Holmes&v=1773519312" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
