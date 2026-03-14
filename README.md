@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Sometimes%20I%20think%20we%27re%20alone%20in%20the%20universe%2C%20and%20sometimes%20I%20think%20we%27re%20not.%20In%20either%20case%20the%20idea%20is%20quite%20staggering.&author=Arthur%20C.%20Clarke&v=1773505078" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20greatest%20advances%20of%20civilization%2C%20whether%20in%20architecture%20or%20painting%2C%20in%20science%20and%20literature%2C%20in%20industry%20or%20agriculture%2C%20have%20never%20come%20from%20centralized%20government.&author=Milton%20Friedman&v=1773508664" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
