@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Imagination%20is%20the%20real%20and%20eternal%20world%20of%20which%20this%20vegetable%20universe%20is%20but%20a%20faint%20shadow.&author=William%20Blake&v=1773522981" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%27s%20always%20a%20combination%20of%20physics%20and%20poetry%20that%20I%20find%20inspiring.%20It%27s%20hard%20to%20wrap%20your%20head%20around%20things%20like%20the%20Hubble%20scope.&author=Tom%20Hanks&v=1773526456" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
