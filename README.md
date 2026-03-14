@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20for%20those%20who%20learn%2C%20poetry%20is%20for%20those%20who%20know.&author=Joseph%20Roux&v=1773480135" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20there%20was%20an%20observer%20on%20Mars%2C%20they%20would%20probably%20be%20amazed%20that%20we%20have%20survived%20this%20long.&author=Noam%20Chomsky&v=1773483451" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
