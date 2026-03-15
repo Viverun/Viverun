@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Advances%20in%20science%20and%20medical%20research%20and%20public%20health%20policies%20have%20meant%20that%20life%20expectancy%20for%20Australians%20is%20one%20of%20the%20highest%20in%20the%20world.&author=Julie%20Bishop&v=1773577696" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Physics%20is%20experience%2C%20arranged%20in%20economical%20order.&author=Ernst%20Mach&v=1773581970" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
