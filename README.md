@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20raise%20new%20questions%2C%20new%20possibilities%2C%20to%20regard%20old%20problems%20from%20a%20new%20angle%2C%20requires%20creative%20imagination%20and%20marks%20real%20advance%20in%20science.&author=Albert%20Einstein&v=1773569892" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20ultimate%20wisdom%20which%20deals%20with%20beginnings%2C%20remains%20locked%20in%20a%20seed.%20There%20it%20lies%2C%20the%20simplest%20fact%20of%20the%20universe%20and%20at%20the%20same%20time%20the%20one%20which%20calls%20faith%20rather%20than%20reason.&author=Hal%20Borland&v=1773573425" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
