@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20and%20technology%20multiply%20around%20us.%20To%20an%20increasing%20extent%20they%20dictate%20the%20languages%20in%20which%20we%20speak%20and%20think.%20Either%20we%20use%20those%20languages%2C%20or%20we%20remain%20mute.&author=J.%20G.%20Ballard&v=1773605766" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Anybody%20who%20has%20been%20seriously%20engaged%20in%20scientific%20work%20of%20any%20kind%20realizes%20that%20over%20the%20entrance%20to%20the%20gates%20of%20the%20temple%20of%20science%20are%20written%20the%20words%3A%20%27Ye%20must%20have%20faith.%27&author=Max%20Planck&v=1773609507" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
