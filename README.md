@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=True%20science%20is%20never%20speculative%20it%20employs%20hypotheses%20as%20suggesting%20points%20for%20inquiry%2C%20but%20it%20never%20adopts%20the%20hypotheses%20as%20though%20they%20were%20demonstrated%20propositions.&author=Cleveland%20Abbe&v=1773602436" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20and%20technology%20multiply%20around%20us.%20To%20an%20increasing%20extent%20they%20dictate%20the%20languages%20in%20which%20we%20speak%20and%20think.%20Either%20we%20use%20those%20languages%2C%20or%20we%20remain%20mute.&author=J.%20G.%20Ballard&v=1773605766" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
