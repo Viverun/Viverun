@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20without%20respect%20for%20human%20life%20is%20degrading%20to%20us%20all%20and%20reflects%20a%20hollow%20and%20deceptive%20philosophy%2C%20a%20philosophy%20that%20we%20as%20a%20people%20should%20never%20condone.&author=Nathan%20Deal&v=1773548573" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20purpose%20of%20science%20is%20not%20to%20analyze%20or%20describe%20but%20to%20make%20useful%20models%20of%20the%20world.%20A%20model%20is%20useful%20if%20it%20allows%20us%20to%20get%20use%20out%20of%20it.&author=Edward%20de%20Bono&v=1773554365" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
