@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27ve%20loved%20science%20fiction%20ever%20since%20I%20was%20a%20little%20kid%2C%20mainly%20from%20looking%20at%20the%20covers%20of%20science-fiction%20magazines%20and%20books%2C%20and%20I%27ve%20read%20quite%20extensively%20as%20an%20adult.&author=Matt%20Groening&v=1773598981" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=True%20science%20is%20never%20speculative%20it%20employs%20hypotheses%20as%20suggesting%20points%20for%20inquiry%2C%20but%20it%20never%20adopts%20the%20hypotheses%20as%20though%20they%20were%20demonstrated%20propositions.&author=Cleveland%20Abbe&v=1773602436" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
