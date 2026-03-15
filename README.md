@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Anybody%20who%20has%20been%20seriously%20engaged%20in%20scientific%20work%20of%20any%20kind%20realizes%20that%20over%20the%20entrance%20to%20the%20gates%20of%20the%20temple%20of%20science%20are%20written%20the%20words%3A%20%27Ye%20must%20have%20faith.%27&author=Max%20Planck&v=1773609507" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Unless%20we%20keep%20this%20planet%20healthy%2C%20everything%20else%20is%20for%20naught.&author=Victoria%20Principal&v=1773612935" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
