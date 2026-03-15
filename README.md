@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nature%20engenders%20the%20science%20of%20painting.&author=Robert%20Delaunay&v=1773530234" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20soon%20as%20questions%20of%20will%20or%20decision%20or%20reason%20or%20choice%20of%20action%20arise%2C%20human%20science%20is%20at%20a%20loss.&author=Noam%20Chomsky&v=1773537369" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
