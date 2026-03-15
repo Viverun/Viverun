@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20purpose%20of%20science%20is%20not%20to%20analyze%20or%20describe%20but%20to%20make%20useful%20models%20of%20the%20world.%20A%20model%20is%20useful%20if%20it%20allows%20us%20to%20get%20use%20out%20of%20it.&author=Edward%20de%20Bono&v=1773554365" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20development%20of%20the%20telescope%2C%20together%20with%20increased%20knowledge%20of%20things%2C%20brought%20men%20to%20see%20that%20the%20earth%20is%20not%20what%20man%20had%20once%20thought%20it%20to%20be.&author=Joseph%20Franklin%20Rutherford&v=1773557912" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
