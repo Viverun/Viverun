@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20development%20of%20the%20telescope%2C%20together%20with%20increased%20knowledge%20of%20things%2C%20brought%20men%20to%20see%20that%20the%20earth%20is%20not%20what%20man%20had%20once%20thought%20it%20to%20be.&author=Joseph%20Franklin%20Rutherford&v=1773557912" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20bathe%20a%20cat%20takes%20brute%20force%2C%20perseverance%2C%20courage%20of%20conviction%20-%20and%20a%20cat.%20The%20last%20ingredient%20is%20usually%20hardest%20to%20come%20by.&author=Stephen%20Baker&v=1773560618" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
