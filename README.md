@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Physics%20is%20experience%2C%20arranged%20in%20economical%20order.&author=Ernst%20Mach&v=1773581970" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20powerful%20attraction%20exists%2C%20therefore%2C%20to%20the%20promotion%20of%20a%20study%20and%20of%20duties%20of%20all%20others%20engrossing%20the%20time%20most%20completely%2C%20and%20which%20is%20less%20benefited%20than%20most%20others%20by%20any%20acquaintance%20with%20science.&author=Charles%20Babbage&v=1773584425" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
