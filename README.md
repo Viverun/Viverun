@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20I%20die%2C%20I%27m%20leaving%20my%20body%20to%20science%20fiction.&author=Steven%20Wright&v=1773587928" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20accidental%20causes%20of%20science%20are%20only%20accidents%20relatively%20to%20the%20intelligence%20of%20a%20man.&author=Chauncey%20Wright&v=1773591551" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
