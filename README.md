@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20accidental%20causes%20of%20science%20are%20only%20accidents%20relatively%20to%20the%20intelligence%20of%20a%20man.&author=Chauncey%20Wright&v=1773591551" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20member%20must%20say%20that%20he%20is%20a%20member%20of%20the%20Unification%20Church%20and%20that%20he%20is%20the%20follower%20of%20Sun%20Myung%20Moon.%20If%20he%20doesn%27t%20have%20the%20courage%20to%20say%20it%2C%20he%20is%20not%20worthy%20of%20me.&author=Sun%20Myung%20Moon&v=1773595117" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
