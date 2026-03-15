@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Unless%20we%20keep%20this%20planet%20healthy%2C%20everything%20else%20is%20for%20naught.&author=Victoria%20Principal&v=1773612935" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20one%20of%20those%20scientists%20who%20feels%20that%20it%20is%20no%20longer%20enough%20just%20to%20get%20on%20and%20do%20science.%20We%20have%20to%20devote%20a%20significant%20proportion%20of%20our%20time%20and%20resources%20to%20defending%20it%20from%20deliberate%20attack%20from%20organised%20ignorance.&author=Richard%20Dawkins&v=1773616738" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
