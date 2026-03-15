@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nobody%20under%20the%20sun%20was%20like%20Madonna.%20She%20was%20positive%20and%20clear%20and%20wholly%20dedicated%20to%20achieving%20everything%20that%20she%27s%20achieved.&author=Nile%20Rodgers&v=1773566590" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20raise%20new%20questions%2C%20new%20possibilities%2C%20to%20regard%20old%20problems%20from%20a%20new%20angle%2C%20requires%20creative%20imagination%20and%20marks%20real%20advance%20in%20science.&author=Albert%20Einstein&v=1773569892" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
