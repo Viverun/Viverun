@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20soon%20as%20questions%20of%20will%20or%20decision%20or%20reason%20or%20choice%20of%20action%20arise%2C%20human%20science%20is%20at%20a%20loss.&author=Noam%20Chomsky&v=1773537369" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20without%20respect%20for%20human%20life%20is%20degrading%20to%20us%20all%20and%20reflects%20a%20hollow%20and%20deceptive%20philosophy%2C%20a%20philosophy%20that%20we%20as%20a%20people%20should%20never%20condone.&author=Nathan%20Deal&v=1773548573" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
