@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%2C%20we%20are%20repeatedly%20told%2C%20is%20the%20most%20reliable%20form%20of%20knowledge%20about%20the%20world%20because%20it%20is%20based%20on%20testable%20hypotheses.%20Religion%2C%20by%20contrast%2C%20is%20based%20on%20faith.%20The%20term%20%27doubting%20Thomas%27%20well%20illustrates%20the%20difference.&author=Paul%20Davies&v=1773692819" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20surest%20sign%20that%20intelligent%20life%20exists%20elsewhere%20in%20the%20universe%20is%20that%20it%20has%20never%20tried%20to%20contact%20us.&author=Bill%20Watterson&v=1773696522" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
