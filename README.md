@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20analytical%2C%20descriptive%2C%20informative.%20Man%20does%20not%20live%20by%20bread%20alone%2C%20but%20by%20science%20he%20attempts%20to%20do%20so.%20Hence%20the%20deadliness%20of%20all%20that%20is%20purely%20scientific.&author=Eric%20Gill&v=1773683540" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20rude%20nature%20is%20worse%20than%20a%20brute%20nature%20by%20so%20much%20more%20as%20man%20is%20better%20than%20a%20beast%3A%20and%20those%20that%20are%20of%20civil%20natures%20and%20genteel%20dispositions%20are%20as%20much%20nearer%20to%20celestial%20creatures%20as%20those%20that%20are%20rude%20and%20cruel%20are%20to%20devils.&author=Margaret%20Cavendish&v=1773686721" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
