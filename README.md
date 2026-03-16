@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20surest%20sign%20that%20intelligent%20life%20exists%20elsewhere%20in%20the%20universe%20is%20that%20it%20has%20never%20tried%20to%20contact%20us.&author=Bill%20Watterson&v=1773696522" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=One%20could%20write%20a%20history%20of%20science%20in%20reverse%20by%20assembling%20the%20solemn%20pronouncements%20of%20highest%20authority%20about%20what%20could%20not%20be%20done%20and%20could%20never%20happen.&author=Robert%20A.%20Heinlein&v=1773699734" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
