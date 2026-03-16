@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Indeed%2C%20in%20view%20of%20its%20function%2C%20religion%20stands%20in%20greater%20need%20of%20a%20rational%20foundation%20of%20its%20ultimate%20principles%20than%20even%20the%20dogmas%20of%20science.&author=Muhammad%20Iqbal&v=1773648063" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20cannot%2C%20in%20human%20experience%2C%20rush%20into%20the%20light.%20You%20have%20to%20go%20through%20the%20twilight%20into%20the%20broadening%20day%20before%20the%20noon%20comes%20and%20the%20full%20sun%20is%20upon%20the%20landscape.&author=Woodrow%20Wilson&v=1773654771" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
