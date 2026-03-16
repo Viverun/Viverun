@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20rude%20nature%20is%20worse%20than%20a%20brute%20nature%20by%20so%20much%20more%20as%20man%20is%20better%20than%20a%20beast%3A%20and%20those%20that%20are%20of%20civil%20natures%20and%20genteel%20dispositions%20are%20as%20much%20nearer%20to%20celestial%20creatures%20as%20those%20that%20are%20rude%20and%20cruel%20are%20to%20devils.&author=Margaret%20Cavendish&v=1773686721" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20a%20way%20of%20thinking%20much%20more%20than%20it%20is%20a%20body%20of%20knowledge.&author=Carl%20Sagan&v=1773690367" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
