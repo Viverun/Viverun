@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perhaps%2C%20to%20the%20uninformed%2C%20it%20may%20appear%20unaccountable%20that%20a%20man%20should%20be%20able%20to%20retain%20in%20his%20memory%20such%20a%20variety%20of%20learning%20but%20the%20close%20alliance%20with%20each%20other%2C%20of%20the%20different%20branches%20of%20science%2C%20will%20explain%20the%20difficulty.&author=Marcus%20V.%20Pollio&v=1773676467" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=But%20perhaps%20the%20rest%20of%20us%20could%20have%20separate%20classes%20in%20science%20appreciation%2C%20the%20wonder%20of%20science%2C%20scientific%20ways%20of%20thinking%2C%20and%20the%20history%20of%20scientific%20ideas%2C%20rather%20than%20laboratory%20experience.&author=Richard%20Dawkins&v=1773679898" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
