@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20am%20one%20of%20those%20scientists%20who%20feels%20that%20it%20is%20no%20longer%20enough%20just%20to%20get%20on%20and%20do%20science.%20We%20have%20to%20devote%20a%20significant%20proportion%20of%20our%20time%20and%20resources%20to%20defending%20it%20from%20deliberate%20attack%20from%20organised%20ignorance.&author=Richard%20Dawkins&v=1773616738" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20cannot%20look%20up%20at%20the%20night%20sky%20on%20the%20Planet%20Earth%20and%20not%20wonder%20what%20it%27s%20like%20to%20be%20up%20there%20amongst%20the%20stars.%20And%20I%20always%20look%20up%20at%20the%20moon%20and%20see%20it%20as%20the%20single%20most%20romantic%20place%20within%20the%20cosmos.&author=Tom%20Hanks&v=1773623745" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
