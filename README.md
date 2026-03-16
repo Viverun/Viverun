@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=What%20sweetness%20is%20left%20in%20life%2C%20if%20you%20take%20away%20friendship%3F%20Robbing%20life%20of%20friendship%20is%20like%20robbing%20the%20world%20of%20the%20sun.%20A%20true%20friend%20is%20more%20to%20be%20esteemed%20than%20kinsfolk.&author=Marcus%20Tullius%20Cicero&v=1773641604" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Indeed%2C%20in%20view%20of%20its%20function%2C%20religion%20stands%20in%20greater%20need%20of%20a%20rational%20foundation%20of%20its%20ultimate%20principles%20than%20even%20the%20dogmas%20of%20science.&author=Muhammad%20Iqbal&v=1773648063" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
