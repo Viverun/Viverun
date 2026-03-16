@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20cannot%20look%20up%20at%20the%20night%20sky%20on%20the%20Planet%20Earth%20and%20not%20wonder%20what%20it%27s%20like%20to%20be%20up%20there%20amongst%20the%20stars.%20And%20I%20always%20look%20up%20at%20the%20moon%20and%20see%20it%20as%20the%20single%20most%20romantic%20place%20within%20the%20cosmos.&author=Tom%20Hanks&v=1773623745" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nothing%20is%20less%20important%20than%20which%20fork%20you%20use.%20Etiquette%20is%20the%20science%20of%20living.%20It%20embraces%20everything.%20It%20is%20ethics.%20It%20is%20honor.&author=Emily%20Post&v=1773635390" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
