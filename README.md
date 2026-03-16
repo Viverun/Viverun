@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=But%20perhaps%20the%20rest%20of%20us%20could%20have%20separate%20classes%20in%20science%20appreciation%2C%20the%20wonder%20of%20science%2C%20scientific%20ways%20of%20thinking%2C%20and%20the%20history%20of%20scientific%20ideas%2C%20rather%20than%20laboratory%20experience.&author=Richard%20Dawkins&v=1773679898" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20analytical%2C%20descriptive%2C%20informative.%20Man%20does%20not%20live%20by%20bread%20alone%2C%20but%20by%20science%20he%20attempts%20to%20do%20so.%20Hence%20the%20deadliness%20of%20all%20that%20is%20purely%20scientific.&author=Eric%20Gill&v=1773683540" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
