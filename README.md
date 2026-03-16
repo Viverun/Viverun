@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=One%20could%20write%20a%20history%20of%20science%20in%20reverse%20by%20assembling%20the%20solemn%20pronouncements%20of%20highest%20authority%20about%20what%20could%20not%20be%20done%20and%20could%20never%20happen.&author=Robert%20A.%20Heinlein&v=1773699734" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20mother%20was%20the%20sweetest%20lady%20who%20ever%20lived%20on%20this%20planet%2C%20but%20if%20you%20tried%20to%20tell%20her%20that%20Jesus%20wasn%27t%20a%20Christian%2C%20she%20would%20stomp%20you%20to%20death.&author=Dick%20Gregory&v=1773703253" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
