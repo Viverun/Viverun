@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nothing%20is%20less%20important%20than%20which%20fork%20you%20use.%20Etiquette%20is%20the%20science%20of%20living.%20It%20embraces%20everything.%20It%20is%20ethics.%20It%20is%20honor.&author=Emily%20Post&v=1773635390" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=What%20sweetness%20is%20left%20in%20life%2C%20if%20you%20take%20away%20friendship%3F%20Robbing%20life%20of%20friendship%20is%20like%20robbing%20the%20world%20of%20the%20sun.%20A%20true%20friend%20is%20more%20to%20be%20esteemed%20than%20kinsfolk.&author=Marcus%20Tullius%20Cicero&v=1773641604" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
