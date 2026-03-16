@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That%20which%20today%20calls%20itself%20science%20gives%20us%20more%20and%20more%20information%2C%20and%20indigestible%20glut%20of%20information%2C%20and%20less%20and%20less%20understanding.&author=Edward%20Abbey&v=1773657802" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20Universe%20is%20one%20great%20kindergarten%20for%20man.%20Everything%20that%20exists%20has%20brought%20with%20it%20its%20own%20peculiar%20lesson.&author=Orison%20Swett%20Marden&v=1773661107" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
