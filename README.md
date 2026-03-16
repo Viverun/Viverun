@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20Universe%20is%20one%20great%20kindergarten%20for%20man.%20Everything%20that%20exists%20has%20brought%20with%20it%20its%20own%20peculiar%20lesson.&author=Orison%20Swett%20Marden&v=1773661107" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=People%2C%20and%20especially%20theologians%2C%20should%20try%20to%20familiarize%20themselves%20with%20scientific%20ideas.%20Of%20course%2C%20science%20is%20technical%20in%20many%20respects%2C%20but%20there%20are%20some%20very%20good%20books%20that%20try%20to%20set%20out%20some%20of%20the%20conceptual%20structure%20of%20science.&author=John%20Polkinghorne&v=1773665017" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
