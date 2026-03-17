@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Faith%20is%20an%20island%20in%20the%20setting%20sun%2C%20But%20proof%20is%20the%20bottom%20line%20for%20everyone.&author=Paul%20Simon&v=1773740619" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20wife%20is%20the%20most%20awesome%20person%20in%20the%20universe.%20She%27s%20made%20this%20experience%20much%20less%20miserable%20for%20me%2C%20with%20her%20compassion%2C%20patience%20and%20understanding.&author=Wil%20Wheaton&v=1773743954" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
