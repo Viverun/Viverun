@@ -47,7 +47,7 @@ class CosmicEntity:
     
     def __init__(self):
         self.designation = "Viverun"
-        self.classification = "Backend Architect"
+        self.classification = "Multi-Agent Systems Developer"
         self.coordinates = "Sol System, Orion Arm"
         self.mission = "Decode the universe"
         
