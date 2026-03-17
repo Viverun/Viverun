@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Space%20is%20big.%20You%20just%20won%27t%20believe%20how%20vastly%2C%20hugely%2C%20mind-bogglingly%20big%20it%20is.&author=Douglas%20Adams&v=1773773097" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20a%20differential%20equation.%20Religion%20is%20a%20boundary%20condition.&author=Alan%20Turing&v=1773776865" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
