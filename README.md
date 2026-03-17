@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20science%20the%20important%20thing%20is%20to%20modify%20and%20change%20one%27s%20ideas%20as%20science%20advances.&author=Herbert%20Spencer&v=1773786120" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20think%20masculinity%20is%20bravado%20against%20the%20mystery%20of%20the%20universe%20of%20women.%20It%27s%20just%20a%20fear%20of%20not%20knowing%20what%20women%20have%20that%27s%20so%20powerful.%20It%27s%20this%20shield%20they%20put%20up%20to%20try%20to%20get%20closer.&author=K.%20D.%20Lang&v=1773789686" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
