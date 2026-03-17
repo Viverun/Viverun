@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Stay%20out%20of%20the%20sun%2C%20because%20it%20is%20the%20worst%20thing%20in%20terms%20of%20aging.%20I%27m%20very%20medical.%20I%20come%20from%20a%20medical%20family.&author=Nicole%20Kidman&v=1773779278" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Is%20there%20anything%20science%20should%20not%20try%20to%20explain%3F%20Science%20is%20knowledge%20and%20knowledge%20is%20power%20-%20power%20to%20do%20good%20or%20evil.%20Sometimes%20ignorance%20is%20bliss.&author=Paul%20Davies&v=1773782804" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
