@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A78BFA&text=Viverun&height=100&fontSize=60&animation=twinkling" alt="Viverun"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Exploring+the+Infinite+Through+Code;Python+Backend+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Exploring+the+Infinite+Through+Code;Python+Multi-Agent+Systems+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
