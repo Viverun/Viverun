@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Just%20after%20World%20War%20II%2C%20this%20country%20led%20the%20world%20in%20science%20by%20every%20way%20you%20could%20measure%20it%2C%20yet%20the%20number%20of%20scientists%20was%20a%20tiny%20proportion%20of%20what%20it%20is%20now.&author=James%20Lovelock&v=1773730225" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20feel%20good%20in%20my%20own%20skin%20because%20I%27ve%20accepted%20the%20fact%20that%20I%27m%20me.%20That%27s%20what%27s%20so%20great%20about%20being%20alive%20and%20being%20on%20this%20planet%3A%20Everybody%27s%20different.&author=Kelly%20Osbourne&v=1773733552" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
