@@ -76,9 +76,10 @@ print(entity.transmit_message())
 | 🎯 Directive | 📡 Details |
 |:---:|:---|
 | 🔭 **Observing** | Cosmology · Black Holes · Quantum Mechanics · Multiverse Theory |
-| �️ **Engineering** | Python · Django · FastAPI · Scientific Computing |
-| 🚀 **Propulsion** | GCP · Docker · PostgreSQL · Redis |
-| 🌟 **Prime Directive** | Creating open source alternatives for the cosmos |
+| 🤖 **Engineering** | Multi-Agent Systems · LangGraph · CrewAI · AutoGen · Python |
+| 🛸 **Propulsion** | GCP · Docker · PostgreSQL · Redis |
+| 📦 **Published** | [jits-legal-dataset](https://huggingface.co/datasets/Viverun/jits-legal-dataset) — 873 downloads · Indian court judgments |
+| 🌟 **Prime Directive** | Building AI agents for real-world Indian problems |
 
 </div>
 
