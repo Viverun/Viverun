@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Teachers%20started%20recognizing%20me%20and%20praising%20me%20for%20being%20smart%20in%20science%20and%20that%20made%20me%20want%20to%20be%20even%20smarter%20in%20science%21&author=Steve%20Wozniak&v=1773766452" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20this%20day%2C%20I%20hate%20walnuts%20and%20I%20hate%20onions%20because%20on%20weekends%20when%20the%20walnuts%20and%20onions%20were%20in%20season%2C%20we%20were%20out%20there%20first%20thing%20in%20the%20morning%20and%20out%20there%20until%20the%20sun%20went%20down%20topping%20onions%20or%20picking%20walnuts.&author=Scott%20Brooks&v=1773769968" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
