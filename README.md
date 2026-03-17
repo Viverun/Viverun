@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20mother%20was%20the%20sweetest%20lady%20who%20ever%20lived%20on%20this%20planet%2C%20but%20if%20you%20tried%20to%20tell%20her%20that%20Jesus%20wasn%27t%20a%20Christian%2C%20she%20would%20stomp%20you%20to%20death.&author=Dick%20Gregory&v=1773703253" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20there%20was%20an%20observer%20on%20Mars%2C%20they%20would%20probably%20be%20amazed%20that%20we%20have%20survived%20this%20long.&author=Noam%20Chomsky&v=1773709651" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
