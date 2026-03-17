@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20feel%20good%20in%20my%20own%20skin%20because%20I%27ve%20accepted%20the%20fact%20that%20I%27m%20me.%20That%27s%20what%27s%20so%20great%20about%20being%20alive%20and%20being%20on%20this%20planet%3A%20Everybody%27s%20different.&author=Kelly%20Osbourne&v=1773733552" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20you%20are%20courting%20a%20nice%20girl%20an%20hour%20seems%20like%20a%20second.%20When%20you%20sit%20on%20a%20red-hot%20cinder%20a%20second%20seems%20like%20an%20hour.%20That%27s%20relativity.&author=Albert%20Einstein&v=1773736718" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
