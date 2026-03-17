@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20argument%20for%20intelligent%20design%20basically%20depends%20on%20saying%2C%20%27You%20haven%27t%20answered%20every%20question%20with%20evolution%2C%27...%20Well%2C%20guess%20what%3F%20Science%20can%27t%20answer%20every%20question.&author=Kenneth%20R.%20Miller&v=1773762804" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Teachers%20started%20recognizing%20me%20and%20praising%20me%20for%20being%20smart%20in%20science%20and%20that%20made%20me%20want%20to%20be%20even%20smarter%20in%20science%21&author=Steve%20Wozniak&v=1773766452" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
