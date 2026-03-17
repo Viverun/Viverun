@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20a%20differential%20equation.%20Religion%20is%20a%20boundary%20condition.&author=Alan%20Turing&v=1773776865" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Stay%20out%20of%20the%20sun%2C%20because%20it%20is%20the%20worst%20thing%20in%20terms%20of%20aging.%20I%27m%20very%20medical.%20I%20come%20from%20a%20medical%20family.&author=Nicole%20Kidman&v=1773779278" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
