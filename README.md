@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=He%20who%20possesses%20art%20and%20science%20has%20religion%20he%20who%20does%20not%20possess%20them%2C%20needs%20religion.&author=Johann%20Wolfgang%20von%20Goethe&v=1773747323" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20reckons%20many%20prophets%2C%20but%20there%20is%20not%20even%20a%20promise%20of%20a%20Messiah.&author=Thomas%20Huxley&v=1773751349" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
