@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Traditional%20academic%20science%20describes%20human%20beings%20as%20highly%20developed%20animals%20and%20biological%20thinking%20machines.%20We%20appear%20to%20be%20Newtonian%20objects%20made%20of%20atoms%2C%20molecules%2C%20cells%2C%20tissues%2C%20and%20organs.&author=Stanislav%20Grof&v=1773720415" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=However%20far%20modern%20science%20and%20techniques%20have%20fallen%20short%20of%20their%20inherent%20possibilities%2C%20they%20have%20taught%20mankind%20at%20least%20one%20lesson%20nothing%20is%20impossible.&author=Lewis%20Mumford&v=1773726716" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
