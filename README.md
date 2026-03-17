@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=However%20far%20modern%20science%20and%20techniques%20have%20fallen%20short%20of%20their%20inherent%20possibilities%2C%20they%20have%20taught%20mankind%20at%20least%20one%20lesson%20nothing%20is%20impossible.&author=Lewis%20Mumford&v=1773726716" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Just%20after%20World%20War%20II%2C%20this%20country%20led%20the%20world%20in%20science%20by%20every%20way%20you%20could%20measure%20it%2C%20yet%20the%20number%20of%20scientists%20was%20a%20tiny%20proportion%20of%20what%20it%20is%20now.&author=James%20Lovelock&v=1773730225" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
