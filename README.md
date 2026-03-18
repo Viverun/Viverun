@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20day%20I%20finished%20%27Twilight%2C%27%20I%20came%20home%20and%20started%20bulking%20up.%20For%20%27New%20Moon%2C%27%20I%27m%2030%20pounds%20heavier%20than%20I%20was%20in%20%27Twilight.%27&author=Taylor%20Lautner&v=1773865513" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That%20which%20today%20calls%20itself%20science%20gives%20us%20more%20and%20more%20information%2C%20and%20indigestible%20glut%20of%20information%2C%20and%20less%20and%20less%20understanding.&author=Edward%20Abbey&v=1773869092" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
