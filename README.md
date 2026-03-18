@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20was%20always%20very%20interested%20in%20science%2C%20and%20I%20knew%20that%20for%20me%2C%20science%20was%20a%20better%20long-term%20career%20than%20tennis.&author=Sally%20Ride&v=1773853306" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Those%20theologians%20who%20are%20beginning%20to%20take%20the%20doctrine%20of%20creation%20very%20seriously%20should%20pay%20some%20attention%20to%20science%27s%20story.&author=John%20Polkinghorne&v=1773859331" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
