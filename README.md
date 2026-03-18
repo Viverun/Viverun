@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20body%20of%20work%20such%20as%20Pasteur%27s%20is%20inconceivable%20in%20our%20time%3A%20no%20man%20would%20be%20given%20a%20chance%20to%20create%20a%20whole%20science.%20Nowadays%20a%20path%20is%20scarcely%20opened%20up%20when%20the%20crowd%20begins%20to%20pour%20in.&author=Jean%20Rostand&v=1773872531" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20fiction%2C%20to%20me%2C%20has%20not%20only%20things%20that%20wouldn%27t%20happen%2C%20but%20other%20planets.&author=Margaret%20Atwood&v=1773876093" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
