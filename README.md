@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20science%20of%20today%20is%20the%20technology%20of%20tomorrow.&author=Edward%20Teller&v=1773826875" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20all%20metaphor.&author=Timothy%20Leary&v=1773830410" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
