@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20all%20metaphor.&author=Timothy%20Leary&v=1773830410" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20think%20people%20are%20realizing%20that%20engineering%20and%20science%20are%20extremely%20good%20degrees%20to%20get%20and%20you%27ll%20be%20very%20highly%20paid%20once%20you%27ve%20got%20them.&author=James%20Dyson&v=1773833814" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
