@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27d%20visit%20the%20near%20future%2C%20close%20enough%20that%20someone%20might%20want%20to%20talk%20to%20Larry%20Niven%20and%20can%20figure%20out%20the%20language%20distant%20enough%20to%20get%20me%20decent%20medical%20techniques%20and%20a%20ticket%20to%20the%20Moon.&author=Larry%20Niven&v=1773816720" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perseverance%20is%20not%20a%20long%20race%20it%20is%20many%20short%20races%20one%20after%20the%20other.&author=Walter%20Elliot&v=1773819863" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
