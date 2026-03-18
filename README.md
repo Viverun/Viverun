@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perseverance%20is%20not%20a%20long%20race%20it%20is%20many%20short%20races%20one%20after%20the%20other.&author=Walter%20Elliot&v=1773819863" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20me%2C%20there%20is%20something%20superbly%20symbolic%20in%20the%20fact%20that%20an%20astronaut%2C%20sent%20up%20as%20assistant%20to%20a%20series%20of%20computers%2C%20found%20that%20he%20worked%20more%20accurately%20and%20more%20intelligently%20than%20they.%20Inside%20the%20capsule%2C%20man%20is%20still%20in%20charge.&author=Adlai%20Stevenson&v=1773822928" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
