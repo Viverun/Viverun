@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Well%2C%20Freddie%20Mercury%20is%20a%20really%20huge%20rock%20star%20in%20my%20head.%20I%27ve%20always%20thought%20he%20was%20just%20so%20tough%20and%20such%20an%20amazing%20entertainer%2C%20really%20a%20contradiction%20in%20many%20ways%20as%20well.%20So%20he%20was%20incredible.&author=Karen%20O&v=1773796296" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=For%20the%20past%20two%20years%2C%20President%20Obama%20has%20promised%20our%20children%20the%20moon%2C%20stars%2C%20rainbows%2C%20unicorns%20and%20universal%20health%20care%20for%20all.%20But%20the%20White%20House%20Santa%27s%20cradle-to-grave%20entitlement%20mandates%20are%20a%20spectacularly%20predictable%20bust.&author=Michelle%20Malkin&v=1773807193" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
