@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20think%20people%20are%20realizing%20that%20engineering%20and%20science%20are%20extremely%20good%20degrees%20to%20get%20and%20you%27ll%20be%20very%20highly%20paid%20once%20you%27ve%20got%20them.&author=James%20Dyson&v=1773833814" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Medicine%20is%20a%20science%20of%20uncertainty%20and%20an%20art%20of%20probability.&author=William%20Osler&v=1773837765" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
