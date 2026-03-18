@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Most%20of%20us%20can%20remember%20a%20time%20when%20a%20birthday%20-%20especially%20if%20it%20was%20one%27s%20own%20-%20brightened%20the%20world%20as%20if%20a%20second%20sun%20has%20risen.&author=Robert%20Staughton%20Lynd&v=1773849572" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20was%20always%20very%20interested%20in%20science%2C%20and%20I%20knew%20that%20for%20me%2C%20science%20was%20a%20better%20long-term%20career%20than%20tennis.&author=Sally%20Ride&v=1773853306" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
