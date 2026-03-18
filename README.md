@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Those%20theologians%20who%20are%20beginning%20to%20take%20the%20doctrine%20of%20creation%20very%20seriously%20should%20pay%20some%20attention%20to%20science%27s%20story.&author=John%20Polkinghorne&v=1773859331" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=How%20we%20are%20using%20up%20our%20home%2C%20how%20we%20are%20living%20and%20polluting%20the%20planet%20is%20frightening.%20It%20was%20evident%20when%20I%20was%20a%20child.%20It%27s%20more%20evident%20now.&author=Maya%20Lin&v=1773862865" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
