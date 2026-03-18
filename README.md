@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That%20which%20today%20calls%20itself%20science%20gives%20us%20more%20and%20more%20information%2C%20and%20indigestible%20glut%20of%20information%2C%20and%20less%20and%20less%20understanding.&author=Edward%20Abbey&v=1773869092" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20body%20of%20work%20such%20as%20Pasteur%27s%20is%20inconceivable%20in%20our%20time%3A%20no%20man%20would%20be%20given%20a%20chance%20to%20create%20a%20whole%20science.%20Nowadays%20a%20path%20is%20scarcely%20opened%20up%20when%20the%20crowd%20begins%20to%20pour%20in.&author=Jean%20Rostand&v=1773872531" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
