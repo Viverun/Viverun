@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=For%20the%20past%20two%20years%2C%20President%20Obama%20has%20promised%20our%20children%20the%20moon%2C%20stars%2C%20rainbows%2C%20unicorns%20and%20universal%20health%20care%20for%20all.%20But%20the%20White%20House%20Santa%27s%20cradle-to-grave%20entitlement%20mandates%20are%20a%20spectacularly%20predictable%20bust.&author=Michelle%20Malkin&v=1773807193" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=So%20the%20old%20Copenhagen%20interpretation%20needs%20to%20be%20generalized%2C%20needs%20to%20be%20replaced%20by%20something%20that%20can%20be%20used%20for%20the%20whole%20universe%2C%20and%20can%20be%20used%20also%20in%20cases%20where%20there%20is%20plenty%20of%20individuality%20and%20history.&author=Murray%20Gell-Mann&v=1773813353" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
