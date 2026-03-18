@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20think%20masculinity%20is%20bravado%20against%20the%20mystery%20of%20the%20universe%20of%20women.%20It%27s%20just%20a%20fear%20of%20not%20knowing%20what%20women%20have%20that%27s%20so%20powerful.%20It%27s%20this%20shield%20they%20put%20up%20to%20try%20to%20get%20closer.&author=K.%20D.%20Lang&v=1773789686" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Well%2C%20Freddie%20Mercury%20is%20a%20really%20huge%20rock%20star%20in%20my%20head.%20I%27ve%20always%20thought%20he%20was%20just%20so%20tough%20and%20such%20an%20amazing%20entertainer%2C%20really%20a%20contradiction%20in%20many%20ways%20as%20well.%20So%20he%20was%20incredible.&author=Karen%20O&v=1773796296" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
