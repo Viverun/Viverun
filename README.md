@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20seen%20firsthand%20that%20agricultural%20science%20has%20enormous%20potential%20to%20increase%20the%20yields%20of%20small%20farmers%20and%20lift%20them%20out%20of%20hunger%20and%20poverty.&author=Bill%20Gates&v=1773908989" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Before%20a%20war%20military%20science%20seems%20a%20real%20science%2C%20like%20astronomy%20but%20after%20a%20war%20it%20seems%20more%20like%20astrology.&author=Rebecca%20West&v=1773912772" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
