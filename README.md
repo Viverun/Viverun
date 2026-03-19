@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Fifty%20percent%20of%20our%20country%20that%20we%20own%2C%20have%20all%20legal%20jurisdiction%2C%20have%20all%20rights%20to%20do%20whatever%20we%20want%2C%20lies%20beneath%20the%20sea%20and%20we%20have%20better%20maps%20of%20Mars%20than%20that%2050%20percent.&author=Robert%20Ballard&v=1773945622" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20warn%20you%20against%20believing%20that%20advertising%20is%20a%20science.&author=William%20Bernbach&v=1773949179" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
