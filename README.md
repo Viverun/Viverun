@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=All%20one%27s%20inventions%20are%20true%2C%20you%20can%20be%20sure%20of%20that.%20Poetry%20is%20as%20exact%20a%20science%20as%20geometry.&author=Gustave%20Flaubert&v=1773934910" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Religion%20is%20to%20mysticism%20what%20popularization%20is%20to%20science.&author=Henri%20Bergson&v=1773938678" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
