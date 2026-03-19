@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20fiction%2C%20to%20me%2C%20has%20not%20only%20things%20that%20wouldn%27t%20happen%2C%20but%20other%20planets.&author=Margaret%20Atwood&v=1773876093" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20grand%20aim%20of%20all%20science%20is%20to%20cover%20the%20greatest%20number%20of%20empirical%20facts%20by%20logical%20deduction%20from%20the%20smallest%20number%20of%20hypotheses%20or%20axioms.&author=Albert%20Einstein&v=1773882673" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
