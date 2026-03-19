@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20dog%20teaches%20a%20boy%20fidelity%2C%20perseverance%2C%20and%20to%20turn%20around%20three%20times%20before%20lying%20down.&author=Robert%20Benchley&v=1773902607" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=So%20the%20old%20Copenhagen%20interpretation%20needs%20to%20be%20generalized%2C%20needs%20to%20be%20replaced%20by%20something%20that%20can%20be%20used%20for%20the%20whole%20universe%2C%20and%20can%20be%20used%20also%20in%20cases%20where%20there%20is%20plenty%20of%20individuality%20and%20history.&author=Murray%20Gell-Mann&v=1773905955" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
