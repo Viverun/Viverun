@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20the%20great%20antidote%20to%20the%20poison%20of%20enthusiasm%20and%20superstition.&author=Adam%20Smith&v=1773919620" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Journey%20with%20me%20to%20a%20true%20commitment%20to%20our%20environment.%20Journey%20with%20me%20to%20the%20serenity%20of%20leaving%20to%20our%20children%20a%20planet%20in%20equilibrium.&author=Paul%20Tsongas&v=1773923791" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
