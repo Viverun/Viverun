@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%27ve%20arranged%20a%20civilization%20in%20which%20most%20crucial%20elements%20profoundly%20depend%20on%20science%20and%20technology.&author=Carl%20Sagan&v=1773951933" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20you%27re%20a%20houseguest%20and%20you%20leave%2C%20it%27s%20nice%20to%20straighten%20something%20up%20or%20send%20your%20hosts%20a%20useful%20gift.%20And%20when%20you%20leave%20the%20planet%2C%20it%27s%20nice%20to%20have%20made%20a%20positive%20contribution.&author=Alexander%20Payne&v=1773955476" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
