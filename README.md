@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Journey%20with%20me%20to%20a%20true%20commitment%20to%20our%20environment.%20Journey%20with%20me%20to%20the%20serenity%20of%20leaving%20to%20our%20children%20a%20planet%20in%20equilibrium.&author=Paul%20Tsongas&v=1773923791" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%27Snow%20White%27%20is%20an%20old%20fairy%20tale%2C%20so%20obviously%20the%20idea%20of%20vanity%20and%20obsession%20with%20youth%20is%20long-standing.%20With%20today%27s%20science%2C%20people%20have%20become%20crazy%20with%20trying%20to%20move%20their%20face%20around.%20It%27s%20bizarre.&author=Julia%20Roberts&v=1773928887" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
