@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Philosophers%20have%20not%20kept%20up%20with%20modern%20developments%20in%20science.%20Particularly%20physics.&author=Stephen%20Hawking&v=1773916146" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20the%20great%20antidote%20to%20the%20poison%20of%20enthusiasm%20and%20superstition.&author=Adam%20Smith&v=1773919620" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
