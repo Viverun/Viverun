@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20an%20elder%20of%20the%20Americas%20and%20of%20the%20rest%20of%20the%20planet%2C%20it%20is%20my%20responsibility%20to%20care%20for%20and%20protect%2C%20to%20the%20best%20of%20my%20ability%2C%20the%20young.&author=Alice%20Walker&v=1773899442" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20dog%20teaches%20a%20boy%20fidelity%2C%20perseverance%2C%20and%20to%20turn%20around%20three%20times%20before%20lying%20down.&author=Robert%20Benchley&v=1773902607" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
