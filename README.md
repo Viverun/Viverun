@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20warn%20you%20against%20believing%20that%20advertising%20is%20a%20science.&author=William%20Bernbach&v=1773949179" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%27ve%20arranged%20a%20civilization%20in%20which%20most%20crucial%20elements%20profoundly%20depend%20on%20science%20and%20technology.&author=Carl%20Sagan&v=1773951933" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
