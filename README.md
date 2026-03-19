@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Religion%20is%20to%20mysticism%20what%20popularization%20is%20to%20science.&author=Henri%20Bergson&v=1773938678" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20think%20the%20crux%20of%20the%20matter%20was%20that%20if%20we%20were%20going%20to%20become%20partners%20in%2C%20for%20example%2C%20the%20International%20Space%20Station%2C%20we%20had%20to%20gain%20the%20respect%20of%20a%20country%20like%20the%20United%20States%20and%20particularly%20its%20space%20organization%2C%20NASA.&author=Marc%20Garneau&v=1773942389" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
