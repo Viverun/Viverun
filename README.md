@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20think%20the%20crux%20of%20the%20matter%20was%20that%20if%20we%20were%20going%20to%20become%20partners%20in%2C%20for%20example%2C%20the%20International%20Space%20Station%2C%20we%20had%20to%20gain%20the%20respect%20of%20a%20country%20like%20the%20United%20States%20and%20particularly%20its%20space%20organization%2C%20NASA.&author=Marc%20Garneau&v=1773942389" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Fifty%20percent%20of%20our%20country%20that%20we%20own%2C%20have%20all%20legal%20jurisdiction%2C%20have%20all%20rights%20to%20do%20whatever%20we%20want%2C%20lies%20beneath%20the%20sea%20and%20we%20have%20better%20maps%20of%20Mars%20than%20that%2050%20percent.&author=Robert%20Ballard&v=1773945622" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
