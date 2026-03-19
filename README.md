@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Joy%20in%20the%20universe%2C%20and%20keen%20curiosity%20about%20it%20all%20-%20that%20has%20been%20my%20religion.&author=John%20Burroughs&v=1773958616" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That%27s%20the%20whole%20problem%20with%20science.%20You%27ve%20got%20a%20bunch%20of%20empiricists%20trying%20to%20describe%20things%20of%20unimaginable%20wonder.&author=Bill%20Watterson&v=1773962383" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
