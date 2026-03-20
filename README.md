@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20organized%20knowledge.%20Wisdom%20is%20organized%20life.&author=Immanuel%20Kant&v=1774017346" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Nobody%20under%20the%20sun%20was%20like%20Madonna.%20She%20was%20positive%20and%20clear%20and%20wholly%20dedicated%20to%20achieving%20everything%20that%20she%27s%20achieved.&author=Nile%20Rodgers&v=1774020764" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
