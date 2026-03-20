@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20a%20lot%20of%20plants%20and%20fish%20and%20a%20pet%20lizard%20and%20Venus%20flytraps.%20I%20have%20a%20whole%20ecosystem%20in%20my%20room%2C%20like%20a%20running%20waterfall%20and%20different%20lights%20and%20sensors%20set%20on%20digital%20timers.&author=Chris%20Pratt&v=1774027692" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20development%20of%20the%20telescope%2C%20together%20with%20increased%20knowledge%20of%20things%2C%20brought%20men%20to%20see%20that%20the%20earth%20is%20not%20what%20man%20had%20once%20thought%20it%20to%20be.&author=Joseph%20Franklin%20Rutherford&v=1774031552" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
