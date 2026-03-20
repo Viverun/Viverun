@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Women%20tend%20to%20be%20more%20intuitive%2C%20or%20to%20admit%20to%20being%20intuitive%2C%20and%20maybe%20the%20hard%20science%20approach%20isn%27t%20so%20attractive.%20The%20way%20that%20science%20is%20taught%20is%20very%20cold.%20I%20would%20never%20have%20become%20a%20scientist%20if%20I%20had%20been%20taught%20like%20that.&author=Jane%20Goodall&v=1773988804" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20soon%20as%20questions%20of%20will%20or%20decision%20or%20reason%20or%20choice%20of%20action%20arise%2C%20human%20science%20is%20at%20a%20loss.&author=Noam%20Chomsky&v=1773992305" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
