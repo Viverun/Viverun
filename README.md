@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20organized%20common%20sense%20where%20many%20a%20beautiful%20theory%20was%20killed%20by%20an%20ugly%20fact.&author=Thomas%20Huxley&v=1773985374" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Women%20tend%20to%20be%20more%20intuitive%2C%20or%20to%20admit%20to%20being%20intuitive%2C%20and%20maybe%20the%20hard%20science%20approach%20isn%27t%20so%20attractive.%20The%20way%20that%20science%20is%20taught%20is%20very%20cold.%20I%20would%20never%20have%20become%20a%20scientist%20if%20I%20had%20been%20taught%20like%20that.&author=Jane%20Goodall&v=1773988804" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
