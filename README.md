@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20is%20one%20thing%20even%20more%20vital%20to%20science%20than%20intelligent%20methods%20and%20that%20is%2C%20the%20sincere%20desire%20to%20find%20out%20the%20truth%2C%20whatever%20it%20may%20be.&author=Charles%20Pierce&v=1774024212" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20have%20a%20lot%20of%20plants%20and%20fish%20and%20a%20pet%20lizard%20and%20Venus%20flytraps.%20I%20have%20a%20whole%20ecosystem%20in%20my%20room%2C%20like%20a%20running%20waterfall%20and%20different%20lights%20and%20sensors%20set%20on%20digital%20timers.&author=Chris%20Pratt&v=1774027692" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
