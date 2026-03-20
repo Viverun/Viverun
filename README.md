@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=As%20soon%20as%20questions%20of%20will%20or%20decision%20or%20reason%20or%20choice%20of%20action%20arise%2C%20human%20science%20is%20at%20a%20loss.&author=Noam%20Chomsky&v=1773992305" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20properly%20more%20scrupulous%20than%20dogma.%20Dogma%20gives%20a%20charter%20to%20mistake%2C%20but%20the%20very%20breath%20of%20science%20is%20a%20contest%20with%20mistake%2C%20and%20must%20keep%20the%20conscience%20alive.&author=George%20Eliot&v=1773995330" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
