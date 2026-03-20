@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Knowledge%20has%20three%20degrees%20%E2%80%94%20opinion%2C%20science%2C%20illumination.%20The%20means%20or%20instrument%20of%20the%20first%20is%20sense%3B%20of%20the%20second%2C%20dialectic%3B%20of%20the%20third%2C%20intuition.&author=Plotinus&v=1774005747" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20foundation%20of%20empire%20is%20art%20and%20science.%20Remove%20them%20or%20degrade%20them%2C%20and%20the%20empire%20is%20no%20more.%20Empire%20follows%20art%20and%20not%20vice%20versa%20as%20Englishmen%20suppose.&author=William%20Blake&v=1774009963" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
