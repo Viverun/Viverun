@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20is%20under%20no%20obligation%20to%20make%20sense%20to%20you.&author=Neil%20deGrasse%20Tyson&v=1774044995" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=My%20mom%20introduced%20me%20to%20science-fiction.&author=Logan%20Marshall-Green&v=1774048700" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
