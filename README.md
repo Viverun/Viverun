@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=That%27s%20the%20whole%20problem%20with%20science.%20You%27ve%20got%20a%20bunch%20of%20empiricists%20trying%20to%20describe%20things%20of%20unimaginable%20wonder.&author=Bill%20Watterson&v=1773962383" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20healthy%2C%20have%20a%20loving%20and%20adorable%20family%2C%20great%20hunting%20dogs%2C%20a%20gravity%20defying%20musical%20career%20and%20most%20importantly%2C%20fuzzy-headed%20idiots%20hate%20me.&author=Ted%20Nugent&v=1773968826" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
