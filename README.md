@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20may%20have%20found%20a%20cure%20for%20most%20evils%20but%20it%20has%20found%20no%20remedy%20for%20the%20worst%20of%20them%20all%20-%20the%20apathy%20of%20human%20beings.&author=Helen%20Keller&v=1773979424" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20organized%20common%20sense%20where%20many%20a%20beautiful%20theory%20was%20killed%20by%20an%20ugly%20fact.&author=Thomas%20Huxley&v=1773985374" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
