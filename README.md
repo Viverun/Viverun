@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20left%20science%2C%20then%20I%20went%20into%20art%2C%20but%20I%20approach%20things%20very%20analytically.%20I%20choose%20to%20pursue%20both%20art%20and%20architecture%20as%20completely%20separate%20fields%20rather%20than%20merging%20them.&author=Maya%20Lin&v=1774037994" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20believe%20in%20Christianity%20as%20I%20believe%20that%20the%20sun%20has%20risen%3A%20not%20only%20because%20I%20see%20it%2C%20but%20because%20by%20it%20I%20see%20everything%20else.&author=C.%20S.%20Lewis&v=1774041613" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
