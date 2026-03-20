@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science%20is%20properly%20more%20scrupulous%20than%20dogma.%20Dogma%20gives%20a%20charter%20to%20mistake%2C%20but%20the%20very%20breath%20of%20science%20is%20a%20contest%20with%20mistake%2C%20and%20must%20keep%20the%20conscience%20alive.&author=George%20Eliot&v=1773995330" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Curiosity%20is%20one%20of%20the%20great%20secrets%20of%20happiness.&author=Bryant%20H.%20McGill&v=1773998990" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
