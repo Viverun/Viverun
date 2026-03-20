@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perseverance%20is%20failing%2019%20times%20and%20succeeding%20the%2020th.&author=Julie%20Andrews&v=1774035024" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20left%20science%2C%20then%20I%20went%20into%20art%2C%20but%20I%20approach%20things%20very%20analytically.%20I%20choose%20to%20pursue%20both%20art%20and%20architecture%20as%20completely%20separate%20fields%20rather%20than%20merging%20them.&author=Maya%20Lin&v=1774037994" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
