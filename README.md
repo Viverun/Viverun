@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20foundation%20of%20empire%20is%20art%20and%20science.%20Remove%20them%20or%20degrade%20them%2C%20and%20the%20empire%20is%20no%20more.%20Empire%20follows%20art%20and%20not%20vice%20versa%20as%20Englishmen%20suppose.&author=William%20Blake&v=1774009963" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=For%20the%20sake%20of%20our%20health%2C%20our%20children%20and%20grandchildren%20and%20even%20our%20economic%20well-being%2C%20we%20must%20make%20protecting%20the%20planet%20our%20top%20priority.&author=David%20Suzuki&v=1774014794" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
