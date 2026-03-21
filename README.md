@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20purpose%20of%20science%20is%20not%20to%20analyze%20or%20describe%20but%20to%20make%20useful%20models%20of%20the%20world.%20A%20model%20is%20useful%20if%20it%20allows%20us%20to%20get%20use%20out%20of%20it.&author=Edward%20de%20Bono&v=1774131171" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20science%2C%20a%20healthy%20skepticism%20is%20a%20professional%20necessity%2C%20whereas%20in%20religion%2C%20having%20belief%20without%20evidence%20is%20regarded%20as%20a%20virtue.&author=Paul%20Davies&v=1774134882" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
