@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20can%20be%20no%20truce%20between%20science%20and%20religion.&author=John%20B.%20S.%20Haldane&v=1774084875" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20world%20is%20my%20country%2C%20science%20is%20my%20religion.&author=Christiaan%20Huygens&v=1774088131" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
