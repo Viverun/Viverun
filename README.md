@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=People%20have%20accused%20me%20of%20being%20in%20favor%20of%20globalization.%20This%20is%20equivalent%20to%20accusing%20me%20of%20being%20in%20favor%20of%20the%20sun%20rising%20in%20the%20morning.&author=Clare%20Short&v=1774069259" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20did%20not%20come%20to%20NASA%20to%20make%20history.&author=Sally%20Ride&v=1774074558" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
