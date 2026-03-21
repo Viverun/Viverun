@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20world%20is%20my%20country%2C%20science%20is%20my%20religion.&author=Christiaan%20Huygens&v=1774088131" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20commonality%20between%20science%20and%20art%20is%20in%20trying%20to%20see%20profoundly%20-%20to%20develop%20strategies%20of%20seeing%20and%20showing.&author=Edward%20Tufte&v=1774091656" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
