@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%201950%2C%20when%20the%20Giants%20signed%20me%2C%20they%20gave%20me%20%2415%2C000.%20I%20bought%20a%201950%20Mercury.%20I%20couldn%27t%20drive%2C%20but%20I%20had%20it%20in%20the%20parking%20lot%20there%2C%20and%20everybody%20that%20could%20drive%20would%20drive%20the%20car.%20So%20it%20was%20like%20a%20community%20thing.&author=Willie%20Mays&v=1774095858" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20we%20try%20to%20pick%20out%20anything%20by%20itself%2C%20we%20find%20it%20hitched%20to%20everything%20else%20in%20the%20universe.&author=John%20Muir&v=1774100107" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
