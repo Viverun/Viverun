@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Instruction%20ends%20in%20the%20schoolroom%2C%20but%20education%20ends%20only%20with%20life.%20A%20child%20is%20given%20to%20the%20universe%20to%20be%20educated.&author=Frederick%20William%20Robertson&v=1774077940" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20cannot%2C%20in%20human%20experience%2C%20rush%20into%20the%20light.%20You%20have%20to%20go%20through%20the%20twilight%20into%20the%20broadening%20day%20before%20the%20noon%20comes%20and%20the%20full%20sun%20is%20upon%20the%20landscape.&author=Woodrow%20Wilson&v=1774081134" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
