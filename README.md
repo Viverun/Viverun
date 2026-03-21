@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=After%20all%2C%20science%20is%20essentially%20international%2C%20and%20it%20is%20only%20through%20lack%20of%20the%20historical%20sense%20that%20national%20qualities%20have%20been%20attributed%20to%20it.&author=Marie%20Curie&v=1774117238" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20universe%20is%20made%20of%20stories%2C%20not%20atoms.&author=Muriel%20Rukeyser&v=1774120555" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
