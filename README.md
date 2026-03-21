@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You%20cannot%2C%20in%20human%20experience%2C%20rush%20into%20the%20light.%20You%20have%20to%20go%20through%20the%20twilight%20into%20the%20broadening%20day%20before%20the%20noon%20comes%20and%20the%20full%20sun%20is%20upon%20the%20landscape.&author=Woodrow%20Wilson&v=1774081134" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20can%20be%20no%20truce%20between%20science%20and%20religion.&author=John%20B.%20S.%20Haldane&v=1774084875" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
