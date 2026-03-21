@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Observe%20constantly%20that%20all%20things%20take%20place%20by%20change%2C%20and%20accustom%20thyself%20to%20consider%20that%20the%20nature%20of%20the%20Universe%20loves%20nothing%20so%20much%20as%20to%20change%20the%20things%20which%20are%2C%20and%20to%20make%20new%20things%20like%20them.&author=Marcus%20Aurelius&v=1774124034" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=He%20who%20binds%20to%20himself%20a%20joy%20Does%20the%20winged%20life%20destroy%20But%20he%20who%20kisses%20the%20joy%20as%20it%20flies%20Lives%20in%20eternity%27s%20sun%20rise.&author=William%20Blake&v=1774127689" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
