@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=He%20who%20binds%20to%20himself%20a%20joy%20Does%20the%20winged%20life%20destroy%20But%20he%20who%20kisses%20the%20joy%20as%20it%20flies%20Lives%20in%20eternity%27s%20sun%20rise.&author=William%20Blake&v=1774127689" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20purpose%20of%20science%20is%20not%20to%20analyze%20or%20describe%20but%20to%20make%20useful%20models%20of%20the%20world.%20A%20model%20is%20useful%20if%20it%20allows%20us%20to%20get%20use%20out%20of%20it.&author=Edward%20de%20Bono&v=1774131171" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
