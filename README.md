@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20did%20not%20come%20to%20NASA%20to%20make%20history.&author=Sally%20Ride&v=1774074558" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Instruction%20ends%20in%20the%20schoolroom%2C%20but%20education%20ends%20only%20with%20life.%20A%20child%20is%20given%20to%20the%20universe%20to%20be%20educated.&author=Frederick%20William%20Robertson&v=1774077940" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
