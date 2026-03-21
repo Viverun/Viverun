@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20science%2C%20all%20facts%2C%20no%20matter%20how%20trivial%20or%20banal%2C%20enjoy%20democratic%20equality.&author=Mary%20McCarthy&v=1774065272" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=People%20have%20accused%20me%20of%20being%20in%20favor%20of%20globalization.%20This%20is%20equivalent%20to%20accusing%20me%20of%20being%20in%20favor%20of%20the%20sun%20rising%20in%20the%20morning.&author=Clare%20Short&v=1774069259" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
