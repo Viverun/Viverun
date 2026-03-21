@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20we%20try%20to%20pick%20out%20anything%20by%20itself%2C%20we%20find%20it%20hitched%20to%20everything%20else%20in%20the%20universe.&author=John%20Muir&v=1774100107" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20did%2C%20although%20I%20didn%27t%20read%20from%20page%201%20to%20page%20187%20but%20I%20read%20chunks%20of%20it.%20I%20did%20a%20little%20bit%20of%20science%20when%20I%20was%20in%20the%20university%20so%20I%20was%20able%20to%20understand%20the%20graphs%20and%20pie%20charts%20and%20stuff%20like%20that.%20It%20was%20extremely%20dry.&author=Liam%20Neeson&v=1774102604" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
