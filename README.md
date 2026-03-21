@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20the%20sick%20room%2C%20ten%20cents%27%20worth%20of%20human%20understanding%20equals%20ten%20dollars%27%20worth%20of%20medical%20science.&author=Martin%20H.%20Fischer&v=1774054980" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20science%2C%20all%20facts%2C%20no%20matter%20how%20trivial%20or%20banal%2C%20enjoy%20democratic%20equality.&author=Mary%20McCarthy&v=1774065272" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
