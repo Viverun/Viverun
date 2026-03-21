@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20did%2C%20although%20I%20didn%27t%20read%20from%20page%201%20to%20page%20187%20but%20I%20read%20chunks%20of%20it.%20I%20did%20a%20little%20bit%20of%20science%20when%20I%20was%20in%20the%20university%20so%20I%20was%20able%20to%20understand%20the%20graphs%20and%20pie%20charts%20and%20stuff%20like%20that.%20It%20was%20extremely%20dry.&author=Liam%20Neeson&v=1774102604" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20science%20linking%20the%20increased%20frequency%20and%20severity%20of%20extreme%20weather%20to%20the%20climate%20crisis%20has%20matured%20tremendously%20in%20the%20last%20couple%20of%20years.&author=Al%20Gore&v=1774106147" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
