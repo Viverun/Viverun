@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The wealthy are always surrounded by hangers-on science and art are as well.</em><br/><sub>Anton Chekhov</sub></p>
+<p><em>Soon I knew the craft of experimental physics was beyond me - it was the sublime quality of patience - patience in accumulating data, patience with recalcitrant equipment - which I sadly lacked.</em><br/><sub>Abdus Salam</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
