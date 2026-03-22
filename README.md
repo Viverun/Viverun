@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Knowledge has three degrees — opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.</em><br/><sub>Plotinus</sub></p>
+<p><em>Perhaps the best motivation for going to Mars is political. It is obvious that no single nation currently has either the will or the resources to do it alone, but a consortium of nations and space agencies could achieve it within 20 years.</em><br/><sub>Paul Davies</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
