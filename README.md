@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Never tell me the sky’s the limit when there are footprints on the moon.</em><br/><sub>Unknown</sub></p>
+<p><em>There is only one corner of the universe you can be certain of improving, and that&#x27;s your own self.</em><br/><sub>Aldous Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
