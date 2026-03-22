@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Man masters nature not by force but by understanding. This is why science has succeeded where magic failed: because it has looked for no spell to cast over nature.</em><br/><sub>Jacob Bronowski</sub></p>
+<p><em>Never tell me the sky’s the limit when there are footprints on the moon.</em><br/><sub>Unknown</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
