@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Imagination is as vital to any advance in science as learning and precision are essential for starting points.</em><br/><sub>Percival Lowell</sub></p>
+<p><em>By any reasonable measure of achievement, the faith of the Enlightenment thinkers in science was justified.</em><br/><sub>E. O. Wilson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
