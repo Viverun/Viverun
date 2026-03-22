@@ -30,7 +30,7 @@
 <blockquote>
 
 <!-- START_QUOTE -->
-<p><em>We are a way for the cosmos to know itself.</em><br/><sub>Carl Sagan</sub></p>
+<p><em>Political ideology can corrupt the mind, and science.</em><br/><sub>E. O. Wilson</sub></p>
 <!-- END_QUOTE -->
 
 </blockquote>
