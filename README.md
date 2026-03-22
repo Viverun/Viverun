@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We tried war, we tried aggression, we tried intervention. None of it works. Why don&#x27;t we try peace, as a science of human relations, not as some vague notion - as everyday work.</em><br/><sub>Dennis Kucinich</sub></p>
+<p><em>Imagination is as vital to any advance in science as learning and precision are essential for starting points.</em><br/><sub>Percival Lowell</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
