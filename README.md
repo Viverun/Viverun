@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There is only one corner of the universe you can be certain of improving, and that&#x27;s your own self.</em><br/><sub>Aldous Huxley</sub></p>
+<p><em>Curiosity will conquer fear even more than bravery will.</em><br/><sub>James Stephens</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
