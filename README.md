@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Curiosity will conquer fear even more than bravery will.</em><br/><sub>James Stephens</sub></p>
+<p><em>Experimental science is fascinating, but I don&#x27;t want to do it. I want other people to do it, and I&#x27;ll read about it.</em><br/><sub>Barbara Ehrenreich</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
