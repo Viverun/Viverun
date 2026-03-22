@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>By any reasonable measure of achievement, the faith of the Enlightenment thinkers in science was justified.</em><br/><sub>E. O. Wilson</sub></p>
+<p><em>Man masters nature not by force but by understanding. This is why science has succeeded where magic failed: because it has looked for no spell to cast over nature.</em><br/><sub>Jacob Bronowski</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
