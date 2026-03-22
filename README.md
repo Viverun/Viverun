@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Mythology and science both extend the scope of human beings. Like science and technology, mythology, as we shall see, is not about opting out of this world, but about enabling us to live more intensely within it.</em><br/><sub>Karen Armstrong</sub></p>
+<p><em>Without consciousness and intelligence, the universe would lack meaning.</em><br/><sub>Clifford D. Simak</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
