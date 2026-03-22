@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is knowledge arranged and classified according to truth, facts, and the general laws of nature.</em><br/><sub>Luther Burbank</sub></p>
+<p><em>Science is a wonderful thing if one does not have to earn one&#x27;s living at it.</em><br/><sub>Albert Einstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
