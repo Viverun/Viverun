@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20body%20is%20like%20a%20car%3A%20the%20older%20you%20become%20the%20more%20care%20you%20have%20to%20take%20care%20of%20it%20-%20and%20you%20don%27t%20leave%20a%20Ferrari%20out%20in%20the%20sun.&author=Joan%20Collins&v=1774141835" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%27m%20healthy%2C%20have%20a%20loving%20and%20adorable%20family%2C%20great%20hunting%20dogs%2C%20a%20gravity%20defying%20musical%20career%20and%20most%20importantly%2C%20fuzzy-headed%20idiots%20hate%20me.&author=Ted%20Nugent&v=1774152539" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
