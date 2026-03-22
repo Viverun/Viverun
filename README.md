@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20body%20is%20like%20a%20car%3A%20the%20older%20you%20become%20the%20more%20care%20you%20have%20to%20take%20care%20of%20it%20-%20and%20you%20don%27t%20leave%20a%20Ferrari%20out%20in%20the%20sun.&author=Joan%20Collins&v=1774141835" alt="Quote"/>
+<p><em>Science is but an image of the truth.</em><br/><sub>Francis Bacon</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
