@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>He who lives in harmony with himself lives in harmony with the universe.</em><br/><sub>Marcus Aurelius</sub></p>
+<p><em>The wealthy are always surrounded by hangers-on science and art are as well.</em><br/><sub>Anton Chekhov</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
