@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Perhaps the best motivation for going to Mars is political. It is obvious that no single nation currently has either the will or the resources to do it alone, but a consortium of nations and space agencies could achieve it within 20 years.</em><br/><sub>Paul Davies</sub></p>
+<p><em>I do a lot of curiosity buying I buy it if I like the album cover, I buy it if I like the name of the band, anything that sparks my imagination.</em><br/><sub>Bruce Springsteen</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
