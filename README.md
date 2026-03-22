@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Soon I knew the craft of experimental physics was beyond me - it was the sublime quality of patience - patience in accumulating data, patience with recalcitrant equipment - which I sadly lacked.</em><br/><sub>Abdus Salam</sub></p>
+<p><em>Knowledge has three degrees — opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.</em><br/><sub>Plotinus</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
