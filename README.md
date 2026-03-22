@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Experimental science is fascinating, but I don&#x27;t want to do it. I want other people to do it, and I&#x27;ll read about it.</em><br/><sub>Barbara Ehrenreich</sub></p>
+<p><em>Mythology and science both extend the scope of human beings. Like science and technology, mythology, as we shall see, is not about opting out of this world, but about enabling us to live more intensely within it.</em><br/><sub>Karen Armstrong</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
