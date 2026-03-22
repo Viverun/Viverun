@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Without consciousness and intelligence, the universe would lack meaning.</em><br/><sub>Clifford D. Simak</sub></p>
+<p><em>He who lives in harmony with himself lives in harmony with the universe.</em><br/><sub>Marcus Aurelius</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
