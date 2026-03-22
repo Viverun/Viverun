@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is a wonderful thing if one does not have to earn one&#x27;s living at it.</em><br/><sub>Albert Einstein</sub></p>
+<p><em>We tried war, we tried aggression, we tried intervention. None of it works. Why don&#x27;t we try peace, as a science of human relations, not as some vague notion - as everyday work.</em><br/><sub>Dennis Kucinich</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
