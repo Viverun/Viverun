@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is but an image of the truth.</em><br/><sub>Francis Bacon</sub></p>
+<p><em>Science is knowledge arranged and classified according to truth, facts, and the general laws of nature.</em><br/><sub>Luther Burbank</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
