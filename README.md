@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20science%2C%20a%20healthy%20skepticism%20is%20a%20professional%20necessity%2C%20whereas%20in%20religion%2C%20having%20belief%20without%20evidence%20is%20regarded%20as%20a%20virtue.&author=Paul%20Davies&v=1774134882" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20body%20is%20like%20a%20car%3A%20the%20older%20you%20become%20the%20more%20care%20you%20have%20to%20take%20care%20of%20it%20-%20and%20you%20don%27t%20leave%20a%20Ferrari%20out%20in%20the%20sun.&author=Joan%20Collins&v=1774141835" alt="Quote"/>
 <!-- END_QUOTE -->
 
 <br/>
