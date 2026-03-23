@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Every science begins as philosophy and ends as art.</em><br/><sub>Will Durant</sub></p>
+<p><em>Science is always discovering odd scraps of magical wisdom and making a tremendous fuss about its cleverness.</em><br/><sub>Aleister Crowley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
