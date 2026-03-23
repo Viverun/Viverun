@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If the experience of science teaches anything, it&#x27;s that the world is very strange and surprising. The many revolutions in science have certainly shown that.</em><br/><sub>John Polkinghorne</sub></p>
+<p><em>The faults of a superior person are like the sun and moon. They have their faults, and everyone sees them they change and everyone looks up to them.</em><br/><sub>Confucius</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
