@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I always remembered that when I saw people get married they got on a rocketship and went to Planet Happiness, Population: Them.</em><br/><sub>Marc Webb</sub></p>
+<p><em>Science has fulfilled her function when she has ascertained and enunciated truth.</em><br/><sub>Thomas Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
