@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The age of innocent faith in science and technology may be over.</em><br/><sub>Barry Commoner</sub></p>
+<p><em>Philosophers have not kept up with modern developments in science. Particularly physics.</em><br/><sub>Stephen Hawking</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
