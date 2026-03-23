@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science has fulfilled her function when she has ascertained and enunciated truth.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next 10.</em><br/><sub>Neil Armstrong</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
