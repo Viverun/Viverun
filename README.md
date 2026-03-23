@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is always discovering odd scraps of magical wisdom and making a tremendous fuss about its cleverness.</em><br/><sub>Aleister Crowley</sub></p>
+<p><em>Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun.</em><br/><sub>Pablo Picasso</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
