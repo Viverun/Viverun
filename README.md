@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There are so many different people that I&#x27;ve emulated vocally. In the rock world - Sebastian Bach, Vince Neil, Freddie Mercury, Robert Plant. They all had amazing vocal talent.</em><br/><sub>Fergie</sub></p>
+<p><em>From all this it follows what the general character of the problem of the development of a body of scientific knowledge is, in so far as it depends on elements internal to science itself.</em><br/><sub>Talcott Parsons</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
