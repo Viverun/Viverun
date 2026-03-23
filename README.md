@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Moral science is better occupied when treating of friendship than of justice.</em><br/><sub>Thomas Aquinas</sub></p>
+<p><em>The age of innocent faith in science and technology may be over.</em><br/><sub>Barry Commoner</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
