@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Physics is experience, arranged in economical order.</em><br/><sub>Ernst Mach</sub></p>
+<p><em>I always remembered that when I saw people get married they got on a rocketship and went to Planet Happiness, Population: Them.</em><br/><sub>Marc Webb</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
