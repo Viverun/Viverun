@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The faults of a superior person are like the sun and moon. They have their faults, and everyone sees them they change and everyone looks up to them.</em><br/><sub>Confucius</sub></p>
+<p><em>That which today calls itself science gives us more and more information, and indigestible glut of information, and less and less understanding.</em><br/><sub>Edward Abbey</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
