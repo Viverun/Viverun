@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>That which today calls itself science gives us more and more information, and indigestible glut of information, and less and less understanding.</em><br/><sub>Edward Abbey</sub></p>
+<p><em>Science can purify religion from error and superstition. Religion can purify science from idolatry and false absolutes.</em><br/><sub>Pope John Paul II</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
