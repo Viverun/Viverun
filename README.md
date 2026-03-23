@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>For NASA, space is still a high priority.</em><br/><sub>Dan Quayle</sub></p>
+<p><em>Joy in the universe, and keen curiosity about it all - that has been my religion.</em><br/><sub>John Burroughs</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
