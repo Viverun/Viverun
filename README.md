@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science can purify religion from error and superstition. Religion can purify science from idolatry and false absolutes.</em><br/><sub>Pope John Paul II</sub></p>
+<p><em>There is science, logic, reason there is thought verified by experience. And then there is California.</em><br/><sub>Edward Abbey</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
