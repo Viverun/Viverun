@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There is science, logic, reason there is thought verified by experience. And then there is California.</em><br/><sub>Edward Abbey</sub></p>
+<p><em>Physics is experience, arranged in economical order.</em><br/><sub>Ernst Mach</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
