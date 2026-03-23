@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Joy in the universe, and keen curiosity about it all - that has been my religion.</em><br/><sub>John Burroughs</sub></p>
+<p><em>Moral science is better occupied when treating of friendship than of justice.</em><br/><sub>Thomas Aquinas</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
