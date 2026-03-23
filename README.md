@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun.</em><br/><sub>Pablo Picasso</sub></p>
+<p><em>For NASA, space is still a high priority.</em><br/><sub>Dan Quayle</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
