@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I do a lot of curiosity buying I buy it if I like the album cover, I buy it if I like the name of the band, anything that sparks my imagination.</em><br/><sub>Bruce Springsteen</sub></p>
+<p><em>Every science begins as philosophy and ends as art.</em><br/><sub>Will Durant</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
