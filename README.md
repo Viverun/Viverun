@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science knows only one commandment - contribute to science.</em><br/><sub>Bertolt Brecht</sub></p>
+<p><em>My wife is the most awesome person in the universe. She&#x27;s made this experience much less miserable for me, with her compassion, patience and understanding.</em><br/><sub>Wil Wheaton</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
