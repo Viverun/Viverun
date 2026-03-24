@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We have failed to protect science against speculative extensions of nature, continuing to assign physical and mathematical properties to hypothetical entities beyond what is observable in nature.</em><br/><sub>Robert Lanza</sub></p>
+<p><em>All one&#x27;s inventions are true, you can be sure of that. Poetry is as exact a science as geometry.</em><br/><sub>Gustave Flaubert</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
