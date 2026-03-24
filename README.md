@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Of all the failed technologies that litter the onward march of science - steam carriages, zeppelins, armoured trains - none has been so catastrophic to prosperity as the last century&#x27;s attempt to generate electricity from nuclear fission.</em><br/><sub>James Buchan</sub></p>
+<p><em>Science and technology revolutionize our lives, but memory, tradition and myth frame our response.</em><br/><sub>Arthur M. Schlesinger</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
