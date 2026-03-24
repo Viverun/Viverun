@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If the experience of science teaches anything, it&#x27;s that the world is very strange and surprising. The many revolutions in science have certainly shown that.</em><br/><sub>John Polkinghorne</sub></p>
+<p><em>The foundation of empire is art and science. Remove them or degrade them, and the empire is no more. Empire follows art and not vice versa as Englishmen suppose.</em><br/><sub>William Blake</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
