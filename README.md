@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is a first-rate piece of furniture for a man&#x27;s upper chamber, if he has common sense on the ground floor.</em><br/><sub>Oliver Wendell Holmes</sub></p>
+<p><em>In science, read, by preference, the newest works in literature, the oldest. The classic literature is always modern.</em><br/><sub>Edward G. Bulwer-Lytton</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
