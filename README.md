@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In securing the future of the planet, we secure happiness for ourselves. One of the aims of the Greens is to turn around the tide of pessimism amongst the young people of the world.</em><br/><sub>Bob Brown</sub></p>
+<p><em>Of all the failed technologies that litter the onward march of science - steam carriages, zeppelins, armoured trains - none has been so catastrophic to prosperity as the last century&#x27;s attempt to generate electricity from nuclear fission.</em><br/><sub>James Buchan</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
