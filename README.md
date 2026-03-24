@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Knowledge has three degrees opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.</em><br/><sub>Plotinus</sub></p>
+<p><em>We have failed to protect science against speculative extensions of nature, continuing to assign physical and mathematical properties to hypothetical entities beyond what is observable in nature.</em><br/><sub>Robert Lanza</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
