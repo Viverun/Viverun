@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next 10.</em><br/><sub>Neil Armstrong</sub></p>
+<p><em>If the experience of science teaches anything, it&#x27;s that the world is very strange and surprising. The many revolutions in science have certainly shown that.</em><br/><sub>John Polkinghorne</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
