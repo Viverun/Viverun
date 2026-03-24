@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The foundation of empire is art and science. Remove them or degrade them, and the empire is no more. Empire follows art and not vice versa as Englishmen suppose.</em><br/><sub>William Blake</sub></p>
+<p><em>Skeptical scrutiny is the means, in both science and religion, by which deep thoughts can be winnowed from deep nonsense.</em><br/><sub>Carl Sagan</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
