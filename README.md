@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Let both sides seek to invoke the wonders of science instead of its terrors. Together let us explore the stars, conquer the deserts, eradicate disease, tap the ocean depths, and encourage the arts and commerce.</em><br/><sub>John F. Kennedy</sub></p>
+<p><em>Adversity isn&#x27;t set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.</em><br/><sub>Byron Pulsifer</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
