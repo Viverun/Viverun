@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Civilization has given us enormous successes: going to the moon, technology. But then this is the civilisation that took us to debt, environmental crisis, every single crisis. We need a civilization where we say goodbye to these things.</em><br/><sub>Muhammad Yunus</sub></p>
+<p><em>The universe we observe has precisely the properties we should expect if there is, at bottom, no design, no purpose, no evil, no good, nothing but blind, pitiless indifference.</em><br/><sub>Richard Dawkins</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
