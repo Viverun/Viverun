@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Superstition is to religion what astrology is to astronomy the mad daughter of a wise mother. These daughters have too long dominated the earth.</em><br/><sub>Voltaire</sub></p>
+<p><em>In securing the future of the planet, we secure happiness for ourselves. One of the aims of the Greens is to turn around the tide of pessimism amongst the young people of the world.</em><br/><sub>Bob Brown</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
