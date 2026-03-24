@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Form your life humanly, and you have done enough: but you will never reach the height of art and the depth of science without something divine.</em><br/><sub>Karl Wilhelm Friedrich Schlegel</sub></p>
+<p><em>Superstition is to religion what astrology is to astronomy the mad daughter of a wise mother. These daughters have too long dominated the earth.</em><br/><sub>Voltaire</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
