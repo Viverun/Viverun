@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Adversity isn&#x27;t set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.</em><br/><sub>Byron Pulsifer</sub></p>
+<p><em>The accidental causes of science are only accidents relatively to the intelligence of a man.</em><br/><sub>Chauncey Wright</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
