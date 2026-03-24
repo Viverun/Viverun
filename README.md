@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The accidental causes of science are only accidents relatively to the intelligence of a man.</em><br/><sub>Chauncey Wright</sub></p>
+<p><em>Form your life humanly, and you have done enough: but you will never reach the height of art and the depth of science without something divine.</em><br/><sub>Karl Wilhelm Friedrich Schlegel</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
