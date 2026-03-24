@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science and technology revolutionize our lives, but memory, tradition and myth frame our response.</em><br/><sub>Arthur M. Schlesinger</sub></p>
+<p><em>Knowledge has three degrees opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.</em><br/><sub>Plotinus</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
