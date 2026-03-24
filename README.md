@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The universe we observe has precisely the properties we should expect if there is, at bottom, no design, no purpose, no evil, no good, nothing but blind, pitiless indifference.</em><br/><sub>Richard Dawkins</sub></p>
+<p><em>Science knows only one commandment - contribute to science.</em><br/><sub>Bertolt Brecht</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
