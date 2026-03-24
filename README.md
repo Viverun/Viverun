@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>My wife is the most awesome person in the universe. She&#x27;s made this experience much less miserable for me, with her compassion, patience and understanding.</em><br/><sub>Wil Wheaton</sub></p>
+<p><em>Science is a first-rate piece of furniture for a man&#x27;s upper chamber, if he has common sense on the ground floor.</em><br/><sub>Oliver Wendell Holmes</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
