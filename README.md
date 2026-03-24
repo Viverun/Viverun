@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Skeptical scrutiny is the means, in both science and religion, by which deep thoughts can be winnowed from deep nonsense.</em><br/><sub>Carl Sagan</sub></p>
+<p><em>Let both sides seek to invoke the wonders of science instead of its terrors. Together let us explore the stars, conquer the deserts, eradicate disease, tap the ocean depths, and encourage the arts and commerce.</em><br/><sub>John F. Kennedy</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
