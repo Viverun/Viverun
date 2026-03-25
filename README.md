@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There is a fifth dimension, beyond that which is known to man. It is a dimension as vast as space and as timeless as infinity. It is the middle ground between light and shadow, between science and superstition.</em><br/><sub>Rod Serling</sub></p>
+<p><em>If it doesn&#x27;t feel like a job and I&#x27;m learning something and getting that rush that I get, I don&#x27;t care if it&#x27;s behind a camera, on a TV set, or on the moon.</em><br/><sub>Benjamin Walker</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
