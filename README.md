@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I didn&#x27;t mind studying. Obviously math and the physical science subjects interested me more than some of the more artistic subjects, but I think I was a pretty good student.</em><br/><sub>Alan Shepard</sub></p>
+<p><em>And if you don&#x27;t believe the sun will rise, stand alone and greet the coming night in the last remaining light.</em><br/><sub>Chris Cornell</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
