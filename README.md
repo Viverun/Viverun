@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Today the function of the artist is to bring imagination to science and science to imagination, where they meet, in the myth.</em><br/><sub>Cyril Connolly</sub></p>
+<p><em>The media need superheroes in science just as in every sphere of life, but there is really a continuous range of abilities with no clear dividing line.</em><br/><sub>Stephen Hawking</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
