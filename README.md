@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When we try to pick out anything by itself, we find it hitched to everything else in the universe.</em><br/><sub>John Muir</sub></p>
+<p><em>My entry into the environmental arena was through the issue that so dramatically - and destructively - demonstrates the link between science and social action: nuclear weapons.</em><br/><sub>Barry Commoner</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
