@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The fundamental concept in social science is Power, in the same sense in which Energy is the fundamental concept in physics.</em><br/><sub>Bertrand Russell</sub></p>
+<p><em>Science consists exactly of those forms of knowledge that can be verified and duplicated by anybody.</em><br/><sub>Seth Lloyd</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
