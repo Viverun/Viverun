@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>One&#x27;s age should be tranquil, as childhood should be playful. Hard work at either extremity of life seems out of place. At midday the sun may burn, and men labor under it but the morning and evening should be alike calm and cheerful.</em><br/><sub>Thomas Arnold</sub></p>
+<p><em>A body of work such as Pasteur&#x27;s is inconceivable in our time: no man would be given a chance to create a whole science. Nowadays a path is scarcely opened up when the crowd begins to pour in.</em><br/><sub>Jean Rostand</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
