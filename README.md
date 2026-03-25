@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We&#x27;ve made science experiments of ourselves and our children.</em><br/><sub>Jonathan Safran Foer</sub></p>
+<p><em>One&#x27;s age should be tranquil, as childhood should be playful. Hard work at either extremity of life seems out of place. At midday the sun may burn, and men labor under it but the morning and evening should be alike calm and cheerful.</em><br/><sub>Thomas Arnold</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
