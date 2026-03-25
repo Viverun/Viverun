@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is organized knowledge.</em><br/><sub>Herbert Spencer</sub></p>
+<p><em>The capacity of the female mind for studies of the highest order cannot be doubted, having been sufficiently illustrated by its works of genius, of erudition, and of science.</em><br/><sub>James Madison</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
