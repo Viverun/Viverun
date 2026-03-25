@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Now science has presented us with a hope called stem cell research, which may provide our scientists with many answers that have for so long been beyond our grasp.</em><br/><sub>Nancy Reagan</sub></p>
+<p><em>I don&#x27;t see this planet being... they&#x27;re talking about how they&#x27;re turning around the environmental problems here, but I think it&#x27;s already too late.</em><br/><sub>Ace Frehley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
