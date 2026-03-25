@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In science, read, by preference, the newest works in literature, the oldest. The classic literature is always modern.</em><br/><sub>Edward G. Bulwer-Lytton</sub></p>
+<p><em>We&#x27;ve made science experiments of ourselves and our children.</em><br/><sub>Jonathan Safran Foer</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
