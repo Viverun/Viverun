@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When science, art, literature, and philosophy are simply the manifestation of personality they are on a level where glorious and dazzling achievements are possible, which can make a man&#x27;s name live for thousands of years.</em><br/><sub>Denis Diderot</sub></p>
+<p><em>When we try to pick out anything by itself, we find it hitched to everything else in the universe.</em><br/><sub>John Muir</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
