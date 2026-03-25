@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The universe is full of magical things, patiently waiting for our wits to grow sharper.</em><br/><sub>Eden Phillpotts</sub></p>
+<p><em>I didn&#x27;t mind studying. Obviously math and the physical science subjects interested me more than some of the more artistic subjects, but I think I was a pretty good student.</em><br/><sub>Alan Shepard</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
