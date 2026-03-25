@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I don&#x27;t see this planet being... they&#x27;re talking about how they&#x27;re turning around the environmental problems here, but I think it&#x27;s already too late.</em><br/><sub>Ace Frehley</sub></p>
+<p><em>The fundamental concept in social science is Power, in the same sense in which Energy is the fundamental concept in physics.</em><br/><sub>Bertrand Russell</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
