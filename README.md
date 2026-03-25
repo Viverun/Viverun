@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>My entry into the environmental arena was through the issue that so dramatically - and destructively - demonstrates the link between science and social action: nuclear weapons.</em><br/><sub>Barry Commoner</sub></p>
+<p><em>Science is organized knowledge.</em><br/><sub>Herbert Spencer</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
