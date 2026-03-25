@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science consists exactly of those forms of knowledge that can be verified and duplicated by anybody.</em><br/><sub>Seth Lloyd</sub></p>
+<p><em>The universe is full of magical things, patiently waiting for our wits to grow sharper.</em><br/><sub>Eden Phillpotts</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
