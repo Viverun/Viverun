@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>A body of work such as Pasteur&#x27;s is inconceivable in our time: no man would be given a chance to create a whole science. Nowadays a path is scarcely opened up when the crowd begins to pour in.</em><br/><sub>Jean Rostand</sub></p>
+<p><em>When science, art, literature, and philosophy are simply the manifestation of personality they are on a level where glorious and dazzling achievements are possible, which can make a man&#x27;s name live for thousands of years.</em><br/><sub>Denis Diderot</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
