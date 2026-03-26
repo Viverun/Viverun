@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The grand aim of all science is to cover the greatest number of empirical facts by logical deduction from the smallest number of hypotheses or axioms.</em><br/><sub>Albert Einstein</sub></p>
+<p><em>People, and especially theologians, should try to familiarize themselves with scientific ideas. Of course, science is technical in many respects, but there are some very good books that try to set out some of the conceptual structure of science.</em><br/><sub>John Polkinghorne</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
