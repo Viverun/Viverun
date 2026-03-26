@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>People, and especially theologians, should try to familiarize themselves with scientific ideas. Of course, science is technical in many respects, but there are some very good books that try to set out some of the conceptual structure of science.</em><br/><sub>John Polkinghorne</sub></p>
+<p><em>It stands to the everlasting credit of science that by acting on the human mind it has overcome man&#x27;s insecurity before himself and before nature.</em><br/><sub>Albert Einstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
