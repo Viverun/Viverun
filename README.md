@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is a first-rate piece of furniture for a man&#x27;s upper chamber, if he has common sense on the ground floor.</em><br/><sub>Oliver Wendell Holmes</sub></p>
+<p><em>Everything that is necessary is also easy. You just have to accept it. And the most necessary, the most natural matter on this planet is death.</em><br/><sub>Friedrich Durrenmatt</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
