@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>And if you don&#x27;t believe the sun will rise, stand alone and greet the coming night in the last remaining light.</em><br/><sub>Chris Cornell</sub></p>
+<p><em>However far modern science and techniques have fallen short of their inherent possibilities, they have taught mankind at least one lesson nothing is impossible.</em><br/><sub>Lewis Mumford</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
