@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Many people and governments share the mistaken belief that science, with new, ingenious devices and techniques, can rescue us from the troubles we face without our having to mend our ways and change our patterns of activity. This is not so.</em><br/><sub>Henry W. Kendall</sub></p>
+<p><em>One could write a history of science in reverse by assembling the solemn pronouncements of highest authority about what could not be done and could never happen.</em><br/><sub>Robert A. Heinlein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
