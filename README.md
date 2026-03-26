@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>However far modern science and techniques have fallen short of their inherent possibilities, they have taught mankind at least one lesson nothing is impossible.</em><br/><sub>Lewis Mumford</sub></p>
+<p><em>Nothing in the universe can travel at the speed of light, they say, forgetful of the shadow&#x27;s speed.</em><br/><sub>Howard Nemerov</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
