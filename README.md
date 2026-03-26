@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I get up at an unholy hour in the morning my work day is completed by the time the sun rises. I have a slightly bad back which has made an enormous contribution to American literature.</em><br/><sub>David Eddings</sub></p>
+<p><em>Though many have tried, no one has ever yet explained away the decisive fact that science, which can do so much, cannot decide what it ought to do.</em><br/><sub>Joseph Wood Krutch</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
