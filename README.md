@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>What we must understand is that the industries, processes, and inventions created by modern science can be used either to subjugate or liberate. The choice is up to us.</em><br/><sub>Henry A. Wallace</sub></p>
+<p><em>Thence results, for science as well as for industry, the necessity of the division and association of labor. I receive and I give - such is human life. Each directs and is directed in his turn.</em><br/><sub>Mikhail Bakunin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
