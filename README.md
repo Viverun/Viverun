@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is all metaphor.</em><br/><sub>Timothy Leary</sub></p>
+<p><em>I get up at an unholy hour in the morning my work day is completed by the time the sun rises. I have a slightly bad back which has made an enormous contribution to American literature.</em><br/><sub>David Eddings</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
