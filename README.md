@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Logic is neither an art nor a science but a dodge.</em><br/><sub>Stendhal</sub></p>
+<p><em>We are the miracle of force and matter making itself over into imagination and will. Incredible. The Life Force experimenting with forms. You for one. Me for another. The Universe has shouted itself alive. We are one of the shouts.</em><br/><sub>Ray Bradbury</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
