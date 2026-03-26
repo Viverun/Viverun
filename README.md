@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Nothing in the universe can travel at the speed of light, they say, forgetful of the shadow&#x27;s speed.</em><br/><sub>Howard Nemerov</sub></p>
+<p><em>Many people and governments share the mistaken belief that science, with new, ingenious devices and techniques, can rescue us from the troubles we face without our having to mend our ways and change our patterns of activity. This is not so.</em><br/><sub>Henry W. Kendall</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
