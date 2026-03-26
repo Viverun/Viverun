@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It stands to the everlasting credit of science that by acting on the human mind it has overcome man&#x27;s insecurity before himself and before nature.</em><br/><sub>Albert Einstein</sub></p>
+<p><em>Science is all metaphor.</em><br/><sub>Timothy Leary</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
