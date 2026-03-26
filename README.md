@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Everything that is necessary is also easy. You just have to accept it. And the most necessary, the most natural matter on this planet is death.</em><br/><sub>Friedrich Durrenmatt</sub></p>
+<p><em>What we must understand is that the industries, processes, and inventions created by modern science can be used either to subjugate or liberate. The choice is up to us.</em><br/><sub>Henry A. Wallace</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
