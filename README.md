@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>From my dad I learned to be good to people, to always be honest and straightforward. I learned hard work and perseverance.</em><br/><sub>Luke Bryan</sub></p>
+<p><em>People from a planet without flowers would think we must be mad with joy the whole time to have such things about us.</em><br/><sub>Iris Murdoch</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
