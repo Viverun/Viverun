@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Friendship is the shadow of the evening, which increases with the setting sun of life.</em><br/><sub>Jean de La Fontaine</sub></p>
+<p><em>Science never solves a problem without creating ten more.</em><br/><sub>George Bernard Shaw</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
