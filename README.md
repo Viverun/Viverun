@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The Universe is one great kindergarten for man. Everything that exists has brought with it its own peculiar lesson.</em><br/><sub>Orison Swett Marden</sub></p>
+<p><em>For each one of us stands alone in the midst of a universe.</em><br/><sub>John Buchanan Robinson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
