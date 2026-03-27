@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Moral science is better occupied when treating of friendship than of justice.</em><br/><sub>Thomas Aquinas</sub></p>
+<p><em>Friendship is the shadow of the evening, which increases with the setting sun of life.</em><br/><sub>Jean de La Fontaine</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
