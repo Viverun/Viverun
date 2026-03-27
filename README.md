@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>And time itself? Time was a never-ending medium that stretched into the future and the past - except there was no future and no past, but an infinite number of brackets, extending either way, each bracket enclosing its single phase of the Universe.</em><br/><sub>Clifford D. Simak</sub></p>
+<p><em>Don&#x27;t pray when it rains if you don&#x27;t pray when the sun shines.</em><br/><sub>Satchel Paige</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
