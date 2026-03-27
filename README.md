@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In science, &#x27;fact&#x27; can only mean &#x27;confirmed to such a degree that it would be perverse to withhold provisional assent.&#x27; I suppose that apples might start to rise tomorrow, but the possibility does not merit equal time in physics classrooms.</em><br/><sub>Stephen Jay Gould</sub></p>
+<p><em>The Universe is one great kindergarten for man. Everything that exists has brought with it its own peculiar lesson.</em><br/><sub>Orison Swett Marden</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
