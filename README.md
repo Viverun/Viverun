@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Don&#x27;t pray when it rains if you don&#x27;t pray when the sun shines.</em><br/><sub>Satchel Paige</sub></p>
+<p><em>This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.</em><br/><sub>Thomas Carlyle</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
