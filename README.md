@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There are in fact two things, science and opinion the former begets knowledge, the later ignorance.</em><br/><sub>Hippocrates</sub></p>
+<p><em>The capacity to be puzzled is the premise of all creation, be it in art or in science.</em><br/><sub>Erich Fromm</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
