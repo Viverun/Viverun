@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.</em><br/><sub>Thomas Carlyle</sub></p>
+<p><em>The universe is change our life is what our thoughts make it.</em><br/><sub>Marcus Aurelius</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
