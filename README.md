@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>This is the first convention of the space age - where a candidate can promise the moon and mean it.</em><br/><sub>David Brinkley</sub></p>
+<p><em>And time itself? Time was a never-ending medium that stretched into the future and the past - except there was no future and no past, but an infinite number of brackets, extending either way, each bracket enclosing its single phase of the Universe.</em><br/><sub>Clifford D. Simak</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
