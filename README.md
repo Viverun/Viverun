@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The capacity to be puzzled is the premise of all creation, be it in art or in science.</em><br/><sub>Erich Fromm</sub></p>
+<p><em>Traditional science assumes, for the most part, that an objective observer independent reality exists the universe, stars, galaxies, sun, moon and earth would still be there if no one was looking.</em><br/><sub>Deepak Chopra</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
