@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I think mistakes are the essence of science and law. It&#x27;s impossible to conceive of either scientific progress or legal progress without understanding the important role of being wrong and of mistakes.</em><br/><sub>Alan Dershowitz</sub></p>
+<p><em>Moral science is better occupied when treating of friendship than of justice.</em><br/><sub>Thomas Aquinas</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
