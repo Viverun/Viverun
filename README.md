@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I have seen firsthand that agricultural science has enormous potential to increase the yields of small farmers and lift them out of hunger and poverty.</em><br/><sub>Bill Gates</sub></p>
+<p><em>Friendship is the shadow of the evening, which increases with the setting sun of life.</em><br/><sub>Jean de La Fontaine</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
