@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The clearest way into the Universe is through a forest wilderness.</em><br/><sub>John Muir</sub></p>
+<p><em>Actually, I majored in marketing and I have a bachelor of science.</em><br/><sub>Wanda Sykes</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
