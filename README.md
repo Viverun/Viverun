@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I&#x27;m a sci-fi girl. If I can have anything in life, I&#x27;d want tons of great science-fiction movies and stories. It&#x27;s so progressive, beautiful, and imaginative.</em><br/><sub>Zoe Saldana</sub></p>
+<p><em>Let freedom reign. The sun never set on so glorious a human achievement.</em><br/><sub>Nelson Mandela</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
