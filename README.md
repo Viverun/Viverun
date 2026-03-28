@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science always uses metaphor.</em><br/><sub>James Lovelock</sub></p>
+<p><em>Nobody under the sun was like Madonna. She was positive and clear and wholly dedicated to achieving everything that she&#x27;s achieved.</em><br/><sub>Nile Rodgers</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
