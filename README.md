@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There is science, logic, reason there is thought verified by experience. And then there is California.</em><br/><sub>Edward Abbey</sub></p>
+<p><em>The method of political science is the interpretation of life its instrument is insight, a nice understanding of subtle, unformulated conditions.</em><br/><sub>Woodrow Wilson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
