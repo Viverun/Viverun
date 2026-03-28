@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Yeah we all shine on, like the moon, and the stars, and the sun.</em><br/><sub>John Lennon</sub></p>
+<p><em>It&#x27;s not going to do any good to land on Mars if we&#x27;re stupid.</em><br/><sub>Ray Bradbury</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
