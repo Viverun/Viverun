@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science was something that really caught my attention. It was something I really could sink my teeth into.</em><br/><sub>Michael P. Anderson</sub></p>
+<p><em>So if you&#x27;re a robot and you&#x27;re living on this planet, you can do things that you can&#x27;t do in real life - things that you wished you could do: like fly like have a car that flies like have furniture that is alive.</em><br/><sub>William Joyce</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
