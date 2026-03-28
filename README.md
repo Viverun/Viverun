@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>He who stands with his face to the East in the morning will have the sun before him. If he does not change his posture, the Earth in the meantime having changed its, he will have the sun no longer before him, but behind.</em><br/><sub>Daniel De Leon</sub></p>
+<p><em>The clearest way into the Universe is through a forest wilderness.</em><br/><sub>John Muir</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
