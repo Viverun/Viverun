@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Curiosity is the wick in the candle of learning.</em><br/><sub>William Arthur Ward</sub></p>
+<p><em>My own dreams fortunately came true in this great state. I became Mr. Universe I became a successful businessman. And even though some people say I still speak with a slight accent, I have reached the top of the acting profession.</em><br/><sub>Arnold Schwarzenegger</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
