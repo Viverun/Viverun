@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There is a single light of science, and to brighten it anywhere is to brighten it everywhere.</em><br/><sub>Isaac Asimov</sub></p>
+<p><em>I am a voyager - and the voyage cannot mean that I stay at home.</em><br/><sub>Emmanuelle Beart</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
