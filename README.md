@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Experimental science is fascinating, but I don&#x27;t want to do it. I want other people to do it, and I&#x27;ll read about it.</em><br/><sub>Barbara Ehrenreich</sub></p>
+<p><em>He who stands with his face to the East in the morning will have the sun before him. If he does not change his posture, the Earth in the meantime having changed its, he will have the sun no longer before him, but behind.</em><br/><sub>Daniel De Leon</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
