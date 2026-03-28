@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Wine and cheese are ageless companions, like aspirin and aches, or June and moon, or good people and noble ventures.</em><br/><sub>M. F. K. Fisher</sub></p>
+<p><em>There is a single light of science, and to brighten it anywhere is to brighten it everywhere.</em><br/><sub>Isaac Asimov</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
