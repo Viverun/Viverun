@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>For each one of us stands alone in the midst of a universe.</em><br/><sub>John Buchanan Robinson</sub></p>
+<p><em>Yeah we all shine on, like the moon, and the stars, and the sun.</em><br/><sub>John Lennon</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
