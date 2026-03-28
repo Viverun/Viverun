@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The method of political science is the interpretation of life its instrument is insight, a nice understanding of subtle, unformulated conditions.</em><br/><sub>Woodrow Wilson</sub></p>
+<p><em>Biology is now bigger than physics, as measured by the size of budgets, by the size of the workforce, or by the output of major discoveries and biology is likely to remain the biggest part of science through the twenty-first century.</em><br/><sub>Freeman Dyson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
