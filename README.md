@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We owe at least this much to future generations, from whom we have borrowed a fragile planet called Earth.</em><br/><sub>Maurice Strong</sub></p>
+<p><em>Science always uses metaphor.</em><br/><sub>James Lovelock</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
