@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Let freedom reign. The sun never set on so glorious a human achievement.</em><br/><sub>Nelson Mandela</sub></p>
+<p><em>There is science, logic, reason there is thought verified by experience. And then there is California.</em><br/><sub>Edward Abbey</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
