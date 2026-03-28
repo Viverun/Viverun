@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>So if you&#x27;re a robot and you&#x27;re living on this planet, you can do things that you can&#x27;t do in real life - things that you wished you could do: like fly like have a car that flies like have furniture that is alive.</em><br/><sub>William Joyce</sub></p>
+<p><em>Wine and cheese are ageless companions, like aspirin and aches, or June and moon, or good people and noble ventures.</em><br/><sub>M. F. K. Fisher</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
