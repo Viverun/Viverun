@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Nobody under the sun was like Madonna. She was positive and clear and wholly dedicated to achieving everything that she&#x27;s achieved.</em><br/><sub>Nile Rodgers</sub></p>
+<p><em>Curiosity is the wick in the candle of learning.</em><br/><sub>William Arthur Ward</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
