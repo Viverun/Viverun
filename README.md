@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Everything is perfect in the universe - even your desire to improve it.</em><br/><sub>Wayne Dyer</sub></p>
+<p><em>The art and science of asking questions is the source of all knowledge.</em><br/><sub>Thomas Berger</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
