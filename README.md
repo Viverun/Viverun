@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science will explain how but not why. It talks about what is, not what ought to be. Science is descriptive, not prescriptive it can tell us about causes but it cannot tell us about purposes. Indeed, science disavows purposes.</em><br/><sub>Jonathan Sacks</sub></p>
+<p><em>The difference between science and the fuzzy subjects is that science requires reasoning while those other subjects merely require scholarship.</em><br/><sub>Robert A. Heinlein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
