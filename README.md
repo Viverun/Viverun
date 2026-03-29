@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is fun. Science is curiosity. We all have natural curiosity. Science is a process of investigating. It&#x27;s posing questions and coming up with a method. It&#x27;s delving in.</em><br/><sub>Sally Ride</sub></p>
+<p><em>Science is simply common sense at its best, that is, rigidly accurate in observation, and merciless to fallacy in logic.</em><br/><sub>Thomas Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
