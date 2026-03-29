@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The art and science of asking questions is the source of all knowledge.</em><br/><sub>Thomas Berger</sub></p>
+<p><em>Science fiction, to me, has not only things that wouldn&#x27;t happen, but other planets.</em><br/><sub>Margaret Atwood</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
