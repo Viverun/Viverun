@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Most of us can remember a time when a birthday - especially if it was one&#x27;s own - brightened the world as if a second sun has risen.</em><br/><sub>Robert Staughton Lynd</sub></p>
+<p><em>Old age, calm, expanded, broad with the haughty breadth of the universe, old age flowing free with the delicious near-by freedom of death.</em><br/><sub>Edith Wharton</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
