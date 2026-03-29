@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science fiction, to me, has not only things that wouldn&#x27;t happen, but other planets.</em><br/><sub>Margaret Atwood</sub></p>
+<p><em>Almost everything that distinguishes the modern world from earlier centuries is attributable to science, which achieved its most spectacular triumphs in the seventeenth century.</em><br/><sub>Bertrand Russell</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
