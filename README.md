@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is simply common sense at its best, that is, rigidly accurate in observation, and merciless to fallacy in logic.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>I did, although I didn&#x27;t read from page 1 to page 187 but I read chunks of it. I did a little bit of science when I was in the university so I was able to understand the graphs and pie charts and stuff like that. It was extremely dry.</em><br/><sub>Liam Neeson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
