@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Women tend to be more intuitive, or to admit to being intuitive, and maybe the hard science approach isn&#x27;t so attractive. The way that science is taught is very cold. I would never have become a scientist if I had been taught like that.</em><br/><sub>Jane Goodall</sub></p>
+<p><em>Not to discriminate every moment some passionate attitude in those about us, and in the very brilliancy of their gifts some tragic dividing on their ways, is, on this short day of frost and sun, to sleep before evening.</em><br/><sub>Walter Pater</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
