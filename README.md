@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The Athanasian Creed is to me light and intelligible reading in comparison with much that now passes for science.</em><br/><sub>Samuel Butler</sub></p>
+<p><em>Everything is perfect in the universe - even your desire to improve it.</em><br/><sub>Wayne Dyer</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
