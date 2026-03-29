@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Almost everything that distinguishes the modern world from earlier centuries is attributable to science, which achieved its most spectacular triumphs in the seventeenth century.</em><br/><sub>Bertrand Russell</sub></p>
+<p><em>Most of us can remember a time when a birthday - especially if it was one&#x27;s own - brightened the world as if a second sun has risen.</em><br/><sub>Robert Staughton Lynd</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
