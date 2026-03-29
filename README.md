@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Everything is becoming science fiction. From the margins of an almost invisible literature has sprung the intact reality of the 20th century.</em><br/><sub>J. G. Ballard</sub></p>
+<p><em>Design and technology should be the subject where mathematical brainboxes and science whizzkids turn their bright ideas into useful products.</em><br/><sub>James Dyson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
