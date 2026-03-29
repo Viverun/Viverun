@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Biology is now bigger than physics, as measured by the size of budgets, by the size of the workforce, or by the output of major discoveries and biology is likely to remain the biggest part of science through the twenty-first century.</em><br/><sub>Freeman Dyson</sub></p>
+<p><em>Everything is becoming science fiction. From the margins of an almost invisible literature has sprung the intact reality of the 20th century.</em><br/><sub>J. G. Ballard</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
