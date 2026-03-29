@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Not to discriminate every moment some passionate attitude in those about us, and in the very brilliancy of their gifts some tragic dividing on their ways, is, on this short day of frost and sun, to sleep before evening.</em><br/><sub>Walter Pater</sub></p>
+<p><em>Science is fun. Science is curiosity. We all have natural curiosity. Science is a process of investigating. It&#x27;s posing questions and coming up with a method. It&#x27;s delving in.</em><br/><sub>Sally Ride</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
