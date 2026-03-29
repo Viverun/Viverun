@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun.</em><br/><sub>Pablo Picasso</sub></p>
+<p><em>I don&#x27;t pretend to understand the Universe - it&#x27;s a great deal bigger than I am.</em><br/><sub>Thomas Carlyle</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
