@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Old age, calm, expanded, broad with the haughty breadth of the universe, old age flowing free with the delicious near-by freedom of death.</em><br/><sub>Edith Wharton</sub></p>
+<p><em>Women tend to be more intuitive, or to admit to being intuitive, and maybe the hard science approach isn&#x27;t so attractive. The way that science is taught is very cold. I would never have become a scientist if I had been taught like that.</em><br/><sub>Jane Goodall</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
