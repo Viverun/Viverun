@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Design and technology should be the subject where mathematical brainboxes and science whizzkids turn their bright ideas into useful products.</em><br/><sub>James Dyson</sub></p>
+<p><em>Science will explain how but not why. It talks about what is, not what ought to be. Science is descriptive, not prescriptive it can tell us about causes but it cannot tell us about purposes. Indeed, science disavows purposes.</em><br/><sub>Jonathan Sacks</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
