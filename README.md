@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The difference between science and the fuzzy subjects is that science requires reasoning while those other subjects merely require scholarship.</em><br/><sub>Robert A. Heinlein</sub></p>
+<p><em>Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun.</em><br/><sub>Pablo Picasso</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
