@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If you start any large theory, such as quantum mechanics, plate tectonics, evolution, it takes about 40 years for mainstream science to come around. Gaia has been going for only 30 years or so.</em><br/><sub>James Lovelock</sub></p>
+<p><em>Shun no toil to make yourself remarkable by some talent or other yet do not devote yourself to one branch exclusively. Strive to get clear notions about all. Give up no science entirely for science is but one.</em><br/><sub>Lucius Annaeus Seneca</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
