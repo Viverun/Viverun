@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The universe is an intelligence test.</em><br/><sub>Timothy Leary</sub></p>
+<p><em>My mother was the sweetest lady who ever lived on this planet, but if you tried to tell her that Jesus wasn&#x27;t a Christian, she would stomp you to death.</em><br/><sub>Dick Gregory</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
