@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>A leaf fluttered in through the window this morning, as if supported by the rays of the sun, a bird settled on the fire escape, joy in the task of coffee, joy accompanied me as I walked.</em><br/><sub>Anais Nin</sub></p>
+<p><em>There is science, logic, reason there is thought verified by experience. And then there is California.</em><br/><sub>Edward Abbey</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
