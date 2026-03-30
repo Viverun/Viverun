@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There is science, logic, reason there is thought verified by experience. And then there is California.</em><br/><sub>Edward Abbey</sub></p>
+<p><em>I&#x27;m a sci-fi girl. If I can have anything in life, I&#x27;d want tons of great science-fiction movies and stories. It&#x27;s so progressive, beautiful, and imaginative.</em><br/><sub>Zoe Saldana</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
