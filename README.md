@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I&#x27;m a sci-fi girl. If I can have anything in life, I&#x27;d want tons of great science-fiction movies and stories. It&#x27;s so progressive, beautiful, and imaginative.</em><br/><sub>Zoe Saldana</sub></p>
+<p><em>All one&#x27;s inventions are true, you can be sure of that. Poetry is as exact a science as geometry.</em><br/><sub>Gustave Flaubert</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
