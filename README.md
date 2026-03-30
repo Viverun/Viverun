@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is nothing but perception.</em><br/><sub>Plato</sub></p>
+<p><em>A leaf fluttered in through the window this morning, as if supported by the rays of the sun, a bird settled on the fire escape, joy in the task of coffee, joy accompanied me as I walked.</em><br/><sub>Anais Nin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
