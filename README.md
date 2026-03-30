@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Society lives by faith, and develops by science.</em><br/><sub>Henri Frederic Amiel</sub></p>
+<p><em>Luck is a component that a lot of people in the arts sometimes fail to recognise: that you can have talent, perseverance, patience, but without luck you will not have a successful career.</em><br/><sub>Bryan Cranston</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
