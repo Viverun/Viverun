@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is built up of facts, as a house is with stones. But a collection of facts is no more a science than a heap of stones is a house.</em><br/><sub>Henri Poincare</sub></p>
+<p><em>I think mistakes are the essence of science and law. It&#x27;s impossible to conceive of either scientific progress or legal progress without understanding the important role of being wrong and of mistakes.</em><br/><sub>Alan Dershowitz</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
