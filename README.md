@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.</em><br/><sub>C. S. Lewis</sub></p>
+<p><em>When I entered medical physics in 1958 there were fewer than 100 in the U.S. and I could see many opportunities to apply my knowledge of nuclear physics.</em><br/><sub>John Cameron</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
