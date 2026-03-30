@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Shun no toil to make yourself remarkable by some talent or other yet do not devote yourself to one branch exclusively. Strive to get clear notions about all. Give up no science entirely for science is but one.</em><br/><sub>Lucius Annaeus Seneca</sub></p>
+<p><em>Science is built up of facts, as a house is with stones. But a collection of facts is no more a science than a heap of stones is a house.</em><br/><sub>Henri Poincare</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
