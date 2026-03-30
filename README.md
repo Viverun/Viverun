@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>My mother was the sweetest lady who ever lived on this planet, but if you tried to tell her that Jesus wasn&#x27;t a Christian, she would stomp you to death.</em><br/><sub>Dick Gregory</sub></p>
+<p><em>The product of mental labor - science - always stands far below its value, because the labor-time necessary to reproduce it has no relation at all to the labor-time required for its original production.</em><br/><sub>Karl Marx</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
