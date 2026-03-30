@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>All one&#x27;s inventions are true, you can be sure of that. Poetry is as exact a science as geometry.</em><br/><sub>Gustave Flaubert</sub></p>
+<p><em>The universe is an intelligence test.</em><br/><sub>Timothy Leary</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
