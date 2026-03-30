@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When I entered medical physics in 1958 there were fewer than 100 in the U.S. and I could see many opportunities to apply my knowledge of nuclear physics.</em><br/><sub>John Cameron</sub></p>
+<p><em>Raising children is a creative endeavor, an art rather than a science.</em><br/><sub>Bruno Bettelheim</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
