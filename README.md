@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When, as we must often do, we fear science, we really fear ourselves.</em><br/><sub>John Charles Polanyi</sub></p>
+<p><em>Society lives by faith, and develops by science.</em><br/><sub>Henri Frederic Amiel</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
