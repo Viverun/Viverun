@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There was no &#x27;before&#x27; the beginning of our universe, because once upon a time there was no time.</em><br/><sub>John D. Barrow</sub></p>
+<p><em>Science arose from poetry... when times change the two can meet again on a higher level as friends.</em><br/><sub>Johann Wolfgang von Goethe</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
