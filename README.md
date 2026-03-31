@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I used to be scared of women. When I was very young they terrified me, but discovering the female universe was incredible and still is to this day, as you never stop learning about them.</em><br/><sub>Antonio Banderas</sub></p>
+<p><em>Very few recognize science as the high adventure it really is, the wildest of all explorations ever taken by human beings, the chance to glimpse things never seen before, the shrewdest maneuver for discovering how the world works.</em><br/><sub>Lewis Thomas</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
