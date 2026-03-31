@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science arose from poetry... when times change the two can meet again on a higher level as friends.</em><br/><sub>Johann Wolfgang von Goethe</sub></p>
+<p><em>I think the driving thing was curiosity about the universe. That fascinated me. I didn&#x27;t think anything about being famous or anything like that, I was just interested in the concepts involved.</em><br/><sub>Clyde Tombaugh</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
