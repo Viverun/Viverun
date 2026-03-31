@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Yeah, I get to fight in &#x27;Eclipse.&#x27; My trainer is teaching me MMA right now. So. Cool.</em><br/><sub>Ashley Greene</sub></p>
+<p><em>I want to put a ding in the universe.</em><br/><sub>Steve Jobs</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
