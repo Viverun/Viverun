@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.</em><br/><sub>Dalai Lama</sub></p>
+<p><em>Odd how the creative power at once brings the whole universe to order.</em><br/><sub>Virginia Woolf</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
