@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I want to put a ding in the universe.</em><br/><sub>Steve Jobs</sub></p>
+<p><em>Human Nature is the only science of man and yet has been hitherto the most neglected.</em><br/><sub>David Hume</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
