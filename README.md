@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Raising children is a creative endeavor, an art rather than a science.</em><br/><sub>Bruno Bettelheim</sub></p>
+<p><em>Every known fact in natural science was divined by the presentiment of somebody, before it was actually verified.</em><br/><sub>Ralph Waldo Emerson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
