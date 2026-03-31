@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Human Nature is the only science of man and yet has been hitherto the most neglected.</em><br/><sub>David Hume</sub></p>
+<p><em>Well, I&#x27;ve always thought that my career was in England, really. I used to do more in the theatre, and I felt that I should be there. It&#x27;s not far is it? It&#x27;s amazing the way that special FX have taken a quantum leap in what they&#x27;re capable of doing.</em><br/><sub>Albert Finney</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
