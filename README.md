@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Every known fact in natural science was divined by the presentiment of somebody, before it was actually verified.</em><br/><sub>Ralph Waldo Emerson</sub></p>
+<p><em>I used to be scared of women. When I was very young they terrified me, but discovering the female universe was incredible and still is to this day, as you never stop learning about them.</em><br/><sub>Antonio Banderas</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
