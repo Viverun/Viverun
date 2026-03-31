@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The day will dawn when all the people of Ireland will have the desire for freedom to show. It is then we&#x27;ll see the rising of the moon.</em><br/><sub>Bobby Sands</sub></p>
+<p><em>Yeah, I get to fight in &#x27;Eclipse.&#x27; My trainer is teaching me MMA right now. So. Cool.</em><br/><sub>Ashley Greene</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
