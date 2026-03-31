@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Odd how the creative power at once brings the whole universe to order.</em><br/><sub>Virginia Woolf</sub></p>
+<p><em>Philosophers have not kept up with modern developments in science. Particularly physics.</em><br/><sub>Stephen Hawking</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
