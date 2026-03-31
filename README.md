@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Woman is the sun, an extraordinary creature, one that makes the imagination gallop.</em><br/><sub>Marcello Mastroianni</sub></p>
+<p><em>Einstein was searching for String Theory. It not only reconciles General Relativity to Quantum Mechanics, but it reconciles Science and the Bible as well.</em><br/><sub>Roy H. Williams</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
