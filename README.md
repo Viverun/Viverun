@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The atmosphere seems to change once the sun goes down and the race fans get to watch a good show.</em><br/><sub>Dale Earnhardt</sub></p>
+<p><em>There was no &#x27;before&#x27; the beginning of our universe, because once upon a time there was no time.</em><br/><sub>John D. Barrow</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
