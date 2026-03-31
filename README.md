@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Philosophers have not kept up with modern developments in science. Particularly physics.</em><br/><sub>Stephen Hawking</sub></p>
+<p><em>The day will dawn when all the people of Ireland will have the desire for freedom to show. It is then we&#x27;ll see the rising of the moon.</em><br/><sub>Bobby Sands</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
