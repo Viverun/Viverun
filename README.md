@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I think the driving thing was curiosity about the universe. That fascinated me. I didn&#x27;t think anything about being famous or anything like that, I was just interested in the concepts involved.</em><br/><sub>Clyde Tombaugh</sub></p>
+<p><em>I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.</em><br/><sub>Dalai Lama</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
