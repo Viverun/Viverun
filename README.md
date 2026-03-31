@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Very few recognize science as the high adventure it really is, the wildest of all explorations ever taken by human beings, the chance to glimpse things never seen before, the shrewdest maneuver for discovering how the world works.</em><br/><sub>Lewis Thomas</sub></p>
+<p><em>Today the function of the artist is to bring imagination to science and science to imagination, where they meet, in the myth.</em><br/><sub>Cyril Connolly</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
