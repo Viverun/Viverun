@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Today the function of the artist is to bring imagination to science and science to imagination, where they meet, in the myth.</em><br/><sub>Cyril Connolly</sub></p>
+<p><em>The atmosphere seems to change once the sun goes down and the race fans get to watch a good show.</em><br/><sub>Dale Earnhardt</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
