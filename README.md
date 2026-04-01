@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is the father of knowledge, but opinion breeds ignorance.</em><br/><sub>Hippocrates</sub></p>
+<p><em>The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.</em><br/><sub>Isaac Asimov</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
