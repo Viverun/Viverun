@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained.</em><br/><sub>Marie Curie</sub></p>
+<p><em>Some day science may have the existence of mankind in power, and the human race can commit suicide by blowing up the world.</em><br/><sub>Henry Adams</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
