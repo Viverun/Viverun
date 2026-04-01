@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The conscious mind may be compared to a fountain playing in the sun and falling back into the great subterranean pool of subconscious from which it rises.</em><br/><sub>Sigmund Freud</sub></p>
+<p><em>Observation is a passive science, experimentation an active science.</em><br/><sub>Claude Bernard</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
