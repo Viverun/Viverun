@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science can purify religion from error and superstition. Religion can purify science from idolatry and false absolutes.</em><br/><sub>Pope John Paul II</sub></p>
+<p><em>The scientist is motivated primarily by curiosity and a desire for truth.</em><br/><sub>Irving Langmuir</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
