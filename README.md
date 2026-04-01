@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>As far as I&#x27;m concerned, there&#x27;s no job more important on the planet than being a mom.</em><br/><sub>Mark Wahlberg</sub></p>
+<p><em>Science can purify religion from error and superstition. Religion can purify science from idolatry and false absolutes.</em><br/><sub>Pope John Paul II</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
