@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The scientist is motivated primarily by curiosity and a desire for truth.</em><br/><sub>Irving Langmuir</sub></p>
+<p><em>Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained.</em><br/><sub>Marie Curie</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
