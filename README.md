@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The mysteriousness and mystique of space is such, that science fiction attempts to tantalize you by telling you a story that could possibly be out there and that&#x27;s the appeal of science fiction.</em><br/><sub>William Shatner</sub></p>
+<p><em>As far as I&#x27;m concerned, there&#x27;s no job more important on the planet than being a mom.</em><br/><sub>Mark Wahlberg</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
