@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science has to be understood in its broadest sense, as a method for comprehending all observable reality, and not merely as an instrument for acquiring specialized knowledge.</em><br/><sub>Alexis Carrel</sub></p>
+<p><em>Design and technology should be the subject where mathematical brainboxes and science whizzkids turn their bright ideas into useful products.</em><br/><sub>James Dyson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
