@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>They can shout down the head of the physics department at Cal Tech.</em><br/><sub>James Stockdale</sub></p>
+<p><em>To bathe a cat takes brute force, perseverance, courage of conviction - and a cat. The last ingredient is usually hardest to come by.</em><br/><sub>Stephen Baker</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
