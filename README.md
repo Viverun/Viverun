@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Friendship is the shadow of the evening, which increases with the setting sun of life.</em><br/><sub>Jean de La Fontaine</sub></p>
+<p><em>Space or science fiction has become a dialect for our time.</em><br/><sub>Doris Lessing</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
