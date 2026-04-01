@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Imagination is the real and eternal world of which this vegetable universe is but a faint shadow.</em><br/><sub>William Blake</sub></p>
+<p><em>The conscious mind may be compared to a fountain playing in the sun and falling back into the great subterranean pool of subconscious from which it rises.</em><br/><sub>Sigmund Freud</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
