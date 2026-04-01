@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Einstein was searching for String Theory. It not only reconciles General Relativity to Quantum Mechanics, but it reconciles Science and the Bible as well.</em><br/><sub>Roy H. Williams</sub></p>
+<p><em>They can shout down the head of the physics department at Cal Tech.</em><br/><sub>James Stockdale</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
