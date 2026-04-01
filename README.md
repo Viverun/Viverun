@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Some day science may have the existence of mankind in power, and the human race can commit suicide by blowing up the world.</em><br/><sub>Henry Adams</sub></p>
+<p><em>Science is the father of knowledge, but opinion breeds ignorance.</em><br/><sub>Hippocrates</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
