@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Observation is a passive science, experimentation an active science.</em><br/><sub>Claude Bernard</sub></p>
+<p><em>Friendship is the shadow of the evening, which increases with the setting sun of life.</em><br/><sub>Jean de La Fontaine</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
