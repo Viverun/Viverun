@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>To bathe a cat takes brute force, perseverance, courage of conviction - and a cat. The last ingredient is usually hardest to come by.</em><br/><sub>Stephen Baker</sub></p>
+<p><em>The mysteriousness and mystique of space is such, that science fiction attempts to tantalize you by telling you a story that could possibly be out there and that&#x27;s the appeal of science fiction.</em><br/><sub>William Shatner</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
