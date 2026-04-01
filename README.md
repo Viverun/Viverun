@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Design and technology should be the subject where mathematical brainboxes and science whizzkids turn their bright ideas into useful products.</em><br/><sub>James Dyson</sub></p>
+<p><em>Imagination is the real and eternal world of which this vegetable universe is but a faint shadow.</em><br/><sub>William Blake</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
