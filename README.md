@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.</em><br/><sub>Isaac Asimov</sub></p>
+<p><em>Science has to be understood in its broadest sense, as a method for comprehending all observable reality, and not merely as an instrument for acquiring specialized knowledge.</em><br/><sub>Alexis Carrel</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
