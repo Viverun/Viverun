@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Well, Freddie Mercury is a really huge rock star in my head. I&#x27;ve always thought he was just so tough and such an amazing entertainer, really a contradiction in many ways as well. So he was incredible.</em><br/><sub>Karen O</sub></p>
+<p><em>Nobody under the sun was like Madonna. She was positive and clear and wholly dedicated to achieving everything that she&#x27;s achieved.</em><br/><sub>Nile Rodgers</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
