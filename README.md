@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In science the important thing is to modify and change one&#x27;s ideas as science advances.</em><br/><sub>Herbert Spencer</sub></p>
+<p><em>Space or science fiction has become a dialect for our time.</em><br/><sub>Doris Lessing</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
