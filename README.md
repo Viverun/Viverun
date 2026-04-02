@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Now science has presented us with a hope called stem cell research, which may provide our scientists with many answers that have for so long been beyond our grasp.</em><br/><sub>Nancy Reagan</sub></p>
+<p><em>The man of science has learned to believe in justification, not by faith, but by verification.</em><br/><sub>Thomas Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
