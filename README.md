@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It&#x27;s sort of a mental attitude about critical thinking and curiosity. It&#x27;s about mindset of looking at the world in a playful and curious and creative way.</em><br/><sub>Adam Savage</sub></p>
+<p><em>When prayer removes distrust and doubt and enters the field of mental certainty, it becomes faith and the universe is built on faith.</em><br/><sub>Ernest Holmes</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
