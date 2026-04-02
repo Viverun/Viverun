@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When prayer removes distrust and doubt and enters the field of mental certainty, it becomes faith and the universe is built on faith.</em><br/><sub>Ernest Holmes</sub></p>
+<p><em>Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.</em><br/><sub>Louis Pasteur</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
