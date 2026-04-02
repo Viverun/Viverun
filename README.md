@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Perhaps, to the uninformed, it may appear unaccountable that a man should be able to retain in his memory such a variety of learning but the close alliance with each other, of the different branches of science, will explain the difficulty.</em><br/><sub>Marcus V. Pollio</sub></p>
+<p><em>Now science has presented us with a hope called stem cell research, which may provide our scientists with many answers that have for so long been beyond our grasp.</em><br/><sub>Nancy Reagan</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
