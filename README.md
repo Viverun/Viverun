@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Joy in the universe, and keen curiosity about it all - that has been my religion.</em><br/><sub>John Burroughs</sub></p>
+<p><em>Philosophers have not kept up with modern developments in science. Particularly physics.</em><br/><sub>Stephen Hawking</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
