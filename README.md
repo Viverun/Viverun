@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>As soon as questions of will or decision or reason or choice of action arise, human science is at a loss.</em><br/><sub>Noam Chomsky</sub></p>
+<p><em>It&#x27;s sort of a mental attitude about critical thinking and curiosity. It&#x27;s about mindset of looking at the world in a playful and curious and creative way.</em><br/><sub>Adam Savage</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
