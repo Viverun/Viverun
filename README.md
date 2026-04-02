@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Nothing in the universe can travel at the speed of light, they say, forgetful of the shadow&#x27;s speed.</em><br/><sub>Howard Nemerov</sub></p>
+<p><em>Joy in the universe, and keen curiosity about it all - that has been my religion.</em><br/><sub>John Burroughs</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
