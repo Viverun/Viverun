@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Philosophers have not kept up with modern developments in science. Particularly physics.</em><br/><sub>Stephen Hawking</sub></p>
+<p><em>Well, Freddie Mercury is a really huge rock star in my head. I&#x27;ve always thought he was just so tough and such an amazing entertainer, really a contradiction in many ways as well. So he was incredible.</em><br/><sub>Karen O</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
