@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The man of science has learned to believe in justification, not by faith, but by verification.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>I look for what needs to be done. After all, that&#x27;s how the universe designs itself.</em><br/><sub>R. Buckminster Fuller</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
