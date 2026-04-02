@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I look for what needs to be done. After all, that&#x27;s how the universe designs itself.</em><br/><sub>R. Buckminster Fuller</sub></p>
+<p><em>I hate science fiction.</em><br/><sub>James Dyson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
