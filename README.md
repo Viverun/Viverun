@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Space or science fiction has become a dialect for our time.</em><br/><sub>Doris Lessing</sub></p>
+<p><em>As soon as questions of will or decision or reason or choice of action arise, human science is at a loss.</em><br/><sub>Noam Chomsky</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
