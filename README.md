@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>That attitude does not exist so much today, but in those days there was a very sharp distinction between basic physics and applied physics. Columbia did not deal with applied physics.</em><br/><sub>Gordon Gould</sub></p>
+<p><em>The worst state of affairs is when science begins to concern itself with art.</em><br/><sub>Paul Klee</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
