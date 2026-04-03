@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There are in fact two things, science and opinion the former begets knowledge, the later ignorance.</em><br/><sub>Hippocrates</sub></p>
+<p><em>Science is the father of knowledge, but opinion breeds ignorance.</em><br/><sub>Hippocrates</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
