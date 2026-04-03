@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It vexes me when they would constrain science by the authority of the Scriptures, and yet do not consider themselves bound to answer reason and experiment.</em><br/><sub>Galileo Galilei</sub></p>
+<p><em>I am a dreamer. Seriously, I&#x27;m living on another planet.</em><br/><sub>Eva Green</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
