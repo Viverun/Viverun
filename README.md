@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The whole art of teaching is only the art of awakening the natural curiosity of young minds for the purpose of satisfying it afterwards.</em><br/><sub>Anatole France</sub></p>
+<p><em>Facts matter. Science matters. Reason matters. Mitt Romney has shown an inability to respect any of the three. President Barack Obama not only respects them, he relies on them. He is an overwhelming and unquestioned choice to continue as president.</em><br/><sub>Eliot Spitzer</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
