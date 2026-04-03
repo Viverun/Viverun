@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I have seen firsthand that agricultural science has enormous potential to increase the yields of small farmers and lift them out of hunger and poverty.</em><br/><sub>Bill Gates</sub></p>
+<p><em>I think laughter may be a form of courage. As humans we sometimes stand tall and look into the sun and laugh, and I think we are never more brave than when we do that.</em><br/><sub>Linda Ellerbee</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
