@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The respect for human rights, essential if we are to use technology wisely, is not something alien that must be grafted onto science. On the contrary, it is integral to science, as also to scholarship in general.</em><br/><sub>John Charles Polanyi</sub></p>
+<p><em>I was growing up listening to Queen. Freddie Mercury threw those incredible melodies into his songs.</em><br/><sub>Gary Cherone</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
