@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Doing a documentary is about discovering, being open, learning, and following curiosity.</em><br/><sub>Spike Jonze</sub></p>
+<p><em>Intelligent life on a planet comes of age when it first works out the reason for its own existence.</em><br/><sub>Richard Dawkins</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
