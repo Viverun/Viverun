@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I am a dreamer. Seriously, I&#x27;m living on another planet.</em><br/><sub>Eva Green</sub></p>
+<p><em>He who binds to himself a joy Does the winged life destroy But he who kisses the joy as it flies Lives in eternity&#x27;s sun rise.</em><br/><sub>William Blake</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
