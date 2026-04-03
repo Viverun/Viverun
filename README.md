@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In science the important thing is to modify and change one&#x27;s ideas as science advances.</em><br/><sub>Herbert Spencer</sub></p>
+<p><em>That attitude does not exist so much today, but in those days there was a very sharp distinction between basic physics and applied physics. Columbia did not deal with applied physics.</em><br/><sub>Gordon Gould</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
