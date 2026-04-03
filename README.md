@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Superstition is to religion what astrology is to astronomy the mad daughter of a wise mother. These daughters have too long dominated the earth.</em><br/><sub>Voltaire</sub></p>
+<p><em>I have seen firsthand that agricultural science has enormous potential to increase the yields of small farmers and lift them out of hunger and poverty.</em><br/><sub>Bill Gates</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
