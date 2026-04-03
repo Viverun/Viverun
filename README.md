@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I think laughter may be a form of courage. As humans we sometimes stand tall and look into the sun and laugh, and I think we are never more brave than when we do that.</em><br/><sub>Linda Ellerbee</sub></p>
+<p><em>There are in fact two things, science and opinion the former begets knowledge, the later ignorance.</em><br/><sub>Hippocrates</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
