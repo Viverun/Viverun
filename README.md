@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The worst state of affairs is when science begins to concern itself with art.</em><br/><sub>Paul Klee</sub></p>
+<p><em>The whole art of teaching is only the art of awakening the natural curiosity of young minds for the purpose of satisfying it afterwards.</em><br/><sub>Anatole France</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
