@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>He who binds to himself a joy Does the winged life destroy But he who kisses the joy as it flies Lives in eternity&#x27;s sun rise.</em><br/><sub>William Blake</sub></p>
+<p><em>This is the first convention of the space age - where a candidate can promise the moon and mean it.</em><br/><sub>David Brinkley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
