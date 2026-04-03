@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Art is science made clear.</em><br/><sub>Wilson Mizner</sub></p>
+<p><em>Science is spectral analysis. Art is light synthesis.</em><br/><sub>Karl Kraus</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
