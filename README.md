@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is spectral analysis. Art is light synthesis.</em><br/><sub>Karl Kraus</sub></p>
+<p><em>In science the important thing is to modify and change one&#x27;s ideas as science advances.</em><br/><sub>Herbert Spencer</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
