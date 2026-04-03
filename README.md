@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>This is the first convention of the space age - where a candidate can promise the moon and mean it.</em><br/><sub>David Brinkley</sub></p>
+<p><em>Doing a documentary is about discovering, being open, learning, and following curiosity.</em><br/><sub>Spike Jonze</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
