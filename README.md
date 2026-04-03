@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is the father of knowledge, but opinion breeds ignorance.</em><br/><sub>Hippocrates</sub></p>
+<p><em>Art is science made clear.</em><br/><sub>Wilson Mizner</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
