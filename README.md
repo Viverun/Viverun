@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is wonderfully equipped to answer the question &#x27;How?&#x27; but it gets terribly confused when you ask the question &#x27;Why?&#x27;</em><br/><sub>Erwin Chargaff</sub></p>
+<p><em>It vexes me when they would constrain science by the authority of the Scriptures, and yet do not consider themselves bound to answer reason and experiment.</em><br/><sub>Galileo Galilei</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
