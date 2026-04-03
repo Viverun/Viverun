@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Facts matter. Science matters. Reason matters. Mitt Romney has shown an inability to respect any of the three. President Barack Obama not only respects them, he relies on them. He is an overwhelming and unquestioned choice to continue as president.</em><br/><sub>Eliot Spitzer</sub></p>
+<p><em>Science is wonderfully equipped to answer the question &#x27;How?&#x27; but it gets terribly confused when you ask the question &#x27;Why?&#x27;</em><br/><sub>Erwin Chargaff</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
