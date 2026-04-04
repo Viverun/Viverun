@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The capacity of the female mind for studies of the highest order cannot be doubted, having been sufficiently illustrated by its works of genius, of erudition, and of science.</em><br/><sub>James Madison</sub></p>
+<p><em>I&#x27;m an amateur science enthusiast. I&#x27;m not even a professional enthusiast. I don&#x27;t know anything I never even passed biology in high school. But I read the science section of the newspaper.</em><br/><sub>Dave Eggers</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
