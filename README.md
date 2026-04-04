@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Very few recognize science as the high adventure it really is, the wildest of all explorations ever taken by human beings, the chance to glimpse things never seen before, the shrewdest maneuver for discovering how the world works.</em><br/><sub>Lewis Thomas</sub></p>
+<p><em>Go beyond science, into the region of metaphysics. Real religion is beyond argument. It can only be lived both inwardly and outwardly.</em><br/><sub>Swami Sivananda</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
