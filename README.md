@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There is no wider gulf in the universe than yawns between those on the hither and thither side of vital experience.</em><br/><sub>Rebecca West</sub></p>
+<p><em>The media need superheroes in science just as in every sphere of life, but there is really a continuous range of abilities with no clear dividing line.</em><br/><sub>Stephen Hawking</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
