@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Go beyond science, into the region of metaphysics. Real religion is beyond argument. It can only be lived both inwardly and outwardly.</em><br/><sub>Swami Sivananda</sub></p>
+<p><em>Sometimes I think we&#x27;re alone in the universe, and sometimes I think we&#x27;re not. In either case the idea is quite staggering.</em><br/><sub>Arthur C. Clarke</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
