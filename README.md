@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.</em><br/><sub>Thomas Carlyle</sub></p>
+<p><em>Time travel used to be thought of as just science fiction, but Einstein&#x27;s general theory of relativity allows for the possibility that we could warp space-time so much that you could go off in a rocket and return before you set out.</em><br/><sub>Stephen Hawking</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
