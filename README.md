@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Traditional science assumes, for the most part, that an objective observer independent reality exists the universe, stars, galaxies, sun, moon and earth would still be there if no one was looking.</em><br/><sub>Deepak Chopra</sub></p>
+<p><em>There are in fact two things, science and opinion the former begets knowledge, the later ignorance.</em><br/><sub>Hippocrates</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
