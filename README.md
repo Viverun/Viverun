@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I do a lot of curiosity buying I buy it if I like the album cover, I buy it if I like the name of the band, anything that sparks my imagination.</em><br/><sub>Bruce Springsteen</sub></p>
+<p><em>The product of mental labor - science - always stands far below its value, because the labor-time necessary to reproduce it has no relation at all to the labor-time required for its original production.</em><br/><sub>Karl Marx</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
