@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Physics is experience, arranged in economical order.</em><br/><sub>Ernst Mach</sub></p>
+<p><em>I do a lot of curiosity buying I buy it if I like the album cover, I buy it if I like the name of the band, anything that sparks my imagination.</em><br/><sub>Bruce Springsteen</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
