@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Borrowing knowledge of reality from all sources, taking the best from every study, Science of Mind brings together the highest enlightenment of the ages.</em><br/><sub>Ernest Holmes</sub></p>
+<p><em>The art and science of asking questions is the source of all knowledge.</em><br/><sub>Thomas Berger</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
