@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I was growing up listening to Queen. Freddie Mercury threw those incredible melodies into his songs.</em><br/><sub>Gary Cherone</sub></p>
+<p><em>Borrowing knowledge of reality from all sources, taking the best from every study, Science of Mind brings together the highest enlightenment of the ages.</em><br/><sub>Ernest Holmes</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
