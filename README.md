@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The chief difficulty which prevents men of science from believing in divine as well as in nature Spirits is their materialism.</em><br/><sub>H. P. Blavatsky</sub></p>
+<p><em>This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.</em><br/><sub>Thomas Carlyle</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
