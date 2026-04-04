@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>With acknowledgement of residues, we can be more easily prepared to grant the unit of science, the overlapping of disciplines, and the total coherence of all facts.</em><br/><sub>Kenneth L. Pike</sub></p>
+<p><em>Very few recognize science as the high adventure it really is, the wildest of all explorations ever taken by human beings, the chance to glimpse things never seen before, the shrewdest maneuver for discovering how the world works.</em><br/><sub>Lewis Thomas</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
