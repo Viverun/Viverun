@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There is one thing even more vital to science than intelligent methods and that is, the sincere desire to find out the truth, whatever it may be.</em><br/><sub>Charles Pierce</sub></p>
+<p><em>The chief difficulty which prevents men of science from believing in divine as well as in nature Spirits is their materialism.</em><br/><sub>H. P. Blavatsky</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
