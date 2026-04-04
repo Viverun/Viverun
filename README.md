@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Time travel used to be thought of as just science fiction, but Einstein&#x27;s general theory of relativity allows for the possibility that we could warp space-time so much that you could go off in a rocket and return before you set out.</em><br/><sub>Stephen Hawking</sub></p>
+<p><em>Traditional science assumes, for the most part, that an objective observer independent reality exists the universe, stars, galaxies, sun, moon and earth would still be there if no one was looking.</em><br/><sub>Deepak Chopra</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
