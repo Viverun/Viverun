@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There are in fact two things, science and opinion the former begets knowledge, the later ignorance.</em><br/><sub>Hippocrates</sub></p>
+<p><em>Physics is experience, arranged in economical order.</em><br/><sub>Ernst Mach</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
