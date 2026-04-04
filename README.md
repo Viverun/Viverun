@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The most wonderful discovery made by scientists is science itself.</em><br/><sub>Jacob Bronowski</sub></p>
+<p><em>With acknowledgement of residues, we can be more easily prepared to grant the unit of science, the overlapping of disciplines, and the total coherence of all facts.</em><br/><sub>Kenneth L. Pike</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
