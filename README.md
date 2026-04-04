@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The media need superheroes in science just as in every sphere of life, but there is really a continuous range of abilities with no clear dividing line.</em><br/><sub>Stephen Hawking</sub></p>
+<p><em>The most wonderful discovery made by scientists is science itself.</em><br/><sub>Jacob Bronowski</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
