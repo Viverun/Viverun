@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The art and science of asking questions is the source of all knowledge.</em><br/><sub>Thomas Berger</sub></p>
+<p><em>There is one thing even more vital to science than intelligent methods and that is, the sincere desire to find out the truth, whatever it may be.</em><br/><sub>Charles Pierce</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
