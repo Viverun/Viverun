@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The great tragedy of science - the slaying of a beautiful hypothesis by an ugly fact.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>Curiosity is free-wheeling intelligence.</em><br/><sub>Alistair Cooke</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
