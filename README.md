@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I&#x27;m an amateur science enthusiast. I&#x27;m not even a professional enthusiast. I don&#x27;t know anything I never even passed biology in high school. But I read the science section of the newspaper.</em><br/><sub>Dave Eggers</sub></p>
+<p><em>The most beautiful thing we can experience is the mysterious. It is the source of all true art and science.</em><br/><sub>Albert Einstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
