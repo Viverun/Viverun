@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Religion is to mysticism what popularization is to science.</em><br/><sub>Henri Bergson</sub></p>
+<p><em>If you take any world problem, any issue on the planet, the solution to that problem certainly includes education. In education, the roadblock is the laptop.</em><br/><sub>Nicholas Negroponte</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
