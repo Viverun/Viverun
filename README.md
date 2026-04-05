@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In science, as in art, and, as I believe, in every other sphere of human activity, there may be wisdom in a multitude of counsellors, but it is only in one or two of them.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>Every great advance in science has issued from a new audacity of imagination.</em><br/><sub>John Dewey</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
