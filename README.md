@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Advertising is fundamentally persuasion and persuasion happens to be not a science, but an art.</em><br/><sub>William Bernbach</sub></p>
+<p><em>Galileo was no idiot. Only an idiot could believe that science requires martyrdom - that may be necessary in religion, but in time a scientific result will establish itself.</em><br/><sub>David Hilbert</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
