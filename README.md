@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Not to discriminate every moment some passionate attitude in those about us, and in the very brilliancy of their gifts some tragic dividing on their ways, is, on this short day of frost and sun, to sleep before evening.</em><br/><sub>Walter Pater</sub></p>
+<p><em>Wine and cheese are ageless companions, like aspirin and aches, or June and moon, or good people and noble ventures.</em><br/><sub>M. F. K. Fisher</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
