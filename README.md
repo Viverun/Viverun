@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Wine and cheese are ageless companions, like aspirin and aches, or June and moon, or good people and noble ventures.</em><br/><sub>M. F. K. Fisher</sub></p>
+<p><em>Society lives by faith, and develops by science.</em><br/><sub>Henri Frederic Amiel</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
