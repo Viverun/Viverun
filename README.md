@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Every great advance in science has issued from a new audacity of imagination.</em><br/><sub>John Dewey</sub></p>
+<p><em>Advertising is fundamentally persuasion and persuasion happens to be not a science, but an art.</em><br/><sub>William Bernbach</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
