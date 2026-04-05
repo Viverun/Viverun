@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The most beautiful thing we can experience is the mysterious. It is the source of all true art and science.</em><br/><sub>Albert Einstein</sub></p>
+<p><em>Doing a documentary is about discovering, being open, learning, and following curiosity.</em><br/><sub>Spike Jonze</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
