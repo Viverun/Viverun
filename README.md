@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Curiosity is free-wheeling intelligence.</em><br/><sub>Alistair Cooke</sub></p>
+<p><em>The universe is transformation; our life is what our thoughts make it.</em><br/><sub>Marcus Aurelius</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
