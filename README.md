@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Most of man&#x27;s problems upon this planet, in the long history of the race, have been met and solved either partially or as a whole by experiment based on common sense and carried out with courage.</em><br/><sub>Frances Perkins</sub></p>
+<p><em>Religion is to mysticism what popularization is to science.</em><br/><sub>Henri Bergson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
