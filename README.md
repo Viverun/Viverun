@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>He who would do good to another must do it in Minute Particulars: general Good is the plea of the scoundrel, hypocrite, and flatterer, for Art and Science cannot exist but in minutely organized Particulars.</em><br/><sub>William Blake</sub></p>
+<p><em>Most of man&#x27;s problems upon this planet, in the long history of the race, have been met and solved either partially or as a whole by experiment based on common sense and carried out with courage.</em><br/><sub>Frances Perkins</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
