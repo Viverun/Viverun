@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The experience of being in space didn&#x27;t change my perspective of myself or of the planet or of life. I had no spiritual experience.</em><br/><sub>Sally Ride</sub></p>
+<p><em>The great tragedy of science - the slaying of a beautiful hypothesis by an ugly fact.</em><br/><sub>Thomas Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
