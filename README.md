@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If you take any world problem, any issue on the planet, the solution to that problem certainly includes education. In education, the roadblock is the laptop.</em><br/><sub>Nicholas Negroponte</sub></p>
+<p><em>Loss and possession, death and life are one, There falls no shadow where there shines no sun.</em><br/><sub>Hilaire Belloc</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
