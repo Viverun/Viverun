@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.</em><br/><sub>Isaac Asimov</sub></p>
+<p><em>Ignorance more frequently begets confidence than does knowledge: it is those who know little, and not those who know much, who so positively assert that this or that problem will never be solved by science.</em><br/><sub>Charles Darwin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
