@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Galileo was no idiot. Only an idiot could believe that science requires martyrdom - that may be necessary in religion, but in time a scientific result will establish itself.</em><br/><sub>David Hilbert</sub></p>
+<p><em>Mythology and science both extend the scope of human beings. Like science and technology, mythology, as we shall see, is not about opting out of this world, but about enabling us to live more intensely within it.</em><br/><sub>Karen Armstrong</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
