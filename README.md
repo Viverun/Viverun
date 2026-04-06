@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I have seen firsthand that agricultural science has enormous potential to increase the yields of small farmers and lift them out of hunger and poverty.</em><br/><sub>Bill Gates</sub></p>
+<p><em>Every science begins as philosophy and ends as art.</em><br/><sub>Will Durant</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
