@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Time travel used to be thought of as just science fiction, but Einstein&#x27;s general theory of relativity allows for the possibility that we could warp space-time so much that you could go off in a rocket and return before you set out.</em><br/><sub>Stephen Hawking</sub></p>
+<p><em>Life must be lived and curiosity kept alive. One must never, for whatever reason, turn his back on life.</em><br/><sub>Eleanor Roosevelt</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
