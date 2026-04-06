@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>My wife is the most awesome person in the universe. She&#x27;s made this experience much less miserable for me, with her compassion, patience and understanding.</em><br/><sub>Wil Wheaton</sub></p>
+<p><em>Most of us can remember a time when a birthday - especially if it was one&#x27;s own - brightened the world as if a second sun has risen.</em><br/><sub>Robert Staughton Lynd</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
