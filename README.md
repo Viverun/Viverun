@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The wealthy are always surrounded by hangers-on science and art are as well.</em><br/><sub>Anton Chekhov</sub></p>
+<p><em>My wife is the most awesome person in the universe. She&#x27;s made this experience much less miserable for me, with her compassion, patience and understanding.</em><br/><sub>Wil Wheaton</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
