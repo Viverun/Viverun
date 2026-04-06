@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science and literature are not two things, but two sides of one thing.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>The wealthy are always surrounded by hangers-on science and art are as well.</em><br/><sub>Anton Chekhov</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
