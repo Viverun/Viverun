@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Wonder, connected with a principle of rational curiosity, is the source of all knowledge and discover, and it is a principle even of piety but wonder which ends in wonder, and is satisfied with wonder, is the quality of an idiot.</em><br/><sub>Samuel Horsley</sub></p>
+<p><em>Many who have had an opportunity of knowing any more about mathematics confuse it with arithmetic, and consider it an arid science. In reality, however, it is a science which requires a great amount of imagination.</em><br/><sub>Sofia Kovalevskaya</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
