@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Mythology and science both extend the scope of human beings. Like science and technology, mythology, as we shall see, is not about opting out of this world, but about enabling us to live more intensely within it.</em><br/><sub>Karen Armstrong</sub></p>
+<p><em>I have seen firsthand that agricultural science has enormous potential to increase the yields of small farmers and lift them out of hunger and poverty.</em><br/><sub>Bill Gates</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
