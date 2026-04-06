@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Every science begins as philosophy and ends as art.</em><br/><sub>Will Durant</sub></p>
+<p><em>The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.</em><br/><sub>Isaac Asimov</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
