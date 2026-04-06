@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There is a fifth dimension, beyond that which is known to man. It is a dimension as vast as space and as timeless as infinity. It is the middle ground between light and shadow, between science and superstition.</em><br/><sub>Rod Serling</sub></p>
+<p><em>Time travel used to be thought of as just science fiction, but Einstein&#x27;s general theory of relativity allows for the possibility that we could warp space-time so much that you could go off in a rocket and return before you set out.</em><br/><sub>Stephen Hawking</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
