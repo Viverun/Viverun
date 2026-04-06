@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In 1950, when the Giants signed me, they gave me $15,000. I bought a 1950 Mercury. I couldn&#x27;t drive, but I had it in the parking lot there, and everybody that could drive would drive the car. So it was like a community thing.</em><br/><sub>Willie Mays</sub></p>
+<p><em>Wonder, connected with a principle of rational curiosity, is the source of all knowledge and discover, and it is a principle even of piety but wonder which ends in wonder, and is satisfied with wonder, is the quality of an idiot.</em><br/><sub>Samuel Horsley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
