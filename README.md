@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The facts of science are real enough, and so are the techniques that scientists use, and so are the technologies based on them. But the belief system that governs conventional scientific thinking is an act of faith.</em><br/><sub>Rupert Sheldrake</sub></p>
+<p><em>Woman is the sun, an extraordinary creature, one that makes the imagination gallop.</em><br/><sub>Marcello Mastroianni</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
