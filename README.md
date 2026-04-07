@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Instead, in the absence of respect for human rights, science and its offspring technology have been used in this century as brutal instruments for oppression.</em><br/><sub>John Charles Polanyi</sub></p>
+<p><em>Of all the failed technologies that litter the onward march of science - steam carriages, zeppelins, armoured trains - none has been so catastrophic to prosperity as the last century&#x27;s attempt to generate electricity from nuclear fission.</em><br/><sub>James Buchan</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
