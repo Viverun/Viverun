@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The universe we observe has precisely the properties we should expect if there is, at bottom, no design, no purpose, no evil, no good, nothing but blind, pitiless indifference.</em><br/><sub>Richard Dawkins</sub></p>
+<p><em>For whatever reason, I didn&#x27;t succumb to the stereotype that science wasn&#x27;t for girls. I got encouragement from my parents. I never ran into a teacher or a counselor who told me that science was for boys. A lot of my friends did.</em><br/><sub>Sally Ride</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
