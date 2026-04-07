@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The beliefs I was raised with - to respect animals and to be aware of nature, to understand that we share this planet with other creatures - have had a huge impact on me.</em><br/><sub>Stella McCartney</sub></p>
+<p><em>There was no &#x27;before&#x27; the beginning of our universe, because once upon a time there was no time.</em><br/><sub>John D. Barrow</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
