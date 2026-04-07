@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Woman is the sun, an extraordinary creature, one that makes the imagination gallop.</em><br/><sub>Marcello Mastroianni</sub></p>
+<p><em>Losing faith in your own singularity is the start of wisdom, I suppose also the first announcement of death.</em><br/><sub>Peter Conrad</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
