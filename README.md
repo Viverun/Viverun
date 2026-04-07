@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Of all the failed technologies that litter the onward march of science - steam carriages, zeppelins, armoured trains - none has been so catastrophic to prosperity as the last century&#x27;s attempt to generate electricity from nuclear fission.</em><br/><sub>James Buchan</sub></p>
+<p><em>The method of political science is the interpretation of life its instrument is insight, a nice understanding of subtle, unformulated conditions.</em><br/><sub>Woodrow Wilson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
