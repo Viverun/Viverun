@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The method of political science is the interpretation of life its instrument is insight, a nice understanding of subtle, unformulated conditions.</em><br/><sub>Woodrow Wilson</sub></p>
+<p><em>The beliefs I was raised with - to respect animals and to be aware of nature, to understand that we share this planet with other creatures - have had a huge impact on me.</em><br/><sub>Stella McCartney</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
