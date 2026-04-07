@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Of course I believe in aliens. I think it&#x27;s very egocentric to think that there&#x27;s nothing else with intelligence in the whole universe.</em><br/><sub>Lizzie Brochere</sub></p>
+<p><em>Science consists exactly of those forms of knowledge that can be verified and duplicated by anybody.</em><br/><sub>Seth Lloyd</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
