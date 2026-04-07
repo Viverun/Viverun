@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I think mistakes are the essence of science and law. It&#x27;s impossible to conceive of either scientific progress or legal progress without understanding the important role of being wrong and of mistakes.</em><br/><sub>Alan Dershowitz</sub></p>
+<p><em>The universe we observe has precisely the properties we should expect if there is, at bottom, no design, no purpose, no evil, no good, nothing but blind, pitiless indifference.</em><br/><sub>Richard Dawkins</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
