@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Knowledge of the sciences is so much smoke apart from the heavenly science of Christ.</em><br/><sub>John Calvin</sub></p>
+<p><em>The fundamental concept in social science is Power, in the same sense in which Energy is the fundamental concept in physics.</em><br/><sub>Bertrand Russell</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
