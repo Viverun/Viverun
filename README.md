@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science consists exactly of those forms of knowledge that can be verified and duplicated by anybody.</em><br/><sub>Seth Lloyd</sub></p>
+<p><em>Knowledge of the sciences is so much smoke apart from the heavenly science of Christ.</em><br/><sub>John Calvin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
