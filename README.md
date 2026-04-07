@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>For whatever reason, I didn&#x27;t succumb to the stereotype that science wasn&#x27;t for girls. I got encouragement from my parents. I never ran into a teacher or a counselor who told me that science was for boys. A lot of my friends did.</em><br/><sub>Sally Ride</sub></p>
+<p><em>Of course I believe in aliens. I think it&#x27;s very egocentric to think that there&#x27;s nothing else with intelligence in the whole universe.</em><br/><sub>Lizzie Brochere</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
