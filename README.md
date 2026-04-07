@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I have a Ph.D. in cell biology. And that&#x27;s really manual labor. I mean, experimental science, you do it with your hands. So it&#x27;s very different. You&#x27;re out there in a lab, cleaning test tubes, and it just wasn&#x27;t that fascinating.</em><br/><sub>Barbara Ehrenreich</sub></p>
+<p><em>Medical science has proven time and again that when the resources are provided, great progress in the treatment, cure, and prevention of disease can occur.</em><br/><sub>Michael J. Fox</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
