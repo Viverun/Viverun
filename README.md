@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The fundamental concept in social science is Power, in the same sense in which Energy is the fundamental concept in physics.</em><br/><sub>Bertrand Russell</sub></p>
+<p><em>Instead, in the absence of respect for human rights, science and its offspring technology have been used in this century as brutal instruments for oppression.</em><br/><sub>John Charles Polanyi</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
