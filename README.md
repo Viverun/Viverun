@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There was no &#x27;before&#x27; the beginning of our universe, because once upon a time there was no time.</em><br/><sub>John D. Barrow</sub></p>
+<p><em>I have a Ph.D. in cell biology. And that&#x27;s really manual labor. I mean, experimental science, you do it with your hands. So it&#x27;s very different. You&#x27;re out there in a lab, cleaning test tubes, and it just wasn&#x27;t that fascinating.</em><br/><sub>Barbara Ehrenreich</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
