@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>More and more NFL players have been willing their bodies to science so that their brains can be studied even if they die of other causes.</em><br/><sub>Jeffrey Kluger</sub></p>
+<p><em>Human Nature is the only science of man and yet has been hitherto the most neglected.</em><br/><sub>David Hume</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
