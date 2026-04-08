@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Almost everything that distinguishes the modern world from earlier centuries is attributable to science, which achieved its most spectacular triumphs in the seventeenth century.</em><br/><sub>Bertrand Russell</sub></p>
+<p><em>Most people have no concept of how an automatic transmission works, yet they know how to drive a car. You don&#x27;t have to study physics to understand the laws of motion to drive a car. You don&#x27;t have to understand any of this stuff to use Macintosh.</em><br/><sub>Steve Jobs</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
