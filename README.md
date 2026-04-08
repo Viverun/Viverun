@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Man lives for science as well as bread.</em><br/><sub>William James</sub></p>
+<p><em>Turn your face toward the sun and the shadows will fall behind you.</em><br/><sub>Maori proverb</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
