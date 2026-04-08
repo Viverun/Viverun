@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Most people have no concept of how an automatic transmission works, yet they know how to drive a car. You don&#x27;t have to study physics to understand the laws of motion to drive a car. You don&#x27;t have to understand any of this stuff to use Macintosh.</em><br/><sub>Steve Jobs</sub></p>
+<p><em>When I die, I&#x27;m leaving my body to science fiction.</em><br/><sub>Steven Wright</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
