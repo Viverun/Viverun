@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When I die, I&#x27;m leaving my body to science fiction.</em><br/><sub>Steven Wright</sub></p>
+<p><em>My own dreams fortunately came true in this great state. I became Mr. Universe I became a successful businessman. And even though some people say I still speak with a slight accent, I have reached the top of the acting profession.</em><br/><sub>Arnold Schwarzenegger</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
