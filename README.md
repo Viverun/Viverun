@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Ignorance more frequently begets confidence than does knowledge: it is those who know little, and not those who know much, who so positively assert that this or that problem will never be solved by science.</em><br/><sub>Charles Darwin</sub></p>
+<p><em>Almost everything that distinguishes the modern world from earlier centuries is attributable to science, which achieved its most spectacular triumphs in the seventeenth century.</em><br/><sub>Bertrand Russell</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
