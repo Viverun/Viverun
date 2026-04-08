@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Turn your face toward the sun and the shadows will fall behind you.</em><br/><sub>Maori proverb</sub></p>
+<p><em>The science of today is the technology of tomorrow.</em><br/><sub>Edward Teller</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
