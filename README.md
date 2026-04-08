@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>What&#x27;s different here is that we have now technologies that allow these life science companies to bypass classical breeding. That&#x27;s what makes it both powerful and exciting.</em><br/><sub>Jeremy Rifkin</sub></p>
+<p><em>We must revisit the idea that science is a methodology and not an ontology.</em><br/><sub>Deepak Chopra</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
