@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We must revisit the idea that science is a methodology and not an ontology.</em><br/><sub>Deepak Chopra</sub></p>
+<p><em>The historical development of the work of anthropologists seems to single out clearly a domain of knowledge that heretofore has not been treated by any other science.</em><br/><sub>Franz Boas</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
