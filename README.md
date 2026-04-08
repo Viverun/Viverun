@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>My own dreams fortunately came true in this great state. I became Mr. Universe I became a successful businessman. And even though some people say I still speak with a slight accent, I have reached the top of the acting profession.</em><br/><sub>Arnold Schwarzenegger</sub></p>
+<p><em>More and more NFL players have been willing their bodies to science so that their brains can be studied even if they die of other causes.</em><br/><sub>Jeffrey Kluger</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
