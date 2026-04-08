@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>A fool&#x27;s brain digests philosophy into folly, science into superstition, and art into pedantry. Hence University education.</em><br/><sub>George Bernard Shaw</sub></p>
+<p><em>And just when we were at the end of our design process there was the news that the Italian government and the U.S. government had signed an agreement to fly the first Italian astronaut on that flight.</em><br/><sub>Umberto Guidoni</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
