@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The science of today is the technology of tomorrow.</em><br/><sub>Edward Teller</sub></p>
+<p><em>What&#x27;s different here is that we have now technologies that allow these life science companies to bypass classical breeding. That&#x27;s what makes it both powerful and exciting.</em><br/><sub>Jeremy Rifkin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
