@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The historical development of the work of anthropologists seems to single out clearly a domain of knowledge that heretofore has not been treated by any other science.</em><br/><sub>Franz Boas</sub></p>
+<p><em>Ignorance more frequently begets confidence than does knowledge: it is those who know little, and not those who know much, who so positively assert that this or that problem will never be solved by science.</em><br/><sub>Charles Darwin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
