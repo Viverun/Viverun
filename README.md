@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Medical science has proven time and again that when the resources are provided, great progress in the treatment, cure, and prevention of disease can occur.</em><br/><sub>Michael J. Fox</sub></p>
+<p><em>Man lives for science as well as bread.</em><br/><sub>William James</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
