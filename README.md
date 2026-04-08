@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If you take any world problem, any issue on the planet, the solution to that problem certainly includes education. In education, the roadblock is the laptop.</em><br/><sub>Nicholas Negroponte</sub></p>
+<p><em>A fool&#x27;s brain digests philosophy into folly, science into superstition, and art into pedantry. Hence University education.</em><br/><sub>George Bernard Shaw</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
