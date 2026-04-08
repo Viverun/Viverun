@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Human Nature is the only science of man and yet has been hitherto the most neglected.</em><br/><sub>David Hume</sub></p>
+<p><em>If you take any world problem, any issue on the planet, the solution to that problem certainly includes education. In education, the roadblock is the laptop.</em><br/><sub>Nicholas Negroponte</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
