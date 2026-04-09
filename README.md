@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Economists treat economics as if it is a pure science divorced from the facts of life. The result of this false accountancy is a willful confusion under cover of which industry wreaks its havoc scot-free and ignores the environmental cost.</em><br/><sub>Vivienne Westwood</sub></p>
+<p><em>Wisdom alone is the science of other sciences.</em><br/><sub>Plato</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
