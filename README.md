@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It&#x27;s always a combination of physics and poetry that I find inspiring. It&#x27;s hard to wrap your head around things like the Hubble scope.</em><br/><sub>Tom Hanks</sub></p>
+<p><em>In both religion and science, some people are dishonest, exploitative, incompetent and exhibit other human failings.</em><br/><sub>Rupert Sheldrake</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
