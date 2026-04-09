@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Man is unique not because he does science, and his is unique not because he does art, but because science and art equally are expressions of his marvelous plasticity of mind.</em><br/><sub>Jacob Bronowski</sub></p>
+<p><em>I didn&#x27;t mind studying. Obviously math and the physical science subjects interested me more than some of the more artistic subjects, but I think I was a pretty good student.</em><br/><sub>Alan Shepard</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
