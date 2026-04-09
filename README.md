@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>And just when we were at the end of our design process there was the news that the Italian government and the U.S. government had signed an agreement to fly the first Italian astronaut on that flight.</em><br/><sub>Umberto Guidoni</sub></p>
+<p><em>As a 22-year Army Veteran who served in Operations Desert Storm and Iraqi Freedom, and as a Civilian Advisor to the Afghan Army in Operation Enduring Freedom, I understand both the gravity of giving the order, and the challenge of carrying it out.</em><br/><sub>Allen West</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
