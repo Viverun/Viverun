@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I didn&#x27;t mind studying. Obviously math and the physical science subjects interested me more than some of the more artistic subjects, but I think I was a pretty good student.</em><br/><sub>Alan Shepard</sub></p>
+<p><em>I want to put a ding in the universe.</em><br/><sub>Steve Jobs</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
