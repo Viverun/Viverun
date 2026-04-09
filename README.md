@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If you wish to succeed in life, make perseverance your bosom friend, experience your wise counselor, caution your elder brother, and hope your guardian genius.</em><br/><sub>Joseph Addison</sub></p>
+<p><em>Man is unique not because he does science, and his is unique not because he does art, but because science and art equally are expressions of his marvelous plasticity of mind.</em><br/><sub>Jacob Bronowski</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
