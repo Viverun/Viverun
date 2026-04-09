@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Before a war military science seems a real science, like astronomy but after a war it seems more like astrology.</em><br/><sub>Rebecca West</sub></p>
+<p><em>Economists treat economics as if it is a pure science divorced from the facts of life. The result of this false accountancy is a willful confusion under cover of which industry wreaks its havoc scot-free and ignores the environmental cost.</em><br/><sub>Vivienne Westwood</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
