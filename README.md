@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Wisdom alone is the science of other sciences.</em><br/><sub>Plato</sub></p>
+<p><em>If you wish to succeed in life, make perseverance your bosom friend, experience your wise counselor, caution your elder brother, and hope your guardian genius.</em><br/><sub>Joseph Addison</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
