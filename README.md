@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In both religion and science, some people are dishonest, exploitative, incompetent and exhibit other human failings.</em><br/><sub>Rupert Sheldrake</sub></p>
+<p><em>Perhaps, to the uninformed, it may appear unaccountable that a man should be able to retain in his memory such a variety of learning but the close alliance with each other, of the different branches of science, will explain the difficulty.</em><br/><sub>Marcus V. Pollio</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
