@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I want to put a ding in the universe.</em><br/><sub>Steve Jobs</sub></p>
+<p><em>The day I finished &#x27;Twilight,&#x27; I came home and started bulking up. For &#x27;New Moon,&#x27; I&#x27;m 30 pounds heavier than I was in &#x27;Twilight.&#x27;</em><br/><sub>Taylor Lautner</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
