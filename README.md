@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The day I finished &#x27;Twilight,&#x27; I came home and started bulking up. For &#x27;New Moon,&#x27; I&#x27;m 30 pounds heavier than I was in &#x27;Twilight.&#x27;</em><br/><sub>Taylor Lautner</sub></p>
+<p><em>Today the function of the artist is to bring imagination to science and science to imagination, where they meet, in the myth.</em><br/><sub>Cyril Connolly</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
