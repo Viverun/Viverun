@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>As a 22-year Army Veteran who served in Operations Desert Storm and Iraqi Freedom, and as a Civilian Advisor to the Afghan Army in Operation Enduring Freedom, I understand both the gravity of giving the order, and the challenge of carrying it out.</em><br/><sub>Allen West</sub></p>
+<p><em>It&#x27;s always a combination of physics and poetry that I find inspiring. It&#x27;s hard to wrap your head around things like the Hubble scope.</em><br/><sub>Tom Hanks</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
