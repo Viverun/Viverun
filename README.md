@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science was something that really caught my attention. It was something I really could sink my teeth into.</em><br/><sub>Michael P. Anderson</sub></p>
+<p><em>Science has done more for the development of western civilization in one hundred years than Christianity did in eighteen hundred years.</em><br/><sub>John Burroughs</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
