@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If you live in a ghetto and really want not to just change your life and your family&#x27;s life but change your ghetto&#x27;s life, make your ghetto a good neighbourhood, learn science try to be like Mark Zuckerberg, Bill Gates and Steve Jobs.</em><br/><sub>will.i.am</sub></p>
+<p><em>I believe very strongly, and have fought since many years ago - at least over 30 years ago - to get architecture not just within schools, but architecture talked about under history, geography, science, technology, art.</em><br/><sub>Richard Rogers</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
