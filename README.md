@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science has done more for the development of western civilization in one hundred years than Christianity did in eighteen hundred years.</em><br/><sub>John Burroughs</sub></p>
+<p><em>If you live in a ghetto and really want not to just change your life and your family&#x27;s life but change your ghetto&#x27;s life, make your ghetto a good neighbourhood, learn science try to be like Mark Zuckerberg, Bill Gates and Steve Jobs.</em><br/><sub>will.i.am</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
