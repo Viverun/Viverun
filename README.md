@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Physics is experience, arranged in economical order.</em><br/><sub>Ernst Mach</sub></p>
+<p><em>The man of science has learned to believe in justification, not by faith, but by verification.</em><br/><sub>Thomas Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
