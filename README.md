@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In science, read, by preference, the newest works in literature, the oldest. The classic literature is always modern.</em><br/><sub>Edward G. Bulwer-Lytton</sub></p>
+<p><em>Science was something that really caught my attention. It was something I really could sink my teeth into.</em><br/><sub>Michael P. Anderson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
