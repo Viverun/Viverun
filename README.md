@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In Europe art has to a large degree taken the place of religion. In America it seems rather to be science.</em><br/><sub>Johan Huizinga</sub></p>
+<p><em>When push comes to shove, it ain&#x27;t the science that&#x27;s going to lift you up-it&#x27;s the belief, the spiritual side of life, that&#x27;s going to lift you up, no matter what religion you are.</em><br/><sub>Kirstie Alley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
