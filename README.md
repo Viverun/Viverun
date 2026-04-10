@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I believe very strongly, and have fought since many years ago - at least over 30 years ago - to get architecture not just within schools, but architecture talked about under history, geography, science, technology, art.</em><br/><sub>Richard Rogers</sub></p>
+<p><em>If it&#x27;s true that our species is alone in the universe, then I&#x27;d have to say the universe aimed rather low and settled for very little.</em><br/><sub>George Carlin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
