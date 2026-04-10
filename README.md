@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>My Alma mater was books, a good library... I could spend the rest of my life reading, just satisfying my curiosity.</em><br/><sub>Malcolm X</sub></p>
+<p><em>In science, read, by preference, the newest works in literature, the oldest. The classic literature is always modern.</em><br/><sub>Edward G. Bulwer-Lytton</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
