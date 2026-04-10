@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I look for what needs to be done. After all, that&#x27;s how the universe designs itself.</em><br/><sub>R. Buckminster Fuller</sub></p>
+<p><em>The insufferable arrogance of human beings to think that Nature was made solely for their benefit, as if it was conceivable that the sun had been set afire merely to ripen men&#x27;s apples and head their cabbages.</em><br/><sub>Cyrano de Bergerac</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
