@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The insufferable arrogance of human beings to think that Nature was made solely for their benefit, as if it was conceivable that the sun had been set afire merely to ripen men&#x27;s apples and head their cabbages.</em><br/><sub>Cyrano de Bergerac</sub></p>
+<p><em>We&#x27;ll go back to the moon by not learning anything new.</em><br/><sub>Burt Rutan</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
