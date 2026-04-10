@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When push comes to shove, it ain&#x27;t the science that&#x27;s going to lift you up-it&#x27;s the belief, the spiritual side of life, that&#x27;s going to lift you up, no matter what religion you are.</em><br/><sub>Kirstie Alley</sub></p>
+<p><em>My Alma mater was books, a good library... I could spend the rest of my life reading, just satisfying my curiosity.</em><br/><sub>Malcolm X</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
