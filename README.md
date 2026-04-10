@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.</em><br/><sub>Albert Schweitzer</sub></p>
+<p><em>In Europe art has to a large degree taken the place of religion. In America it seems rather to be science.</em><br/><sub>Johan Huizinga</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
