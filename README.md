@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If it&#x27;s true that our species is alone in the universe, then I&#x27;d have to say the universe aimed rather low and settled for very little.</em><br/><sub>George Carlin</sub></p>
+<p><em>I look for what needs to be done. After all, that&#x27;s how the universe designs itself.</em><br/><sub>R. Buckminster Fuller</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
