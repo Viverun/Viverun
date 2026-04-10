@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We&#x27;ll go back to the moon by not learning anything new.</em><br/><sub>Burt Rutan</sub></p>
+<p><em>Physics is experience, arranged in economical order.</em><br/><sub>Ernst Mach</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
