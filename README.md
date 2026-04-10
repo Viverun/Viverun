@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I&#x27;ve always been inspired by artists who have shown musical and intellectual curiosity and the courage to take risks.</em><br/><sub>Renee Fleming</sub></p>
+<p><em>Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.</em><br/><sub>Albert Schweitzer</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
