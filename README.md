@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The man of science has learned to believe in justification, not by faith, but by verification.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>I&#x27;ve always been inspired by artists who have shown musical and intellectual curiosity and the courage to take risks.</em><br/><sub>Renee Fleming</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
