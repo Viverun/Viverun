@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I am often amazed at how much more capability and enthusiasm for science there is among elementary school youngsters than among college students.</em><br/><sub>Carl Sagan</sub></p>
+<p><em>There can be no truce between science and religion.</em><br/><sub>John B. S. Haldane</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
