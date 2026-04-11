@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Most of the fundamental ideas of science are essentially simple, and may, as a rule, be expressed in a language comprehensible to everyone.</em><br/><sub>Albert Einstein</sub></p>
+<p><em>I had no books at home. I started to frequent a public library in Lisbon. It was there, with no help except curiosity and the will to learn, that my taste for reading developed and was refined.</em><br/><sub>Jose Saramago</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
