@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Freedom is absolutely necessary for the progress in science and the liberal arts.</em><br/><sub>Baruch Spinoza</sub></p>
+<p><em>The older generation had greater respect for land than science. But we live in an age when science, more than soil, has become the provider of growth and abundance. Living just on the land creates loneliness in an age of globality.</em><br/><sub>Shimon Peres</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
