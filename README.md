@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There can be no truce between science and religion.</em><br/><sub>John B. S. Haldane</sub></p>
+<p><em>Everything is perfect in the universe - even your desire to improve it.</em><br/><sub>Wayne Dyer</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
