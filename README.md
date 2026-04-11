@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Much of today&#x27;s public anxiety about science is the apprehension that we may forever be overlooking the whole by an endless, obsessive preoccupation with the parts.</em><br/><sub>Lewis Thomas</sub></p>
+<p><em>From now on we live in a world where man has walked on the Moon. It&#x27;s not a miracle we just decided to go.</em><br/><sub>Tom Hanks</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
