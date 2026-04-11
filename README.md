@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Life is not an exact science, it is an art.</em><br/><sub>Samuel Butler</sub></p>
+<p><em>It is through science that we prove, but through intuition that we discover.</em><br/><sub>Jules Poincare</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
