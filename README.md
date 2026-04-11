@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The universe is governed by science. But science tells us that we can&#x27;t solve the equations, directly in the abstract.</em><br/><sub>Stephen Hawking</sub></p>
+<p><em>I am often amazed at how much more capability and enthusiasm for science there is among elementary school youngsters than among college students.</em><br/><sub>Carl Sagan</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
