@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I served the famous professors and scholars, and eventually they learned that the Reverend Moon is superior to them. Even Nobel laureate academics who thought they were at the center of knowledge are as nothing in front of me.</em><br/><sub>Sun Myung Moon</sub></p>
+<p><em>We pray that every field of science may contribute in bringing happiness - not disaster - to human beings.</em><br/><sub>Kenichi Fukui</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
