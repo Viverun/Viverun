@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>My dad was an engineer and so I had this picture of science and technology and pursuits of the mind as being more impressive than artistic pursuits, which I saw a as kind of frivolous.</em><br/><sub>Scott McCloud</sub></p>
+<p><em>The universe is governed by science. But science tells us that we can&#x27;t solve the equations, directly in the abstract.</em><br/><sub>Stephen Hawking</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
