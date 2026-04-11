@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The capacity of the female mind for studies of the highest order cannot be doubted, having been sufficiently illustrated by its works of genius, of erudition, and of science.</em><br/><sub>James Madison</sub></p>
+<p><em>My dad was an engineer and so I had this picture of science and technology and pursuits of the mind as being more impressive than artistic pursuits, which I saw a as kind of frivolous.</em><br/><sub>Scott McCloud</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
