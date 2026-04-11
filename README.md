@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>From now on we live in a world where man has walked on the Moon. It&#x27;s not a miracle we just decided to go.</em><br/><sub>Tom Hanks</sub></p>
+<p><em>I&#x27;ve lost my faith in science.</em><br/><sub>Bette Davis</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
