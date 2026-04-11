@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Works of art, in my opinion, are the only objects in the material universe to possess internal order, and that is why, though I don&#x27;t believe that only art matters, I do believe in Art for Art&#x27;s sake.</em><br/><sub>E. M. Forster</sub></p>
+<p><em>Most of the fundamental ideas of science are essentially simple, and may, as a rule, be expressed in a language comprehensible to everyone.</em><br/><sub>Albert Einstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
