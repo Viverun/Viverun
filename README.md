@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Today the function of the artist is to bring imagination to science and science to imagination, where they meet, in the myth.</em><br/><sub>Cyril Connolly</sub></p>
+<p><em>Both the man of science and the man of action live always at the edge of mystery, surrounded by it.</em><br/><sub>J. Robert Oppenheimer</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
