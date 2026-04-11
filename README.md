@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We pray that every field of science may contribute in bringing happiness - not disaster - to human beings.</em><br/><sub>Kenichi Fukui</sub></p>
+<p><em>Works of art, in my opinion, are the only objects in the material universe to possess internal order, and that is why, though I don&#x27;t believe that only art matters, I do believe in Art for Art&#x27;s sake.</em><br/><sub>E. M. Forster</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
