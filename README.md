@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Everything is perfect in the universe - even your desire to improve it.</em><br/><sub>Wayne Dyer</sub></p>
+<p><em>Somewhere, something incredible is waiting to be known.</em><br/><sub>Carl Sagan</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
