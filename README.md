@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is a first-rate piece of furniture for a man&#x27;s upper chamber, if he has common sense on the ground floor.</em><br/><sub>Oliver Wendell Holmes</sub></p>
+<p><em>Today the function of the artist is to bring imagination to science and science to imagination, where they meet, in the myth.</em><br/><sub>Cyril Connolly</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
