@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The mysteriousness and mystique of space is such, that science fiction attempts to tantalize you by telling you a story that could possibly be out there and that&#x27;s the appeal of science fiction.</em><br/><sub>William Shatner</sub></p>
+<p><em>Science has not yet taught us if madness is or is not the sublimity of the intelligence.</em><br/><sub>Edgar Allan Poe</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
