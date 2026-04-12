@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It is not natural or inevitable that half the world goes hungry that the freedom of markets trumps protection of the planet or that citizens&#x27; rights come second to those of corporations.</em><br/><sub>Frances O&#x27;Grady</sub></p>
+<p><em>&#x27;Healing,&#x27; Papa would tell me, &#x27;is not a science, but the intuitive art of wooing nature.&#x27;</em><br/><sub>W. H. Auden</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
