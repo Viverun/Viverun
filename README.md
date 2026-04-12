@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is a way of thinking much more than it is a body of knowledge.</em><br/><sub>Carl Sagan</sub></p>
+<p><em>The mysteriousness and mystique of space is such, that science fiction attempts to tantalize you by telling you a story that could possibly be out there and that&#x27;s the appeal of science fiction.</em><br/><sub>William Shatner</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
