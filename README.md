@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Nature, I have constantly argued in my work, is the real superpower of this godless universe. It is the ultimate disposer of human fate, randomly recarving geography over 10,000-year epochs.</em><br/><sub>Camille Paglia</sub></p>
+<p><em>When you&#x27;re looking that far out, you&#x27;re giving people their place in the universe, it touches people. Science is often visual, so it doesn&#x27;t need translation. It&#x27;s like poetry, it touches you.</em><br/><sub>Story Musgrave</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
