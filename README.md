@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If, on occasion, the knowledge brought by science leads to an unhappy end, this is not to the discredit of science but is rather an indication of an imperfect ability to use wisely the gifts placed within our hands.</em><br/><sub>Polykarp Kusch</sub></p>
+<p><em>There is one thing even more vital to science than intelligent methods and that is, the sincere desire to find out the truth, whatever it may be.</em><br/><sub>Charles Pierce</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
