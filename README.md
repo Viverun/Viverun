@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We were making the first step out of the age of chemistry and physics, and into the age of biology.</em><br/><sub>Jeremy Rifkin</sub></p>
+<p><em>The world is my country, science is my religion.</em><br/><sub>Christiaan Huygens</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
