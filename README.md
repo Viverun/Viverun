@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There is one thing even more vital to science than intelligent methods and that is, the sincere desire to find out the truth, whatever it may be.</em><br/><sub>Charles Pierce</sub></p>
+<p><em>For each one of us stands alone in the midst of a universe.</em><br/><sub>John Buchanan Robinson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
