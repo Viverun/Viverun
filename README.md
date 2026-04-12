@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When you&#x27;re looking that far out, you&#x27;re giving people their place in the universe, it touches people. Science is often visual, so it doesn&#x27;t need translation. It&#x27;s like poetry, it touches you.</em><br/><sub>Story Musgrave</sub></p>
+<p><em>The nineteenth century believed in science but the twentieth century does not.</em><br/><sub>Gertrude Stein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
