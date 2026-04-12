@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The older generation had greater respect for land than science. But we live in an age when science, more than soil, has become the provider of growth and abundance. Living just on the land creates loneliness in an age of globality.</em><br/><sub>Shimon Peres</sub></p>
+<p><em>Science cannot tell theology how to construct a doctrine of creation, but you can&#x27;t construct a doctrine of creation without taking account of the age of the universe and the evolutionary character of cosmic history.</em><br/><sub>John Polkinghorne</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
