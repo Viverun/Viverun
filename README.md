@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It&#x27;s sort of a mental attitude about critical thinking and curiosity. It&#x27;s about mindset of looking at the world in a playful and curious and creative way.</em><br/><sub>Adam Savage</sub></p>
+<p><em>I&#x27;m concentrating on staying healthy, having peace, being happy, remembering what is important, taking in nature and animals, spending time reading, trying to understand the universe, where science and the spiritual meet.</em><br/><sub>Joan Jett</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
