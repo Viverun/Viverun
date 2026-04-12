@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The difference between science and the fuzzy subjects is that science requires reasoning while those other subjects merely require scholarship.</em><br/><sub>Robert A. Heinlein</sub></p>
+<p><em>We were making the first step out of the age of chemistry and physics, and into the age of biology.</em><br/><sub>Jeremy Rifkin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
