@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Space is big. You just won&#x27;t believe how vastly, hugely, mind-bogglingly big it is.</em><br/><sub>Douglas Adams</sub></p>
+<p><em>Science is a way of thinking much more than it is a body of knowledge.</em><br/><sub>Carl Sagan</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
