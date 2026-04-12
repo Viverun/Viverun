@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The nineteenth century believed in science but the twentieth century does not.</em><br/><sub>Gertrude Stein</sub></p>
+<p><em>We simply do not understand our place in the universe and have not the courage to admit it.</em><br/><sub>Barry Lopez</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
