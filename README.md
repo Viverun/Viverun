@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Of all that is good, sublimity is supreme. Succeeding is the coming together of all that is beautiful. Furtherance is the agreement of all that is just. Perseverance is the foundation of all actions.</em><br/><sub>Lao Tzu</sub></p>
+<p><em>If, on occasion, the knowledge brought by science leads to an unhappy end, this is not to the discredit of science but is rather an indication of an imperfect ability to use wisely the gifts placed within our hands.</em><br/><sub>Polykarp Kusch</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
