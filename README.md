@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science has not yet taught us if madness is or is not the sublimity of the intelligence.</em><br/><sub>Edgar Allan Poe</sub></p>
+<p><em>It&#x27;s sort of a mental attitude about critical thinking and curiosity. It&#x27;s about mindset of looking at the world in a playful and curious and creative way.</em><br/><sub>Adam Savage</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
