@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The world is my country, science is my religion.</em><br/><sub>Christiaan Huygens</sub></p>
+<p><em>Of all that is good, sublimity is supreme. Succeeding is the coming together of all that is beautiful. Furtherance is the agreement of all that is just. Perseverance is the foundation of all actions.</em><br/><sub>Lao Tzu</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
