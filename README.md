@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>&#x27;Healing,&#x27; Papa would tell me, &#x27;is not a science, but the intuitive art of wooing nature.&#x27;</em><br/><sub>W. H. Auden</sub></p>
+<p><em>Space is big. You just won&#x27;t believe how vastly, hugely, mind-bogglingly big it is.</em><br/><sub>Douglas Adams</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
