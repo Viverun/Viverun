@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We simply do not understand our place in the universe and have not the courage to admit it.</em><br/><sub>Barry Lopez</sub></p>
+<p><em>The difference between science and the fuzzy subjects is that science requires reasoning while those other subjects merely require scholarship.</em><br/><sub>Robert A. Heinlein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
