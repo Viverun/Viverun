@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The nineteenth century believed in science but the twentieth century does not.</em><br/><sub>Gertrude Stein</sub></p>
+<p><em>How glorious a greeting the sun gives the mountains!</em><br/><sub>John Muir</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
