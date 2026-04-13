@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I&#x27;m concentrating on staying healthy, having peace, being happy, remembering what is important, taking in nature and animals, spending time reading, trying to understand the universe, where science and the spiritual meet.</em><br/><sub>Joan Jett</sub></p>
+<p><em>Enough people have now mentioned Bill Nye the Science Guy to me that I now desperately avoid it all costs.</em><br/><sub>Alton Brown</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
