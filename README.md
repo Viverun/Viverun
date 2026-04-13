@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The sun, the moon and the stars would have disappeared long ago... had they happened to be within the reach of predatory human hands.</em><br/><sub>Havelock Ellis</sub></p>
+<p><em>This means that to entrust to science - or to deliberate control according to scientific principles - more than scientific method can achieve may have deplorable effects.</em><br/><sub>Friedrich August von Hayek</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
