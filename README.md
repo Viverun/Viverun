@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In science, a healthy skepticism is a professional necessity, whereas in religion, having belief without evidence is regarded as a virtue.</em><br/><sub>Paul Davies</sub></p>
+<p><em>I couldn&#x27;t wait for the sun to come up the next morning so that I could get out on the course again.</em><br/><sub>Ben Hogan</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
