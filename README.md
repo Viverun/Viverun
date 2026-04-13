@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Enough people have now mentioned Bill Nye the Science Guy to me that I now desperately avoid it all costs.</em><br/><sub>Alton Brown</sub></p>
+<p><em>A dog teaches a boy fidelity, perseverance, and to turn around three times before lying down.</em><br/><sub>Robert Benchley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
