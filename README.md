@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Indeed science alone may perhaps be sterile when pursued without an understanding of the world in which scientific knowledge is created and in which the fruits of science are used.</em><br/><sub>Polykarp Kusch</sub></p>
+<p><em>The art and science of asking questions is the source of all knowledge.</em><br/><sub>Thomas Berger</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
