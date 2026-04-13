@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It is reasonable to expect the doctor to recognize that science may not have all the answers to problems of health and healing.</em><br/><sub>Norman Cousins</sub></p>
+<p><em>The nineteenth century believed in science but the twentieth century does not.</em><br/><sub>Gertrude Stein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
