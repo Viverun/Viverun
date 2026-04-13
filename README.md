@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Wherever on this planet ideals of personal freedom and dignity apply, there you will find the cultural inheritance of England.</em><br/><sub>Karel Capek</sub></p>
+<p><em>The chief difficulty which prevents men of science from believing in divine as well as in nature Spirits is their materialism.</em><br/><sub>H. P. Blavatsky</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
