@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>A dog teaches a boy fidelity, perseverance, and to turn around three times before lying down.</em><br/><sub>Robert Benchley</sub></p>
+<p><em>Wherever on this planet ideals of personal freedom and dignity apply, there you will find the cultural inheritance of England.</em><br/><sub>Karel Capek</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
