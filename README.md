@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The work of science is to substitute facts for appearances, and demonstrations for impressions.</em><br/><sub>John Ruskin</sub></p>
+<p><em>The sun, the moon and the stars would have disappeared long ago... had they happened to be within the reach of predatory human hands.</em><br/><sub>Havelock Ellis</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
