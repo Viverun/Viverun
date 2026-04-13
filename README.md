@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The chief difficulty which prevents men of science from believing in divine as well as in nature Spirits is their materialism.</em><br/><sub>H. P. Blavatsky</sub></p>
+<p><em>The work of science is to substitute facts for appearances, and demonstrations for impressions.</em><br/><sub>John Ruskin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
