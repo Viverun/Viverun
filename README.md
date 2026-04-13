@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I couldn&#x27;t wait for the sun to come up the next morning so that I could get out on the course again.</em><br/><sub>Ben Hogan</sub></p>
+<p><em>It is reasonable to expect the doctor to recognize that science may not have all the answers to problems of health and healing.</em><br/><sub>Norman Cousins</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
