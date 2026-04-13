@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>How glorious a greeting the sun gives the mountains!</em><br/><sub>John Muir</sub></p>
+<p><em>Indeed science alone may perhaps be sterile when pursued without an understanding of the world in which scientific knowledge is created and in which the fruits of science are used.</em><br/><sub>Polykarp Kusch</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
