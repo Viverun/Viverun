@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>This means that to entrust to science - or to deliberate control according to scientific principles - more than scientific method can achieve may have deplorable effects.</em><br/><sub>Friedrich August von Hayek</sub></p>
+<p><em>In science, a healthy skepticism is a professional necessity, whereas in religion, having belief without evidence is regarded as a virtue.</em><br/><sub>Paul Davies</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
