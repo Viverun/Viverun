@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>What&#x27;s different here is that we have now technologies that allow these life science companies to bypass classical breeding. That&#x27;s what makes it both powerful and exciting.</em><br/><sub>Jeremy Rifkin</sub></p>
+<p><em>I always remembered that when I saw people get married they got on a rocketship and went to Planet Happiness, Population: Them.</em><br/><sub>Marc Webb</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
