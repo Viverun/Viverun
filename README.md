@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is global. Einstein&#x27;s equation, E=mc2, has to reach everywhere. Science is a beautiful gift to humanity, we should not distort it. Science does not differentiate between multiple races.</em><br/><sub>Abdul Kalam</sub></p>
+<p><em>The work of science is to substitute facts for appearances, and demonstrations for impressions.</em><br/><sub>John Ruskin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
