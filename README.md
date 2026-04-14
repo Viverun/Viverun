@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I always remembered that when I saw people get married they got on a rocketship and went to Planet Happiness, Population: Them.</em><br/><sub>Marc Webb</sub></p>
+<p><em>That which today calls itself science gives us more and more information, and indigestible glut of information, and less and less understanding.</em><br/><sub>Edward Abbey</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
