@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The work of science is to substitute facts for appearances, and demonstrations for impressions.</em><br/><sub>John Ruskin</sub></p>
+<p><em>In both religion and science, some people are dishonest, exploitative, incompetent and exhibit other human failings.</em><br/><sub>Rupert Sheldrake</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
