@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>That which today calls itself science gives us more and more information, and indigestible glut of information, and less and less understanding.</em><br/><sub>Edward Abbey</sub></p>
+<p><em>The enlightenment is under threat. So is reason. So is truth. So is science, especially in the schools of America.</em><br/><sub>Richard Dawkins</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
