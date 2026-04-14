@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is knowledge arranged and classified according to truth, facts, and the general laws of nature.</em><br/><sub>Luther Burbank</sub></p>
+<p><em>Science investigates religion interprets. Science gives man knowledge which is power religion gives man wisdom which is control.</em><br/><sub>Martin Luther King, Jr.</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
