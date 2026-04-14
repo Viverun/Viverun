@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science investigates religion interprets. Science gives man knowledge which is power religion gives man wisdom which is control.</em><br/><sub>Martin Luther King, Jr.</sub></p>
+<p><em>Science fiction writers foresee the inevitable, and although problems and catastrophes may be inevitable, solutions are not.</em><br/><sub>Isaac Asimov</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
