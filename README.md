@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The enlightenment is under threat. So is reason. So is truth. So is science, especially in the schools of America.</em><br/><sub>Richard Dawkins</sub></p>
+<p><em>A fool&#x27;s brain digests philosophy into folly, science into superstition, and art into pedantry. Hence University education.</em><br/><sub>George Bernard Shaw</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
