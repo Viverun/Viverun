@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It&#x27;s always a combination of physics and poetry that I find inspiring. It&#x27;s hard to wrap your head around things like the Hubble scope.</em><br/><sub>Tom Hanks</sub></p>
+<p><em>It vexes me when they would constrain science by the authority of the Scriptures, and yet do not consider themselves bound to answer reason and experiment.</em><br/><sub>Galileo Galilei</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
