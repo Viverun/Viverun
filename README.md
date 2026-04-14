@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Civilization has given us enormous successes: going to the moon, technology. But then this is the civilisation that took us to debt, environmental crisis, every single crisis. We need a civilization where we say goodbye to these things.</em><br/><sub>Muhammad Yunus</sub></p>
+<p><em>It&#x27;s always a combination of physics and poetry that I find inspiring. It&#x27;s hard to wrap your head around things like the Hubble scope.</em><br/><sub>Tom Hanks</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
