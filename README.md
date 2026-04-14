@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It vexes me when they would constrain science by the authority of the Scriptures, and yet do not consider themselves bound to answer reason and experiment.</em><br/><sub>Galileo Galilei</sub></p>
+<p><em>Science is global. Einstein&#x27;s equation, E=mc2, has to reach everywhere. Science is a beautiful gift to humanity, we should not distort it. Science does not differentiate between multiple races.</em><br/><sub>Abdul Kalam</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
