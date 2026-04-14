@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If your determination is fixed, I do not counsel you to despair. Few things are impossible to diligence and skill. Great works are performed not by strength, but perseverance.</em><br/><sub>Samuel Johnson</sub></p>
+<p><em>Civilization has given us enormous successes: going to the moon, technology. But then this is the civilisation that took us to debt, environmental crisis, every single crisis. We need a civilization where we say goodbye to these things.</em><br/><sub>Muhammad Yunus</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
