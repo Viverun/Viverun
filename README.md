@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In both religion and science, some people are dishonest, exploitative, incompetent and exhibit other human failings.</em><br/><sub>Rupert Sheldrake</sub></p>
+<p><em>Science is knowledge arranged and classified according to truth, facts, and the general laws of nature.</em><br/><sub>Luther Burbank</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
