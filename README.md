@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>A fool&#x27;s brain digests philosophy into folly, science into superstition, and art into pedantry. Hence University education.</em><br/><sub>George Bernard Shaw</sub></p>
+<p><em>If your determination is fixed, I do not counsel you to despair. Few things are impossible to diligence and skill. Great works are performed not by strength, but perseverance.</em><br/><sub>Samuel Johnson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
