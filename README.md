@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science fiction writers foresee the inevitable, and although problems and catastrophes may be inevitable, solutions are not.</em><br/><sub>Isaac Asimov</sub></p>
+<p><em>I think the crux of the matter was that if we were going to become partners in, for example, the International Space Station, we had to gain the respect of a country like the United States and particularly its space organization, NASA.</em><br/><sub>Marc Garneau</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
