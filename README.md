@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The capacity of the female mind for studies of the highest order cannot be doubted, having been sufficiently illustrated by its works of genius, of erudition, and of science.</em><br/><sub>James Madison</sub></p>
+<p><em>Much of today&#x27;s public anxiety about science is the apprehension that we may forever be overlooking the whole by an endless, obsessive preoccupation with the parts.</em><br/><sub>Lewis Thomas</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
