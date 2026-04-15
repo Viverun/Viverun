@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Soon I knew the craft of experimental physics was beyond me - it was the sublime quality of patience - patience in accumulating data, patience with recalcitrant equipment - which I sadly lacked.</em><br/><sub>Abdus Salam</sub></p>
+<p><em>The capacity of the female mind for studies of the highest order cannot be doubted, having been sufficiently illustrated by its works of genius, of erudition, and of science.</em><br/><sub>James Madison</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
