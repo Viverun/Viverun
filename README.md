@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Much of today&#x27;s public anxiety about science is the apprehension that we may forever be overlooking the whole by an endless, obsessive preoccupation with the parts.</em><br/><sub>Lewis Thomas</sub></p>
+<p><em>The media need superheroes in science just as in every sphere of life, but there is really a continuous range of abilities with no clear dividing line.</em><br/><sub>Stephen Hawking</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
