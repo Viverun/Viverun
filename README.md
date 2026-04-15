@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I really hope that we&#x27;ll have a sustainable future on this planet, I really do. So I probably geek out mostly about learning more about how potentially we can hopefully make that happen, hopefully we&#x27;re not too far lost.</em><br/><sub>Ellen Page</sub></p>
+<p><em>And time itself? Time was a never-ending medium that stretched into the future and the past - except there was no future and no past, but an infinite number of brackets, extending either way, each bracket enclosing its single phase of the Universe.</em><br/><sub>Clifford D. Simak</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
