@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Advertising is fundamentally persuasion and persuasion happens to be not a science, but an art.</em><br/><sub>William Bernbach</sub></p>
+<p><em>Living here on Earth, we breathe the rhythms of a universe that extends infinitely above us. When resonant harmonies arise between this vast outer cosmos and the inner human cosmos, poetry is born.</em><br/><sub>Daisaku Ikeda</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
