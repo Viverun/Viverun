@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Living here on Earth, we breathe the rhythms of a universe that extends infinitely above us. When resonant harmonies arise between this vast outer cosmos and the inner human cosmos, poetry is born.</em><br/><sub>Daisaku Ikeda</sub></p>
+<p><em>It&#x27;s sort of a mental attitude about critical thinking and curiosity. It&#x27;s about mindset of looking at the world in a playful and curious and creative way.</em><br/><sub>Adam Savage</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
