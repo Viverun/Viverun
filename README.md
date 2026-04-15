@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It&#x27;s sort of a mental attitude about critical thinking and curiosity. It&#x27;s about mindset of looking at the world in a playful and curious and creative way.</em><br/><sub>Adam Savage</sub></p>
+<p><em>As you simplify your life, the laws of the universe will be simpler solitude will not be solitude, poverty will not be poverty, nor weakness weakness.</em><br/><sub>Henry David Thoreau</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
