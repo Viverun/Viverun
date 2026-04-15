@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I was always attracted to science fiction movies.</em><br/><sub>Tina Turner</sub></p>
+<p><em>Advertising is fundamentally persuasion and persuasion happens to be not a science, but an art.</em><br/><sub>William Bernbach</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
