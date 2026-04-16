@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science consists exactly of those forms of knowledge that can be verified and duplicated by anybody.</em><br/><sub>Seth Lloyd</sub></p>
+<p><em>People, and especially theologians, should try to familiarize themselves with scientific ideas. Of course, science is technical in many respects, but there are some very good books that try to set out some of the conceptual structure of science.</em><br/><sub>John Polkinghorne</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
