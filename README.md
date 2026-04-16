@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Nature engenders the science of painting.</em><br/><sub>Robert Delaunay</sub></p>
+<p><em>The purpose of science is not to analyze or describe but to make useful models of the world. A model is useful if it allows us to get use out of it.</em><br/><sub>Edward de Bono</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
