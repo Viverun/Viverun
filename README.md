@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If you wish to make an apple pie from scratch, you must first invent the universe.</em><br/><sub>Carl Sagan</sub></p>
+<p><em>It is a power stronger than will. Could a stone escape from the laws of gravity? Impossible. Impossible, for evil to form an alliance with good.</em><br/><sub>Isidore Ducasse Lautreamont</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
