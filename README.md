@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>People, and especially theologians, should try to familiarize themselves with scientific ideas. Of course, science is technical in many respects, but there are some very good books that try to set out some of the conceptual structure of science.</em><br/><sub>John Polkinghorne</sub></p>
+<p><em>If you wish to make an apple pie from scratch, you must first invent the universe.</em><br/><sub>Carl Sagan</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
