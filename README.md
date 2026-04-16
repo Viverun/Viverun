@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There are two ways of attaining an important end, force and perseverance the silent power of the latter grows irresistible with time.</em><br/><sub>Sophie Swetchine</sub></p>
+<p><em>In science, read, by preference, the newest works in literature, the oldest. The classic literature is always modern.</em><br/><sub>Edward G. Bulwer-Lytton</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
