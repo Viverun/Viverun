@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I&#x27;m learning something all the time. That&#x27;s the way I want it to go, and that&#x27;s the way I&#x27;ll go until I am no longer on this planet.</em><br/><sub>Doris Roberts</sub></p>
+<p><em>You can be the moon and still be jealous of the stars.</em><br/><sub>Gary Allan</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
