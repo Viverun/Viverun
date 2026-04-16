@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It is a power stronger than will. Could a stone escape from the laws of gravity? Impossible. Impossible, for evil to form an alliance with good.</em><br/><sub>Isidore Ducasse Lautreamont</sub></p>
+<p><em>I am one of those scientists who feels that it is no longer enough just to get on and do science. We have to devote a significant proportion of our time and resources to defending it from deliberate attack from organised ignorance.</em><br/><sub>Richard Dawkins</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
