@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>As you simplify your life, the laws of the universe will be simpler solitude will not be solitude, poverty will not be poverty, nor weakness weakness.</em><br/><sub>Henry David Thoreau</sub></p>
+<p><em>Science consists exactly of those forms of knowledge that can be verified and duplicated by anybody.</em><br/><sub>Seth Lloyd</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
