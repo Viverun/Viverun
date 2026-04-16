@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I am one of those scientists who feels that it is no longer enough just to get on and do science. We have to devote a significant proportion of our time and resources to defending it from deliberate attack from organised ignorance.</em><br/><sub>Richard Dawkins</sub></p>
+<p><em>When you are courting a nice girl an hour seems like a second. When you sit on a red-hot cinder a second seems like an hour. That&#x27;s relativity.</em><br/><sub>Albert Einstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
