@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When prayer removes distrust and doubt and enters the field of mental certainty, it becomes faith and the universe is built on faith.</em><br/><sub>Ernest Holmes</sub></p>
+<p><em>I&#x27;m learning something all the time. That&#x27;s the way I want it to go, and that&#x27;s the way I&#x27;ll go until I am no longer on this planet.</em><br/><sub>Doris Roberts</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
