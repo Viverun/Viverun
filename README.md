@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When you are courting a nice girl an hour seems like a second. When you sit on a red-hot cinder a second seems like an hour. That&#x27;s relativity.</em><br/><sub>Albert Einstein</sub></p>
+<p><em>I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.</em><br/><sub>Dalai Lama</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
