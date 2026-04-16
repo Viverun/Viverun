@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In science, read, by preference, the newest works in literature, the oldest. The classic literature is always modern.</em><br/><sub>Edward G. Bulwer-Lytton</sub></p>
+<p><em>Every day is a good day to be alive, whether the sun&#x27;s shining or not.</em><br/><sub>Marty Robbins</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
