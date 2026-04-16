@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>You can be the moon and still be jealous of the stars.</em><br/><sub>Gary Allan</sub></p>
+<p><em>There are two ways of attaining an important end, force and perseverance the silent power of the latter grows irresistible with time.</em><br/><sub>Sophie Swetchine</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
