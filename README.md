@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.</em><br/><sub>Dalai Lama</sub></p>
+<p><em>When prayer removes distrust and doubt and enters the field of mental certainty, it becomes faith and the universe is built on faith.</em><br/><sub>Ernest Holmes</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
