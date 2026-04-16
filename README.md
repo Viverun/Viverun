@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Every day is a good day to be alive, whether the sun&#x27;s shining or not.</em><br/><sub>Marty Robbins</sub></p>
+<p><em>Nature engenders the science of painting.</em><br/><sub>Robert Delaunay</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
