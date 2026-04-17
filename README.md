@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Germany has reduced savagery to a science, and this great war for the victorious peace of justice must go on until the German cancer is cut clean out of the world body.</em><br/><sub>Theodore Roosevelt</sub></p>
+<p><em>Everything is perfect in the universe - even your desire to improve it.</em><br/><sub>Wayne Dyer</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
