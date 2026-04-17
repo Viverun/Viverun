@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Hydrogen holds great promise to meet many of our future energy needs, and it addresses national security and our environmental concerns. Hydrogen is the simplest, most abundant element in the universe.</em><br/><sub>Dan Lipinski</sub></p>
+<p><em>Germany has reduced savagery to a science, and this great war for the victorious peace of justice must go on until the German cancer is cut clean out of the world body.</em><br/><sub>Theodore Roosevelt</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
