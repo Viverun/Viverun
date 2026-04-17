@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is a cemetery of dead ideas.</em><br/><sub>Miguel de Unamuno</sub></p>
+<p><em>I had people in my life who didn&#x27;t give up on me: my mother, my aunt, my science teacher. I had one-on-one speech therapy. I had a nanny who spent all day playing turn-taking games with me.</em><br/><sub>Temple Grandin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
