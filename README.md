@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Perhaps the best motivation for going to Mars is political. It is obvious that no single nation currently has either the will or the resources to do it alone, but a consortium of nations and space agencies could achieve it within 20 years.</em><br/><sub>Paul Davies</sub></p>
+<p><em>My own dreams fortunately came true in this great state. I became Mr. Universe I became a successful businessman. And even though some people say I still speak with a slight accent, I have reached the top of the acting profession.</em><br/><sub>Arnold Schwarzenegger</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
