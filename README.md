@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In science, we must be interested in things, not in persons.</em><br/><sub>Marie Curie</sub></p>
+<p><em>Science knows only one commandment - contribute to science.</em><br/><sub>Bertolt Brecht</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
