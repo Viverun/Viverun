@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>My own dreams fortunately came true in this great state. I became Mr. Universe I became a successful businessman. And even though some people say I still speak with a slight accent, I have reached the top of the acting profession.</em><br/><sub>Arnold Schwarzenegger</sub></p>
+<p><em>Science is properly more scrupulous than dogma. Dogma gives a charter to mistake, but the very breath of science is a contest with mistake, and must keep the conscience alive.</em><br/><sub>George Eliot</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
