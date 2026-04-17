@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When a scientist is ahead of his times, it is often through misunderstanding of current, rather than intuition of future truth. In science there is never any error so gross that it won&#x27;t one day, from some perspective, appear prophetic.</em><br/><sub>Jean Rostand</sub></p>
+<p><em>The universe is under no obligation to make sense to you.</em><br/><sub>Neil deGrasse Tyson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
