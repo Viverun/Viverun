@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The purpose of science is not to analyze or describe but to make useful models of the world. A model is useful if it allows us to get use out of it.</em><br/><sub>Edward de Bono</sub></p>
+<p><em>Skeptical scrutiny is the means, in both science and religion, by which deep thoughts can be winnowed from deep nonsense.</em><br/><sub>Carl Sagan</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
