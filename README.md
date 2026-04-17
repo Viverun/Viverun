@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>That&#x27;s the whole problem with science. You&#x27;ve got a bunch of empiricists trying to describe things of unimaginable wonder.</em><br/><sub>Bill Watterson</sub></p>
+<p><em>Every day I try to be in communication with the universe in an unconscious way.</em><br/><sub>Paulo Coelho</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
