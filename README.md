@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Skeptical scrutiny is the means, in both science and religion, by which deep thoughts can be winnowed from deep nonsense.</em><br/><sub>Carl Sagan</sub></p>
+<p><em>Hydrogen holds great promise to meet many of our future energy needs, and it addresses national security and our environmental concerns. Hydrogen is the simplest, most abundant element in the universe.</em><br/><sub>Dan Lipinski</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
