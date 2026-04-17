@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Everything is perfect in the universe - even your desire to improve it.</em><br/><sub>Wayne Dyer</sub></p>
+<p><em>That&#x27;s the whole problem with science. You&#x27;ve got a bunch of empiricists trying to describe things of unimaginable wonder.</em><br/><sub>Bill Watterson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
