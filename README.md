@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Soon I knew the craft of experimental physics was beyond me - it was the sublime quality of patience - patience in accumulating data, patience with recalcitrant equipment - which I sadly lacked.</em><br/><sub>Abdus Salam</sub></p>
+<p><em>Children are remarkable for their intelligence and ardor, for their curiosity, their intolerance of shams, the clarity and ruthlessness of their vision.</em><br/><sub>Aldous Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
