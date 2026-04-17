@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The universe is under no obligation to make sense to you.</em><br/><sub>Neil deGrasse Tyson</sub></p>
+<p><em>Perhaps the best motivation for going to Mars is political. It is obvious that no single nation currently has either the will or the resources to do it alone, but a consortium of nations and space agencies could achieve it within 20 years.</em><br/><sub>Paul Davies</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
