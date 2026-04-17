@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is properly more scrupulous than dogma. Dogma gives a charter to mistake, but the very breath of science is a contest with mistake, and must keep the conscience alive.</em><br/><sub>George Eliot</sub></p>
+<p><em>Science is a cemetery of dead ideas.</em><br/><sub>Miguel de Unamuno</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
