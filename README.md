@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I warn you against believing that advertising is a science.</em><br/><sub>William Bernbach</sub></p>
+<p><em>If the experience of science teaches anything, it&#x27;s that the world is very strange and surprising. The many revolutions in science have certainly shown that.</em><br/><sub>John Polkinghorne</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
