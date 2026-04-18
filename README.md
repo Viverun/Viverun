@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We must revisit the idea that science is a methodology and not an ontology.</em><br/><sub>Deepak Chopra</sub></p>
+<p><em>Borrowing knowledge of reality from all sources, taking the best from every study, Science of Mind brings together the highest enlightenment of the ages.</em><br/><sub>Ernest Holmes</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
