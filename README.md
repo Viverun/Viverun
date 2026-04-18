@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Growing up in the &#x27;70s and &#x27;80s, science fiction and especially fantasy had such a stigma attached to them. I felt so punished and exiled for being devoted to these things.</em><br/><sub>Lev Grossman</sub></p>
+<p><em>I don&#x27;t pretend to understand the Universe - it&#x27;s a great deal bigger than I am.</em><br/><sub>Thomas Carlyle</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
