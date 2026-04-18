@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If the experience of science teaches anything, it&#x27;s that the world is very strange and surprising. The many revolutions in science have certainly shown that.</em><br/><sub>John Polkinghorne</sub></p>
+<p><em>Master of the universe but not of myself, I am the only rebel against my absolute power.</em><br/><sub>Pierre Corneille</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
