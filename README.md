@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I don&#x27;t pretend to understand the Universe - it&#x27;s a great deal bigger than I am.</em><br/><sub>Thomas Carlyle</sub></p>
+<p><em>So I decided on science when I was in college.</em><br/><sub>Sally Ride</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
