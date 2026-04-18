@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The Athanasian Creed is to me light and intelligible reading in comparison with much that now passes for science.</em><br/><sub>Samuel Butler</sub></p>
+<p><em>I warn you against believing that advertising is a science.</em><br/><sub>William Bernbach</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
