@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Individual science fiction stories may seem as trivial as ever to the blinder critics and philosophers of today - but the core of science fiction, its essence has become crucial to our salvation if we are to be saved at all.</em><br/><sub>Isaac Asimov</sub></p>
+<p><em>The Athanasian Creed is to me light and intelligible reading in comparison with much that now passes for science.</em><br/><sub>Samuel Butler</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
