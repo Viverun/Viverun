@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>For more than 200 years, materialists have promised that science will eventually explain everything in terms of physics and chemistry. Believers are sustained by the faith that scientific discoveries will justify their beliefs.</em><br/><sub>Rupert Sheldrake</sub></p>
+<p><em>We must revisit the idea that science is a methodology and not an ontology.</em><br/><sub>Deepak Chopra</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
