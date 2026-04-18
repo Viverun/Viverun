@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Children are remarkable for their intelligence and ardor, for their curiosity, their intolerance of shams, the clarity and ruthlessness of their vision.</em><br/><sub>Aldous Huxley</sub></p>
+<p><em>The growth of technology is such that it is not possible today for a nuclear physicist to switch into medical physics without training. The field is now much more technical. More training is needed to do the job.</em><br/><sub>John Cameron</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
