@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It is an interesting fact that during my tour I was never allowed access to computers, radios, or anything else that I might damage through curiosity, or perhaps something more sinister.</em><br/><sub>Robert B. Laughlin</sub></p>
+<p><em>Individual science fiction stories may seem as trivial as ever to the blinder critics and philosophers of today - but the core of science fiction, its essence has become crucial to our salvation if we are to be saved at all.</em><br/><sub>Isaac Asimov</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
