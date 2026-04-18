@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>So I decided on science when I was in college.</em><br/><sub>Sally Ride</sub></p>
+<p><em>Each of us have things and thoughts and descriptions of an amazing universe in our possession that kings in the 17th Century would have gone to war to possess.</em><br/><sub>Kary Mullis</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
