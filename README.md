@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The universe is an intelligence test.</em><br/><sub>Timothy Leary</sub></p>
+<p><em>Growing up in the &#x27;70s and &#x27;80s, science fiction and especially fantasy had such a stigma attached to them. I felt so punished and exiled for being devoted to these things.</em><br/><sub>Lev Grossman</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
