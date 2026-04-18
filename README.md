@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The growth of technology is such that it is not possible today for a nuclear physicist to switch into medical physics without training. The field is now much more technical. More training is needed to do the job.</em><br/><sub>John Cameron</sub></p>
+<p><em>Every known fact in natural science was divined by the presentiment of somebody, before it was actually verified.</em><br/><sub>Ralph Waldo Emerson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
