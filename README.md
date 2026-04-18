@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Each of us have things and thoughts and descriptions of an amazing universe in our possession that kings in the 17th Century would have gone to war to possess.</em><br/><sub>Kary Mullis</sub></p>
+<p><em>Perhaps, to the uninformed, it may appear unaccountable that a man should be able to retain in his memory such a variety of learning but the close alliance with each other, of the different branches of science, will explain the difficulty.</em><br/><sub>Marcus V. Pollio</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
