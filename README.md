@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The usual approach of science of constructing a mathematical model cannot answer the questions of why there should be a universe for the model to describe. Why does the universe go to all the bother of existing?</em><br/><sub>Stephen Hawking</sub></p>
+<p><em>It is an interesting fact that during my tour I was never allowed access to computers, radios, or anything else that I might damage through curiosity, or perhaps something more sinister.</em><br/><sub>Robert B. Laughlin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
