@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The capacity to be puzzled is the premise of all creation, be it in art or in science.</em><br/><sub>Erich Fromm</sub></p>
+<p><em>The world is full of strange phenomena that cannot be explained by the laws of logic or science. Dennis Rodman is only one example.</em><br/><sub>Dave Barry</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
