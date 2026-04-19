@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is a method to keep yourself from kidding yourself.</em><br/><sub>Edwin Land</sub></p>
+<p><em>Our most basic common link is that we all inhabit this planet. We all breathe the same air. We all cherish our children&#x27;s future. And we are all mortal.</em><br/><sub>John F. Kennedy</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
