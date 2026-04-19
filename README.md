@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I don&#x27;t see this planet being... they&#x27;re talking about how they&#x27;re turning around the environmental problems here, but I think it&#x27;s already too late.</em><br/><sub>Ace Frehley</sub></p>
+<p><em>The natural state of motherhood is unselfishness. When you become a mother, you are no longer the center of your own universe. You relinquish that position to your children.</em><br/><sub>Jessica Lange</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
