@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Much of the debate over global warming is predicated on fear, rather than science.</em><br/><sub>James Inhofe</sub></p>
+<p><em>I was always very interested in science, and I knew that for me, science was a better long-term career than tennis.</em><br/><sub>Sally Ride</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
