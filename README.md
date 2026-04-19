@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Art is the tree of life. Science is the tree of death.</em><br/><sub>William Blake</sub></p>
+<p><em>Science is fun. Science is curiosity. We all have natural curiosity. Science is a process of investigating. It&#x27;s posing questions and coming up with a method. It&#x27;s delving in.</em><br/><sub>Sally Ride</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
