@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I don&#x27;t think any other city in the world... the sun doesn&#x27;t shine the same way anywhere as it does in New York. And then I guess everyone&#x27;s very good at hanging out. Not in a crazy way, but you&#x27;re just constantly interacting and learning.</em><br/><sub>Ben Lovett</sub></p>
+<p><em>The wise man regulates his conduct by the theories both of religion and science. But he regards these theories not as statements of ultimate fact but as art-forms.</em><br/><sub>John B. S. Haldane</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
