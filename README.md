@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I was always very interested in science, and I knew that for me, science was a better long-term career than tennis.</em><br/><sub>Sally Ride</sub></p>
+<p><em>Science always uses metaphor.</em><br/><sub>James Lovelock</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
