@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I&#x27;ve lost my faith in science.</em><br/><sub>Bette Davis</sub></p>
+<p><em>I don&#x27;t see this planet being... they&#x27;re talking about how they&#x27;re turning around the environmental problems here, but I think it&#x27;s already too late.</em><br/><sub>Ace Frehley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
