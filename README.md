@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science always uses metaphor.</em><br/><sub>James Lovelock</sub></p>
+<p><em>Science without religion is lame, religion without science is blind.</em><br/><sub>Albert Einstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
