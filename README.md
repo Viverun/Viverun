@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The most important thing we can do is inspire young minds and to advance the kind of science, math and technology education that will help youngsters take us to the next phase of space travel.</em><br/><sub>John Glenn</sub></p>
+<p><em>Much of the debate over global warming is predicated on fear, rather than science.</em><br/><sub>James Inhofe</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
