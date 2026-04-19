@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is fun. Science is curiosity. We all have natural curiosity. Science is a process of investigating. It&#x27;s posing questions and coming up with a method. It&#x27;s delving in.</em><br/><sub>Sally Ride</sub></p>
+<p><em>I do not see how a man can work on the frontiers of physics and write poetry at the same time. They are in opposition.</em><br/><sub>Paul Dirac</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
