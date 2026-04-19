@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science without religion is lame, religion without science is blind.</em><br/><sub>Albert Einstein</sub></p>
+<p><em>The capacity to be puzzled is the premise of all creation, be it in art or in science.</em><br/><sub>Erich Fromm</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
