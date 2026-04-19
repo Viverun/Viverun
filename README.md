@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>As soon as questions of will or decision or reason or choice of action arise, human science is at a loss.</em><br/><sub>Noam Chomsky</sub></p>
+<p><em>When science, art, literature, and philosophy are simply the manifestation of personality they are on a level where glorious and dazzling achievements are possible, which can make a man&#x27;s name live for thousands of years.</em><br/><sub>Denis Diderot</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
