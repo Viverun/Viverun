@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The natural state of motherhood is unselfishness. When you become a mother, you are no longer the center of your own universe. You relinquish that position to your children.</em><br/><sub>Jessica Lange</sub></p>
+<p><em>The most important thing we can do is inspire young minds and to advance the kind of science, math and technology education that will help youngsters take us to the next phase of space travel.</em><br/><sub>John Glenn</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
