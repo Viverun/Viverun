@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The wise man regulates his conduct by the theories both of religion and science. But he regards these theories not as statements of ultimate fact but as art-forms.</em><br/><sub>John B. S. Haldane</sub></p>
+<p><em>Art is the tree of life. Science is the tree of death.</em><br/><sub>William Blake</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
