@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Failure after long perseverance is much grander than never to have a striving good enough to be called a failure.</em><br/><sub>George Eliot</sub></p>
+<p><em>Science is a method to keep yourself from kidding yourself.</em><br/><sub>Edwin Land</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
