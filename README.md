@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Our most basic common link is that we all inhabit this planet. We all breathe the same air. We all cherish our children&#x27;s future. And we are all mortal.</em><br/><sub>John F. Kennedy</sub></p>
+<p><em>As soon as questions of will or decision or reason or choice of action arise, human science is at a loss.</em><br/><sub>Noam Chomsky</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
