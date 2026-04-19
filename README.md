@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Perhaps, to the uninformed, it may appear unaccountable that a man should be able to retain in his memory such a variety of learning but the close alliance with each other, of the different branches of science, will explain the difficulty.</em><br/><sub>Marcus V. Pollio</sub></p>
+<p><em>I&#x27;ve lost my faith in science.</em><br/><sub>Bette Davis</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
