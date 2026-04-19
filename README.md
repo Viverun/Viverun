@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The world is full of strange phenomena that cannot be explained by the laws of logic or science. Dennis Rodman is only one example.</em><br/><sub>Dave Barry</sub></p>
+<p><em>Failure after long perseverance is much grander than never to have a striving good enough to be called a failure.</em><br/><sub>George Eliot</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
