@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It&#x27;s the opinion of some that crops could be grown on the moon which raises the fear that it may not be long before we&#x27;re paying somebody not to.</em><br/><sub>Franklin P. Jones</sub></p>
+<p><em>Some of the most amazing human beings on the face of the planet go to sci-fi conventions, although I&#x27;m sure a few of them wouldn&#x27;t admit it.</em><br/><sub>Richard Hatch</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
