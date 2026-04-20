@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Some of the most amazing human beings on the face of the planet go to sci-fi conventions, although I&#x27;m sure a few of them wouldn&#x27;t admit it.</em><br/><sub>Richard Hatch</sub></p>
+<p><em>I was always very interested in science, and I knew that for me, science was a better long-term career than tennis.</em><br/><sub>Sally Ride</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
