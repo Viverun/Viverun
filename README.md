@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Shun no toil to make yourself remarkable by some talent or other yet do not devote yourself to one branch exclusively. Strive to get clear notions about all. Give up no science entirely for science is but one.</em><br/><sub>Lucius Annaeus Seneca</sub></p>
+<p><em>The media thinks that you have to make science sexy and concentrate on themes such as rivalry and the human issues.</em><br/><sub>James Dyson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
