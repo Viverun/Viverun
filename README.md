@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Those theologians who are beginning to take the doctrine of creation very seriously should pay some attention to science&#x27;s story.</em><br/><sub>John Polkinghorne</sub></p>
+<p><em>Perhaps the best motivation for going to Mars is political. It is obvious that no single nation currently has either the will or the resources to do it alone, but a consortium of nations and space agencies could achieve it within 20 years.</em><br/><sub>Paul Davies</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
