@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It is not natural or inevitable that half the world goes hungry that the freedom of markets trumps protection of the planet or that citizens&#x27; rights come second to those of corporations.</em><br/><sub>Frances O&#x27;Grady</sub></p>
+<p><em>Some day science may have the existence of mankind in power, and the human race can commit suicide by blowing up the world.</em><br/><sub>Henry Adams</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
