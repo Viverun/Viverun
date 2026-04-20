@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Economists treat economics as if it is a pure science divorced from the facts of life. The result of this false accountancy is a willful confusion under cover of which industry wreaks its havoc scot-free and ignores the environmental cost.</em><br/><sub>Vivienne Westwood</sub></p>
+<p><em>It&#x27;s the opinion of some that crops could be grown on the moon which raises the fear that it may not be long before we&#x27;re paying somebody not to.</em><br/><sub>Franklin P. Jones</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
