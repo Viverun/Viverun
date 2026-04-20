@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I was always very interested in science, and I knew that for me, science was a better long-term career than tennis.</em><br/><sub>Sally Ride</sub></p>
+<p><em>It is not natural or inevitable that half the world goes hungry that the freedom of markets trumps protection of the planet or that citizens&#x27; rights come second to those of corporations.</em><br/><sub>Frances O&#x27;Grady</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
