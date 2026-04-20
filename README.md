@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Some day science may have the existence of mankind in power, and the human race can commit suicide by blowing up the world.</em><br/><sub>Henry Adams</sub></p>
+<p><em>For this generation, ours, life is nuclear survival, liberty is human rights, the pursuit of happiness is a planet whose resources are devoted to the physical and spiritual nourishment of its inhabitants.</em><br/><sub>Jimmy Carter</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
