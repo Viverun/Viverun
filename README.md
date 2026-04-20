@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I do not see how a man can work on the frontiers of physics and write poetry at the same time. They are in opposition.</em><br/><sub>Paul Dirac</sub></p>
+<p><em>Shun no toil to make yourself remarkable by some talent or other yet do not devote yourself to one branch exclusively. Strive to get clear notions about all. Give up no science entirely for science is but one.</em><br/><sub>Lucius Annaeus Seneca</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
