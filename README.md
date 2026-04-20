@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When a scientist is ahead of his times, it is often through misunderstanding of current, rather than intuition of future truth. In science there is never any error so gross that it won&#x27;t one day, from some perspective, appear prophetic.</em><br/><sub>Jean Rostand</sub></p>
+<p><em>Science predicts that many different kinds of universe will be spontaneously created out of nothing. It is a matter of chance which we are in.</em><br/><sub>Stephen Hawking</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
