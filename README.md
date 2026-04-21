@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun.</em><br/><sub>Pablo Picasso</sub></p>
+<p><em>In 1950, when the Giants signed me, they gave me $15,000. I bought a 1950 Mercury. I couldn&#x27;t drive, but I had it in the parking lot there, and everybody that could drive would drive the car. So it was like a community thing.</em><br/><sub>Willie Mays</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
