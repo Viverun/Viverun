@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science always uses metaphor.</em><br/><sub>James Lovelock</sub></p>
+<p><em>Nothing in the universe can travel at the speed of light, they say, forgetful of the shadow&#x27;s speed.</em><br/><sub>Howard Nemerov</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
