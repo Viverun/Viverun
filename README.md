@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The conscious mind may be compared to a fountain playing in the sun and falling back into the great subterranean pool of subconscious from which it rises.</em><br/><sub>Sigmund Freud</sub></p>
+<p><em>Germany has reduced savagery to a science, and this great war for the victorious peace of justice must go on until the German cancer is cut clean out of the world body.</em><br/><sub>Theodore Roosevelt</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
