@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I think the driving thing was curiosity about the universe. That fascinated me. I didn&#x27;t think anything about being famous or anything like that, I was just interested in the concepts involved.</em><br/><sub>Clyde Tombaugh</sub></p>
+<p><em>Observe constantly that all things take place by change, and accustom thyself to consider that the nature of the Universe loves nothing so much as to change the things which are, and to make new things like them.</em><br/><sub>Marcus Aurelius</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
