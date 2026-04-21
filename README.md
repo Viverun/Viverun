@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I warn you against believing that advertising is a science.</em><br/><sub>William Bernbach</sub></p>
+<p><em>Here men from the planet Earth first set foot upon the Moon. July 1969 AD. We came in peace for all mankind.</em><br/><sub>Neil Armstrong</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
