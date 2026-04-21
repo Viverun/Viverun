@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Here men from the planet Earth first set foot upon the Moon. July 1969 AD. We came in peace for all mankind.</em><br/><sub>Neil Armstrong</sub></p>
+<p><em>A member must say that he is a member of the Unification Church and that he is the follower of Sun Myung Moon. If he doesn&#x27;t have the courage to say it, he is not worthy of me.</em><br/><sub>Sun Myung Moon</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
