@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I&#x27;m a huge fan of science fiction and fantasy - not so much horror because I get a bit scared.</em><br/><sub>Michael Sheen</sub></p>
+<p><em>The conscious mind may be compared to a fountain playing in the sun and falling back into the great subterranean pool of subconscious from which it rises.</em><br/><sub>Sigmund Freud</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
