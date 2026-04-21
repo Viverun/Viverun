@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science reckons many prophets, but there is not even a promise of a Messiah.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>I feel blessed to be here representing our country and carrying out th research of scientists around the world... I hope you could feel the positive energy that beamed to the whole planet as we glided over.</em><br/><sub>Laurel Clark</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
