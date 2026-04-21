@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science has made us gods even before we are worthy of being men.</em><br/><sub>Jean Rostand</sub></p>
+<p><em>The whole of science is nothing more than a refinement of everyday thinking.</em><br/><sub>Albert Einstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
