@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If I want to understand the laws of physics I have to first believe what I read about physics. I have to have faith in what I read.</em><br/><sub>Ray Comfort</sub></p>
+<p><em>Science reckons many prophets, but there is not even a promise of a Messiah.</em><br/><sub>Thomas Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
