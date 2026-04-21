@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Observe constantly that all things take place by change, and accustom thyself to consider that the nature of the Universe loves nothing so much as to change the things which are, and to make new things like them.</em><br/><sub>Marcus Aurelius</sub></p>
+<p><em>I&#x27;m a huge fan of science fiction and fantasy - not so much horror because I get a bit scared.</em><br/><sub>Michael Sheen</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
