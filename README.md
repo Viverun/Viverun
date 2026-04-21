@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Nothing in the universe can travel at the speed of light, they say, forgetful of the shadow&#x27;s speed.</em><br/><sub>Howard Nemerov</sub></p>
+<p><em>Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun.</em><br/><sub>Pablo Picasso</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
