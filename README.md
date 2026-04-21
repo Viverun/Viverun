@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The whole of science is nothing more than a refinement of everyday thinking.</em><br/><sub>Albert Einstein</sub></p>
+<p><em>If I want to understand the laws of physics I have to first believe what I read about physics. I have to have faith in what I read.</em><br/><sub>Ray Comfort</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
