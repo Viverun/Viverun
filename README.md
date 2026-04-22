@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The work of science is to substitute facts for appearances, and demonstrations for impressions.</em><br/><sub>John Ruskin</sub></p>
+<p><em>The No Child Left Behind Program was an incentive to the schools to get their kids up to snuff on math and science and reading.</em><br/><sub>Sandra Day O&#x27;Connor</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
