@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>From all this it follows what the general character of the problem of the development of a body of scientific knowledge is, in so far as it depends on elements internal to science itself.</em><br/><sub>Talcott Parsons</sub></p>
+<p><em>The artist does not illustrate science (but) he frequently responds to the same interests that a scientist does.</em><br/><sub>Lewis Mumford</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
