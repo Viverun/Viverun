@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Losing faith in your own singularity is the start of wisdom, I suppose also the first announcement of death.</em><br/><sub>Peter Conrad</sub></p>
+<p><em>The work of science is to substitute facts for appearances, and demonstrations for impressions.</em><br/><sub>John Ruskin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
