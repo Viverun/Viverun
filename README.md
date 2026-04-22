@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>A member must say that he is a member of the Unification Church and that he is the follower of Sun Myung Moon. If he doesn&#x27;t have the courage to say it, he is not worthy of me.</em><br/><sub>Sun Myung Moon</sub></p>
+<p><em>Knowledge of the sciences is so much smoke apart from the heavenly science of Christ.</em><br/><sub>John Calvin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
