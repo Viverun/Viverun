@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is a method to keep yourself from kidding yourself.</em><br/><sub>Edwin Land</sub></p>
+<p><em>Imagination is the real and eternal world of which this vegetable universe is but a faint shadow.</em><br/><sub>William Blake</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
