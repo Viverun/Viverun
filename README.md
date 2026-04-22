@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Old age, calm, expanded, broad with the haughty breadth of the universe, old age flowing free with the delicious near-by freedom of death.</em><br/><sub>Edith Wharton</sub></p>
+<p><em>From all this it follows what the general character of the problem of the development of a body of scientific knowledge is, in so far as it depends on elements internal to science itself.</em><br/><sub>Talcott Parsons</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
