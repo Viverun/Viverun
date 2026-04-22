@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The artist does not illustrate science (but) he frequently responds to the same interests that a scientist does.</em><br/><sub>Lewis Mumford</sub></p>
+<p><em>Losing faith in your own singularity is the start of wisdom, I suppose also the first announcement of death.</em><br/><sub>Peter Conrad</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
