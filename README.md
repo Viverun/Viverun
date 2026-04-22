@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I was always attracted to science fiction movies.</em><br/><sub>Tina Turner</sub></p>
+<p><em>Old age, calm, expanded, broad with the haughty breadth of the universe, old age flowing free with the delicious near-by freedom of death.</em><br/><sub>Edith Wharton</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
