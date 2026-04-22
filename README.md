@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science knows only one commandment - contribute to science.</em><br/><sub>Bertolt Brecht</sub></p>
+<p><em>I was always attracted to science fiction movies.</em><br/><sub>Tina Turner</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
