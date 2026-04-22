@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Imagine a world in which every single person on the planet is given free access to the sum of all human knowledge. That&#x27;s what we&#x27;re doing.</em><br/><sub>Jimmy Wales</sub></p>
+<p><em>Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.</em><br/><sub>Khalil Gibran</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
