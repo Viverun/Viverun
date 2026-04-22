@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.</em><br/><sub>Khalil Gibran</sub></p>
+<p><em>Science knows only one commandment - contribute to science.</em><br/><sub>Bertolt Brecht</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
