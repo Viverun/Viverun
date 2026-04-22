@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Knowledge of the sciences is so much smoke apart from the heavenly science of Christ.</em><br/><sub>John Calvin</sub></p>
+<p><em>I think mistakes are the essence of science and law. It&#x27;s impossible to conceive of either scientific progress or legal progress without understanding the important role of being wrong and of mistakes.</em><br/><sub>Alan Dershowitz</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
