@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science fiction is an amazing literature: plot elements that you would think would be completely worn out by now keep changing into surprising new forms.</em><br/><sub>Connie Willis</sub></p>
+<p><em>Everything is becoming science fiction. From the margins of an almost invisible literature has sprung the intact reality of the 20th century.</em><br/><sub>J. G. Ballard</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
