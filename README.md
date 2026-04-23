@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science may have found a cure for most evils but it has found no remedy for the worst of them all - the apathy of human beings.</em><br/><sub>Helen Keller</sub></p>
+<p><em>Science fiction is an amazing literature: plot elements that you would think would be completely worn out by now keep changing into surprising new forms.</em><br/><sub>Connie Willis</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
