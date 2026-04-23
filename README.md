@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>All good criticism should be judged the way art is. You shouldn&#x27;t read it the way you read history or science.</em><br/><sub>Leslie Fiedler</sub></p>
+<p><em>Science may have found a cure for most evils but it has found no remedy for the worst of them all - the apathy of human beings.</em><br/><sub>Helen Keller</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
