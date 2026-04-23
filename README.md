@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>On neither the sun, nor death, can a man look fixedly.</em><br/><sub>Francois de La Rochefoucauld</sub></p>
+<p><em>All good criticism should be judged the way art is. You shouldn&#x27;t read it the way you read history or science.</em><br/><sub>Leslie Fiedler</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
