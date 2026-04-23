@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>A dog teaches a boy fidelity, perseverance, and to turn around three times before lying down.</em><br/><sub>Robert Benchley</sub></p>
+<p><em>On neither the sun, nor death, can a man look fixedly.</em><br/><sub>Francois de La Rochefoucauld</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
