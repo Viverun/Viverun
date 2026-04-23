@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Happiness exists on earth, and it is won through prudent exercise of reason, knowledge of the harmony of the universe, and constant practice of generosity.</em><br/><sub>Jose Marti</sub></p>
+<p><em>A dog teaches a boy fidelity, perseverance, and to turn around three times before lying down.</em><br/><sub>Robert Benchley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
