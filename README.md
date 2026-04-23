@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Similarly, another famous little quantum fluctuation that programs you is the exact configuration of your DNA.</em><br/><sub>Seth Lloyd</sub></p>
+<p><em>The age of innocent faith in science and technology may be over.</em><br/><sub>Barry Commoner</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
