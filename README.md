@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Those theologians who are beginning to take the doctrine of creation very seriously should pay some attention to science&#x27;s story.</em><br/><sub>John Polkinghorne</sub></p>
+<p><em>Happiness exists on earth, and it is won through prudent exercise of reason, knowledge of the harmony of the universe, and constant practice of generosity.</em><br/><sub>Jose Marti</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
