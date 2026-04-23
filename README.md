@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I&#x27;ve loved science fiction ever since I was a little kid, mainly from looking at the covers of science-fiction magazines and books, and I&#x27;ve read quite extensively as an adult.</em><br/><sub>Matt Groening</sub></p>
+<p><em>They can shout down the head of the physics department at Cal Tech.</em><br/><sub>James Stockdale</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
