@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>They can shout down the head of the physics department at Cal Tech.</em><br/><sub>James Stockdale</sub></p>
+<p><em>Those theologians who are beginning to take the doctrine of creation very seriously should pay some attention to science&#x27;s story.</em><br/><sub>John Polkinghorne</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
