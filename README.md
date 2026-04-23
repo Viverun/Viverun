@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Everything is becoming science fiction. From the margins of an almost invisible literature has sprung the intact reality of the 20th century.</em><br/><sub>J. G. Ballard</sub></p>
+<p><em>I can promise you that women working together - linked, informed and educated - can bring peace and prosperity to this forsaken planet.</em><br/><sub>Isabel Allende</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
