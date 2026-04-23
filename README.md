@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The No Child Left Behind Program was an incentive to the schools to get their kids up to snuff on math and science and reading.</em><br/><sub>Sandra Day O&#x27;Connor</sub></p>
+<p><em>Similarly, another famous little quantum fluctuation that programs you is the exact configuration of your DNA.</em><br/><sub>Seth Lloyd</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
