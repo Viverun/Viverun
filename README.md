@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The sun, with all those planets revolving around it and dependent on it, can still ripen a bunch of grapes as if it had nothing else in the universe to do.</em><br/><sub>Galileo Galilei</sub></p>
+<p><em>Some say they see poetry in my paintings I see only science.</em><br/><sub>Georges Seurat</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
