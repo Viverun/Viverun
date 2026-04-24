@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Biology is now bigger than physics, as measured by the size of budgets, by the size of the workforce, or by the output of major discoveries and biology is likely to remain the biggest part of science through the twenty-first century.</em><br/><sub>Freeman Dyson</sub></p>
+<p><em>A good day is one where I can not just read a book, but write a review of it. Maybe today I&#x27;ll be able to do that. I get for some reason somewhat stronger when the sun starts to go down. Dusk is a good time for me. I&#x27;m crepuscular.</em><br/><sub>Christopher Hitchens</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
