@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>This is a war universe. War all the time. That is its nature. There may be other universes based on all sorts of other principles, but ours seems to be based on war and games.</em><br/><sub>William Burroughs</sub></p>
+<p><em>Religion is to mysticism what popularization is to science.</em><br/><sub>Henri Bergson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
