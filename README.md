@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>How glorious a greeting the sun gives the mountains!</em><br/><sub>John Muir</sub></p>
+<p><em>The pursuit of science leads only to the insoluble.</em><br/><sub>Benjamin Disraeli</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
