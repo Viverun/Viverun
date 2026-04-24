@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science means simply the aggregate of all the recipes that are always successful. All the rest is literature.</em><br/><sub>Paul Valery</sub></p>
+<p><em>Before a war military science seems a real science, like astronomy but after a war it seems more like astrology.</em><br/><sub>Rebecca West</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
