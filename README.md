@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If your determination is fixed, I do not counsel you to despair. Few things are impossible to diligence and skill. Great works are performed not by strength, but perseverance.</em><br/><sub>Samuel Johnson</sub></p>
+<p><em>There is only one corner of the universe you can be certain of improving, and that&#x27;s your own self.</em><br/><sub>Aldous Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
