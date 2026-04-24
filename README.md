@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>A good day is one where I can not just read a book, but write a review of it. Maybe today I&#x27;ll be able to do that. I get for some reason somewhat stronger when the sun starts to go down. Dusk is a good time for me. I&#x27;m crepuscular.</em><br/><sub>Christopher Hitchens</sub></p>
+<p><em>How glorious a greeting the sun gives the mountains!</em><br/><sub>John Muir</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
