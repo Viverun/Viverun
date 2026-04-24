@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Before a war military science seems a real science, like astronomy but after a war it seems more like astrology.</em><br/><sub>Rebecca West</sub></p>
+<p><em>Biology is now bigger than physics, as measured by the size of budgets, by the size of the workforce, or by the output of major discoveries and biology is likely to remain the biggest part of science through the twenty-first century.</em><br/><sub>Freeman Dyson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
