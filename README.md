@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science has not yet taught us if madness is or is not the sublimity of the intelligence.</em><br/><sub>Edgar Allan Poe</sub></p>
+<p><em>If your determination is fixed, I do not counsel you to despair. Few things are impossible to diligence and skill. Great works are performed not by strength, but perseverance.</em><br/><sub>Samuel Johnson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
