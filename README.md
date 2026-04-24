@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>But perhaps the rest of us could have separate classes in science appreciation, the wonder of science, scientific ways of thinking, and the history of scientific ideas, rather than laboratory experience.</em><br/><sub>Richard Dawkins</sub></p>
+<p><em>Science has not yet taught us if madness is or is not the sublimity of the intelligence.</em><br/><sub>Edgar Allan Poe</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
