@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Some say they see poetry in my paintings I see only science.</em><br/><sub>Georges Seurat</sub></p>
+<p><em>But perhaps the rest of us could have separate classes in science appreciation, the wonder of science, scientific ways of thinking, and the history of scientific ideas, rather than laboratory experience.</em><br/><sub>Richard Dawkins</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
