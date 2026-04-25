@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Nature engenders the science of painting.</em><br/><sub>Robert Delaunay</sub></p>
+<p><em>The media thinks that you have to make science sexy and concentrate on themes such as rivalry and the human issues.</em><br/><sub>James Dyson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
