@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I believe that the quantum of our knowledge will increase considerably in the coming years and that scientists will continue to be amongst the brave voices speaking out.</em><br/><sub>Peter Garrett</sub></p>
+<p><em>Superstition is to religion what astrology is to astronomy the mad daughter of a wise mother. These daughters have too long dominated the earth.</em><br/><sub>Voltaire</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
