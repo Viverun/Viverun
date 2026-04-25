@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I object to a legal approach when settling questions of science or scientific behavior.</em><br/><sub>Serge Lang</sub></p>
+<p><em>The world of science and the world of literature have much in common. Each is an international club, helping to tie mankind together across barriers of nationality, race and language. I have been doubly lucky, being accepted as a member of both.</em><br/><sub>Freeman Dyson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
