@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The respect for human rights, essential if we are to use technology wisely, is not something alien that must be grafted onto science. On the contrary, it is integral to science, as also to scholarship in general.</em><br/><sub>John Charles Polanyi</sub></p>
+<p><em>Science is a way of thinking much more than it is a body of knowledge.</em><br/><sub>Carl Sagan</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
