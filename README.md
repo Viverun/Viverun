@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is organized common sense where many a beautiful theory was killed by an ugly fact.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>I remember looking at the sky and thinking that the universe is so big and it&#x27;s all chaos. I call it &#x27;the dark fear.&#x27; At any moment, the dark fear could come in.</em><br/><sub>St. Vincent</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
