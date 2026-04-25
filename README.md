@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I have a Ph.D. in cell biology. And that&#x27;s really manual labor. I mean, experimental science, you do it with your hands. So it&#x27;s very different. You&#x27;re out there in a lab, cleaning test tubes, and it just wasn&#x27;t that fascinating.</em><br/><sub>Barbara Ehrenreich</sub></p>
+<p><em>The object of pure physics is the unfolding of the laws of the intelligible world the object of pure mathematics that of unfolding the laws of human intelligence.</em><br/><sub>James Joseph Sylvester</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
