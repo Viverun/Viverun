@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>He who would do good to another must do it in Minute Particulars: general Good is the plea of the scoundrel, hypocrite, and flatterer, for Art and Science cannot exist but in minutely organized Particulars.</em><br/><sub>William Blake</sub></p>
+<p><em>Science is organized common sense where many a beautiful theory was killed by an ugly fact.</em><br/><sub>Thomas Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
