@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Quantum computation is... a distinctively new way of harnessing nature... It will be the first technology that allows useful tasks to be performed in collaboration between parallel universes.</em><br/><sub>David Deutsch</sub></p>
+<p><em>I object to a legal approach when settling questions of science or scientific behavior.</em><br/><sub>Serge Lang</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
