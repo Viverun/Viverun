@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun.</em><br/><sub>Pablo Picasso</sub></p>
+<p><em>Well, Freddie Mercury is a really huge rock star in my head. I&#x27;ve always thought he was just so tough and such an amazing entertainer, really a contradiction in many ways as well. So he was incredible.</em><br/><sub>Karen O</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
