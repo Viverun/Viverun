@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The object of pure physics is the unfolding of the laws of the intelligible world the object of pure mathematics that of unfolding the laws of human intelligence.</em><br/><sub>James Joseph Sylvester</sub></p>
+<p><em>Nature engenders the science of painting.</em><br/><sub>Robert Delaunay</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
