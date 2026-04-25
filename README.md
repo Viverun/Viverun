@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is a way of thinking much more than it is a body of knowledge.</em><br/><sub>Carl Sagan</sub></p>
+<p><em>Loads of chemicals and hazardous wastes have been introduced into the atmosphere that didn&#x27;t even exist in 1948. The environmental condition of the planet is far worse than it was 42 years ago.</em><br/><sub>Gaylord Nelson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
