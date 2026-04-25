@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The media thinks that you have to make science sexy and concentrate on themes such as rivalry and the human issues.</em><br/><sub>James Dyson</sub></p>
+<p><em>He who would do good to another must do it in Minute Particulars: general Good is the plea of the scoundrel, hypocrite, and flatterer, for Art and Science cannot exist but in minutely organized Particulars.</em><br/><sub>William Blake</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
