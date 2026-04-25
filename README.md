@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We are the miracle of force and matter making itself over into imagination and will. Incredible. The Life Force experimenting with forms. You for one. Me for another. The Universe has shouted itself alive. We are one of the shouts.</em><br/><sub>Ray Bradbury</sub></p>
+<p><em>Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun.</em><br/><sub>Pablo Picasso</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
