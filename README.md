@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Superstition is to religion what astrology is to astronomy the mad daughter of a wise mother. These daughters have too long dominated the earth.</em><br/><sub>Voltaire</sub></p>
+<p><em>Look up at the stars and not down at your feet.</em><br/><sub>Stephen Hawking</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
