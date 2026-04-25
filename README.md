@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The world of science and the world of literature have much in common. Each is an international club, helping to tie mankind together across barriers of nationality, race and language. I have been doubly lucky, being accepted as a member of both.</em><br/><sub>Freeman Dyson</sub></p>
+<p><em>I believe that the quantum of our knowledge will increase considerably in the coming years and that scientists will continue to be amongst the brave voices speaking out.</em><br/><sub>Peter Garrett</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
