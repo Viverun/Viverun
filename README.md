@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I remember looking at the sky and thinking that the universe is so big and it&#x27;s all chaos. I call it &#x27;the dark fear.&#x27; At any moment, the dark fear could come in.</em><br/><sub>St. Vincent</sub></p>
+<p><em>The respect for human rights, essential if we are to use technology wisely, is not something alien that must be grafted onto science. On the contrary, it is integral to science, as also to scholarship in general.</em><br/><sub>John Charles Polanyi</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
