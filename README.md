@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Well, Freddie Mercury is a really huge rock star in my head. I&#x27;ve always thought he was just so tough and such an amazing entertainer, really a contradiction in many ways as well. So he was incredible.</em><br/><sub>Karen O</sub></p>
+<p><em>Quantum computation is... a distinctively new way of harnessing nature... It will be the first technology that allows useful tasks to be performed in collaboration between parallel universes.</em><br/><sub>David Deutsch</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
