@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Loads of chemicals and hazardous wastes have been introduced into the atmosphere that didn&#x27;t even exist in 1948. The environmental condition of the planet is far worse than it was 42 years ago.</em><br/><sub>Gaylord Nelson</sub></p>
+<p><em>The day of the sun is like the day of a king. It is a promenade in the morning, a sitting on the throne at noon, a pageant in the evening.</em><br/><sub>Wallace Stevens</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
