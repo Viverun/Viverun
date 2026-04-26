@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us.</em><br/><sub>Samuel Smiles</sub></p>
+<p><em>There is a fifth dimension, beyond that which is known to man. It is a dimension as vast as space and as timeless as infinity. It is the middle ground between light and shadow, between science and superstition.</em><br/><sub>Rod Serling</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
