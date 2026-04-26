@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Leisure and curiosity might soon make great advances in useful knowledge, were they not diverted by minute emulation and laborious trifles.</em><br/><sub>Samuel Johnson</sub></p>
+<p><em>I have seen the science I worshiped, and the aircraft I loved, destroying the civilization I expected them to serve.</em><br/><sub>Charles Lindbergh</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
