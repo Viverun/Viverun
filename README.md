@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I have seen the science I worshiped, and the aircraft I loved, destroying the civilization I expected them to serve.</em><br/><sub>Charles Lindbergh</sub></p>
+<p><em>Courage is sometimes frail as hope is frail: a fragile shoot between two stones that grows brave toward the sun though warmth and brightness fail, striving and faith the only strength it knows.</em><br/><sub>Frances Rodman</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
