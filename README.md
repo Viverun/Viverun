@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Think how hard physics would be if particles could think.</em><br/><sub>Murray Gell-Mann</sub></p>
+<p><em>I graduated from the University of Delaware with a double major in history and political science.</em><br/><sub>Joe Biden</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
