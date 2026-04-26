@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There is a fifth dimension, beyond that which is known to man. It is a dimension as vast as space and as timeless as infinity. It is the middle ground between light and shadow, between science and superstition.</em><br/><sub>Rod Serling</sub></p>
+<p><em>Curiosity will conquer fear even more than bravery will.</em><br/><sub>James Stephens</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
