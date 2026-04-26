@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Curiosity will conquer fear even more than bravery will.</em><br/><sub>James Stephens</sub></p>
+<p><em>Man has to awaken to wonder - and so perhaps do peoples. Science is a way of sending him to sleep again.</em><br/><sub>Ludwig Wittgenstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
