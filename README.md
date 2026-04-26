@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Doing is a quantum leap from imagining.</em><br/><sub>Barbara Sher</sub></p>
+<p><em>Leisure and curiosity might soon make great advances in useful knowledge, were they not diverted by minute emulation and laborious trifles.</em><br/><sub>Samuel Johnson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
