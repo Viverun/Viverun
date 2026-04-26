@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is a cemetery of dead ideas.</em><br/><sub>Miguel de Unamuno</sub></p>
+<p><em>It will free man from the remaining chains, the chains of gravity which still tie him to this planet.</em><br/><sub>Wernher von Braun</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
