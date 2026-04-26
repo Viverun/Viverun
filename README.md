@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It will free man from the remaining chains, the chains of gravity which still tie him to this planet.</em><br/><sub>Wernher von Braun</sub></p>
+<p><em>No delusion is greater than the notion that method and industry can make up for lack of mother-wit, either in science or in practical life.</em><br/><sub>Thomas Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
