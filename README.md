@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science and literature are not two things, but two sides of one thing.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>Think how hard physics would be if particles could think.</em><br/><sub>Murray Gell-Mann</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
