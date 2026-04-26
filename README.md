@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The development of the telescope, together with increased knowledge of things, brought men to see that the earth is not what man had once thought it to be.</em><br/><sub>Joseph Franklin Rutherford</sub></p>
+<p><em>Science is a cemetery of dead ideas.</em><br/><sub>Miguel de Unamuno</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
