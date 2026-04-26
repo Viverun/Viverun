@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Man has to awaken to wonder - and so perhaps do peoples. Science is a way of sending him to sleep again.</em><br/><sub>Ludwig Wittgenstein</sub></p>
+<p><em>The development of the telescope, together with increased knowledge of things, brought men to see that the earth is not what man had once thought it to be.</em><br/><sub>Joseph Franklin Rutherford</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
