@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We were making the first step out of the age of chemistry and physics, and into the age of biology.</em><br/><sub>Jeremy Rifkin</sub></p>
+<p><em>Almost everything that distinguishes the modern world from earlier centuries is attributable to science, which achieved its most spectacular triumphs in the seventeenth century.</em><br/><sub>Bertrand Russell</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
