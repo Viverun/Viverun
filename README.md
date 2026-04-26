@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Courage is sometimes frail as hope is frail: a fragile shoot between two stones that grows brave toward the sun though warmth and brightness fail, striving and faith the only strength it knows.</em><br/><sub>Frances Rodman</sub></p>
+<p><em>We were making the first step out of the age of chemistry and physics, and into the age of biology.</em><br/><sub>Jeremy Rifkin</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
