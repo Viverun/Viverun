@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I graduated from the University of Delaware with a double major in history and political science.</em><br/><sub>Joe Biden</sub></p>
+<p><em>Doing is a quantum leap from imagining.</em><br/><sub>Barbara Sher</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
