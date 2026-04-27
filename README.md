@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Logic is neither an art nor a science but a dodge.</em><br/><sub>Stendhal</sub></p>
+<p><em>Honest pioneer work in the field of science has always been, and will continue to be, life&#x27;s pilot. On all sides, life is surrounded by hostility. This puts us under an obligation.</em><br/><sub>Wilhelm Reich</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
