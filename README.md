@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The wealthy are always surrounded by hangers-on science and art are as well.</em><br/><sub>Anton Chekhov</sub></p>
+<p><em>Parenting is the most important job on the planet next to keeping Gary Busey off the nation&#x27;s highways.</em><br/><sub>Dennis Miller</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
