@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is nothing, but trained and organized common sense.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>Space or science fiction has become a dialect for our time.</em><br/><sub>Doris Lessing</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
