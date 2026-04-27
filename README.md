@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Much of today&#x27;s public anxiety about science is the apprehension that we may forever be overlooking the whole by an endless, obsessive preoccupation with the parts.</em><br/><sub>Lewis Thomas</sub></p>
+<p><em>Imagine a world in which every single person on the planet is given free access to the sum of all human knowledge. That&#x27;s what we&#x27;re doing.</em><br/><sub>Jimmy Wales</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
