@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>True science teaches, above all, to doubt and to be ignorant.</em><br/><sub>Miguel de Unamuno</sub></p>
+<p><em>The media need superheroes in science just as in every sphere of life, but there is really a continuous range of abilities with no clear dividing line.</em><br/><sub>Stephen Hawking</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
