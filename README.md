@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Space or science fiction has become a dialect for our time.</em><br/><sub>Doris Lessing</sub></p>
+<p><em>The wealthy are always surrounded by hangers-on science and art are as well.</em><br/><sub>Anton Chekhov</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
