@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Three things cannot be long hidden: the sun, the moon, and the truth.</em><br/><sub>Buddha</sub></p>
+<p><em>Science is nothing, but trained and organized common sense.</em><br/><sub>Thomas Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
