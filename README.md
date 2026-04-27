@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>A multitude of bees can tell the time of day, calculate the geometry of the sun&#x27;s position, argue about the best location for the next swarm. Bees do a lot of close observing of other bees maybe they know what follows stinging and do it anyway.</em><br/><sub>Lewis Thomas</sub></p>
+<p><em>Logic is neither an art nor a science but a dodge.</em><br/><sub>Stendhal</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
