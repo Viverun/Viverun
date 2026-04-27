@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Imagine a world in which every single person on the planet is given free access to the sum of all human knowledge. That&#x27;s what we&#x27;re doing.</em><br/><sub>Jimmy Wales</sub></p>
+<p><em>Neither the sun nor death can be looked at with a steady eye.</em><br/><sub>Francois de La Rochefoucauld</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
