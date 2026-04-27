@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>No delusion is greater than the notion that method and industry can make up for lack of mother-wit, either in science or in practical life.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>A multitude of bees can tell the time of day, calculate the geometry of the sun&#x27;s position, argue about the best location for the next swarm. Bees do a lot of close observing of other bees maybe they know what follows stinging and do it anyway.</em><br/><sub>Lewis Thomas</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
