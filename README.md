@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Neither the sun nor death can be looked at with a steady eye.</em><br/><sub>Francois de La Rochefoucauld</sub></p>
+<p><em>True science teaches, above all, to doubt and to be ignorant.</em><br/><sub>Miguel de Unamuno</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
