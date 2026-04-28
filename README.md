@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>That&#x27;s the whole problem with science. You&#x27;ve got a bunch of empiricists trying to describe things of unimaginable wonder.</em><br/><sub>Bill Watterson</sub></p>
+<p><em>The founder of the Mona Foundation actually knew my dad for years, and the more I learned about it, the more I realized I really found the perfect charity. It sponsors schools and educational initiatives all over the planet.</em><br/><sub>Rainn Wilson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
