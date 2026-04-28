@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Think how hard physics would be if particles could think.</em><br/><sub>Murray Gell-Mann</sub></p>
+<p><em>That&#x27;s the whole problem with science. You&#x27;ve got a bunch of empiricists trying to describe things of unimaginable wonder.</em><br/><sub>Bill Watterson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
