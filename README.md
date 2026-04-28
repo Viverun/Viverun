@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science reckons many prophets, but there is not even a promise of a Messiah.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>I started out writing much more science fictiony stuff and writing about science fiction.</em><br/><sub>Neil Gaiman</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
