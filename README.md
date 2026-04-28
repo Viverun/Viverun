@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The beliefs I was raised with - to respect animals and to be aware of nature, to understand that we share this planet with other creatures - have had a huge impact on me.</em><br/><sub>Stella McCartney</sub></p>
+<p><em>There are so many different people that I&#x27;ve emulated vocally. In the rock world - Sebastian Bach, Vince Neil, Freddie Mercury, Robert Plant. They all had amazing vocal talent.</em><br/><sub>Fergie</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
