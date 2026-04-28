@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The founder of the Mona Foundation actually knew my dad for years, and the more I learned about it, the more I realized I really found the perfect charity. It sponsors schools and educational initiatives all over the planet.</em><br/><sub>Rainn Wilson</sub></p>
+<p><em>Science is a wonderful thing if one does not have to earn one&#x27;s living at it.</em><br/><sub>Albert Einstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
