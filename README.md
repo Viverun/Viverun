@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science fiction, outside of poetry, is the only literary field which has no limits, no parameters whatsoever.</em><br/><sub>Theodore Sturgeon</sub></p>
+<p><em>I like physics. I think it is the best science out of all three of them, because generally it&#x27;s more useful. You learn about speed and velocity and time, and that&#x27;s all clever stuff.</em><br/><sub>Tom Felton</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
