@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There are so many different people that I&#x27;ve emulated vocally. In the rock world - Sebastian Bach, Vince Neil, Freddie Mercury, Robert Plant. They all had amazing vocal talent.</em><br/><sub>Fergie</sub></p>
+<p><em>Science fiction, outside of poetry, is the only literary field which has no limits, no parameters whatsoever.</em><br/><sub>Theodore Sturgeon</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
