@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Parenting is the most important job on the planet next to keeping Gary Busey off the nation&#x27;s highways.</em><br/><sub>Dennis Miller</sub></p>
+<p><em>Science reckons many prophets, but there is not even a promise of a Messiah.</em><br/><sub>Thomas Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
