@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is a wonderful thing if one does not have to earn one&#x27;s living at it.</em><br/><sub>Albert Einstein</sub></p>
+<p><em>The beliefs I was raised with - to respect animals and to be aware of nature, to understand that we share this planet with other creatures - have had a huge impact on me.</em><br/><sub>Stella McCartney</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
