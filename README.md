@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Unlike scientism, science in the true sense of the word is open to unbiased investigation of any existing phenomena.</em><br/><sub>Stanislav Grof</sub></p>
+<p><em>Science has fulfilled her function when she has ascertained and enunciated truth.</em><br/><sub>Thomas Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
