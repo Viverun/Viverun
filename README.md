@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I started out writing much more science fictiony stuff and writing about science fiction.</em><br/><sub>Neil Gaiman</sub></p>
+<p><em>Think how hard physics would be if particles could think.</em><br/><sub>Murray Gell-Mann</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
