@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I like physics. I think it is the best science out of all three of them, because generally it&#x27;s more useful. You learn about speed and velocity and time, and that&#x27;s all clever stuff.</em><br/><sub>Tom Felton</sub></p>
+<p><em>Unlike scientism, science in the true sense of the word is open to unbiased investigation of any existing phenomena.</em><br/><sub>Stanislav Grof</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
