@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science has fulfilled her function when she has ascertained and enunciated truth.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>The growth of technology is such that it is not possible today for a nuclear physicist to switch into medical physics without training. The field is now much more technical. More training is needed to do the job.</em><br/><sub>John Cameron</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
