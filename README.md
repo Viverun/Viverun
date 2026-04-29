@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Vast is the field of Science. The more a man knows, the more he will find he has to know.</em><br/><sub>Samuel Richardson</sub></p>
+<p><em>Poetry should surprise by a fine excess and not by singularity, it should strike the reader as a wording of his own highest thoughts, and appear almost a remembrance.</em><br/><sub>John Keats</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
