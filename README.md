@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The media thinks that you have to make science sexy and concentrate on themes such as rivalry and the human issues.</em><br/><sub>James Dyson</sub></p>
+<p><em>Vanity of science. Knowledge of physical science will not console me for ignorance of morality in time of affliction, but knowledge of morality will always console me for ignorance of physical science.</em><br/><sub>Blaise Pascal</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
