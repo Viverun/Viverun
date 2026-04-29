@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The growth of technology is such that it is not possible today for a nuclear physicist to switch into medical physics without training. The field is now much more technical. More training is needed to do the job.</em><br/><sub>John Cameron</sub></p>
+<p><em>The media thinks that you have to make science sexy and concentrate on themes such as rivalry and the human issues.</em><br/><sub>James Dyson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
