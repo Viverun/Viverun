@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>My mother was the sweetest lady who ever lived on this planet, but if you tried to tell her that Jesus wasn&#x27;t a Christian, she would stomp you to death.</em><br/><sub>Dick Gregory</sub></p>
+<p><em>We want to answer this classical question, who am I? So I think that most of our works are for art, or whatever we do, including science or religion, tried to answer that question.</em><br/><sub>Paulo Coelho</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
