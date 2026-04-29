@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Medicine is a science of uncertainty and an art of probability.</em><br/><sub>William Osler</sub></p>
+<p><em>My mother was the sweetest lady who ever lived on this planet, but if you tried to tell her that Jesus wasn&#x27;t a Christian, she would stomp you to death.</em><br/><sub>Dick Gregory</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
