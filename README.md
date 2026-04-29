@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Vanity of science. Knowledge of physical science will not console me for ignorance of morality in time of affliction, but knowledge of morality will always console me for ignorance of physical science.</em><br/><sub>Blaise Pascal</sub></p>
+<p><em>There is a single light of science, and to brighten it anywhere is to brighten it everywhere.</em><br/><sub>Isaac Asimov</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
