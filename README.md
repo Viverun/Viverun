@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The best thing about science is that hard, empirical answers are always there if you look hard enough. The best thing about religion is that the very absence of that certainty is what requires - and gives rise to - deep feelings of faith.</em><br/><sub>Jeffrey Kluger</sub></p>
+<p><em>Science is the knowledge of consequences, and dependence of one fact upon another.</em><br/><sub>Thomas Hobbes</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
