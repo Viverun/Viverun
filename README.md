@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There is a single light of science, and to brighten it anywhere is to brighten it everywhere.</em><br/><sub>Isaac Asimov</sub></p>
+<p><em>I really hope that we&#x27;ll have a sustainable future on this planet, I really do. So I probably geek out mostly about learning more about how potentially we can hopefully make that happen, hopefully we&#x27;re not too far lost.</em><br/><sub>Ellen Page</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
