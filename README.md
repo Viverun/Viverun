@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I really hope that we&#x27;ll have a sustainable future on this planet, I really do. So I probably geek out mostly about learning more about how potentially we can hopefully make that happen, hopefully we&#x27;re not too far lost.</em><br/><sub>Ellen Page</sub></p>
+<p><em>The best thing about science is that hard, empirical answers are always there if you look hard enough. The best thing about religion is that the very absence of that certainty is what requires - and gives rise to - deep feelings of faith.</em><br/><sub>Jeffrey Kluger</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
