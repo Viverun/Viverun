@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is the knowledge of consequences, and dependence of one fact upon another.</em><br/><sub>Thomas Hobbes</sub></p>
+<p><em>Vast is the field of Science. The more a man knows, the more he will find he has to know.</em><br/><sub>Samuel Richardson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
