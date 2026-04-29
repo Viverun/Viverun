@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Poetry should surprise by a fine excess and not by singularity, it should strike the reader as a wording of his own highest thoughts, and appear almost a remembrance.</em><br/><sub>John Keats</sub></p>
+<p><em>Medicine is a science of uncertainty and an art of probability.</em><br/><sub>William Osler</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
