@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Language, philosophy, and science are interwoven into the design of words, which are manipulated to create surprising illusions.</em><br/><sub>John Langdon</sub></p>
+<p><em>I very much enjoyed my career in science. I didn&#x27;t leave science because I was disillusioned, but felt I&#x27;d done my bit for it after about twenty-five years.</em><br/><sub>John Polkinghorne</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
