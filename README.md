@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>From now on we live in a world where man has walked on the Moon. It&#x27;s not a miracle we just decided to go.</em><br/><sub>Tom Hanks</sub></p>
+<p><em>Language, philosophy, and science are interwoven into the design of words, which are manipulated to create surprising illusions.</em><br/><sub>John Langdon</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
