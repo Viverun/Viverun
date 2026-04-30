@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Strictly speaking, the idea of a scientific poem is probably as nonsensical as that of a poetic science.</em><br/><sub>Karl Wilhelm Friedrich Schlegel</sub></p>
+<p><em>From now on we live in a world where man has walked on the Moon. It&#x27;s not a miracle we just decided to go.</em><br/><sub>Tom Hanks</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
