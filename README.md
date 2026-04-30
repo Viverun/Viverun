@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It seems to me that socialists today can preserve their position in academic economics merely by the pretense that the differences are entirely moral questions about which science cannot decide.</em><br/><sub>Friedrich August von Hayek</sub></p>
+<p><em>Science never solves a problem without creating ten more.</em><br/><sub>George Bernard Shaw</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
