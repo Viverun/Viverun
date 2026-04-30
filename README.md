@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I have seen the science I worshiped, and the aircraft I loved, destroying the civilization I expected them to serve.</em><br/><sub>Charles Lindbergh</sub></p>
+<p><em>If you live in a ghetto and really want not to just change your life and your family&#x27;s life but change your ghetto&#x27;s life, make your ghetto a good neighbourhood, learn science try to be like Mark Zuckerberg, Bill Gates and Steve Jobs.</em><br/><sub>will.i.am</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
