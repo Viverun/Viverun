@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science fiction is an amazing literature: plot elements that you would think would be completely worn out by now keep changing into surprising new forms.</em><br/><sub>Connie Willis</sub></p>
+<p><em>If civilization is to survive, we must cultivate the science of human relationships - the ability of all peoples, of all kinds, to live together, in the same world at peace.</em><br/><sub>Franklin D. Roosevelt</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
