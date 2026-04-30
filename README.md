@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It is a miracle that curiosity survives formal education.</em><br/><sub>Albert Einstein</sub></p>
+<p><em>The major obstacle to a religious renewal is the intellectual classes, who are highly influential and tend to view religion as primitive superstition. They believe that science has left atheism as the only respectable intellectual stance.</em><br/><sub>Robert Bork</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
