@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We want to answer this classical question, who am I? So I think that most of our works are for art, or whatever we do, including science or religion, tried to answer that question.</em><br/><sub>Paulo Coelho</sub></p>
+<p><em>It is a miracle that curiosity survives formal education.</em><br/><sub>Albert Einstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
