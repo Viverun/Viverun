@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The major obstacle to a religious renewal is the intellectual classes, who are highly influential and tend to view religion as primitive superstition. They believe that science has left atheism as the only respectable intellectual stance.</em><br/><sub>Robert Bork</sub></p>
+<p><em>I have seen the science I worshiped, and the aircraft I loved, destroying the civilization I expected them to serve.</em><br/><sub>Charles Lindbergh</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
