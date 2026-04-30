@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science never solves a problem without creating ten more.</em><br/><sub>George Bernard Shaw</sub></p>
+<p><em>Strictly speaking, the idea of a scientific poem is probably as nonsensical as that of a poetic science.</em><br/><sub>Karl Wilhelm Friedrich Schlegel</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
