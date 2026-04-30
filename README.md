@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If civilization is to survive, we must cultivate the science of human relationships - the ability of all peoples, of all kinds, to live together, in the same world at peace.</em><br/><sub>Franklin D. Roosevelt</sub></p>
+<p><em>It seems to me that socialists today can preserve their position in academic economics merely by the pretense that the differences are entirely moral questions about which science cannot decide.</em><br/><sub>Friedrich August von Hayek</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
