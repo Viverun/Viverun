@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>What we must understand is that the industries, processes, and inventions created by modern science can be used either to subjugate or liberate. The choice is up to us.</em><br/><sub>Henry A. Wallace</sub></p>
+<p><em>Art is science made clear.</em><br/><sub>Wilson Mizner</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
