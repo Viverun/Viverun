@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I very much enjoyed my career in science. I didn&#x27;t leave science because I was disillusioned, but felt I&#x27;d done my bit for it after about twenty-five years.</em><br/><sub>John Polkinghorne</sub></p>
+<p><em>I&#x27;ll confess right here that I secretly wish I&#x27;d have drawn a strip about a little boy with a fake tiger, going for adventures throughout the universe in spaceships of his imagination.</em><br/><sub>Berkeley Breathed</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
