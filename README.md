@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The accumulation of skill and science which has been directed to diminish the difficulty of producing manufactured goods, has not been beneficial to that country alone in which it is concentrated distant kingdoms have participated in its advantages.</em><br/><sub>Charles Babbage</sub></p>
+<p><em>Honest pioneer work in the field of science has always been, and will continue to be, life&#x27;s pilot. On all sides, life is surrounded by hostility. This puts us under an obligation.</em><br/><sub>Wilhelm Reich</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
