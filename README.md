@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The historical development of the work of anthropologists seems to single out clearly a domain of knowledge that heretofore has not been treated by any other science.</em><br/><sub>Franz Boas</sub></p>
+<p><em>Most of the fundamental ideas of science are essentially simple, and may, as a rule, be expressed in a language comprehensible to everyone.</em><br/><sub>Albert Einstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
