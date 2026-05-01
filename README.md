@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Our science has become terrible, our research dangerous, our findings deadly. We physicists have to make peace with reality. Reality is not as strong as we are. We will ruin reality.</em><br/><sub>Friedrich Durrenmatt</sub></p>
+<p><em>The accumulation of skill and science which has been directed to diminish the difficulty of producing manufactured goods, has not been beneficial to that country alone in which it is concentrated distant kingdoms have participated in its advantages.</em><br/><sub>Charles Babbage</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
