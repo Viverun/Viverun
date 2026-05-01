@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I&#x27;ll confess right here that I secretly wish I&#x27;d have drawn a strip about a little boy with a fake tiger, going for adventures throughout the universe in spaceships of his imagination.</em><br/><sub>Berkeley Breathed</sub></p>
+<p><em>I want to be the Cecil B. DeMille of science fiction.</em><br/><sub>Steven Spielberg</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
