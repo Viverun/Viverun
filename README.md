@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Language, philosophy, and science are interwoven into the design of words, which are manipulated to create surprising illusions.</em><br/><sub>John Langdon</sub></p>
+<p><em>Each of us have things and thoughts and descriptions of an amazing universe in our possession that kings in the 17th Century would have gone to war to possess.</em><br/><sub>Kary Mullis</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
