@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In both religion and science, some people are dishonest, exploitative, incompetent and exhibit other human failings.</em><br/><sub>Rupert Sheldrake</sub></p>
+<p><em>You cannot, in human experience, rush into the light. You have to go through the twilight into the broadening day before the noon comes and the full sun is upon the landscape.</em><br/><sub>Woodrow Wilson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
