@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Honest pioneer work in the field of science has always been, and will continue to be, life&#x27;s pilot. On all sides, life is surrounded by hostility. This puts us under an obligation.</em><br/><sub>Wilhelm Reich</sub></p>
+<p><em>Language, philosophy, and science are interwoven into the design of words, which are manipulated to create surprising illusions.</em><br/><sub>John Langdon</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
