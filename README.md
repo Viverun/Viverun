@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I want to be the Cecil B. DeMille of science fiction.</em><br/><sub>Steven Spielberg</sub></p>
+<p><em>In both religion and science, some people are dishonest, exploitative, incompetent and exhibit other human failings.</em><br/><sub>Rupert Sheldrake</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
