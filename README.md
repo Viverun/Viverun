@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Art is science made clear.</em><br/><sub>Wilson Mizner</sub></p>
+<p><em>Our science has become terrible, our research dangerous, our findings deadly. We physicists have to make peace with reality. Reality is not as strong as we are. We will ruin reality.</em><br/><sub>Friedrich Durrenmatt</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
