@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>You cannot, in human experience, rush into the light. You have to go through the twilight into the broadening day before the noon comes and the full sun is upon the landscape.</em><br/><sub>Woodrow Wilson</sub></p>
+<p><em>What we must understand is that the industries, processes, and inventions created by modern science can be used either to subjugate or liberate. The choice is up to us.</em><br/><sub>Henry A. Wallace</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
