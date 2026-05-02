@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The nineteenth century believed in science but the twentieth century does not.</em><br/><sub>Gertrude Stein</sub></p>
+<p><em>Children rarely want to know who their parents were before they were parents, and when age finally stirs their curiosity, there is no parent left to tell them.</em><br/><sub>Russell Baker</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
