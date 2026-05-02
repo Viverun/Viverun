@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Life must be lived and curiosity kept alive. One must never, for whatever reason, turn his back on life.</em><br/><sub>Eleanor Roosevelt</sub></p>
+<p><em>I think the crux of the matter was that if we were going to become partners in, for example, the International Space Station, we had to gain the respect of a country like the United States and particularly its space organization, NASA.</em><br/><sub>Marc Garneau</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
