@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Imagination is the key to my lyrics. The rest is painted with a little science fiction.</em><br/><sub>Jimi Hendrix</sub></p>
+<p><em>My Alma mater was books, a good library... I could spend the rest of my life reading, just satisfying my curiosity.</em><br/><sub>Malcolm X</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
