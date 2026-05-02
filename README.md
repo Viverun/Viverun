@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We know from science that nothing in the universe exists as an isolated or independent entity.</em><br/><sub>Margaret Wheatley</sub></p>
+<p><em>Science may never come up with a better office communication system than the coffee break.</em><br/><sub>Earl Wilson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
