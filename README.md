@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I was the Chair of the first department of medical physics in a medical school in the U.S.</em><br/><sub>John Cameron</sub></p>
+<p><em>Because our entire universe is made up of consciousness, we never really experience the universe directly we just experience our consciousness of the universe, our perception of it, so right, our only universe is perception.</em><br/><sub>Alan Moore</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
