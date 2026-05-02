@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It&#x27;s the opinion of some that crops could be grown on the moon which raises the fear that it may not be long before we&#x27;re paying somebody not to.</em><br/><sub>Franklin P. Jones</sub></p>
+<p><em>Imagination is the key to my lyrics. The rest is painted with a little science fiction.</em><br/><sub>Jimi Hendrix</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
