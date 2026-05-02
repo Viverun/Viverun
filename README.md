@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I&#x27;ve got a full plate, yes I do. That iPod, that&#x27;s nice. A phone recorder? Nicely done. All right I&#x27;m a bit of a tech geek. I have a subscription to Popular Science and I keep up on all this stuff.</em><br/><sub>Nathan Fillion</sub></p>
+<p><em>The foundation of empire is art and science. Remove them or degrade them, and the empire is no more. Empire follows art and not vice versa as Englishmen suppose.</em><br/><sub>William Blake</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
