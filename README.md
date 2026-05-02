@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science may never come up with a better office communication system than the coffee break.</em><br/><sub>Earl Wilson</sub></p>
+<p><em>The nineteenth century believed in science but the twentieth century does not.</em><br/><sub>Gertrude Stein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
