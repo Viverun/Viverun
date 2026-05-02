@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>That which today calls itself science gives us more and more information, and indigestible glut of information, and less and less understanding.</em><br/><sub>Edward Abbey</sub></p>
+<p><em>Man has to awaken to wonder - and so perhaps do peoples. Science is a way of sending him to sleep again.</em><br/><sub>Ludwig Wittgenstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
