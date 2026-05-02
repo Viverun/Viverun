@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Children rarely want to know who their parents were before they were parents, and when age finally stirs their curiosity, there is no parent left to tell them.</em><br/><sub>Russell Baker</sub></p>
+<p><em>Equipped with his five senses, man explores the universe around him and calls the adventure Science.</em><br/><sub>Edwin Hubble</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
