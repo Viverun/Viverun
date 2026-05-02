@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I think the crux of the matter was that if we were going to become partners in, for example, the International Space Station, we had to gain the respect of a country like the United States and particularly its space organization, NASA.</em><br/><sub>Marc Garneau</sub></p>
+<p><em>That which today calls itself science gives us more and more information, and indigestible glut of information, and less and less understanding.</em><br/><sub>Edward Abbey</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
