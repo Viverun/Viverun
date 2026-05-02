@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>My Alma mater was books, a good library... I could spend the rest of my life reading, just satisfying my curiosity.</em><br/><sub>Malcolm X</sub></p>
+<p><em>We know from science that nothing in the universe exists as an isolated or independent entity.</em><br/><sub>Margaret Wheatley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
