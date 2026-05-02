@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Because our entire universe is made up of consciousness, we never really experience the universe directly we just experience our consciousness of the universe, our perception of it, so right, our only universe is perception.</em><br/><sub>Alan Moore</sub></p>
+<p><em>Life must be lived and curiosity kept alive. One must never, for whatever reason, turn his back on life.</em><br/><sub>Eleanor Roosevelt</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
