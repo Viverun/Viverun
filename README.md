@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Man has to awaken to wonder - and so perhaps do peoples. Science is a way of sending him to sleep again.</em><br/><sub>Ludwig Wittgenstein</sub></p>
+<p><em>It will free man from the remaining chains, the chains of gravity which still tie him to this planet.</em><br/><sub>Wernher von Braun</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
