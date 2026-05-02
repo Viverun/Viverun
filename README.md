@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Most of the fundamental ideas of science are essentially simple, and may, as a rule, be expressed in a language comprehensible to everyone.</em><br/><sub>Albert Einstein</sub></p>
+<p><em>It&#x27;s the opinion of some that crops could be grown on the moon which raises the fear that it may not be long before we&#x27;re paying somebody not to.</em><br/><sub>Franklin P. Jones</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
