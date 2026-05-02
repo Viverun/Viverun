@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The most beautiful thing we can experience is the mysterious. It is the source of all true art and science.</em><br/><sub>Albert Einstein</sub></p>
+<p><em>I&#x27;ve got a full plate, yes I do. That iPod, that&#x27;s nice. A phone recorder? Nicely done. All right I&#x27;m a bit of a tech geek. I have a subscription to Popular Science and I keep up on all this stuff.</em><br/><sub>Nathan Fillion</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
