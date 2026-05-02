@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Equipped with his five senses, man explores the universe around him and calls the adventure Science.</em><br/><sub>Edwin Hubble</sub></p>
+<p><em>The most beautiful thing we can experience is the mysterious. It is the source of all true art and science.</em><br/><sub>Albert Einstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
