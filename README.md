@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The foundation of empire is art and science. Remove them or degrade them, and the empire is no more. Empire follows art and not vice versa as Englishmen suppose.</em><br/><sub>William Blake</sub></p>
+<p><em>I was the Chair of the first department of medical physics in a medical school in the U.S.</em><br/><sub>John Cameron</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
