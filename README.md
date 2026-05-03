@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Loss and possession, death and life are one, There falls no shadow where there shines no sun.</em><br/><sub>Hilaire Belloc</sub></p>
+<p><em>Science cannot tell theology how to construct a doctrine of creation, but you can&#x27;t construct a doctrine of creation without taking account of the age of the universe and the evolutionary character of cosmic history.</em><br/><sub>John Polkinghorne</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
