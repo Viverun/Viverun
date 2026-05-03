@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Failure after long perseverance is much grander than never to have a striving good enough to be called a failure.</em><br/><sub>George Eliot</sub></p>
+<p><em>Loss and possession, death and life are one, There falls no shadow where there shines no sun.</em><br/><sub>Hilaire Belloc</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
