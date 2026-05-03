@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The facts of science are real enough, and so are the techniques that scientists use, and so are the technologies based on them. But the belief system that governs conventional scientific thinking is an act of faith.</em><br/><sub>Rupert Sheldrake</sub></p>
+<p><em>Nobody under the sun was like Madonna. She was positive and clear and wholly dedicated to achieving everything that she&#x27;s achieved.</em><br/><sub>Nile Rodgers</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
