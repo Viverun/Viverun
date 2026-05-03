@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It&#x27;s the opinion of some that crops could be grown on the moon which raises the fear that it may not be long before we&#x27;re paying somebody not to.</em><br/><sub>Franklin P. Jones</sub></p>
+<p><em>More and more NFL players have been willing their bodies to science so that their brains can be studied even if they die of other causes.</em><br/><sub>Jeffrey Kluger</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
