@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>In science, as in art, and, as I believe, in every other sphere of human activity, there may be wisdom in a multitude of counsellors, but it is only in one or two of them.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>So the old Copenhagen interpretation needs to be generalized, needs to be replaced by something that can be used for the whole universe, and can be used also in cases where there is plenty of individuality and history.</em><br/><sub>Murray Gell-Mann</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
