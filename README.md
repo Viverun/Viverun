@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It will free man from the remaining chains, the chains of gravity which still tie him to this planet.</em><br/><sub>Wernher von Braun</sub></p>
+<p><em>It stands to the everlasting credit of science that by acting on the human mind it has overcome man&#x27;s insecurity before himself and before nature.</em><br/><sub>Albert Einstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
