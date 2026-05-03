@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>More and more NFL players have been willing their bodies to science so that their brains can be studied even if they die of other causes.</em><br/><sub>Jeffrey Kluger</sub></p>
+<p><em>Not to discriminate every moment some passionate attitude in those about us, and in the very brilliancy of their gifts some tragic dividing on their ways, is, on this short day of frost and sun, to sleep before evening.</em><br/><sub>Walter Pater</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
