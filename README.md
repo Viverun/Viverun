@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Curiosity will conquer fear even more than bravery will.</em><br/><sub>James Stephens</sub></p>
+<p><em>The facts of science are real enough, and so are the techniques that scientists use, and so are the technologies based on them. But the belief system that governs conventional scientific thinking is an act of faith.</em><br/><sub>Rupert Sheldrake</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
