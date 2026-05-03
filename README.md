@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It stands to the everlasting credit of science that by acting on the human mind it has overcome man&#x27;s insecurity before himself and before nature.</em><br/><sub>Albert Einstein</sub></p>
+<p><em>In science, as in art, and, as I believe, in every other sphere of human activity, there may be wisdom in a multitude of counsellors, but it is only in one or two of them.</em><br/><sub>Thomas Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
