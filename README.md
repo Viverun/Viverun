@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The proper study of mankind is the science of design.</em><br/><sub>Herbert Simon</sub></p>
+<p><em>One could write a history of science in reverse by assembling the solemn pronouncements of highest authority about what could not be done and could never happen.</em><br/><sub>Robert A. Heinlein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
