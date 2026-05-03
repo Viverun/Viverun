@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Not to discriminate every moment some passionate attitude in those about us, and in the very brilliancy of their gifts some tragic dividing on their ways, is, on this short day of frost and sun, to sleep before evening.</em><br/><sub>Walter Pater</sub></p>
+<p><em>Plunderous is the palate I gift to you, openly I hug the universe of our friendship expanding its outer limit.</em><br/><sub>Bradley Chicho</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
