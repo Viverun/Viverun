@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Odd how the creative power at once brings the whole universe to order.</em><br/><sub>Virginia Woolf</sub></p>
+<p><em>I had no books at home. I started to frequent a public library in Lisbon. It was there, with no help except curiosity and the will to learn, that my taste for reading developed and was refined.</em><br/><sub>Jose Saramago</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
