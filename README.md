@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Plunderous is the palate I gift to you, openly I hug the universe of our friendship expanding its outer limit.</em><br/><sub>Bradley Chicho</sub></p>
+<p><em>Odd how the creative power at once brings the whole universe to order.</em><br/><sub>Virginia Woolf</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
