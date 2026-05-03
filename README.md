@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>One could write a history of science in reverse by assembling the solemn pronouncements of highest authority about what could not be done and could never happen.</em><br/><sub>Robert A. Heinlein</sub></p>
+<p><em>Failure after long perseverance is much grander than never to have a striving good enough to be called a failure.</em><br/><sub>George Eliot</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
