@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>So the old Copenhagen interpretation needs to be generalized, needs to be replaced by something that can be used for the whole universe, and can be used also in cases where there is plenty of individuality and history.</em><br/><sub>Murray Gell-Mann</sub></p>
+<p><em>Curiosity will conquer fear even more than bravery will.</em><br/><sub>James Stephens</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
