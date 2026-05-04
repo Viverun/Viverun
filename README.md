@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.</em><br/><sub>Edward Ericson</sub></p>
+<p><em>The No Child Left Behind Program was an incentive to the schools to get their kids up to snuff on math and science and reading.</em><br/><sub>Sandra Day O&#x27;Connor</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
