@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I think the crux of the matter was that if we were going to become partners in, for example, the International Space Station, we had to gain the respect of a country like the United States and particularly its space organization, NASA.</em><br/><sub>Marc Garneau</sub></p>
+<p><em>Science is the great antidote to the poison of enthusiasm and superstition.</em><br/><sub>Adam Smith</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
