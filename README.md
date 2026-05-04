@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science has proof without any certainty. Creationists have certainty without any proof.</em><br/><sub>Ashley Montagu</sub></p>
+<p><em>Inspiration in Science may have to do with ideas, but not in Art. In art it is in the senses that are instinctively responsive to the medium of expression.</em><br/><sub>Arthur Erickson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
