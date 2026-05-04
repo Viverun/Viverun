@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I get up at an unholy hour in the morning my work day is completed by the time the sun rises. I have a slightly bad back which has made an enormous contribution to American literature.</em><br/><sub>David Eddings</sub></p>
+<p><em>Public discourse has been polluted now for decades by corporate-funded disinformation - not just with climate change but with a host of health, environmental and societal threats. The implications for the planet are grim.</em><br/><sub>Michael E. Mann</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
