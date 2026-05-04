@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Inspiration in Science may have to do with ideas, but not in Art. In art it is in the senses that are instinctively responsive to the medium of expression.</em><br/><sub>Arthur Erickson</sub></p>
+<p><em>I think the crux of the matter was that if we were going to become partners in, for example, the International Space Station, we had to gain the respect of a country like the United States and particularly its space organization, NASA.</em><br/><sub>Marc Garneau</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
