@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Public discourse has been polluted now for decades by corporate-funded disinformation - not just with climate change but with a host of health, environmental and societal threats. The implications for the planet are grim.</em><br/><sub>Michael E. Mann</sub></p>
+<p><em>Intelligent life on a planet comes of age when it first works out the reason for its own existence.</em><br/><sub>Richard Dawkins</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
