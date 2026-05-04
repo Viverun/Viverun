@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The No Child Left Behind Program was an incentive to the schools to get their kids up to snuff on math and science and reading.</em><br/><sub>Sandra Day O&#x27;Connor</sub></p>
+<p><em>Science is a first-rate piece of furniture for a man&#x27;s upper chamber, if he has common sense on the ground floor.</em><br/><sub>Oliver Wendell Holmes</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
