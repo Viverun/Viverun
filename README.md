@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Intelligent life on a planet comes of age when it first works out the reason for its own existence.</em><br/><sub>Richard Dawkins</sub></p>
+<p><em>I received my undergraduate degree in engineering in 1939 and a Master of Science degree in mathematical physics in 1941 at Steven Institute of Technology.</em><br/><sub>Frederick Reines</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
