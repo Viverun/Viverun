@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is the great antidote to the poison of enthusiasm and superstition.</em><br/><sub>Adam Smith</sub></p>
+<p><em>Public discourse has been polluted now for decades by corporate-funded disinformation - not just with climate change but with a host of health, environmental and societal threats. The implications for the planet are grim.</em><br/><sub>Michael E. Mann</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
