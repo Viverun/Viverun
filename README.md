@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I received my undergraduate degree in engineering in 1939 and a Master of Science degree in mathematical physics in 1941 at Steven Institute of Technology.</em><br/><sub>Frederick Reines</sub></p>
+<p><em>The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.</em><br/><sub>Edward Ericson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
