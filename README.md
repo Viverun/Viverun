@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us.</em><br/><sub>Samuel Smiles</sub></p>
+<p><em>Plunderous is the palate I gift to you, openly I hug the universe of our friendship expanding its outer limit.</em><br/><sub>Bradley Chicho</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
