@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Much of the debate over global warming is predicated on fear, rather than science.</em><br/><sub>James Inhofe</sub></p>
+<p><em>Science without religion is lame, religion without science is blind.</em><br/><sub>Albert Einstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
