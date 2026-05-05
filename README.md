@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Art is science made clear.</em><br/><sub>Wilson Mizner</sub></p>
+<p><em>I graduated from the University of Delaware with a double major in history and political science.</em><br/><sub>Joe Biden</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
