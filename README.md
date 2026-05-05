@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Despite what anti-aging ads say, growing older can be better. I feel better in my skin, 100 percent. You have greater effects of gravity, but the better sense of yourself you have is something I wouldn&#x27;t trade. Women who lie about their age - &#x27;why?&#x27;</em><br/><sub>Demi Moore</sub></p>
+<p><em>The world is my country, science is my religion.</em><br/><sub>Christiaan Huygens</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
