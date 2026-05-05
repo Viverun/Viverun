@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>As far as I&#x27;m concerned, there&#x27;s no job more important on the planet than being a mom.</em><br/><sub>Mark Wahlberg</sub></p>
+<p><em>To correct a natural indifference I was placed half-way between misery and the sun. Misery kept me from believing that all was well under the sun, and the sun taught me that history wasn&#x27;t everything.</em><br/><sub>Albert Camus</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
