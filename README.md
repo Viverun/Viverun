@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>All good criticism should be judged the way art is. You shouldn&#x27;t read it the way you read history or science.</em><br/><sub>Leslie Fiedler</sub></p>
+<p><em>Despite what anti-aging ads say, growing older can be better. I feel better in my skin, 100 percent. You have greater effects of gravity, but the better sense of yourself you have is something I wouldn&#x27;t trade. Women who lie about their age - &#x27;why?&#x27;</em><br/><sub>Demi Moore</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
