@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science is a first-rate piece of furniture for a man&#x27;s upper chamber, if he has common sense on the ground floor.</em><br/><sub>Oliver Wendell Holmes</sub></p>
+<p><em>When you&#x27;re a houseguest and you leave, it&#x27;s nice to straighten something up or send your hosts a useful gift. And when you leave the planet, it&#x27;s nice to have made a positive contribution.</em><br/><sub>Alexander Payne</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
