@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The world is my country, science is my religion.</em><br/><sub>Christiaan Huygens</sub></p>
+<p><em>Much of the debate over global warming is predicated on fear, rather than science.</em><br/><sub>James Inhofe</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
