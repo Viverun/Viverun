@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>To correct a natural indifference I was placed half-way between misery and the sun. Misery kept me from believing that all was well under the sun, and the sun taught me that history wasn&#x27;t everything.</em><br/><sub>Albert Camus</sub></p>
+<p><em>Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us.</em><br/><sub>Samuel Smiles</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
