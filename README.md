@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science fiction writers, I am sorry to say, really do not know anything. We can&#x27;t talk about science, because our knowledge of it is limited and unofficial, and usually our fiction is dreadful.</em><br/><sub>Philip K. Dick</sub></p>
+<p><em>Art is science made clear.</em><br/><sub>Wilson Mizner</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
