@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I graduated from the University of Delaware with a double major in history and political science.</em><br/><sub>Joe Biden</sub></p>
+<p><em>As far as I&#x27;m concerned, there&#x27;s no job more important on the planet than being a mom.</em><br/><sub>Mark Wahlberg</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
