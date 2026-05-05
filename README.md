@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When you&#x27;re a houseguest and you leave, it&#x27;s nice to straighten something up or send your hosts a useful gift. And when you leave the planet, it&#x27;s nice to have made a positive contribution.</em><br/><sub>Alexander Payne</sub></p>
+<p><em>All good criticism should be judged the way art is. You shouldn&#x27;t read it the way you read history or science.</em><br/><sub>Leslie Fiedler</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
