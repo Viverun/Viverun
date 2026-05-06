@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If there was an observer on Mars, they would probably be amazed that we have survived this long.</em><br/><sub>Noam Chomsky</sub></p>
+<p><em>Nature engenders the science of painting.</em><br/><sub>Robert Delaunay</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
