@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Plunderous is the palate I gift to you, openly I hug the universe of our friendship expanding its outer limit.</em><br/><sub>Bradley Chicho</sub></p>
+<p><em>If there was an observer on Mars, they would probably be amazed that we have survived this long.</em><br/><sub>Noam Chomsky</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
