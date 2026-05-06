@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The mysteriousness and mystique of space is such, that science fiction attempts to tantalize you by telling you a story that could possibly be out there and that&#x27;s the appeal of science fiction.</em><br/><sub>William Shatner</sub></p>
+<p><em>Nature, I have constantly argued in my work, is the real superpower of this godless universe. It is the ultimate disposer of human fate, randomly recarving geography over 10,000-year epochs.</em><br/><sub>Camille Paglia</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
