@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Nature, I have constantly argued in my work, is the real superpower of this godless universe. It is the ultimate disposer of human fate, randomly recarving geography over 10,000-year epochs.</em><br/><sub>Camille Paglia</sub></p>
+<p><em>I&#x27;ve got a full plate, yes I do. That iPod, that&#x27;s nice. A phone recorder? Nicely done. All right I&#x27;m a bit of a tech geek. I have a subscription to Popular Science and I keep up on all this stuff.</em><br/><sub>Nathan Fillion</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
