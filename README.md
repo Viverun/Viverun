@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I&#x27;ve got a full plate, yes I do. That iPod, that&#x27;s nice. A phone recorder? Nicely done. All right I&#x27;m a bit of a tech geek. I have a subscription to Popular Science and I keep up on all this stuff.</em><br/><sub>Nathan Fillion</sub></p>
+<p><em>Let freedom reign. The sun never set on so glorious a human achievement.</em><br/><sub>Nelson Mandela</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
