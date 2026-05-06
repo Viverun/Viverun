@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>&#x27;Snow White&#x27; is an old fairy tale, so obviously the idea of vanity and obsession with youth is long-standing. With today&#x27;s science, people have become crazy with trying to move their face around. It&#x27;s bizarre.</em><br/><sub>Julia Roberts</sub></p>
+<p><em>I received my undergraduate degree in engineering in 1939 and a Master of Science degree in mathematical physics in 1941 at Steven Institute of Technology.</em><br/><sub>Frederick Reines</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
