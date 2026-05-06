@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We pray that every field of science may contribute in bringing happiness - not disaster - to human beings.</em><br/><sub>Kenichi Fukui</sub></p>
+<p><em>&#x27;Snow White&#x27; is an old fairy tale, so obviously the idea of vanity and obsession with youth is long-standing. With today&#x27;s science, people have become crazy with trying to move their face around. It&#x27;s bizarre.</em><br/><sub>Julia Roberts</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
