@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Let freedom reign. The sun never set on so glorious a human achievement.</em><br/><sub>Nelson Mandela</sub></p>
+<p><em>The greatest advances of civilization, whether in architecture or painting, in science and literature, in industry or agriculture, have never come from centralized government.</em><br/><sub>Milton Friedman</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
