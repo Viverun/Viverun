@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Nature engenders the science of painting.</em><br/><sub>Robert Delaunay</sub></p>
+<p><em>We pray that every field of science may contribute in bringing happiness - not disaster - to human beings.</em><br/><sub>Kenichi Fukui</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
