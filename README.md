@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I received my undergraduate degree in engineering in 1939 and a Master of Science degree in mathematical physics in 1941 at Steven Institute of Technology.</em><br/><sub>Frederick Reines</sub></p>
+<p><em>The sun, the moon and the stars would have disappeared long ago... had they happened to be within the reach of predatory human hands.</em><br/><sub>Havelock Ellis</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
