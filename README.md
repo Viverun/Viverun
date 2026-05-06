@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The sun, the moon and the stars would have disappeared long ago... had they happened to be within the reach of predatory human hands.</em><br/><sub>Havelock Ellis</sub></p>
+<p><em>The mysteriousness and mystique of space is such, that science fiction attempts to tantalize you by telling you a story that could possibly be out there and that&#x27;s the appeal of science fiction.</em><br/><sub>William Shatner</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
