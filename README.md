@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We must revisit the idea that science is a methodology and not an ontology.</em><br/><sub>Deepak Chopra</sub></p>
+<p><em>A body of work such as Pasteur&#x27;s is inconceivable in our time: no man would be given a chance to create a whole science. Nowadays a path is scarcely opened up when the crowd begins to pour in.</em><br/><sub>Jean Rostand</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
