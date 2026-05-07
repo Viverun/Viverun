@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When His Holiness won the Nobel Peace Prize, there was a quantum leap. He is not seen as solely a Tibetan anymore he belongs to the world.</em><br/><sub>Richard Gere</sub></p>
+<p><em>If there was an observer on Mars, they would probably be amazed that we have survived this long.</em><br/><sub>Noam Chomsky</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
