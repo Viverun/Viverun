@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>If there was an observer on Mars, they would probably be amazed that we have survived this long.</em><br/><sub>Noam Chomsky</sub></p>
+<p><em>Art is I science is we.</em><br/><sub>Claude Bernard</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
