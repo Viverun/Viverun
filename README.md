@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Of course in science there are things that are open to doubt and things need to be discussed. But among the things that science does know, evolution is about as certain as anything we know.</em><br/><sub>Richard Dawkins</sub></p>
+<p><em>Similarly, another famous little quantum fluctuation that programs you is the exact configuration of your DNA.</em><br/><sub>Seth Lloyd</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
