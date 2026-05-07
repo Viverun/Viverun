@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The materialistic paradigm of Western science has been a major obstacle for any objective evaluation of the data describing the events occurring at the time of death.</em><br/><sub>Stanislav Grof</sub></p>
+<p><em>Of course in science there are things that are open to doubt and things need to be discussed. But among the things that science does know, evolution is about as certain as anything we know.</em><br/><sub>Richard Dawkins</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
