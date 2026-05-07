@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>A body of work such as Pasteur&#x27;s is inconceivable in our time: no man would be given a chance to create a whole science. Nowadays a path is scarcely opened up when the crowd begins to pour in.</em><br/><sub>Jean Rostand</sub></p>
+<p><em>When His Holiness won the Nobel Peace Prize, there was a quantum leap. He is not seen as solely a Tibetan anymore he belongs to the world.</em><br/><sub>Richard Gere</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
