@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Similarly, another famous little quantum fluctuation that programs you is the exact configuration of your DNA.</em><br/><sub>Seth Lloyd</sub></p>
+<p><em>Now the main areas of higher education that still enjoy considerable financial support from government are subjects like engineering and science and the research ringfence which is the basic minimum to protect Britain&#x27;s scientific competitiveness.</em><br/><sub>Vince Cable</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
