@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>President Obama promised to begin to slow the rise of the oceans and heal the planet. My promise... is to help you and your family.</em><br/><sub>Mitt Romney</sub></p>
+<p><em>Many who have had an opportunity of knowing any more about mathematics confuse it with arithmetic, and consider it an arid science. In reality, however, it is a science which requires a great amount of imagination.</em><br/><sub>Sofia Kovalevskaya</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
