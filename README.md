@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Art is I science is we.</em><br/><sub>Claude Bernard</sub></p>
+<p><em>The materialistic paradigm of Western science has been a major obstacle for any objective evaluation of the data describing the events occurring at the time of death.</em><br/><sub>Stanislav Grof</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
