@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The experience of being in space didn&#x27;t change my perspective of myself or of the planet or of life. I had no spiritual experience.</em><br/><sub>Sally Ride</sub></p>
+<p><em>President Obama promised to begin to slow the rise of the oceans and heal the planet. My promise... is to help you and your family.</em><br/><sub>Mitt Romney</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
