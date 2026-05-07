@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The greatest advances of civilization, whether in architecture or painting, in science and literature, in industry or agriculture, have never come from centralized government.</em><br/><sub>Milton Friedman</sub></p>
+<p><em>The experience of being in space didn&#x27;t change my perspective of myself or of the planet or of life. I had no spiritual experience.</em><br/><sub>Sally Ride</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
