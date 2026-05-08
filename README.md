@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Think how hard physics would be if particles could think.</em><br/><sub>Murray Gell-Mann</sub></p>
+<p><em>The great tragedy of science - the slaying of a beautiful hypothesis by an ugly fact.</em><br/><sub>Thomas Huxley</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
