@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>It stands to the everlasting credit of science that by acting on the human mind it has overcome man&#x27;s insecurity before himself and before nature.</em><br/><sub>Albert Einstein</sub></p>
+<p><em>Life is a process. We are a process. The universe is a process.</em><br/><sub>Anne Schaef</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
