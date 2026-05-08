@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The conscious mind may be compared to a fountain playing in the sun and falling back into the great subterranean pool of subconscious from which it rises.</em><br/><sub>Sigmund Freud</sub></p>
+<p><em>We must conceive of this whole universe as one commonwealth of which both gods and men are members.</em><br/><sub>Marcus Tullius Cicero</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
