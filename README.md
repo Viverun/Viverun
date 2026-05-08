@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The monopoly of science in the realm of knowledge explains why evolutionary biologists do not find it meaningful to address the question whether the Darwinian theory is true.</em><br/><sub>Phillip E. Johnson</sub></p>
+<p><em>Think how hard physics would be if particles could think.</em><br/><sub>Murray Gell-Mann</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
