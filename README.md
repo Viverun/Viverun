@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The usual approach of science of constructing a mathematical model cannot answer the questions of why there should be a universe for the model to describe. Why does the universe go to all the bother of existing?</em><br/><sub>Stephen Hawking</sub></p>
+<p><em>The conscious mind may be compared to a fountain playing in the sun and falling back into the great subterranean pool of subconscious from which it rises.</em><br/><sub>Sigmund Freud</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
