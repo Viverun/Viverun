@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Life is a process. We are a process. The universe is a process.</em><br/><sub>Anne Schaef</sub></p>
+<p><em>There are in fact two things, science and opinion the former begets knowledge, the later ignorance.</em><br/><sub>Hippocrates</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
