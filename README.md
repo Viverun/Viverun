@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I don&#x27;t know anything about science.</em><br/><sub>Rachel Weisz</sub></p>
+<p><em>Doing is a quantum leap from imagining.</em><br/><sub>Barbara Sher</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
