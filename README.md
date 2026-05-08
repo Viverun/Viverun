@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>There are in fact two things, science and opinion the former begets knowledge, the later ignorance.</em><br/><sub>Hippocrates</sub></p>
+<p><em>I think, at a child&#x27;s birth, if a mother could ask a fairy godmother to endow it with the most useful gift, that gift should be curiosity.</em><br/><sub>Eleanor Roosevelt</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
