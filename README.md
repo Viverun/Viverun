@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>The great tragedy of science - the slaying of a beautiful hypothesis by an ugly fact.</em><br/><sub>Thomas Huxley</sub></p>
+<p><em>It stands to the everlasting credit of science that by acting on the human mind it has overcome man&#x27;s insecurity before himself and before nature.</em><br/><sub>Albert Einstein</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
