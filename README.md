@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>I think, at a child&#x27;s birth, if a mother could ask a fairy godmother to endow it with the most useful gift, that gift should be curiosity.</em><br/><sub>Eleanor Roosevelt</sub></p>
+<p><em>Science and art, or by the same token, poetry and prose differ from one another like a journey and an excursion. The purpose of the journey is its goal, the purpose of an excursion is the process.</em><br/><sub>Franz Grillparzer</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
