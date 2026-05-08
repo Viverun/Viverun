@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Now the main areas of higher education that still enjoy considerable financial support from government are subjects like engineering and science and the research ringfence which is the basic minimum to protect Britain&#x27;s scientific competitiveness.</em><br/><sub>Vince Cable</sub></p>
+<p><em>The monopoly of science in the realm of knowledge explains why evolutionary biologists do not find it meaningful to address the question whether the Darwinian theory is true.</em><br/><sub>Phillip E. Johnson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
