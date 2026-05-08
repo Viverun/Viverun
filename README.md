@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Science and art, or by the same token, poetry and prose differ from one another like a journey and an excursion. The purpose of the journey is its goal, the purpose of an excursion is the process.</em><br/><sub>Franz Grillparzer</sub></p>
+<p><em>I don&#x27;t know anything about science.</em><br/><sub>Rachel Weisz</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
