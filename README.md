@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Just as the science and art of agriculture depend upon chemistry and botany, so the art of education depends upon physiology and psychology.</em><br/><sub>Edward Thorndike</sub></p>
+<p><em>Everything is perfect in the universe — even your desire to improve it.</em><br/><sub>Wayne Dyer</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
