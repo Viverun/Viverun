@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Stay out of the sun, because it is the worst thing in terms of aging. I&#x27;m very medical. I come from a medical family.</em><br/><sub>Nicole Kidman</sub></p>
+<p><em>He who possesses art and science has religion he who does not possess them, needs religion.</em><br/><sub>Johann Wolfgang von Goethe</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
