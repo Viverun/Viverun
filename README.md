@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Perseverance is the hard work you do after you get tired of doing the hard work you already did.</em><br/><sub>Newt Gingrich</sub></p>
+<p><em>When science, art, literature, and philosophy are simply the manifestation of personality they are on a level where glorious and dazzling achievements are possible, which can make a man&#x27;s name live for thousands of years.</em><br/><sub>Denis Diderot</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
