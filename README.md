@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>He who possesses art and science has religion he who does not possess them, needs religion.</em><br/><sub>Johann Wolfgang von Goethe</sub></p>
+<p><em>Perseverance is the hard work you do after you get tired of doing the hard work you already did.</em><br/><sub>Newt Gingrich</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
