@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>When science, art, literature, and philosophy are simply the manifestation of personality they are on a level where glorious and dazzling achievements are possible, which can make a man&#x27;s name live for thousands of years.</em><br/><sub>Denis Diderot</sub></p>
+<p><em>Just as the science and art of agriculture depend upon chemistry and botany, so the art of education depends upon physiology and psychology.</em><br/><sub>Edward Thorndike</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
