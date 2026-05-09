@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Design and technology should be the subject where mathematical brainboxes and science whizzkids turn their bright ideas into useful products.</em><br/><sub>James Dyson</sub></p>
+<p><em>Political liberty, the peace of a nation, and science itself are gifts for which Fate demands a heavy tax in blood!</em><br/><sub>Honore de Balzac</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
