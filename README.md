@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>Political liberty, the peace of a nation, and science itself are gifts for which Fate demands a heavy tax in blood!</em><br/><sub>Honore de Balzac</sub></p>
+<p><em>Stay out of the sun, because it is the worst thing in terms of aging. I&#x27;m very medical. I come from a medical family.</em><br/><sub>Nicole Kidman</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
