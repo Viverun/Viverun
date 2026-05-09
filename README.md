@@ -13,7 +13,7 @@
 
 <!-- Dynamic Daily Quote -->
 <!-- START_QUOTE -->
-<p><em>We must conceive of this whole universe as one commonwealth of which both gods and men are members.</em><br/><sub>Marcus Tullius Cicero</sub></p>
+<p><em>Design and technology should be the subject where mathematical brainboxes and science whizzkids turn their bright ideas into useful products.</em><br/><sub>James Dyson</sub></p>
 <!-- END_QUOTE -->
 
 <br/>
